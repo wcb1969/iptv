@@ -1,0 +1,17 @@
+合肥新闻,https://hylive.hfbtv.com/lsdream/pdq062k/1000/live.m3u8
+合肥新闻,http://hls.dszbdq.cn/d/hfcatv.php?id=185
+合肥生活,https://hylive.hfbtv.com/lsdream/5osSo9R/1000/live.m3u8
+合肥生活,http://hls.dszbdq.cn/d/hfcatv.php?id=188
+合肥教育,https://hylive.hfbtv.com/lsdream/5EfK6HI/1000/live.m3u8
+合肥教育,http://hls.dszbdq.cn/d/hfcatv.php?id=189
+合肥财经,https://hylive.hfbtv.com/lsdream/FRTSshY/1000/live.m3u8
+合肥财经,http://hls.dszbdq.cn/d/hfcatv.php?id=190
+安徽影视,http://hls.dszbdq.cn/d/sss.php?id=ahys
+安徽经济,http://hls.dszbdq.cn/d/sss.php?id=ahjjsh
+安徽体育,http://hls.dszbdq.cn/d/sss.php?id=ahzyty
+安徽科教,http://hls.dszbdq.cn/d/sss.php?id=ahnykj
+安徽公共,http://hls.dszbdq.cn/d/sss.php?id=ahgg
+安徽国际,http://hls.dszbdq.cn/d/sss.php?id=ahgj
+安徽移动,http://hls.dszbdq.cn/d/sss.php?id=ahyd
+睛彩安徽,http://hls.dszbdq.cn/d/sss.php?id=jcah
+安徽导视,http://hls.dszbdq.cn/d/hfcatv.php?id=031
