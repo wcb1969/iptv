@@ -1,0 +1,15 @@
+扬州新闻,http://hls.dszbdq.cn/d/jsyz.php?id=235
+扬州城市,http://hls.dszbdq.cn/d/jsyz.php?id=291
+扬州生活,http://hls.dszbdq.cn/d/jsyz.php?id=236
+扬州邗江,http://hls.dszbdq.cn/d/jsyz.php?id=292
+仪征新闻,https://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzxwzh.m3u8
+仪征生活,https://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzshsh.m3u8
+宿豫综合,https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
+沭阳综合,https://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+泗阳综合,https://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
+泗阳资讯,https://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
+连云港新闻,https://live.lyg1.com/zhpd/sd/live.m3u8
+连云港公共,https://live.lyg1.com/ggpd/sd/live.m3u8
+赣榆,https://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
+灌云综合,http://hls.dszbdq.cn/d/ady.php?id=jslyggy1
+灌云影视,http://hls.dszbdq.cn/d/ady.php?id=jslyggy2
