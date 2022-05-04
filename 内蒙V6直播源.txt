@@ -1,0 +1,244 @@
+CCTV1 7M1080,http://[2409:8087:1070:301:2028::23]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/index.m3u8?fmt=ts2hls
+
+CCTV1 7M1080,http://[2409:8087:1070:301:2028::16]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226294/index.m3u8?fmt=ts2hls
+
+CCTV2 7M1080,http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225918/index.m3u8?fmt=ts2hls
+
+CCTV3 6M1080,http://[2409:8087:1070:301:2028::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225963/index.m3u8?fmt=ts2hls
+
+CCTV4 7M1080,http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225898/index.m3u8?fmt=ts2hls
+
+CCTV4欧洲 7M1080,http://[2409:8087:1020:301:2026::2b]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225969/index.m3u8?fmt=ts2hls
+
+CCTV4美洲 7M1080,http://[2409:8087:1050:301:2026::17]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225970/index.m3u8?fmt=ts2hls
+
+CCTV5 7M1080,http://[2409:8087:1070:301:2028::1c]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226290/index.m3u8?fmt=ts2hls
+
+CCTV5 8M1080,http://[2409:8087:1070:301:2028::1a]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225964/index.m3u8?fmt=ts2hls
+
+CCTV5+ 8M1080,http://[2409:8087:1070:301:2028::1a]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225663/index.m3u8?fmt=ts2hls
+
+CCTV6 8M1080,http://[2409:8087:1070:301:2028::14]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225965/index.m3u8?fmt=ts2hls
+
+CCTV7 7M1080,http://[2409:8087:1070:301:2028::1a]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225897/index.m3u8?fmt=ts2hls
+
+CCTV8 7M1080,http://[2409:8087:1070:301:2028::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225966/index.m3u8?fmt=ts2hls
+
+CCTV9 7M1080,http://[2409:8087:1070:301:2028::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225919/index.m3u8?fmt=ts2hls
+
+CCTV10 7M1080,http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225917/index.m3u8?fmt=ts2hls
+
+CCTV11 7M1080,http://[2409:8087:1070:301:2028::1a]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225867/index.m3u8?fmt=ts2hls
+
+CCTV12 7M1080,http://[2409:8087:1070:301:2028::14]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225915/index.m3u8?fmt=ts2hls
+
+CCTV13 7M1080,http://[2409:8087:1070:301:2028::2a]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225957/index.m3u8?fmt=ts2hls
+
+CCTV14 7M1080,http://[2409:8087:1070:301:2028::18]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225916/index.m3u8?fmt=ts2hls
+
+CCTV15 7M1080,http://[2409:8087:1070:301:2028::22]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225866/index.m3u8?fmt=ts2hls
+
+CCTV16 7M1080,http://[2409:8087:1070:301:2028::18]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226300/index.m3u8?fmt=ts2hls
+
+CCTV17 7M1080,http://[2409:8087:1070:301:2028::11]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225977/index.m3u8?fmt=ts2hls
+
+CGTN 7M1080,http://[2409:8087:1070:301:2028::12]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225971/index.m3u8?fmt=ts2hls
+
+CGTN 8M1080,http://[2409:8087:1020:301:2026::11]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225727/index.m3u8?fmt=ts2hls
+
+CGTN俄语 7M1080,http://[2409:8087:1070:301:2028::22]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225976/index.m3u8?fmt=ts2hls
+
+CGTN法语 7M1080,http://[2409:8087:1070:301:2028::11]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225974/index.m3u8?fmt=ts2hls
+
+CGTN纪录 7M1080,http://[2409:8087:1070:301:2028::22]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225972/index.m3u8?fmt=ts2hls
+
+CGTN纪录 8M1080,http://[2409:8087:1020:301:2026::2d]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225728/index.m3u8?fmt=ts2hls
+
+CGTN西语 7M1080,http://[2409:8087:1070:301:2028::11]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225973/index.m3u8?fmt=ts2hls
+
+CGTN阿语 7M1080,http://[2409:8087:1070:301:2028::22]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225975/index.m3u8?fmt=ts2hls
+
+中国教育1 7M1080,http://[2409:8087:1050:301:2026::18]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225860/index.m3u8?fmt=ts2hls
+
+IPTV5+ 7M1080,http://[2409:8087:1020:301:2026::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225762/index.m3u8?fmt=ts2hls
+
+内蒙古卫视 8M1080,http://[2409:8087:1070:301:2028::1c]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/index.m3u8?fmt=ts2hls
+
+东南卫视 7M1080,http://[2409:8087:1070:301:2026::25]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225914/index.m3u8?fmt=ts2hls
+
+东方卫视 7M1080,http://[2409:8087:1070:301:2026::25]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225908/index.m3u8?fmt=ts2hls
+
+北京卫视 7M1080,http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225913/index.m3u8?fmt=ts2hls
+
+吉林卫视 6M1080,http://[2409:8087:1070:301:2028::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225959/index.m3u8?fmt=ts2hls
+
+四川卫视 8M1080,http://[2409:8087:1020:301:2026::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225733/index.m3u8?fmt=ts2hls
+
+天津卫视 7M1080,http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225907/index.m3u8?fmt=ts2hls
+
+安徽卫视 7M1080,http://[2409:8087:1070:301:2026::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225901/index.m3u8?fmt=ts2hls
+
+山东卫视 7M1080,http://[2409:8087:1070:301:2026::11]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225904/index.m3u8?fmt=ts2hls
+
+广东卫视 7M1080,http://[2409:8087:1070:301:2026::1d]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225905/index.m3u8?fmt=ts2hls
+
+江苏卫视 7M1080,http://[2409:8087:1070:301:2028::18]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225909/index.m3u8?fmt=ts2hls
+
+江西卫视 8M1080,http://[2409:8087:1020:301:2026::18]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8?fmt=ts2hls
+
+河北卫视 7M1080,http://[2409:8087:1070:301:2026::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225900/index.m3u8?fmt=ts2hls
+
+浙江卫视 7M1080,http://[2409:8087:1070:301:2028::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225906/index.m3u8?fmt=ts2hls
+
+海南卫视 7M1080,http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225930/index.m3u8?fmt=ts2hls
+
+深圳卫视 7M1080,http://[2409:8087:1070:301:2026::18]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225910/index.m3u8?fmt=ts2hls
+
+湖北卫视 7M1080,http://[2409:8087:1070:301:2026::20]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225903/index.m3u8?fmt=ts2hls
+
+湖南卫视 7M1080,http://[2409:8087:1070:301:2028::1c]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225912/index.m3u8?fmt=ts2hls
+
+甘肃卫视 8M1080,http://[2409:8087:1070:301:2028::22]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225958/index.m3u8?fmt=ts2hls
+
+贵州卫视 6M1080,http://[2409:8087:1070:301:2026::26]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225899/index.m3u8?fmt=ts2hls
+
+辽宁卫视 7M1080,http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225902/index.m3u8?fmt=ts2hls
+
+重庆卫视 8M1080,http://[2409:8087:1070:301:2028::28]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225731/index.m3u8?fmt=ts2hls
+
+黑龙江卫视 7M1080,http://[2409:8087:1070:301:2026::11]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225911/index.m3u8?fmt=ts2hls
+
+上海纪实人文 8M1080,http://[2409:8087:1020:301:2026::18]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225734/index.m3u8?fmt=ts2hls
+
+北京冬奥纪实 8M1080,http://[2409:8087:1020:301:2026::18]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8?fmt=ts2hls
+
+湖南金鹰卡通 6M1080,http://[2409:8087:1070:301:2026::11]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225686/index.m3u8?fmt=ts2hls
+
+湖南金鹰纪实 8M1080,http://[2409:8087:1020:301:2026::17]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225726/index.m3u8?fmt=ts2hls
+
+SiTV动漫秀场 7M1080,http://[2409:8087:1070:301:2028::18]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225955/index.m3u8?fmt=ts2hls
+
+SiTV欢笑剧场 7M1080,http://[2409:8087:1070:301:2028::13]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225954/index.m3u8?fmt=ts2hls
+
+SiTV生活时尚 7M1080,http://[2409:8087:1070:301:2028::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225953/index.m3u8?fmt=ts2hls
+
+SiTV都市剧场 7M1080,http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225956/index.m3u8?fmt=ts2hls
+
+内蒙古农牧 7M1080,http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225878/index.m3u8?fmt=ts2hls
+
+内蒙古少儿 7M1080,http://[2409:8087:1070:301:2028::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/index.m3u8?fmt=ts2hls
+
+内蒙古文体娱乐 7M1080,http://[2409:8087:1070:301:2026::25]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225877/index.m3u8?fmt=ts2hls
+
+内蒙古新闻综合 7M1080,http://[2409:8087:1070:301:2028::16]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225875/index.m3u8?fmt=ts2hls
+
+内蒙古经济生活 7M1080,http://[2409:8087:1070:301:2028::16]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225879/index.m3u8?fmt=ts2hls
+
+内蒙古蒙语卫视 8M1080,http://[2409:8087:1030:301:2025::22]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225705/index.m3u8?fmt=ts2hls
+
+内蒙古蒙语文化 7M1080,http://[2409:8087:1070:301:2028::16]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/index.m3u8?fmt=ts2hls
+
+乌拉特中旗 3M1080,http://[2409:8087:1030:201:2022::2a]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?fmt=ts2hls
+
+乌海新闻综合 8M1080,http://[2409:8087:1050:301:2026::13]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225810/index.m3u8?fmt=ts2hls
+
+乌海都市生活 8M1080,http://[2409:8087:1030:201:2022::24]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225811/index.m3u8?fmt=ts2hls
+
+伊金霍洛旗广播电视台综合频道 2M1080,http://[2409:8087:1050:301:2026::18]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225868/index.m3u8?fmt=ts2hls
+
+准格尔综合 6M1080,http://[2409:8087:1030:201:2022::27]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225808/index.m3u8?fmt=ts2hls
+
+准格尔综合 6M1080,http://[2409:8087:1070:301:2028::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225962/index.m3u8?fmt=ts2hls
+
+包头新闻综合 3M1080,http://[2409:8087:1020:301:2026::2d]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225737/index.m3u8?fmt=ts2hls
+
+包头生活服务 3M1080,http://[2409:8087:1050:301:2026::11]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225738/index.m3u8?fmt=ts2hls
+
+包头经济 8M1080,http://[2409:8087:1050:301:2026::17]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225864/index.m3u8?fmt=ts2hls
+
+呼伦贝尔文化旅游 7M1080,http://[2409:8087:1050:301:2026::18]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225934/index.m3u8?fmt=ts2hls
+
+呼伦贝尔新闻综合 7M1080,http://[2409:8087:1050:301:2026::18]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225933/index.m3u8?fmt=ts2hls
+
+呼伦贝尔生活咨询 7M1080,http://[2409:8087:1050:301:2026::17]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225935/index.m3u8?fmt=ts2hls
+
+呼和浩特影视娱乐 8M1080,http://[2409:8087:1030:201:2022::27]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225815/index.m3u8?fmt=ts2hls
+
+呼和浩特新闻综合 8M1080,http://[2409:8087:1050:301:2026::14]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225814/index.m3u8?fmt=ts2hls
+
+呼和浩特都市生活 8M1080,http://[2409:8087:1050:301:2026::13]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8?fmt=ts2hls
+
+喀喇沁 6M1080,http://[2409:8087:1050:301:2026::11]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226299/index.m3u8?fmt=ts2hls
+
+巴彦淖尔影视娱乐 7M1080,http://[2409:8087:1050:301:2026::14]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225832/index.m3u8?fmt=ts2hls
+
+巴彦淖尔新闻综合 7M1080,http://[2409:8087:1050:301:2026::14]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225830/index.m3u8?fmt=ts2hls
+
+巴彦淖尔经济生活 7M1080,http://[2409:8087:1050:301:2026::11]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225831/index.m3u8?fmt=ts2hls
+
+扎赉特无线 3M1080,http://[2409:8087:1050:301:2026::14]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8?fmt=ts2hls
+
+杭后 2M1080,http://[2409:8087:1050:301:2026::13]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8?fmt=ts2hls
+
+杭锦旗综合 4M1080,http://[2409:8087:1050:301:2026::17]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226297/index.m3u8?fmt=ts2hls
+
+突泉 8M1080,http://[2409:8087:1030:201:2022::27]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8?fmt=ts2hls
+
+苏右旗 8M1080,http://[2409:8087:1050:301:2026::11]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225839/index.m3u8?fmt=ts2hls
+
+苏左 4M1080,http://[2409:8087:1050:301:2026::13]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8?fmt=ts2hls
+
+赤峰影视娱乐 7M1080,http://[2409:8087:1050:301:2026::14]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225819/index.m3u8?fmt=ts2hls
+
+赤峰新闻综合 7M1080,http://[2409:8087:1050:301:2026::14]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225812/index.m3u8?fmt=ts2hls
+
+赤峰经济服务 7M1080,http://[2409:8087:1050:301:2026::11]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225813/index.m3u8?fmt=ts2hls
+
+达茂 6M1080,http://[2409:8087:1050:301:2026::18]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225884/index.m3u8?fmt=ts2hls
+
+通辽新闻综合 7M1080,http://[2409:8087:1050:301:2026::13]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225825/index.m3u8?fmt=ts2hls
+
+通辽蒙语 7M1080,http://[2409:8087:1050:301:2026::14]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225824/index.m3u8?fmt=ts2hls
+
+鄂尔多斯城市生活 7M1080,http://[2409:8087:1050:301:2026::14]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225837/index.m3u8?fmt=ts2hls
+
+鄂尔多斯新闻综合 7M1080,http://[2409:8087:1070:301:2026::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225835/index.m3u8?fmt=ts2hls
+
+鄂尔多斯经纪服务 7M1080,http://[2409:8087:1030:201:2022::2b]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225836/index.m3u8?fmt=ts2hls
+
+鄂尔多斯蒙语 7M1080,http://[2409:8087:1050:301:2026::11]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225838/index.m3u8?fmt=ts2hls
+
+锡盟1 7M1080,http://[2409:8087:1050:301:2026::13]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225790/index.m3u8?fmt=ts2hls
+
+锡盟2 7M1080,http://[2409:8087:1050:301:2026::13]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225789/index.m3u8?fmt=ts2hls
+
+阿尔山 8M1080,http://[2409:8087:1070:301:2026::1b]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225926/index.m3u8?fmt=ts2hls
+
+百视通 7M1080,http://[2409:8087:1070:301:2028::12]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226285/index.m3u8?fmt=ts2hls
+
+百视通 7M1080,http://[2409:8087:1070:301:2028::11]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226286/index.m3u8?fmt=ts2hls
+
+百视通 7M1080,http://[2409:8087:1050:301:2026::17]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226287/index.m3u8?fmt=ts2hls
+
+百视通 7M1080,http://[2409:8087:1070:301:2028::22]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226288/index.m3u8?fmt=ts2hls
+
+百视通 7M1080,http://[2409:8087:1070:301:2028::12]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226289/index.m3u8?fmt=ts2hls
+
+百视通 7M1080,http://[2409:8087:1070:301:2028::13]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226291/index.m3u8?fmt=ts2hls
+
+百视通 7M1080,http://[2409:8087:1070:301:2028::16]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226292/index.m3u8?fmt=ts2hls
+
+百视通 7M1080,http://[2409:8087:1070:301:2028::1c]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226293/index.m3u8?fmt=ts2hls
+
+百视通 7M1080,http://[2409:8087:1070:301:2028::22]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226296/index.m3u8?fmt=ts2hls
+
+CCTV1 576,http://[2409:8087:1050:301:2026::13]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8?fmt=ts2hls
+
+CCTV1 576,http://[2409:8087:1070:301:2026::25]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225923/index.m3u8?fmt=ts2hls
+
+CCTV1 576,http://[2409:8087:1050:301:2026::18]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225925/index.m3u8?fmt=ts2hls
+
+CCTV1 576,http://[2409:8087:1050:301:2026::17]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226295/index.m3u8?fmt=ts2hls
+
+CCTV2 576,http://[2409:8087:1070:301:2026::24]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225671/index.m3u8?fmt=ts2hls
+
