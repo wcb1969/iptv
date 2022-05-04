@@ -1,0 +1,340 @@
+翡翠,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/1.m3u8
+明珠,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/2.m3u8
+无线新闻,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/3.m3u8
+有线新闻,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/4.m3u8
+NOW新闻,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/5.m3u8
+Viutv,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/6.m3u8
+Viutv 6,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/7.m3u8
+无线财经,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/8.m3u8
+有线财经,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/9.m3u8
+J2,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/10.m3u8
+有线603,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/11.m3u8
+有线18,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/12.m3u8
+RTHK31,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/13.m3u8
+RTHK32,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/14.m3u8
+开电视,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/15.m3u8
+凤凰香港,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/16.m3u8
+凤凰卫视,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/17.m3u8
+凤凰资讯,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/18.m3u8
+澳视澳门,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/19.m3u8
+澳门资讯,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/20.m3u8
+澳视葡语,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/21.m3u8
+澳门Macau,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/22.m3u8
+澳视体育,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/23.m3u8
+澳视卫星,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/24.m3u8
+澳视体育,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/25.m3u8
+爆谷,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/26.m3u8
+TVB经典,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/27.m3u8
+星河,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/28.m3u8
+天映,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/29.m3u8
+卫视电影,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/30.m3u8
+美亚电影,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/31.m3u8
+广西卫视高清,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/76.m3u8
+吉林卫视高清,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/77.m3u8
+海南卫视高清,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/79.m3u8
+贵州卫视高清,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/80.m3u8
+CHC高清电影,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/102.m3u8
+CHC家庭影院,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/103.m3u8
+CHC动作电影,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/104.m3u8
+广东综艺4K,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/106.m3u8
+广东经济,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/107.m3u8
+广东珠江,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/109.m3u8
+广东公共,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/110.m3u8
+广东新闻,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/111.m3u8
+广东体育,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/112.m3u8
+南方卫视,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/113.m3u8
+广东经视,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/114.m3u8
+广东影视,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/117.m3u8
+广东少儿,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/118.m3u8
+广东房产,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/119.m3u8
+珠江电影,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/120.m3u8
+广州综合,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/123.m3u8
+广州新闻,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/124.m3u8
+广州经济,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/125.m3u8
+民视HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/164.m3u8
+华视HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/165.m3u8
+中视HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/166.m3u8
+台视HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/167.m3u8
+公视HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/168.m3u8
+民视台湾台,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/169.m3u8
+民视第一台,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/170.m3u8
+中视经典台,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/171.m3u8
+中视菁采台,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/172.m3u8
+亚洲旅游台,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/173.m3u8
+三立台湾HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/174.m3u8
+三立都会HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/175.m3u8
+八大综合HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/176.m3u8
+八大第一HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/177.m3u8
+八大戏剧HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/178.m3u8
+中天美食台,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/179.m3u8
+中天综合HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/180.m3u8
+中天娱乐HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/181.m3u8
+中天亚洲,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/182.m3u8
+纬来综合HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/183.m3u8
+纬来育乐HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/184.m3u8
+纬来戏剧HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/185.m3u8
+纬来体育HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/186.m3u8
+纬来日本HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/187.m3u8
+东森综合HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/188.m3u8
+东森戏剧HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/189.m3u8
+东森幼幼HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/190.m3u8
+亚洲旅游HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/191.m3u8
+龙华戏剧HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/192.m3u8
+龙华偶像HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/193.m3u8
+龙华韩剧HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/194.m3u8
+龙华电影HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/195.m3u8
+卫视电影HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/196.m3u8
+纬来电影HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/197.m3u8
+好莱坞电影HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/198.m3u8
+卫视中文HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/199.m3u8
+东风卫视HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/200.m3u8
+好消息GOOD TV,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/201.m3u8
+大爱电视HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/202.m3u8
+人间卫视HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/203.m3u8
+国家地理,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/204.m3u8
+动物星球,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/205.m3u8
+旅游生活,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/206.m3u8
+迪斯尼频道HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/207.m3u8
+卡通动画,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/208.m3u8
+麦卡贝电视,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/209.m3u8
+西洋电影,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/210.m3u8
+亚洲电影,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/211.m3u8
+华语戏剧,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/212.m3u8
+娱乐综艺,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/213.m3u8
+流行音乐,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/214.m3u8
+影音综合,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/215.m3u8
+音乐MV,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/216.m3u8
+台湾好音乐,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/217.m3u8
+古典音乐,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/218.m3u8
+幸福居家,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/219.m3u8
+亚洲戏剧,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/220.m3u8
+梅迪奇艺术,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/221.m3u8
+Esports,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/222.m3u8
+Channel TV,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/223.m3u8
+国际电影,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/224.m3u8
+时代影像,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/225.m3u8
+龙华电影,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/226.m3u8
+龙华偶像,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/227.m3u8
+龙华日韩,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/228.m3u8
+龙华戏剧,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/229.m3u8
+龙华卡通,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/230.m3u8
+靖天戏剧,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/231.m3u8
+靖天国际,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/232.m3u8
+靖天欢乐,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/233.m3u8
+靖洋卡通,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/234.m3u8
+生活时尚,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/235.m3u8
+潮流时尚,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/236.m3u8
+风潮综合,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/237.m3u8
+电影原声,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/238.m3u8
+欧洲电影,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/239.m3u8
+aMC最爱电影,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/240.m3u8
+影迷数位电影,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/241.m3u8
+影迷数位纪实,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/242.m3u8
+CATCHPLAY电影,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/243.m3u8
+优电影一,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/244.m3u8
+优电影二,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/245.m3u8
+优电影三,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/246.m3u8
+NICK儿童,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/247.m3u8
+momo亲子,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/248.m3u8
+CN卡通,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/249.m3u8
+MTV Live,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/250.m3u8
+唯心电视,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/251.m3u8
+华藏电视,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/252.m3u8
+大爱电视,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/253.m3u8
+大爱电视2,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/254.m3u8
+SBL超级篮球,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/255.m3u8
+智林体育,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/256.m3u8
+车迷,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/257.m3u8
+HITS,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/258.m3u8
+History 2,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/259.m3u8
+Lifetime,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/260.m3u8
+Trace Sport Stars,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/261.m3u8
+Mezzo Live,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/262.m3u8
+Pet Club TV,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/263.m3u8
+猪哥亮歌厅秀,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/264.m3u8
+金光布袋戏,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/265.m3u8
+国家地理,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/266.m3u8
+NatGeo HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/267.m3u8
+国家地理野生,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/268.m3u8
+NatGeo Wild,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/269.m3u8
+动物星球,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/270.m3u8
+探索动力,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/271.m3u8
+探索科学,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/272.m3u8
+探索亚洲,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/273.m3u8
+CI,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/274.m3u8
+History,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/275.m3u8
+Asia Travel,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/276.m3u8
+Travelxp,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/277.m3u8
+BBC Earth HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/278.m3u8
+BBC Earth Lifestyle,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/279.m3u8
+Discovery HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/280.m3u8
+亚洲美食,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/281.m3u8
+美食星球,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/282.m3u8
+TLC,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/283.m3u8
+亚洲旅游,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/284.m3u8
+Fashion TV,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/285.m3u8
+MTV Live,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/286.m3u8
+HGTV,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/287.m3u8
+Animal Planet (Eng),http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/288.m3u8
+TLC,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/289.m3u8
+TV1,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/290.m3u8
+TV2,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/291.m3u8
+TV3,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/292.m3u8
+NTV7,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/293.m3u8
+NTV7,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/294.m3u8
+TV8,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/295.m3u8
+TV9,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/296.m3u8
+Warna,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/297.m3u8
+Warna,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/298.m3u8
+RIA,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/299.m3u8
+RIA,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/300.m3u8
+Awani,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/301.m3u8
+Bernama,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/302.m3u8
+Prima,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/303.m3u8
+Alhijrah,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/304.m3u8
+Alhijrah,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/305.m3u8
+RTM Sports,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/306.m3u8
+NatGeo Wild,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/307.m3u8
+Oasis,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/308.m3u8
+Ceria,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/309.m3u8
+Citra,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/310.m3u8
+Boo,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/311.m3u8
+Drama Sangat,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/312.m3u8
+Naura,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/313.m3u8
+Hello,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/314.m3u8
+Goshop,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/315.m3u8
+Goshop Ch,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/316.m3u8
+Sony HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/317.m3u8
+Oh!k,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/318.m3u8
+TvN,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/319.m3u8
+KBS World,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/320.m3u8
+AEC,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/321.m3u8
+亚洲旅游,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/322.m3u8
+华丽,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/323.m3u8
+欢喜,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/324.m3u8
+全佳,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/325.m3u8
+双星,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/326.m3u8
+小太阳,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/327.m3u8
+TVB星河,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/328.m3u8
+爱奇艺,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/329.m3u8
+AOD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/330.m3u8
+AOD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/331.m3u8
+KiX HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/332.m3u8
+Cartoon Network,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/333.m3u8
+Fox HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/334.m3u8
+HGTV,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/335.m3u8
+Animal Planet (Eng),http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/336.m3u8
+CNN,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/337.m3u8
+CNBC,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/338.m3u8
+BBC World News,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/339.m3u8
+TLC,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/340.m3u8
+Bloomberg News,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/341.m3u8
+CGTN,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/342.m3u8
+Al-Jazeera,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/343.m3u8
+Russia Times,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/344.m3u8
+HBO HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/345.m3u8
+HBO Hits HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/346.m3u8
+Axn HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/347.m3u8
+Arena,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/348.m3u8
+Arena2,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/349.m3u8
+SPO TV GP,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/350.m3u8
+tvN Movie,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/351.m3u8
+Celestial Movies HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/352.m3u8
+CNA,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/353.m3u8
+Channel 5,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/354.m3u8
+Channel 5 backup,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/355.m3u8
+Channel 8,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/356.m3u8
+Channel 8 backup,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/357.m3u8
+Suria SD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/358.m3u8
+Suria,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/359.m3u8
+Channel U,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/360.m3u8
+Vasantham,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/361.m3u8
+CNA,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/362.m3u8
+三立LIVE新闻,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/363.m3u8
+三立iNEWS,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/364.m3u8
+台视新闻,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/365.m3u8
+民视新闻,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/366.m3u8
+华视新闻,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/367.m3u8
+TVBS新闻,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/368.m3u8
+东森新闻,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/369.m3u8
+中天新闻,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/370.m3u8
+TVBS新闻,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/372.m3u8
+年代新闻,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/373.m3u8
+东森新闻,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/374.m3u8
+东森财经,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/375.m3u8
+环宇新闻,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/376.m3u8
+非凡新闻,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/377.m3u8
+三立新闻,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/378.m3u8
+三立财经,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/379.m3u8
+寰宇新闻,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/380.m3u8
+非凡新闻,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/381.m3u8
+壹新闻,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/385.m3u8
+France 24,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/386.m3u8
+DW Deutsch,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/387.m3u8
+ABC News,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/388.m3u8
+NHK World,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/400.m3u8
+HBO HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/402.m3u8
+HBO HITS,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/403.m3u8
+HBO Family,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/404.m3u8
+Hollywood Movies,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/405.m3u8
+CINEMAX,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/406.m3u8
+AXN Taiwan,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/407.m3u8
+CatchPlay电影,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/408.m3u8
+东森电影,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/409.m3u8
+东森洋片,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/410.m3u8
+龙华电影,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/411.m3u8
+龙华洋片,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/412.m3u8
+龙详时代,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/413.m3u8
+天映经典,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/414.m3u8
+卫视中文,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/415.m3u8
+卫视电影,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/416.m3u8
+天映频道,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/417.m3u8
+天映经典,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/418.m3u8
+美亚电影,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/419.m3u8
+星卫电影,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/420.m3u8
+星空电影,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/421.m3u8
+Animax,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/422.m3u8
+Hits,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/423.m3u8
+Warner TV,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/424.m3u8
+Star Movies,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/425.m3u8
+One,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/426.m3u8
+HBO HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/427.m3u8
+HBO Hits,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/428.m3u8
+Axn,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/429.m3u8
+Thrill,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/430.m3u8
+Hits Movie,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/431.m3u8
+tvN Movie,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/432.m3u8
+Supersports 1,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/433.m3u8
+Supersports 2,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/434.m3u8
+Supersports 3,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/435.m3u8
+Supersports 4,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/436.m3u8
+Supersports 5,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/437.m3u8
+True Premium 1,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/438.m3u8
+True Premium 2,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/439.m3u8
+WWE,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/440.m3u8
+NBA TV,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/441.m3u8
+Eurosports HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/442.m3u8
+Astro Golf,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/443.m3u8
+Beinsports 2 HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/444.m3u8
+Arena,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/445.m3u8
+Arena2,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/446.m3u8
+SPO TV GP,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/447.m3u8
+Fight Sports,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/448.m3u8
+Sony Ten 1,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/449.m3u8
+Sony Ten 2,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/450.m3u8
+Sony Ten 3,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/451.m3u8
+Sony Six HD,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/452.m3u8
+BT Sports 1,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/453.m3u8
+BT Sports 2,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/454.m3u8
+BT Sports 3,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/455.m3u8
+BT ESPN,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/456.m3u8
+Skysports Action,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/457.m3u8
+Skysports Arena,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/458.m3u8
+Skysports Cricket,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/459.m3u8
+Skysports EPL,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/460.m3u8
+Skysports F1,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/461.m3u8
+Skysports Football,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/462.m3u8
+Skysports Golf,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/463.m3u8
+爱尔达体育1,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/464.m3u8
+爱尔达体育2,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/465.m3u8
+爱尔达体育3,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/466.m3u8
