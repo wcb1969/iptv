@@ -1,0 +1,8 @@
+芜湖新闻综合,http://live1.wuhubtv.com/channel1/sd/live.m3u8
+芜湖生活频道,http://live1.wuhubtv.com/channel2/sd/live.m3u8
+芜湖公共频道,http://live1.wuhubtv.com/channel3/sd/live.m3u8
+芜湖教育频道,http://live1.wuhubtv.com/channel4/sd/live.m3u8
+无为新闻频道,http://hls.dszbdq.cn/d/qk.php?id=ahwhww
+南陵新闻综合,http://live2018.wuhunews.cn/video/s10010-nlnews/index.m3u8
+繁昌新闻综合,https://hwapi.yunshicloud.com/3giqaj/i6v1o5.m3u8
+湾沚综合频道（原芜湖县）,http://60.169.39.215:8090/live/ch0.m3u8

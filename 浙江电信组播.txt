@@ -1,0 +1,755 @@
+CCTV5+,rtp://233.50.201.220:5140
+CCTV5,rtp://233.50.200.245:5140
+CCTV4,rtp://233.50.201.4:5140
+CCTV6,rtp://233.50.201.198:5140
+CCTV13,rtp://233.50.201.246:5140
+CCTV1,rtp://233.50.201.118:5140
+CCTV5+,rtp://233.50.201.220:5140
+dushijuchangHD-68,rtp://233.50.200.11:5140
+youxifengyun-hd,rtp://233.50.200.14:5140
+shenhuoshishangHD-65,rtp://233.50.200.15:5140
+CCTV-14 HD,rtp://233.50.200.20:5140
+CCTV-12 HD,rtp://233.50.200.21:5140
+CCTV-10 HD,rtp://233.50.200.22:5140
+CCTV-9 HD,rtp://233.50.200.23:5140
+CCTV-7 HD,rtp://233.50.200.24:5140
+CCTV-2 HD,rtp://233.50.200.25:5140
+UNKNOWN,rtp://233.50.200.32:5140
+ZJ HYG-10,rtp://233.50.200.33:5140
+ZJ HYG-16,rtp://233.50.200.34:5139
+dongfanggouwu1-1.3-2-3,rtp://233.50.200.37:5140
+dongfanggouwu3-SAT2.5-2-5,rtp://233.50.200.38:5140
+GuangXi TV,rtp://233.50.200.41:5140
+CCTV-1,rtp://233.50.200.44:5140
+CCTV-2,rtp://233.50.200.47:5140
+CCTV-7,rtp://233.50.200.48:5140
+CCTV-13,rtp://233.50.200.49:5140
+CCTV-14,rtp://233.50.200.50:5140
+CCTV-4A,rtp://233.50.200.51:5140
+sitv-shishangshenghuo1.3--2-1,rtp://233.50.200.54:5140
+quanjishi2.5-2-4,rtp://233.50.200.55:5140
+dushijuchang2.5--2-2,rtp://233.50.200.56:5140
+dongfangcaijing-1.3--2-2,rtp://233.50.200.57:5140
+fazhitiandi1.3-2-5,rtp://233.50.200.59:5140
+dongmanxiuchang1.3-2-3,rtp://233.50.200.60:5140
+GuangDong TV,rtp://233.50.200.61:5140
+LvYou TV,rtp://233.50.200.62:5140
+1.3M-xuandongkatong,rtp://233.50.200.63:5140
+DongFang TV,rtp://233.50.200.64:5140
+ShanDong TV,rtp://233.50.200.65:5140
+JiangSu TV,rtp://233.50.200.66:5140
+DongNan TV,rtp://233.50.200.67:5140
+BeiJing TV,rtp://233.50.200.68:5140
+HuNan TV,rtp://233.50.200.69:5140
+SiChuan TV,rtp://233.50.200.70:5140
+AnHui TV,rtp://233.50.200.71:5140
+2.5M-CCTV-1,rtp://233.50.200.72:5140
+qicaixiju-1.3-3-1,rtp://233.50.200.75:5140
+jisuqiche-1.3-3-4,rtp://233.50.200.76:5140
+HeiLongJiang TV,rtp://233.50.200.78:5140
+ZJ-Weishi,rtp://233.50.200.79:5140
+JiangXi TV,rtp://233.50.200.80:5140
+YunNan TV,rtp://233.50.200.81:5140
+HeBei TV,rtp://233.50.200.82:5140
+HeNan TV,rtp://233.50.200.83:5140
+1.3M-CGTN,rtp://233.50.200.84:5140
+LiaoNing TV,rtp://233.50.200.85:5140
+ChongQing TV,rtp://233.50.200.86:5140
+CCTV-10,rtp://233.50.200.87:5140
+CCTV-11,rtp://233.50.200.88:5140
+CCTV-12,rtp://233.50.200.90:5140
+1.3M-CCTV-yinyue,rtp://233.50.200.91:5140
+HuBei TV,rtp://233.50.200.95:5140
+UNKNOWN,rtp://233.50.200.97:5140
+TianJin TV,rtp://233.50.200.98:5140
+UNKNOWN,rtp://233.50.200.99:5140
+UNKNOWN,rtp://233.50.200.101:5139
+UNKNOWN,rtp://233.50.200.102:5140
+UNKNOWN,rtp://233.50.200.105:5140
+UNKNOWN,rtp://233.50.200.109:5140
+UNKNOWN,rtp://233.50.200.110:5140
+UNKNOWN,rtp://233.50.200.112:5140
+UNKNOWN,rtp://233.50.200.113:5140
+UNKNOWN,rtp://233.50.200.122:5140
+UNKNOWN,rtp://233.50.200.124:5139
+UNKNOWN,rtp://233.50.200.125:5140
+GuiZhou TV,rtp://233.50.200.128:5140
+CCTV-1 HD,rtp://233.50.200.130:5140
+QinHai TV,rtp://233.50.200.131:5140
+CCTV-1,rtp://233.50.200.134:5140
+XiZang TV,rtp://233.50.200.137:5140
+UNKNOWN,rtp://233.50.200.139:5140
+UNKNOWN,rtp://233.50.200.140:5140
+UNKNOWN,rtp://233.50.200.141:5140
+CCTV-1 HD,rtp://233.50.200.143:5140
+JiangSu HD,rtp://233.50.200.144:5140
+ZheJiang HD,rtp://233.50.200.145:5140
+DongFang HD,rtp://233.50.200.146:5140
+HuBei HD,rtp://233.50.200.147:5140
+quanjishi HD,rtp://233.50.200.148:5140
+UNKNOWN,rtp://233.50.200.153:5140
+UNKNOWN,rtp://233.50.200.154:5140
+UNKNOWN,rtp://233.50.200.155:5140
+UNKNOWN,rtp://233.50.200.158:5140
+UNKNOWN,rtp://233.50.200.168:5140
+3ShanXi TV,rtp://233.50.200.170:5140
+BinTuan TV,rtp://233.50.200.171:5140
+1ShanXi TV,rtp://233.50.200.172:5140
+UNKNOWN,rtp://233.50.200.173:5140
+UNKNOWN,rtp://233.50.200.175:5140
+UNKNOWN,rtp://233.50.200.177:5140
+BeiJing HD,rtp://233.50.200.179:5140
+UNKNOWN,rtp://233.50.200.183:5140
+GuangDong HD,rtp://233.50.200.187:5140
+ShenZhen HD,rtp://233.50.200.188:5140
+HeiLongJiang HD,rtp://233.50.200.189:5140
+HuNan HD,rtp://233.50.200.190:5140
+CCTV-1,rtp://233.50.200.191:5140
+CCTV-1,rtp://233.50.200.192:5139
+ZJ-QianJiang,rtp://233.50.200.203:5140
+ZJ-JingShi,rtp://233.50.200.204:5140
+ZJ-JiaoyuKeji,rtp://233.50.200.205:5140
+ZJ-TT6,rtp://233.50.200.206:5140
+ZJ-GonggongXinwen,rtp://233.50.200.207:5139
+ZJ-Shaoer,rtp://233.50.200.208:5140
+HZTV-1,rtp://233.50.200.209:5140
+HZTV-2,rtp://233.50.200.210:5140
+HZTV-3,rtp://233.50.200.211:5140
+HZTV-4,rtp://233.50.200.212:5140
+HZTV-5,rtp://233.50.200.213:5140
+NingXia TV,rtp://233.50.200.215:5140
+CCTV-1,rtp://233.50.200.218:5140
+CCTV-1,rtp://233.50.200.220:5140
+Service01,rtp://233.50.200.225:5140
+huanxiaojuchengHD,rtp://233.50.200.229:5140
+UNKNOWN,rtp://233.50.200.233:5140
+UNKNOWN,rtp://233.50.200.236:5140
+UNKNOWN,rtp://233.50.200.237:5140
+CCTV-1,rtp://233.50.200.243:5140
+UNKNOWN,rtp://233.50.200.244:5140
+UNKNOWN,rtp://233.50.200.245:5140
+UNKNOWN,rtp://233.50.200.251:5140
+CCTV-1,rtp://233.50.201.1:5140
+CCTV-2,rtp://233.50.201.2:5140
+CCTV-4A,rtp://233.50.201.4:5140
+CCTV-1,rtp://233.50.201.5:5140
+CCTV-1,rtp://233.50.201.6:5140
+CCTV-7,rtp://233.50.201.7:5140
+CCTV-1,rtp://233.50.201.8:5140
+CCTV-10,rtp://233.50.201.10:5140
+CCTV-11,rtp://233.50.201.11:5140
+CCTV-12,rtp://233.50.201.12:5140
+CCTV-13,rtp://233.50.201.13:5140
+CCTV-14,rtp://233.50.201.14:5140
+CCTV-15,rtp://233.50.201.15:5140
+CCTV-3,rtp://233.50.201.16:5140
+CCTV-5,rtp://233.50.201.17:5140
+CCTV-6,rtp://233.50.201.18:5140
+CCTV-8,rtp://233.50.201.19:5140
+DaoShi-SD-888,rtp://233.50.201.20:5140
+HZTV-1,rtp://233.50.201.21:5140
+HZTV-2,rtp://233.50.201.22:5140
+HZTV-3,rtp://233.50.201.23:5140
+HZTV-4,rtp://233.50.201.24:5140
+HZTV-5,rtp://233.50.201.25:5140
+HZTV-6,rtp://233.50.201.26:5140
+ZJ-Weishi,rtp://233.50.201.27:5140
+ZJ-QianJiang,rtp://233.50.201.28:5140
+ZJ-JingShi,rtp://233.50.201.29:5140
+ZJ-JiaoyuKeji,rtp://233.50.201.30:5140
+ZJ-TT6,rtp://233.50.201.32:5140
+ZJ-Shaoer,rtp://233.50.201.33:5140
+ZJ-GonggongXinwen,rtp://233.50.201.34:5140
+CCTV-17,rtp://233.50.201.35:5140
+CGTN Spanish,rtp://233.50.201.36:5140
+CGTN French,rtp://233.50.201.37:5140
+CGTN Arabic,rtp://233.50.201.38:5140
+CGTN Russian,rtp://233.50.201.39:5140
+BeiJing TV,rtp://233.50.201.40:5140
+JiangSu TV,rtp://233.50.201.41:5140
+HeiLongJiang TV,rtp://233.50.201.42:5140
+HuBei TV,rtp://233.50.201.43:5140
+HeNan TV,rtp://233.50.201.44:5140
+ShenZhen TV,rtp://233.50.201.45:5140
+YunNan TV,rtp://233.50.201.46:5140
+TianJin TV,rtp://233.50.201.47:5140
+JiLin TV,rtp://233.50.201.48:5140
+GuangXi TV,rtp://233.50.201.49:5140
+HeBei TV,rtp://233.50.201.50:5140
+1ShanXi TV,rtp://233.50.201.51:5140
+HuNan TV,rtp://233.50.201.52:5140
+JiangXi TV,rtp://233.50.201.53:5140
+TiYuSaiShi HD,rtp://233.50.201.54:5140
+LvYou TV,rtp://233.50.201.55:5140
+GuangDong TV,rtp://233.50.201.56:5140
+NingXia TV,rtp://233.50.201.57:5140
+DongNan TV,rtp://233.50.201.58:5140
+3ShanXi TV,rtp://233.50.201.59:5140
+LiaoNing TV,rtp://233.50.201.60:5140
+SiChuan TV,rtp://233.50.201.61:5140
+AnHui TV,rtp://233.50.201.62:5140
+ShanDong TV,rtp://233.50.201.64:5140
+QinHai TV,rtp://233.50.201.65:5139
+ChongQing TV,rtp://233.50.201.66:5140
+DongFang TV,rtp://233.50.201.68:5140
+GuiZhou TV,rtp://233.50.201.69:5140
+XiZang TV,rtp://233.50.201.70:5140
+ZJ-ShumaShidai,rtp://233.50.201.71:5140
+BinTuan TV,rtp://233.50.201.72:5140
+JinYingKatong,rtp://233.50.201.73:5140
+XuanDongKatong,rtp://233.50.201.74:5140
+CETV-1,rtp://233.50.201.75:5140
+ZJ HYG-10,rtp://233.50.201.76:5140
+ZJ HYG-16,rtp://233.50.201.77:5140
+FM-ZheJiangZhiSheng,rtp://233.50.201.79:5140
+FM-XinWenGuangBo,rtp://233.50.201.80:5140
+FM-JingJiGuangBo,rtp://233.50.201.81:5140
+FM-YinYueTiaoPin,rtp://233.50.201.82:5140
+FM-JiaoTongZhiSheng,rtp://233.50.201.83:5140
+FM-NvZhuBoDianTai,rtp://233.50.201.84:5140
+FM-ChengShiZhiSheng,rtp://233.50.201.85:5140
+ZJ-WZTV-1,rtp://233.50.201.87:5140
+CCTV-1,rtp://233.50.201.88:5140
+LB_JingPinJiLu_M,rtp://233.50.201.89:5140
+JiaYouGouWu,rtp://233.50.201.90:5140
+HuanQiuGouWu,rtp://233.50.201.91:5140
+UNKNOWN,rtp://233.50.201.93:5140
+YouGouWU,rtp://233.50.201.94:5140
+HaoXiangGouWu,rtp://233.50.201.95:5140
+CCTV-1,rtp://233.50.201.96:5140
+KuaiLeGouWu,rtp://233.50.201.97:5140
+ZheJiang HD,rtp://233.50.201.100:5140
+ShenZhen HD,rtp://233.50.201.101:5140
+GuangDong HD,rtp://233.50.201.102:5140
+HuNan HD,rtp://233.50.201.103:5140
+TianJin HD,rtp://233.50.201.104:5139
+ShanDong HD,rtp://233.50.201.105:5140
+JiangSu HD,rtp://233.50.201.106:5140
+BeiJing HD,rtp://233.50.201.107:5140
+DaoShi-HD-889,rtp://233.50.201.108:5140
+CCTV-1,rtp://233.50.201.109:5140
+CCTV-1,rtp://233.50.201.110:5140
+CCTV-1,rtp://233.50.201.111:5140
+CCTV-1,rtp://233.50.201.112:5140
+AnHui HD,rtp://233.50.201.113:5140
+HuBei HD,rtp://233.50.201.114:5140
+HeiLongJiang HD,rtp://233.50.201.115:5140
+GaoQingYuLe HD,rtp://233.50.201.116:5140
+tansuojilu,rtp://233.50.201.117:5140
+CCTV-1 HD,rtp://233.50.201.118:5140
+CCTV-2 HD,rtp://233.50.201.119:5140
+CCTV-7 HD,rtp://233.50.201.120:5140
+CCTV-9 HD,rtp://233.50.201.121:5140
+CCTV-10 HD,rtp://233.50.201.122:5140
+CCTV-12 HD,rtp://233.50.201.123:5140
+CCTV-14 HD,rtp://233.50.201.124:5140
+DongFang HD,rtp://233.50.201.125:5140
+CGTN,rtp://233.50.201.126:5140
+CCTV-1,rtp://233.50.201.127:5140
+CCTV-1,rtp://233.50.201.128:5140
+CCTV-1,rtp://233.50.201.130:5140
+CCTV-1,rtp://233.50.201.131:5140
+ZJ-QianJiangPinDao HD,rtp://233.50.201.132:5140
+ZJ-ZheJiangJinShi HD,rtp://233.50.201.133:5140
+ZJ-JiaoYuKeJi HD,rtp://233.50.201.134:5140
+CCTV-1,rtp://233.50.201.135:5140
+ZJ-MinShengXiuXian HD,rtp://233.50.201.136:5140
+ZJ-GongGongXinWen HD,rtp://233.50.201.137:5140
+ZJ-ZheJiangShaoEr HD,rtp://233.50.201.138:5140
+SiChuan HD,rtp://233.50.201.139:5140
+HeBei HD,rtp://233.50.201.140:5140
+LiaoNing HD,rtp://233.50.201.141:5140
+GuiZhou HD,rtp://233.50.201.142:5140
+ChongQing HD,rtp://233.50.201.143:5140
+HeNan HD,rtp://233.50.201.144:5140
+JiangXi HD,rtp://233.50.201.145:5140
+NeiMengGu TV,rtp://233.50.201.148:5140
+GanSu TV,rtp://233.50.201.149:5140
+LB_MeiWeiChuFang_M,rtp://233.50.201.150:5140
+ZJ-NBTV-1,rtp://233.50.201.151:5140
+ZJ-NBTV-2,rtp://233.50.201.152:5140
+ZJ-NBTV-3,rtp://233.50.201.153:5140
+ZJ-NBTV-4,rtp://233.50.201.154:5140
+ZJ-TZTV-1,rtp://233.50.201.157:5140
+ZJ-HuZhouTV-3,rtp://233.50.201.158:5140
+ZJ-YuHangTV-1,rtp://233.50.201.159:5140
+ZJ-LiShuiTV-1,rtp://233.50.201.162:5140
+ZJ-JiaXing-1,rtp://233.50.201.163:5140
+CCTV-1,rtp://233.50.201.166:5140
+ZJ-JX-TongXiangTV-1,rtp://233.50.201.169:5140
+CETV-4,rtp://233.50.201.172:5140
+?HZTV-1 HD,rtp://233.50.201.173:5140
+HZTV-2 HD,rtp://233.50.201.174:5140
+?HZTV-3 HD,rtp://233.50.201.175:5140
+?HZTV-4 HD,rtp://233.50.201.176:5140
+?HZTV-5 HD,rtp://233.50.201.177:5140
+ZJ-NingBoTV-2 HD,rtp://233.50.201.178:5140
+?HZTV-6 HD,rtp://233.50.201.182:5140
+CCTV-3 HD,rtp://233.50.201.196:5140
+CCTV-5 HD,rtp://233.50.201.197:5140
+CCTV-6 HD,rtp://233.50.201.198:5140
+CCTV-8 HD,rtp://233.50.201.199:5140
+BeiJing TV,rtp://233.50.201.201:5150
+ZhiBoShi HD 2,rtp://233.50.201.202:5140
+ZhiBoShi HD 3,rtp://233.50.201.203:5140
+ZhiBoShi 10,rtp://233.50.201.210:5140
+ZhiBoShi 12,rtp://233.50.201.212:5140
+ZhiBoShi 14,rtp://233.50.201.214:5140
+CCTV-1,rtp://233.50.201.217:5140
+CCTV-5+,rtp://233.50.201.220:5140
+865-4K-Live,rtp://233.50.201.225:5140
+866-HD-ShouMenYuan,rtp://233.50.201.226:5140
+LB_HaoLaiWuDianYing_M,rtp://233.50.201.228:5140
+LB_YuanXianDaPian_M,rtp://233.50.201.229:5140
+LB_OuMeiDianYing_M,rtp://233.50.201.230:5140
+LB_HuanQiuDianYing_M,rtp://233.50.201.231:5140
+LB_DongZuoYingYuan_M,rtp://233.50.201.232:5140
+LB_ReMenZongYi_M,rtp://233.50.201.233:5140
+LB_BaiJinJuChang_M,rtp://233.50.201.234:5140
+LB_DieZhanJuChang_M,rtp://233.50.201.235:5140
+LB_GuZhuangJuChang_M,rtp://233.50.201.236:5140
+LB_JianKangYangSheng_M,rtp://233.50.201.237:5140
+LB_GuLuShaoEr_M,rtp://233.50.201.238:5140
+LB_ShouYingDianYing_M,rtp://233.50.201.239:5140
+LB_HuaYuYingYuan_M,rtp://233.50.201.240:5140
+LB_HuangJinJuChang_M,rtp://233.50.201.241:5140
+LB_QingGanJuChang_M,rtp://233.50.201.242:5139
+LB_4KChaoQing_M,rtp://233.50.201.243:5140
+XinShiJue_HD,rtp://233.50.201.244:5140
+LB_DiErKeTang_M,rtp://233.50.201.245:5140
+CCTV-13 HD,rtp://233.50.201.246:5140
+DouNiuCaiJing,rtp://233.50.201.247:5140
+HaoYiGou-1 HD,rtp://233.50.201.248:5140
+LB_XiJuDianYing_M,rtp://233.50.201.249:5140
+LB_JingDianGangPian_M,rtp://233.50.201.250:5140
+LB_MangGuoReZong_M,rtp://233.50.201.251:5140
+LB_DongManXinFan_M,rtp://233.50.201.252:5140
+LB_GaoFenJuChang_M,rtp://233.50.201.253:5140
+LB_TanSuoJieMi_M,rtp://233.50.201.254:5140
+dongmanxiuchangHD-66,rtp://233.50.200.12:5139
+shenhuoshishangHD-65,rtp://233.50.200.15:5139
+ZJ-NBTV-2,rtp://233.50.200.27:5140
+ZJ-NBTV-3,rtp://233.50.200.28:5140
+ZJ-NBTV-4,rtp://233.50.200.29:5140
+UNKNOWN,rtp://233.50.200.31:5140
+ZJ HYG-16,rtp://233.50.200.34:5140
+dongfanggouwu1-1.3-2-3,rtp://233.50.200.37:5139
+YST,rtp://233.50.200.45:5140
+huanxiaojuchang-2.5-3-3,rtp://233.50.200.52:5140
+youxifengyun-1.3-3-2,rtp://233.50.200.58:5140
+fazhitiandi1.3-2-5,rtp://233.50.200.59:5139
+2.5M-CCTV-1,rtp://233.50.200.72:5139
+JiLin TV,rtp://233.50.200.77:5140
+ZJ-Weishi,rtp://233.50.200.79:5139
+HeNan TV,rtp://233.50.200.83:5139
+jinsepindao1.3--2-1,rtp://233.50.200.96:5140
+UNKNOWN,rtp://233.50.200.101:5140
+UNKNOWN,rtp://233.50.200.103:5139
+UNKNOWN,rtp://233.50.200.108:5140
+UNKNOWN,rtp://233.50.200.124:5140
+UNKNOWN,rtp://233.50.200.132:5140
+UNKNOWN,rtp://233.50.200.138:5140
+UNKNOWN,rtp://233.50.200.150:5140
+UNKNOWN,rtp://233.50.200.152:5140
+CCTV-1,rtp://233.50.200.162:5140
+CCTV-1,rtp://233.50.200.178:5140
+UNKNOWN,rtp://233.50.200.184:5140
+HeiLongJiang HD,rtp://233.50.200.189:5139
+CCTV-1,rtp://233.50.200.192:5140
+YST,rtp://233.50.200.193:5140
+YST,rtp://233.50.200.194:5140
+CCTV-1,rtp://233.50.200.201:5140
+ZJ-GonggongXinwen,rtp://233.50.200.207:5140
+HZTV-3,rtp://233.50.200.211:5139
+Service01,rtp://233.50.200.223:5140
+ZheJiang HD,rtp://233.50.200.231:5140
+UNKNOWN,rtp://233.50.200.234:5140
+UNKNOWN,rtp://233.50.200.235:5140
+UNKNOWN,rtp://233.50.200.246:5140
+UNKNOWN,rtp://233.50.200.247:5139
+UNKNOWN,rtp://233.50.200.248:5140
+UNKNOWN,rtp://233.50.200.249:5140
+UNKNOWN,rtp://233.50.200.250:5140
+CCTV-1,rtp://233.50.201.3:5140
+CCTV-1,rtp://233.50.201.9:5140
+CCTV-8,rtp://233.50.201.19:5139
+ZJ-Weishi,rtp://233.50.201.27:5139
+ShanDong TV,rtp://233.50.201.64:5139
+QinHai TV,rtp://233.50.201.65:5140
+ZJ-ShumaShidai,rtp://233.50.201.71:5139
+FM-MinShengZiXun,rtp://233.50.201.86:5140
+KuaiLeGouWu,rtp://233.50.201.97:5139
+GuangDong HD,rtp://233.50.201.102:5139
+TianJin HD,rtp://233.50.201.104:5140
+BeiJing HD,rtp://233.50.201.107:5139
+CCTV-10 HD,rtp://233.50.201.122:5139
+DongNan HD,rtp://233.50.201.146:5140
+NeiMengGu TV,rtp://233.50.201.148:5139
+ZJ-QZTV-1,rtp://233.50.201.155:5140
+ZJ-SXTV-1,rtp://233.50.201.156:5140
+ZJ JHTV-1,rtp://233.50.201.161:5140
+CCTV-1,rtp://233.50.201.164:5140
+CCTV-1,rtp://233.50.201.165:5140
+ZJ-NingBoTV-5,rtp://233.50.201.167:5140
+ZJ-NingBoTV-1 HD,rtp://233.50.201.168:5140
+ZJ-NingBoTV-3 HD,rtp://233.50.201.179:5140
+ZJ-NingBoTV-4 HD,rtp://233.50.201.180:5140
+ZJ-NingBoTV-5 HD,rtp://233.50.201.181:5140
+ZhiBoShi HD 1,rtp://233.50.201.201:5140
+ZhiBoShi HD 2,rtp://233.50.201.202:5139
+ZhiBoShi HD 4,rtp://233.50.201.204:5140
+ZhiBoShi HD 5,rtp://233.50.201.205:5140
+ZhiBoShi HD 6,rtp://233.50.201.206:5140
+ZhiBoShi HD 7,rtp://233.50.201.207:5140
+ZhiBoShi 9,rtp://233.50.201.209:5140
+ZhiBoShi 11,rtp://233.50.201.211:5140
+ZhiBoShi 13,rtp://233.50.201.213:5140
+ZhiBoShi 15,rtp://233.50.201.215:5140
+CCTV-1,rtp://233.50.201.216:5140
+CCTV-1,rtp://233.50.201.219:5140
+ZJ-Weishi,rtp://233.50.201.221:5140
+CCTV-1 HD,rtp://233.50.201.222:5140
+ZJ-ShumaShidai,rtp://233.50.201.223:5140
+864-HD-NiaoKan,rtp://233.50.201.224:5140
+867-HD-TiBuXi,rtp://233.50.201.227:5140
+LB_BaiJinJuChang_M,rtp://233.50.201.234:5139
+LB_QingGanJuChang_M,rtp://233.50.201.242:5140
+
+#EXTINF:-1,中央一套高清
+http://r.acgn.xyz:8800/udp/233.50.201.118:5140
+#EXTINF:-1,浙江卫视高清
+http://r.acgn.xyz:8800/udp/233.50.201.100:5140
+#EXTINF:-1,钱江频道高清
+http://r.acgn.xyz:8800/udp/233.50.201.132:5140
+#EXTINF:-1,浙江经视高清
+http://r.acgn.xyz:8800/udp/233.50.201.133:5140
+#EXTINF:-1,教科影视高清
+http://r.acgn.xyz:8800/udp/233.50.201.134:5140
+#EXTINF:-1,浙江新闻高清
+http://r.acgn.xyz:8800/udp/233.50.201.137:5140
+#EXTINF:-1,民生休闲高清
+http://r.acgn.xyz:8800/udp/233.50.201.136:5140
+#EXTINF:-1,浙江少儿高清
+http://r.acgn.xyz:8800/udp/233.50.201.138:5140
+#EXTINF:-1,好易购1高清
+http://r.acgn.xyz:8800/udp/233.50.201.248:5140
+#EXTINF:-1,台州一套测试
+http://r.acgn.xyz:8800/udp/233.50.201.157:5140
+#EXTINF:-1,好易购2
+http://r.acgn.xyz:8800/udp/233.50.201.77:5140
+#EXTINF:-1,好莱坞电影
+http://r.acgn.xyz:8800/udp/233.50.201.228:5140
+#EXTINF:-1,院线大片
+http://r.acgn.xyz:8800/udp/233.50.201.229:5140
+#EXTINF:-1,喜剧电影
+http://r.acgn.xyz:8800/udp/233.50.201.249:5140
+#EXTINF:-1,经典港片
+http://r.acgn.xyz:8800/udp/233.50.201.250:5140
+#EXTINF:-1,快乐购
+http://r.acgn.xyz:8800/udp/233.50.201.97:5140
+#EXTINF:-1,中央少儿高清
+http://r.acgn.xyz:8800/udp/233.50.201.124:5140
+#EXTINF:-1,聚鲨环球精选
+http://r.acgn.xyz:8800/udp/233.50.201.91:5140
+#EXTINF:-1,央广购物
+http://r.acgn.xyz:8800/udp/233.50.201.93:5140
+#EXTINF:-1,中央二套高清
+http://r.acgn.xyz:8800/udp/233.50.201.119:5140
+#EXTINF:-1,中央三套高清
+http://r.acgn.xyz:8800/udp/233.50.201.196:5140
+#EXTINF:-1,中央四套
+http://r.acgn.xyz:8800/udp/233.50.201.4:5140
+#EXTINF:-1,中央五套高清
+http://r.acgn.xyz:8800/udp/233.50.201.197:5140
+#EXTINF:-1,中央六套高清
+http://r.acgn.xyz:8800/udp/233.50.201.198:5140
+#EXTINF:-1,中央七套高清
+http://r.acgn.xyz:8800/udp/233.50.201.120:5140
+#EXTINF:-1,中央八套高清
+http://r.acgn.xyz:8800/udp/233.50.201.199:5140
+#EXTINF:-1,中央纪录高清
+http://r.acgn.xyz:8800/udp/233.50.201.121:5140
+#EXTINF:-1,中央科教高清
+http://r.acgn.xyz:8800/udp/233.50.201.122:5140
+#EXTINF:-1,中央戏曲
+http://r.acgn.xyz:8800/udp/233.50.201.11:5140
+#EXTINF:-1,中央十二高清
+http://r.acgn.xyz:8800/udp/233.50.201.123:5140
+#EXTINF:-1,中央新闻高清
+http://r.acgn.xyz:8800/udp/233.50.201.246:5140
+#EXTINF:-1,中央音乐
+http://r.acgn.xyz:8800/udp/233.50.201.15:5140
+#EXTINF:-1,CCTV5+高清
+http://r.acgn.xyz:8800/udp/233.50.201.220:5140
+#EXTINF:-1,中央十七套
+http://r.acgn.xyz:8800/udp/233.50.201.35:5140
+#EXTINF:-1,好享购
+http://r.acgn.xyz:8800/udp/233.50.201.95:5140
+#EXTINF:-1,优购物
+http://r.acgn.xyz:8800/udp/233.50.201.94:5140
+#EXTINF:-1,家有购物
+http://r.acgn.xyz:8800/udp/233.50.201.90:5140
+#EXTINF:-1,芒果热综
+http://r.acgn.xyz:8800/udp/233.50.201.251:5140
+#EXTINF:-1,首映电影
+http://r.acgn.xyz:8800/udp/233.50.201.239:5140
+#EXTINF:-1,环球电影
+http://r.acgn.xyz:8800/udp/233.50.201.231:5140
+#EXTINF:-1,动作影院
+http://r.acgn.xyz:8800/udp/233.50.201.232:5140
+#EXTINF:-1,欧美影院
+http://r.acgn.xyz:8800/udp/233.50.201.230:5140
+#EXTINF:-1,华语影院
+http://r.acgn.xyz:8800/udp/233.50.201.240:5140
+#EXTINF:-1,黄金剧场
+http://r.acgn.xyz:8800/udp/233.50.201.241:5140
+#EXTINF:-1,白金剧场
+http://r.acgn.xyz:8800/udp/233.50.201.234:5140
+#EXTINF:-1,谍战剧场
+http://r.acgn.xyz:8800/udp/233.50.201.235:5140
+#EXTINF:-1,古装剧场
+http://r.acgn.xyz:8800/udp/233.50.201.236:5140
+#EXTINF:-1,情感剧场
+http://r.acgn.xyz:8800/udp/233.50.201.242:5140
+#EXTINF:-1,东方卫视高清
+http://r.acgn.xyz:8800/udp/233.50.201.125:5140
+#EXTINF:-1,湖南卫视高清
+http://r.acgn.xyz:8800/udp/233.50.201.103:5140
+#EXTINF:-1,安徽卫视高清
+http://r.acgn.xyz:8800/udp/233.50.201.113:5140
+#EXTINF:-1,江苏卫视高清
+http://r.acgn.xyz:8800/udp/233.50.201.106:5140
+#EXTINF:-1,北京卫视高清
+http://r.acgn.xyz:8800/udp/233.50.201.107:5140
+#EXTINF:-1,重庆卫视高清
+http://r.acgn.xyz:8800/udp/233.50.201.143:5140
+#EXTINF:-1,贵州卫视高清
+http://r.acgn.xyz:8800/udp/233.50.201.142:5140
+#EXTINF:-1,四川卫视高清
+http://r.acgn.xyz:8800/udp/233.50.201.139:5140
+#EXTINF:-1,广东卫视高清
+http://r.acgn.xyz:8800/udp/233.50.201.102:5140
+#EXTINF:-1,吉林卫视
+http://r.acgn.xyz:8800/udp/233.50.201.48:5140
+#EXTINF:-1,动漫新番
+http://r.acgn.xyz:8800/udp/233.50.201.252:5140
+#EXTINF:-1,天津卫视高清
+http://r.acgn.xyz:8800/udp/233.50.201.104:5140
+#EXTINF:-1,云南卫视
+http://r.acgn.xyz:8800/udp/233.50.201.46:5140
+#EXTINF:-1,河北卫视高清
+http://r.acgn.xyz:8800/udp/233.50.201.140:5140
+#EXTINF:-1,黑龙江高清
+http://r.acgn.xyz:8800/udp/233.50.201.115:5140
+#EXTINF:-1,海南卫视
+http://r.acgn.xyz:8800/udp/233.50.201.55:5140
+#EXTINF:-1,山东卫视高清
+http://r.acgn.xyz:8800/udp/233.50.201.105:5140
+#EXTINF:-1,东南卫视高清
+http://r.acgn.xyz:8800/udp/233.50.201.146:5140
+#EXTINF:-1,湖北卫视高清
+http://r.acgn.xyz:8800/udp/233.50.201.114:5140
+#EXTINF:-1,辽宁卫视高清
+http://r.acgn.xyz:8800/udp/233.50.201.141:5140
+#EXTINF:-1,江西卫视高清
+http://r.acgn.xyz:8800/udp/233.50.201.145:5140
+#EXTINF:-1,青海卫视
+http://r.acgn.xyz:8800/udp/233.50.201.65:5140
+#EXTINF:-1,西藏卫视
+http://r.acgn.xyz:8800/udp/233.50.201.70:5140
+#EXTINF:-1,陕西卫视
+http://r.acgn.xyz:8800/udp/233.50.201.59:5140
+#EXTINF:-1,兵团卫视
+http://r.acgn.xyz:8800/udp/233.50.201.72:5140
+#EXTINF:-1,山西卫视
+http://r.acgn.xyz:8800/udp/233.50.201.51:5140
+#EXTINF:-1,宁夏卫视
+http://r.acgn.xyz:8800/udp/233.50.201.57:5140
+#EXTINF:-1,河南卫视高清
+http://r.acgn.xyz:8800/udp/233.50.201.144:5140
+#EXTINF:-1,广西卫视
+http://r.acgn.xyz:8800/udp/233.50.201.49:5140
+#EXTINF:-1,金鹰卡通
+http://r.acgn.xyz:8800/udp/233.50.201.73:5140
+#EXTINF:-1,咕噜动画
+http://r.acgn.xyz:8800/udp/233.50.201.238:5140
+#EXTINF:-1,哈哈炫动
+http://r.acgn.xyz:8800/udp/233.50.201.74:5140
+#EXTINF:-1,第二课堂
+http://r.acgn.xyz:8800/udp/233.50.201.245:5140
+#EXTINF:-1,中国教育一套
+http://r.acgn.xyz:8800/udp/233.50.201.75:5140
+#EXTINF:-1,中国教育四套
+http://r.acgn.xyz:8800/udp/233.50.201.172:5140
+#EXTINF:-1,CIBN斗牛财经
+http://r.acgn.xyz:8800/udp/233.50.201.247:5140
+#EXTINF:-1,深圳卫视高清
+http://r.acgn.xyz:8800/udp/233.50.201.101:5140
+#EXTINF:-1,内蒙古卫视
+http://r.acgn.xyz:8800/udp/233.50.201.148:5140
+#EXTINF:-1,甘肃卫视
+http://r.acgn.xyz:8800/udp/233.50.201.149:5140
+#EXTINF:-1,新视觉
+http://r.acgn.xyz:8800/udp/233.50.201.244:5140
+#EXTINF:-1,中央一套
+http://r.acgn.xyz:8800/udp/233.50.201.1:5140
+#EXTINF:-1,浙江卫视
+http://r.acgn.xyz:8800/udp/233.50.201.27:5140
+#EXTINF:-1,钱江频道
+http://r.acgn.xyz:8800/udp/233.50.201.28:5140
+#EXTINF:-1,浙江经视
+http://r.acgn.xyz:8800/udp/233.50.201.29:5140
+#EXTINF:-1,教科影视
+http://r.acgn.xyz:8800/udp/233.50.201.30:5140
+#EXTINF:-1,浙江新闻
+http://r.acgn.xyz:8800/udp/233.50.201.34:5140
+#EXTINF:-1,民生休闲
+http://r.acgn.xyz:8800/udp/233.50.201.32:5140
+#EXTINF:-1,浙江少儿
+http://r.acgn.xyz:8800/udp/233.50.201.33:5140
+#EXTINF:-1,热门综艺
+http://r.acgn.xyz:8800/udp/233.50.201.233:5140
+#EXTINF:-1,健康养生
+http://r.acgn.xyz:8800/udp/233.50.201.237:5140
+#EXTINF:-1,高分剧场
+http://r.acgn.xyz:8800/udp/233.50.201.253:5140
+#EXTINF:-1,探索解密
+http://r.acgn.xyz:8800/udp/233.50.201.254:5140
+#EXTINF:-1,精品纪录
+http://r.acgn.xyz:8800/udp/233.50.201.89:5140
+#EXTINF:-1,美味厨房
+http://r.acgn.xyz:8800/udp/233.50.201.150:5140
+#EXTINF:-1,中央二套
+http://r.acgn.xyz:8800/udp/233.50.201.2:5140
+#EXTINF:-1,中央三套
+http://r.acgn.xyz:8800/udp/233.50.201.16:5140
+#EXTINF:-1,中央五套
+http://r.acgn.xyz:8800/udp/233.50.201.17:5140
+#EXTINF:-1,中央六套
+http://r.acgn.xyz:8800/udp/233.50.201.18:5140
+#EXTINF:-1,中央七套
+http://r.acgn.xyz:8800/udp/233.50.201.7:5140
+#EXTINF:-1,中央八套
+http://r.acgn.xyz:8800/udp/233.50.201.19:5140
+#EXTINF:-1,中央科教
+http://r.acgn.xyz:8800/udp/233.50.201.10:5140
+#EXTINF:-1,中央十二套
+http://r.acgn.xyz:8800/udp/233.50.201.12:5140
+#EXTINF:-1,中央新闻
+http://r.acgn.xyz:8800/udp/233.50.201.13:5140
+#EXTINF:-1,中央少儿
+http://r.acgn.xyz:8800/udp/233.50.201.14:5140
+#EXTINF:-1,CGTN
+http://r.acgn.xyz:8800/udp/233.50.201.126:5140
+#EXTINF:-1,CGTN-Español
+http://r.acgn.xyz:8800/udp/233.50.201.36:5140
+#EXTINF:-1,CGTN-Français
+http://r.acgn.xyz:8800/udp/233.50.201.37:5140
+#EXTINF:-1,CGTN-العربية
+http://r.acgn.xyz:8800/udp/233.50.201.38:5140
+#EXTINF:-1,CGTN-Pусский
+http://r.acgn.xyz:8800/udp/233.50.201.39:5140
+#EXTINF:-1,东方卫视
+http://r.acgn.xyz:8800/udp/233.50.201.68:5140
+#EXTINF:-1,湖南卫视
+http://r.acgn.xyz:8800/udp/233.50.201.52:5140
+#EXTINF:-1,安徽卫视
+http://r.acgn.xyz:8800/udp/233.50.201.62:5140
+#EXTINF:-1,江苏卫视
+http://r.acgn.xyz:8800/udp/233.50.201.41:5140
+#EXTINF:-1,北京卫视
+http://r.acgn.xyz:8800/udp/233.50.201.40:5140
+#EXTINF:-1,重庆卫视
+http://r.acgn.xyz:8800/udp/233.50.201.66:5140
+#EXTINF:-1,贵州卫视
+http://r.acgn.xyz:8800/udp/233.50.201.69:5140
+#EXTINF:-1,四川卫视
+http://r.acgn.xyz:8800/udp/233.50.201.61:5140
+#EXTINF:-1,广东卫视
+http://r.acgn.xyz:8800/udp/233.50.201.56:5140
+#EXTINF:-1,天津卫视
+http://r.acgn.xyz:8800/udp/233.50.201.47:5140
+#EXTINF:-1,河北卫视
+http://r.acgn.xyz:8800/udp/233.50.201.50:5140
+#EXTINF:-1,黑龙江卫视
+http://r.acgn.xyz:8800/udp/233.50.201.42:5140
+#EXTINF:-1,山东卫视
+http://r.acgn.xyz:8800/udp/233.50.201.64:5140
+#EXTINF:-1,东南卫视
+http://r.acgn.xyz:8800/udp/233.50.201.58:5140
+#EXTINF:-1,湖北卫视
+http://r.acgn.xyz:8800/udp/233.50.201.43:5140
+#EXTINF:-1,辽宁卫视
+http://r.acgn.xyz:8800/udp/233.50.201.60:5140
+#EXTINF:-1,江西卫视
+http://r.acgn.xyz:8800/udp/233.50.201.53:5140
+#EXTINF:-1,河南卫视
+http://r.acgn.xyz:8800/udp/233.50.201.44:5140
+#EXTINF:-1,深圳卫视
+http://r.acgn.xyz:8800/udp/233.50.201.45:5140
+#EXTINF:-1,体育赛事
+http://r.acgn.xyz:8800/udp/233.50.201.54:5140
+#EXTINF:-1,4K超清
+http://r.acgn.xyz:8800/udp/233.50.201.243:5140
+#EXTINF:-1,浙江之声
+http://r.acgn.xyz:8800/udp/233.50.201.79:5140
+#EXTINF:-1,经济频道
+http://r.acgn.xyz:8800/udp/233.50.201.81:5140
+#EXTINF:-1,音乐调频
+http://r.acgn.xyz:8800/udp/233.50.201.82:5140
+#EXTINF:-1,民生资讯
+http://r.acgn.xyz:8800/udp/233.50.201.86:5140
+#EXTINF:-1,交通之声
+http://r.acgn.xyz:8800/udp/233.50.201.83:5140
+#EXTINF:-1,城市之声
+http://r.acgn.xyz:8800/udp/233.50.201.85:5140
+#EXTINF:-1,旅游之声
+http://r.acgn.xyz:8800/udp/233.50.201.84:5140
+#EXTINF:-1,浙江新闻广播
+http://r.acgn.xyz:8800/udp/233.50.201.80:5140
+#EXTINF:-1,极速体育
+http://r.acgn.xyz:8800/udp/233.50.201.201:5140
+#EXTINF:-1,超凡体育
+http://r.acgn.xyz:8800/udp/233.50.201.202:5140
+#EXTINF:-1,新威体育
+http://r.acgn.xyz:8800/udp/233.50.201.203:5140
+#EXTINF:-1,久看体育
+http://r.acgn.xyz:8800/udp/233.50.201.204:5140
+#EXTINF:-1,赛事直播-1
+http://r.acgn.xyz:8800/udp/233.50.201.205:5140
+#EXTINF:-1,赛事直播-2
+http://r.acgn.xyz:8800/udp/233.50.201.206:5140
+#EXTINF:-1,赛事直播-3
+http://r.acgn.xyz:8800/udp/233.50.201.207:5140
+#EXTINF:-1,极速体育HD
+http://r.acgn.xyz:8800/udp/233.50.201.209:5140
+#EXTINF:-1,超凡体育HD
+http://r.acgn.xyz:8800/udp/233.50.201.210:5140
+#EXTINF:-1,新威体育HD
+http://r.acgn.xyz:8800/udp/233.50.201.211:5140
+#EXTINF:-1,久看体育HD
+http://r.acgn.xyz:8800/udp/233.50.201.212:5140
+#EXTINF:-1,赛事直播-1HD
+http://r.acgn.xyz:8800/udp/233.50.201.213:5140
+#EXTINF:-1,赛事直播-2HD
+http://r.acgn.xyz:8800/udp/233.50.201.214:5140
+#EXTINF:-1,赛事直播-3HD
+http://r.acgn.xyz:8800/udp/233.50.201.215:5140
+#EXTINF:-1,广电体育频道1
+http://r.acgn.xyz:8800/udp/233.50.201.130:5140
+#EXTINF:-1,广电体育频道2
+http://r.acgn.xyz:8800/udp/233.50.201.131:5140
+#EXTINF:-1,测试SD4
+http://r.acgn.xyz:8800/udp/233.50.201.219:5140
+#EXTINF:-1,在线执法
+http://r.acgn.xyz:8800/udp/233.50.201.224:5140
+#EXTINF:-1,4K测试1
+http://r.acgn.xyz:8800/udp/233.50.201.225:5140
+#EXTINF:-1,珠峰直播1
+http://r.acgn.xyz:8800/udp/233.50.201.226:5140
+#EXTINF:-1,珠峰直播2
+http://r.acgn.xyz:8800/udp/233.50.201.227:5140
+#EXTINF:-1,导视频道
+http://r.acgn.xyz:8800/udp/233.50.201.20:5140
+#EXTINF:-1,高清导视
+http://r.acgn.xyz:8800/udp/233.50.201.108:5140
