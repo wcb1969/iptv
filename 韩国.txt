@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",KBS-1
+http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",KBS-2
+http://ye23.vip/z7z8/2021/kbs2020.php?id=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",KBS-WORLD
+http://ye23.vip/z7z8/2021/kbs2020.php?id=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",TJB SBS
+http://ye23.win/iptv/korea2021.php?id=TJB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",CJB SBS
+http://ye23.win/iptv/korea2021.php?id=CJB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",KBC SBS
+http://ye23.win/iptv/korea2021.php?id=KBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",SBS
+http://ye23.win/iptv/sbs5.1.php?id=S01
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",SBS-Sports
+http://ye23.win/iptv/sbs5.1.php?id=S02
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",SBS-Plus
+http://ye23.win/iptv/sbs5.1.php?id=S03
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",SBS-Fun
+http://ye23.win/iptv/sbs5.1.php?id=S04
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",SBS-Golf
+http://ye23.win/iptv/sbs5.1.php?id=S05
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",SBS-Biz
+http://ye23.win/iptv/sbs5.1.php?id=S06
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",SBS-MTV
+http://ye23.win/iptv/sbs5.1.php?id=S09
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",SBS-GorealraM
+http://ye23.win/iptv/sbs5.1.php?id=S19
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",SBS-POWER
+http://ye23.win/iptv/sbs5.1.php?id=S07
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",SBS-LOVE
+http://ye23.win/iptv/sbs5.1.php?id=S08
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",Good TV
+http://ye23.win/iptv/korea2021.php?id=Good
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",cpbc
+http://ye23.win/iptv/korea2021.php?id=cpbc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",bbstv
+http://ye23.win/iptv/korea2021.php?id=bbstv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",myStream
+http://ye23.win/iptv/korea2021.php?id=myStream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",MTN
+http://ye23.win/iptv/korea2021.php?id=MTN
+#EXTINF:-1 tvg-id="701" tvg-name="" tvg-logo="" group-title="韩国频道",FTV
+http://ye23.win/iptv/korea2021.php?id=FTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",Channel A
+http://ye23.win/iptv/korea2021.php?id=Channela
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",korea TV
+http://ye23.win/iptv/korea2021.php?id=korea
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",YTN
+http://ye23.win/iptv/korea2021.php?id=ytn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",Channel A
+http://ye23.win/iptv/korea2021.php?id=Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",TBS
+http://ye23.win/iptv/korea2021.php?id=TBS-a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",KCTV
+http://ye23.win/iptv/korea2021.php?id=KCTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",EBS 1
+http://ye23.win/iptv/korea2021.php?id=EBS1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",EBS 2
+http://ye23.win/iptv/korea2021.php?id=EBS2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",EBS i
+http://ye23.win/iptv/korea2021.php?id=EBSi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",EBS+2
+http://ye23.win/iptv/korea2021.php?id=EBS_2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",EBS E
+http://ye23.win/iptv/korea2021.php?id=EBS_E
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",EBS KIDS
+http://ye23.win/iptv/korea2021.php?id=EBS_KIDS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",dema
+http://ye23.win/iptv/korea2021.php?id=dema
+#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="韩国频道",阿里郎WORLD
+http://ye23.win/iptv/korea2021.php?id=arirang_1
+#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="韩国频道",阿里郎WORLD
+http://ye23.win/iptv/korea2021.php?id=arirang_2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",KBC 광주방송(SBS 光州)
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",국악방송
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",MTN
+http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",NBS Korea Agricultural Br
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",TJB 대전방송(SBS 大田)
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",여수MBC(MBC Yeosu)
+https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",대전MBC(MBC Daejeon)
+https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",선거방송
+http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",KCTV
+http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="韩国频道",ArirangTV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",MBC韩剧频道
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",KBS 国际频道
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
