@@ -60,7 +60,7 @@ CCTV卫生健康,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
 山东卫视,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000294803.m3u8
 
 缓冲IP
-移动：36.152.71.75 
+移动：61.164.158.251
 
 电信：106.225.230.119
 
