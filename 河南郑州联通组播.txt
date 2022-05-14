@@ -1,0 +1,367 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo=CCTV1综合.png tvg-name=CCTV1综合(1080i) group-title=央视频道,CCTV1综合(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.73:1102
+#EXTINF:-1 tvg-logo=CCTV2财经.png tvg-name=CCTV2财经(1080i) group-title=央视频道,CCTV2财经(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.74:1103
+#EXTINF:-1 tvg-logo=CCTV3综艺.png tvg-name=CCTV3综艺(1080i) group-title=央视频道,CCTV3综艺(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.158:1194
+#EXTINF:-1 tvg-logo=CCTV4中文国际.png tvg-name=CCTV4中文国际(1080i) group-title=央视频道,CCTV4中文国际(1080i)
+http://xingyang.net.cn:4000/udp/225.1.5.30:1333
+#EXTINF:-1 tvg-logo=CCTV5体育.png tvg-name=CCTV5体育(1080i) group-title=央视频道,CCTV5体育(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.159:1195
+#EXTINF:-1 tvg-logo=CCTV6电影.png tvg-name=CCTV6电影(1080i) group-title=央视频道,CCTV6电影(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.160:1196
+#EXTINF:-1 tvg-logo=CCTV7国防军事.png tvg-name=CCTV7国防军事(1080i) group-title=央视频道,CCTV7国防军事(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.76:1105
+#EXTINF:-1 tvg-logo=CCTV8电视剧.png tvg-name=CCTV8电视剧(1080i) group-title=央视频道,CCTV8电视剧(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.161:1197
+#EXTINF:-1 tvg-logo=CCTV9记录.png tvg-name=CCTV9记录(1080p) group-title=央视频道,CCTV9记录(1080p)
+http://xingyang.net.cn:4000/udp/225.1.4.77:1106
+#EXTINF:-1 tvg-logo=CCTV10科教.png tvg-name=CCTV10科教(1080i) group-title=央视频道,CCTV10科教(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.78:1107
+#EXTINF:-1 tvg-logo=CCTV11戏曲.png tvg-name=CCTV11戏曲(1080i) group-title=央视频道,CCTV11戏曲(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.215:1268
+#EXTINF:-1 tvg-logo=CCTV12社会与法.png tvg-name=CCTV12社会与法(1080i) group-title=央视频道,CCTV12社会与法(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.79:1108
+#EXTINF:-1 tvg-logo=CCTV13新闻.png tvg-name=CCTV13新闻(1080i) group-title=央视频道,CCTV13新闻(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.113:1293
+#EXTINF:-1 tvg-logo=CCTV14少儿.png tvg-name=CCTV14少儿(1080i) group-title=央视频道,CCTV14少儿(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.80:1109
+#EXTINF:-1 tvg-logo=CCTV15音乐.png tvg-name=CCTV15音乐(1080i) group-title=央视频道,CCTV15音乐(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.216:1269
+#EXTINF:-1 tvg-logo=CCTV16奥林匹克.png tvg-name=CCTV16奥林匹克(1080i) group-title=央视频道,CCTV16奥林匹克(1080i)
+http://xingyang.net.cn:4000/udp/225.1.5.46:1356
+#EXTINF:-1 tvg-logo=CCTV17农业农村.png tvg-name=CCTV17农业农村(1080i) group-title=央视频道,CCTV17农业农村(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.226:2506
+#EXTINF:-1 tvg-logo=CCTV5+体育赛事.png tvg-name=CCTV5+体育赛事(1080i) group-title=央视频道,CCTV5+体育赛事(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.75:1104
+#EXTINF:-1 tvg-logo=爱上4K.png tvg-name=爱上4K(2160p) group-title=4K频道,爱上4K(2160p)
+http://xingyang.net.cn:4000/udp/225.1.4.162:1204
+#EXTINF:-1 tvg-logo=HNTV1河南卫视.png tvg-name=HNTV1河南卫视4K(2160p) group-title=省内频道,HNTV1河南卫视4K(2160p)
+http://xingyang.net.cn:4000/udp/225.1.4.254:1300
+#EXTINF:-1 tvg-logo=HNTV2都市频道.png tvg-name=HNTV2都市频道(1080i) group-title=省内频道,HNTV2都市频道(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.52:1081
+#EXTINF:-1 tvg-logo=HNTV3民生频道.png tvg-name=HNTV3民生频道(1080i) group-title=省内频道,HNTV3民生频道(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.53:1082
+#EXTINF:-1 tvg-logo=HNTV4法治频道.png tvg-name=HNTV4法治频道(1080i) group-title=省内频道,HNTV4法治频道(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.54:1083
+#EXTINF:-1 tvg-logo=HNTV5电视剧频道.png tvg-name=HNTV5电视剧频道(1080i) group-title=省内频道,HNTV5电视剧频道(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.55:1084
+#EXTINF:-1 tvg-logo=HNTV6新闻频道.png tvg-name=HNTV6新闻频道(1080i) group-title=省内频道,HNTV6新闻频道(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.56:1085
+#EXTINF:-1 tvg-logo=HNTV8公共频道.png tvg-name=HNTV8公共频道(1080i) group-title=省内频道,HNTV8公共频道(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.58:1087
+#EXTINF:-1 tvg-logo=HNTV9乡村频道.png tvg-name=HNTV9乡村频道(1080i) group-title=省内频道,HNTV9乡村频道(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.120:1149
+#EXTINF:-1 tvg-logo=HNTV10河南国际.png tvg-name=HNTV10河南国际(1080i) group-title=省内频道,HNTV10河南国际(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.102:1131
+#EXTINF:-1 tvg-logo=HNTV戏曲.png tvg-name=HNTV戏曲(1080p) group-title=省内频道,HNTV戏曲(1080p)
+http://xingyang.net.cn:4000/udp/225.1.4.99:1128
+#EXTINF:-1 tvg-logo=HNTV文博.png tvg-name=HNTV文博(1080p) group-title=省内频道,HNTV文博(1080p)
+http://xingyang.net.cn:4000/udp/225.1.4.100:1129
+#EXTINF:-1 tvg-logo=HNTV功夫.png tvg-name=HNTV功夫(1080p) group-title=省内频道,HNTV功夫(1080p)
+http://xingyang.net.cn:4000/udp/225.1.4.101:1130
+#EXTINF:-1 tvg-logo=HNTV睛彩中原.png tvg-name=HNTV睛彩中原(1080p) group-title=省内频道,HNTV睛彩中原(1080p)
+http://xingyang.net.cn:4000/udp/225.1.4.163:1203
+#EXTINF:-1 tvg-logo=HNTV移动戏曲.png tvg-name=HNTV移动戏曲(1080p) group-title=省内频道,HNTV移动戏曲(1080p)
+http://xingyang.net.cn:4000/udp/225.1.4.206:1254
+#EXTINF:-1 tvg-logo=HNTV移动电视.png tvg-name=HNTV移动电视(1080p) group-title=省内频道,HNTV移动电视(1080p)
+http://xingyang.net.cn:4000/udp/225.1.5.40:1350
+#EXTINF:-1 tvg-logo=HNTV健康中原.png tvg-name=HNTV健康中原(1080i) group-title=省内频道,健康中原(1080i)
+http://xingyang.net.cn:4000/udp/225.1.5.48:1358
+#EXTINF:-1 tvg-logo=HNTV调解剧场.png tvg-name=HNTV调解剧场(1080p) group-title=省内频道,HNTV调解剧场(1080p)
+http://xingyang.net.cn:4000/udp/225.1.5.49:1359
+#EXTINF:-1 tvg-logo=河南IPTV-导视.png tvg-name=河南IPTV-导视(1080p) group-title=省内频道,河南IPTV-导视(1080p)
+http://xingyang.net.cn:4000/udp/225.1.4.194:1244
+#EXTINF:-1 tvg-logo=ZZTV1新闻综合.png tvg-name=ZZTV1新闻综合(1080i) group-title=本地频道,ZZTV1新闻综合(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.140:1176
+#EXTINF:-1 tvg-logo=ZZTV2商都频道.png tvg-name=ZZTV2商都频道(1080i) group-title=本地频道,ZZTV2商都频道(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.141:1177
+#EXTINF:-1 tvg-logo=ZZTV3文体旅游.png tvg-name=ZZTV3文体旅游(1080i) group-title=本地频道,ZZTV3文体旅游(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.142:1178
+#EXTINF:-1 tvg-logo=ZZTV4影视戏曲.png tvg-name=ZZTV4影视戏曲(576i) group-title=本地频道,ZZTV4影视戏曲(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.146:1182
+#EXTINF:-1 tvg-logo=ZZTV5妇女儿童.png tvg-name=ZZTV5妇女儿童(1080i) group-title=本地频道,ZZTV5妇女儿童(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.147:1183
+#EXTINF:-1 tvg-logo=ZZTV6都市生活.png tvg-name=ZZTV6都市生活(1080i) group-title=本地频道,ZZTV6都市生活(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.149:1185
+#EXTINF:-1 tvg-logo=ZETV郑州教育台.png tvg-name=ZETV郑州教育台(1080i) group-title=本地频道,ZETV郑州教育台(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.191:1241
+#EXTINF:-1 tvg-logo=新密新闻频道.png tvg-name=新密新闻频道(1080i) group-title=本地频道,新密新闻频道(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.239:1285
+#EXTINF:-1 tvg-logo=登封综合.png tvg-name=登封综合(576i) group-title=本地频道,登封综合(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.240:1286
+#EXTINF:-1 tvg-logo=新郑综合.png tvg-name=新郑综合(1080i) group-title=本地频道,新郑综合(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.243:1289
+#EXTINF:-1 tvg-logo=中牟综合.png tvg-name=中牟综合(1080p) group-title=本地频道,中牟综合(1080p)
+http://xingyang.net.cn:4000/udp/225.1.4.244:1290
+#EXTINF:-1 tvg-logo=巩义综合.png tvg-name=巩义综合(1080p) group-title=本地频道,巩义综合(1080p)
+http://xingyang.net.cn:4000/udp/225.1.5.50:1360
+#EXTINF:-1 tvg-logo=广西卫视.png tvg-name=广西卫视(576i) group-title=卫视频道,广西卫视(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.31:1060
+#EXTINF:-1 tvg-logo=山西卫视.png tvg-name=山西卫视(576p) group-title=卫视频道,山西卫视(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.38:1067
+#EXTINF:-1 tvg-logo=陕西卫视.png tvg-name=陕西卫视(576p) group-title=卫视频道,陕西卫视(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.39:1068
+#EXTINF:-1 tvg-logo=甘肃卫视.png tvg-name=甘肃卫视(576i) group-title=卫视频道,甘肃卫视(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.42:1071
+#EXTINF:-1 tvg-logo=宁夏卫视.png tvg-name=宁夏卫视(576i) group-title=卫视频道,宁夏卫视(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.43:1072
+#EXTINF:-1 tvg-logo=青海卫视.png tvg-name=青海卫视(576i) group-title=卫视频道,青海卫视(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.44:1073
+#EXTINF:-1 tvg-logo=内蒙古卫视.png tvg-name=内蒙古卫视(576p) group-title=卫视频道,内蒙古卫视(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.45:1074
+#EXTINF:-1 tvg-logo=西藏卫视.png tvg-name=西藏卫视(576p) group-title=卫视频道,西藏卫视(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.46:1075
+#EXTINF:-1 tvg-logo=新疆卫视.png tvg-name=新疆卫视(576i) group-title=卫视频道,新疆卫视(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.47:1076
+#EXTINF:-1 tvg-logo=北京卫视.png tvg-name=北京卫视(1080i) group-title=卫视频道,北京卫视(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.81:1110
+#EXTINF:-1 tvg-logo=湖南卫视.png tvg-name=湖南卫视(1080i) group-title=卫视频道,湖南卫视(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.82:1111
+#EXTINF:-1 tvg-logo=江苏卫视.png tvg-name=江苏卫视(1080i) group-title=卫视频道,江苏卫视(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.83:1112
+#EXTINF:-1 tvg-logo=浙江卫视.png tvg-name=浙江卫视(1080i) group-title=卫视频道,浙江卫视(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.84:1113
+#EXTINF:-1 tvg-logo=东方卫视.png tvg-name=东方卫视(1080i) group-title=卫视频道,东方卫视(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.85:1114
+#EXTINF:-1 tvg-logo=天津卫视.png tvg-name=天津卫视(1080p) group-title=卫视频道,天津卫视(1080p)
+http://xingyang.net.cn:4000/udp/225.1.4.86:1115
+#EXTINF:-1 tvg-logo=山东卫视.png tvg-name=山东卫视(1080i) group-title=卫视频道,山东卫视(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.88:1117
+#EXTINF:-1 tvg-logo=安徽卫视.png tvg-name=安徽卫视(1080p) group-title=卫视频道,安徽卫视(1080p)
+http://xingyang.net.cn:4000/udp/225.1.4.87:1116
+#EXTINF:-1 tvg-logo=湖北卫视.png tvg-name=湖北卫视(1080p) group-title=卫视频道,湖北卫视(1080p)
+http://xingyang.net.cn:4000/udp/225.1.4.89:1118
+#EXTINF:-1 tvg-logo=深圳卫视.png tvg-name=深圳卫视(1080i) group-title=卫视频道,深圳卫视(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.90:1119
+#EXTINF:-1 tvg-logo=黑龙江卫视.png tvg-name=黑龙江卫视(1080i) group-title=卫视频道,黑龙江卫视(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.91:1120
+#EXTINF:-1 tvg-logo=厦门卫视.png tvg-name=厦门卫视(576p) group-title=卫视频道,厦门卫视(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.95:1124
+#EXTINF:-1 tvg-logo=新疆兵团卫视.png tvg-name=新疆兵团卫视(576p) group-title=卫视频道,新疆兵团卫视(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.97:1126
+#EXTINF:-1 tvg-logo=贵州卫视.png tvg-name=贵州卫视(1080p) group-title=卫视频道,贵州卫视(1080p)
+http://xingyang.net.cn:4000/udp/225.1.4.122:1302
+#EXTINF:-1 tvg-logo=河北卫视.png tvg-name=河北卫视(1080p) group-title=卫视频道,河北卫视(1080p)
+http://xingyang.net.cn:4000/udp/225.1.4.123:1304
+#EXTINF:-1 tvg-logo=江西卫视.png tvg-name=江西卫视(1080i) group-title=卫视频道,江西卫视(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.139:1305
+#EXTINF:-1 tvg-logo=四川卫视.png tvg-name=四川卫视(1080i) group-title=卫视频道,四川卫视(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.151:1306
+#EXTINF:-1 tvg-logo=云南卫视.png tvg-name=云南卫视(1080i) group-title=卫视频道,云南卫视(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.152:1307
+#EXTINF:-1 tvg-logo=重庆卫视.png tvg-name=重庆卫视(1080i) group-title=卫视频道,重庆卫视(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.157:1308
+#EXTINF:-1 tvg-logo=山东教育卫视.png tvg-name=山东教育卫视(576p) group-title=卫视频道,山东教育卫视(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.164:1205
+#EXTINF:-1 tvg-logo=广东卫视.png tvg-name=广东卫视(1080i) group-title=卫视频道,广东卫视(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.166:1207
+#EXTINF:-1 tvg-logo=辽宁卫视.png tvg-name=辽宁卫视(1080i) group-title=卫视频道,辽宁卫视(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.167:1208
+#EXTINF:-1 tvg-logo=吉林卫视.png tvg-name=吉林卫视(1080i) group-title=卫视频道,吉林卫视(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.174:1309
+#EXTINF:-1 tvg-logo=海南卫视.png tvg-name=海南卫视(1080i) group-title=卫视频道,海南卫视(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.195:1310
+#EXTINF:-1 tvg-logo=东南卫视.png tvg-name=东南卫视(1080p) group-title=卫视频道,东南卫视(1080p)
+http://xingyang.net.cn:4000/udp/225.1.4.228:1274
+#EXTINF:-1 tvg-logo=三沙卫视.png tvg-name=三沙卫视(576i) group-title=卫视频道,三沙卫视(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.234:1280
+#EXTINF:-1 tvg-logo=CHC高清电影.png tvg-name=CHC高清电影(1080i) group-title=付费频道,CHC高清电影(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.207:1260
+#EXTINF:-1 tvg-logo=CHC动作电影.png tvg-name=CHC动作电影(1080i) group-title=付费频道,CHC动作电影(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.208:1261
+#EXTINF:-1 tvg-logo=CHC家庭影院.png tvg-name=CHC家庭影院(1080i) group-title=付费频道,CHC家庭影院(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.209:1262
+#EXTINF:-1 tvg-logo=北京卡酷少儿.png tvg-name=北京卡酷少儿(576i) group-title=动画频道,北京卡酷少儿(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.48:1077
+#EXTINF:-1 tvg-logo=湖南金鹰卡通.png tvg-name=湖南金鹰卡通(576p) group-title=动画频道,湖南金鹰卡通(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.49:1078
+#EXTINF:-1 tvg-logo=广东嘉佳卡通.png tvg-name=广东嘉佳卡通(576i) group-title=动画频道,广东嘉佳卡通(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.92:1121
+#EXTINF:-1 tvg-logo=少儿动画.png tvg-name=少儿动画(576i) group-title=动画频道,少儿动画(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.189:1238
+#EXTINF:-1 tvg-logo=新动漫.png tvg-name=新动漫(576i) group-title=动画频道,新动漫(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.212:1265
+#EXTINF:-1 tvg-logo=CETV1中国教育.png tvg-name=CETV1中国教育(1080p) group-title=国内频道,CETV1中国教育(1080p)
+http://xingyang.net.cn:4000/udp/225.1.4.173:1712
+#EXTINF:-1 tvg-logo=CETV2中国教育.png tvg-name=CETV2中国教育(576p) group-title=国内频道,CETV2中国教育(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.165:1206
+#EXTINF:-1 tvg-logo=CETV4中国教育.png tvg-name=CETV4中国教育(576p) group-title=国内频道,CETV4中国教育(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.171:1710
+#EXTINF:-1 tvg-logo=上海纪实人文.png tvg-name=上海纪实人文(1080i) group-title=国内频道,上海纪实人文(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.170:1222
+#EXTINF:-1 tvg-logo=湖南金鹰纪实.png tvg-name=湖南金鹰纪实(1080p) group-title=国内频道,湖南金鹰纪实(1080p)
+http://xingyang.net.cn:4000/udp/225.1.4.172:1711
+#EXTINF:-1 tvg-logo=湖南先锋乒羽.png tvg-name=湖南先锋乒羽(576i) group-title=国内频道,湖南先锋乒羽(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.210:1263
+#EXTINF:-1 tvg-logo=SARFT广电国学频道.png tvg-name=SARFT广电国学频道(1080i) group-title=国内频道,SARFT广电国学频道(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.196:1311
+#EXTINF:-1 tvg-logo=CCTV4中文国际欧洲.png tvg-name=CCTV4中文国际欧洲(1080i) group-title=外语频道,CCTV4中文国际欧洲(1080i)
+http://xingyang.net.cn:4000/udp/225.1.5.31:1342
+#EXTINF:-1 tvg-logo=CCTV4中文国际美洲.png tvg-name=CCTV4中文国际美洲(1080i) group-title=外语频道,CCTV4中文国际美洲(1080i)
+http://xingyang.net.cn:4000/udp/225.1.5.32:1343
+#EXTINF:-1 tvg-logo=CGTN中国国际新闻.png tvg-name=CGTN中国国际新闻(576i) group-title=外语频道,CGTN中国国际新闻(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.16:1045
+#EXTINF:-1 tvg-logo=CGTN英语.png tvg-name=CGTN英语(1080i) group-title=外语频道,CGTN英语(1080i)
+http://xingyang.net.cn:4000/udp/225.1.5.34:1344
+#EXTINF:-1 tvg-logo=CGTN英文记录.png tvg-name=CGTN英文记录(1080i) group-title=外语频道,CGTN英文记录(1080i)
+http://xingyang.net.cn:4000/udp/225.1.5.35:1345
+#EXTINF:-1 tvg-logo=CGTN西班牙语.png tvg-name=CGTN西班牙语(1080i) group-title=外语频道,CGTN西班牙语(1080i)
+http://xingyang.net.cn:4000/udp/225.1.5.36:1346
+#EXTINF:-1 tvg-logo=CGTN法语.png tvg-name=CGTN法语(1080i) group-title=外语频道,CGTN法语(1080i)
+http://xingyang.net.cn:4000/udp/225.1.5.37:1347
+#EXTINF:-1 tvg-logo=CGTN阿拉伯语.png tvg-name=CGTN阿拉伯语(1080i) group-title=外语频道,CGTN阿拉伯语(1080i)
+http://xingyang.net.cn:4000/udp/225.1.5.38:1348
+#EXTINF:-1 tvg-logo=CGTN俄语.png tvg-name=CGTN俄语(1080i) group-title=外语频道,CGTN俄语(1080i)
+http://xingyang.net.cn:4000/udp/225.1.5.39:1349
+#EXTINF:-1 tvg-logo=体育赛事.png tvg-name=体育赛事(1080i) group-title=其他频道,体育赛事(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.235:1281
+#EXTINF:-1 tvg-logo=爱体育.png tvg-name=爱体育(1080i) group-title=其他频道,爱体育(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.168:1220
+#EXTINF:-1 tvg-logo=爱电影.png tvg-name=爱电影(576i) group-title=其他频道,爱电影(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.6:1035
+#EXTINF:-1 tvg-logo=爱大剧.png tvg-name=爱大剧(576i) group-title=其他频道,爱大剧(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.8:1037
+#EXTINF:-1 tvg-logo=经典电影.png tvg-name=经典电影(576i) group-title=其他频道,经典电影(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.175:1233
+#EXTINF:-1 tvg-logo=爱生活.png tvg-name=爱生活(576p) group-title=其他频道,爱生活(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.176:1225
+#EXTINF:-1 tvg-logo=好学生.png tvg-name=好学生(576p) group-title=其他频道,好学生(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.177:1226
+#EXTINF:-1 tvg-logo=国学.png tvg-name=国学(576p) group-title=其他频道,国学(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.178:1227
+#EXTINF:-1 tvg-logo=早教.png tvg-name=早教(576p) group-title=其他频道,早教(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.179:1228
+#EXTINF:-1 tvg-logo=高网.png tvg-name=高网(576p) group-title=其他频道,高网(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.180:1229
+#EXTINF:-1 tvg-logo=军事.png tvg-name=军事(576p) group-title=其他频道,军事(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.181:1230
+#EXTINF:-1 tvg-logo=美妆.png tvg-name=美妆(576p) group-title=其他频道,美妆(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.182:1231
+#EXTINF:-1 tvg-logo=地理.png tvg-name=地理(576p) group-title=其他频道,地理(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.183:1232
+#EXTINF:-1 tvg-logo=音乐现场.png tvg-name=音乐现场(576p) group-title=其他频道,音乐现场(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.184:1224
+#EXTINF:-1 tvg-logo=IPTV谍战剧场.png tvg-name=IPTV谍战剧场(576p) group-title=其他频道,IPTV谍战剧场(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.185:1240
+#EXTINF:-1 tvg-logo=IPTV相声小品.png tvg-name=IPTV相声小品(576p) group-title=其他频道,IPTV相声小品(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.186:1235
+#EXTINF:-1 tvg-logo=IPTV野外.png tvg-name=IPTV野外(576p) group-title=其他频道,IPTV野外(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.187:1236
+#EXTINF:-1 tvg-logo=IPTV法治.png tvg-name=IPTV法治(576p) group-title=其他频道,IPTV法治(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.188:1237
+#EXTINF:-1 tvg-logo=热播剧场.png tvg-name=热播剧场(576i) group-title=其他频道,热播剧场(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.190:1239
+#EXTINF:-1 tvg-logo=足球.png tvg-name=足球(576p) group-title=其他频道,足球(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.200:1250
+#EXTINF:-1 tvg-logo=爱综艺.png tvg-name=爱综艺(576i) group-title=其他频道,爱综艺(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.204:1252
+#EXTINF:-1 tvg-logo=魅力时尚.png tvg-name=魅力时尚(576i) group-title=其他频道,魅力时尚(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.205:1253
+#EXTINF:-1 tvg-logo=网络棋牌.png tvg-name=网络棋牌(576i) group-title=其他频道,网络棋牌(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.211:1264
+#EXTINF:-1 tvg-logo=精选.png tvg-name=精选(576p) group-title=其他频道,精选(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.253:1299
+#EXTINF:-1 tvg-logo=收视指南.png tvg-name=收视指南(576i) group-title=其他频道,收视指南(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.50:1079
+#EXTINF:-1 tvg-logo=CCTV1综合.png tvg-name=CCTV1综合(576i) group-title=备用频道,CCTV1综合(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.1:1030
+#EXTINF:-1 tvg-logo=CCTV2财经.png tvg-name=CCTV2财经(576i) group-title=备用频道,CCTV2财经(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.2:1031
+#EXTINF:-1 tvg-logo=CCTV4中文国际.png tvg-name=CCTV4中文国际(576i) group-title=备用频道,CCTV4中文国际(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.4:1033
+#EXTINF:-1 tvg-logo=CCTV7国防军事.png tvg-name=CCTV7国防军事(576i) group-title=备用频道,CCTV7国防军事(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.7:1036
+#EXTINF:-1 tvg-logo=CCTV9记录.png tvg-name=CCTV9记录(576i) group-title=备用频道,CCTV9记录(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.9:1038
+#EXTINF:-1 tvg-logo=CCTV10科教.png tvg-name=CCTV10科教(576i) group-title=备用频道,CCTV10科教(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.10:1039
+#EXTINF:-1 tvg-logo=CCTV11戏曲.png tvg-name=CCTV11戏曲(576i) group-title=备用频道,CCTV11戏曲(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.11:1040
+#EXTINF:-1 tvg-logo=CCTV12社会与法.png tvg-name=CCTV12社会与法(576i) group-title=备用频道,CCTV12社会与法(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.12:1041
+#EXTINF:-1 tvg-logo=CCTV13新闻.png tvg-name=CCTV13新闻(576i) group-title=备用频道,CCTV13新闻(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.13:1042
+#EXTINF:-1 tvg-logo=CCTV14少儿.png tvg-name=CCTV14少儿(576i) group-title=备用频道,CCTV14少儿(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.14:1043
+#EXTINF:-1 tvg-logo=CCTV15音乐.png tvg-name=CCTV15音乐(576i) group-title=备用频道,CCTV15音乐(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.15:1044
+#EXTINF:-1 tvg-logo=CCTV17农业农村.png tvg-name=CCTV17农业农村(576i) group-title=备用频道,CCTV17农业农村(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.227:2507
+#EXTINF:-1 tvg-logo=HNTV1河南卫视.png tvg-name=HNTV1河南卫视(1080p) group-title=备用频道,HNTV1河南卫视(1080p)
+http://xingyang.net.cn:4000/udp/225.1.5.45:1355
+#EXTINF:-1 tvg-logo=HNTV1河南卫视.png tvg-name=HNTV1河南卫视(1080i) group-title=备用频道,HNTV1河南卫视(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.98:1127
+#EXTINF:-1 tvg-logo=HNTV1河南卫视.png tvg-name=HNTV1河南卫视(576i) group-title=备用频道,HNTV1河南卫视(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.51:1080
+#EXTINF:-1 tvg-logo=HNTV1河南卫视.png tvg-name=HNTV1河南卫视备(576i) group-title=备用频道,HNTV1河南卫视备(576i)
+http://xingyang.net.cn:4000/udp/225.1.5.42:1352
+#EXTINF:-1 tvg-logo=湖南卫视.png tvg-name=湖南卫视(576i) group-title=备用频道,湖南卫视(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.17:1046
+#EXTINF:-1 tvg-logo=江苏卫视.png tvg-name=江苏卫视(576i) group-title=备用频道,江苏卫视(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.18:1047
+#EXTINF:-1 tvg-logo=浙江卫视.png tvg-name=浙江卫视(576p) group-title=备用频道,浙江卫视(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.19:1048
+#EXTINF:-1 tvg-logo=安徽卫视.png tvg-name=安徽卫视(576i) group-title=备用频道,安徽卫视(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.20:1049
+#EXTINF:-1 tvg-logo=北京卫视.png tvg-name=北京卫视(576i) group-title=备用频道,北京卫视(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.21:1050
+#EXTINF:-1 tvg-logo=东方卫视.png tvg-name=东方卫视(576i) group-title=备用频道,东方卫视(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.22:1051
+#EXTINF:-1 tvg-logo=深圳卫视.png tvg-name=深圳卫视(576p) group-title=备用频道,深圳卫视(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.23:1052
+#EXTINF:-1 tvg-logo=天津卫视.png tvg-name=天津卫视(576p) group-title=备用频道,天津卫视(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.24:1053
+#EXTINF:-1 tvg-logo=海南卫视.png tvg-name=海南卫视(576i) group-title=备用频道,海南卫视(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.25:1054
+#EXTINF:-1 tvg-logo=辽宁卫视.png tvg-name=辽宁卫视(576i) group-title=备用频道,辽宁卫视(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.26:1055
+#EXTINF:-1 tvg-logo=山东卫视.png tvg-name=山东卫视(576p) group-title=备用频道,山东卫视(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.27:1056
+#EXTINF:-1 tvg-logo=黑龙江卫视.png tvg-name=黑龙江卫视(576i) group-title=备用频道,黑龙江卫视(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.28:1057
+#EXTINF:-1 tvg-logo=重庆卫视.png tvg-name=重庆卫视(576p) group-title=备用频道,重庆卫视(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.29:1058
+#EXTINF:-1 tvg-logo=广东卫视.png tvg-name=广东卫视(576i) group-title=备用频道,广东卫视(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.30:1059
+#EXTINF:-1 tvg-logo=东南卫视.png tvg-name=东南卫视(576i) group-title=备用频道,东南卫视(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.32:1061
+#EXTINF:-1 tvg-logo=云南卫视.png tvg-name=云南卫视(576p) group-title=备用频道,云南卫视(576ip)
+http://xingyang.net.cn:4000/udp/225.1.4.33:1062
+#EXTINF:-1 tvg-logo=河北卫视.png tvg-name=河北卫视(576p) group-title=备用频道,河北卫视(576p)
+http://xingyang.net.cn:4000/udp/225.1.4.34:1063
+#EXTINF:-1 tvg-logo=湖北卫视.png tvg-name=湖北卫视(576i) group-title=备用频道,湖北卫视(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.35:1064
+#EXTINF:-1 tvg-logo=吉林卫视.png tvg-name=吉林卫视(576i) group-title=备用频道,吉林卫视(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.36:1065
+#EXTINF:-1 tvg-logo=江西卫视.png tvg-name=江西卫视(576i) group-title=备用频道,江西卫视(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.37:1066
+#EXTINF:-1 tvg-logo=四川卫视.png tvg-name=四川卫视(576i) group-title=备用频道,四川卫视(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.40:1069
+#EXTINF:-1 tvg-logo=贵州卫视.png tvg-name=贵州卫视(576i) group-title=备用频道,贵州卫视(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.41:1070
+#EXTINF:-1 tvg-logo=ZZTV1新闻综合.png tvg-name=ZZTV1新闻综合(576i) group-title=备用频道,ZZTV1新闻综合(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.143:1179
+#EXTINF:-1 tvg-logo=ZZTV2商都频道.png tvg-name=ZZTV2商都频道(576i) group-title=备用频道,ZZTV2商都频道(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.144:1180
+#EXTINF:-1 tvg-logo=ZZTV3文体旅游.png tvg-name=ZZTV3文体旅游(576i) group-title=备用频道,ZZTV3文体旅游(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.145:1181
+#EXTINF:-1 tvg-logo=爱体育.png tvg-name=爱体育(576i) group-title=备用频道,爱体育(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.5:1034
+#EXTINF:-1 tvg-logo=HNTV7环球购物.png tvg-name=HNTV7环球购物(1080i) group-title=购物频道,HNTV7环球购物(1080i)
+http://xingyang.net.cn:4000/udp/225.1.4.57:1086
+#EXTINF:-1 tvg-logo=家有购物.png tvg-name=家有购物(576i) group-title=购物频道,家有购物(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.223:1273
+#EXTINF:-1 tvg-logo=聚鲨环球精选.png tvg-name=聚鲨环球精选(576i) group-title=购物频道,聚鲨环球精选(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.229:1275
+#EXTINF:-1 tvg-logo=央广购物.png tvg-name=央广购物(576i) group-title=购物频道,央广购物(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.230:1276
+#EXTINF:-1 tvg-logo=快乐购.png tvg-name=快乐购(576i) group-title=购物频道,快乐购(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.231:1277
+#EXTINF:-1 tvg-logo=好享购物.png tvg-name=好享购物(576i) group-title=购物频道,好享购物(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.232:1278
+#EXTINF:-1 tvg-logo=风尚购物.png tvg-name=风尚购物(576i) group-title=购物频道,风尚购物(576i)
+http://xingyang.net.cn:4000/udp/225.1.4.233:1279
+#EXTINF:-1 tvg-logo=HNTV欢腾购物.png tvg-name=HNTV欢腾购物(1080p) group-title=购物频道,HNTV欢腾购物(1080p)
+http://xingyang.net.cn:4000/udp/225.1.4.236:1282
