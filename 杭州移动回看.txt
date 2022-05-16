@@ -1,0 +1,125 @@
+
+#EXTINF:-1  tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="杭州回看",CCTV1HD
+http://117.148.179.155/TVOD/88888888/224/3221231468/index.m3u8
+#EXTINF:-1  tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="杭州回看",CCTV1HD
+http://117.148.179.155/TVOD/88888888/224/3221231471/index.m3u8
+#EXTINF:-1  tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="杭州回看",CCTV2HD
+http://117.148.179.156/TVOD/88888888/224/3221232362/index.m3u8
+#EXTINF:-1  tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="杭州回看",CCTV2HD
+http://117.148.179.147/TVOD/88888888/224/3221231678/index.m3u8
+#EXTINF:-1  tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="杭州回看",CCTV3HD
+http://117.148.179.183/TVOD/88888888/224/3221231682/index.m3u8
+#EXTINF:-1  tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="杭州回看",CCTV3
+http://117.148.179.140/TVOD/88888888/224/3221231528/index.m3u8
+#EXTINF:-1  tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="杭州回看",CCTV4HD
+http://117.148.179.182/TVOD/88888888/224/3221231726/index.m3u8
+#EXTINF:-1  tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="杭州回看",CCTV4-欧洲HD
+http://117.148.179.162/TVOD/88888888/224/3221231615/index.m3u8
+#EXTINF:-1  tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="杭州回看",CCTV4-美洲HD
+http://117.148.179.160/TVOD/88888888/224/3221231654/index.m3u8
+#EXTINF:-1  tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="杭州回看",CCTV5HD
+
+#EXTINF:-1  tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="杭州回看",CCTV5+HD
+http://117.148.179.136/TVOD/88888888/224/3221231459/index.m3u8
+#EXTINF:-1  tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="杭州回看",CCTV5+HD
+http://117.148.179.139/TVOD/88888888/224/3221231535/index.m3u8
+#EXTINF:-1  tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="杭州回看",CCTV6HD
+http://117.148.179.153/TVOD/88888888/224/3221231724/index.m3u8
+#EXTINF:-1  tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="杭州回看",CCTV7HD
+http://117.148.179.160/TVOD/88888888/224/3221231633/index.m3u8
+#EXTINF:-1  tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="杭州回看",CCTV8HD
+http://117.148.179.160/TVOD/88888888/224/3221231694/index.m3u8
+#EXTINF:-1  tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="杭州回看",CCTV9HD
+http://117.148.179.162/TVOD/88888888/224/3221231697/index.m3u8
+#EXTINF:-1  tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="杭州回看",CCTV10HD
+http://117.148.179.175/TVOD/88888888/224/3221231666/index.m3u8
+#EXTINF:-1  tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="杭州回看",CCTV11HD
+http://117.148.179.164/TVOD/88888888/224/3221231711/index.m3u8
+#EXTINF:-1  tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="杭州回看",CCTV12HD
+http://117.148.179.150/TVOD/88888888/224/3221231660/index.m3u8
+#EXTINF:-1  tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="杭州回看",CCTV14HD
+http://117.148.179.182/TVOD/88888888/224/3221231648/index.m3u8
+#EXTINF:-1  tvg-id="16" tvg-name="CCTV15" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="杭州回看",CCTV15HD
+http://117.148.179.169/TVOD/88888888/224/3221231693/index.m3u8
+#EXTINF:-1  tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="杭州回看",CCTV17HD
+http://117.148.179.167/TVOD/88888888/224/3221231772/index.m3u8
+#EXTINF:-1  tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="杭州回看",CCTV怀旧剧场
+http://117.148.179.158/TVOD/88888888/224/3221231544/index.m3u8
+#EXTINF:-1  tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="杭州回看",CCTV第一剧场
+http://117.148.179.172/TVOD/88888888/224/3221231540/index.m3u8
+#EXTINF:-1  tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="杭州回看",CCTV风云剧场
+http://117.148.179.162/TVOD/88888888/224/3221231604/index.m3u8
+#EXTINF:-1  tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="杭州回看",CCTV风云足球
+http://117.148.179.137/TVOD/88888888/224/3221231547/index.m3u8
+#EXTINF:-1  tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="杭州回看",CCTV世界地理
+http://117.148.179.156/TVOD/88888888/224/3221231537/index.m3u8
+#EXTINF:-1  tvg-id="6564" tvg-name="女式时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="杭州回看",CCTV女式时尚
+http://117.148.179.167/TVOD/88888888/224/3221231598/index.m3u8
+#EXTINF:-1  tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="杭州回看",CCTV央视台球
+http://117.148.179.167/TVOD/88888888/224/3221231616/index.m3u8
+#EXTINF:-1  tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="杭州回看",CCTV高尔夫网球
+http://117.148.179.160/TVOD/88888888/224/3221231619/index.m3u8
+#EXTINF:-1  tvg-id="6569" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="杭州回看",央视精品
+http://117.148.179.147/TVOD/88888888/224/3221231561/index.m3u8
+#EXTINF:-1  tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="杭州回看",CGTN
+http://117.148.179.174/TVOD/88888888/224/3221231592/index.m3u8
+#EXTINF:-1  tvg-id="20" tvg-name="CGTN" tvg-logo="https://www.hualigs.cn/image/6153c858183ab.jpg" group-title="杭州回看",CGTN纪录
+http://117.148.179.144/TVOD/88888888/224/3221231492/index.m3u8
+#EXTINF:-1  tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="杭州回看",CGTN法语
+http://117.148.179.156/TVOD/88888888/224/3221231550/index.m3u8
+#EXTINF:-1  tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="杭州回看",CGTN西班牙语
+http://117.148.179.176/TVOD/88888888/224/3221231546/index.m3u8
+#EXTINF:-1  tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="杭州回看",CGTN阿拉伯语
+http://117.148.179.163/TVOD/88888888/224/3221231579/index.m3u8
+#EXTINF:-1  tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="杭州回看",CGTN俄语
+http://117.148.179.179/TVOD/88888888/224/3221231591/index.m3u8
+#EXTINF:-1  tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="杭州回看",教育1台HD
+http://117.148.179.156/TVOD/88888888/224/3221231714/index.m3u8
+#EXTINF:-1  tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="杭州回看",教育1台
+http://117.148.179.149/TVOD/88888888/224/3221231552/index.m3u8
+#EXTINF:-1  tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="杭州回看",教育2台
+http://117.148.179.162/TVOD/88888888/224/3221231607/index.m3u8
+#EXTINF:-1  tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="杭州回看",教育3台
+http://117.148.179.136/TVOD/88888888/224/3221231543/index.m3u8
+#EXTINF:-1  tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="杭州回看",教育4台
+http://117.148.179.155/TVOD/88888888/224/3221231613/index.m3u8
+#EXTINF:-1  tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="杭州回看",湖南卫视
+http://117.148.179.172/TVOD/88888888/224/3221231729/index.m3u8
+#EXTINF:-1  tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="杭州回看",湖南卫视
+http://117.148.179.135/TVOD/88888888/224/3221230206/index.m3u8
+#EXTINF:-1  tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="杭州回看",湖南卫视
+http://117.148.179.148/TVOD/88888888/224/3221230824/index.m3u8
+#EXTINF:-1  tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="杭州回看",江苏卫视
+http://117.148.179.175/TVOD/88888888/224/3221231447/index.m3u8
+#EXTINF:-1  tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="杭州回看",浙江卫视
+http://117.148.179.140/TVOD/88888888/224/3221229352/index.m3u8
+#EXTINF:-1  tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="杭州回看",浙江卫视
+http://117.148.179.136/TVOD/88888888/224/3221231567/index.m3u8
+#EXTINF:-1  tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="杭州回看",东方卫视
+http://117.148.179.160/TVOD/88888888/224/3221231738/index.m3u8
+#EXTINF:-1  tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="杭州回看",东方卫视
+http://117.148.179.167/TVOD/88888888/224/3221231450/index.m3u8
+#EXTINF:-1  tvg-id="33" tvg-name="广东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangdong.png" group-title="杭州回看",广东卫视
+http://117.148.179.141/TVOD/88888888/224/3221231891/index.m3u8
+#EXTINF:-1  tvg-id="33" tvg-name="广东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangdong.png" group-title="杭州回看",广东卫视
+http://117.148.179.159/TVOD/88888888/224/3221231502/index.m3u8
+#EXTINF:-1  tvg-id="30" tvg-name="北京卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing.png" group-title="杭州回看",北京卫视
+http://117.148.179.168/TVOD/88888888/224/3221231732/index.m3u8
+#EXTINF:-1  tvg-id="39" tvg-name="天津卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/tianjin.png" group-title="杭州回看",天津卫视
+http://117.148.179.146/TVOD/88888888/224/3221228905/index.m3u8
+#EXTINF:-1  tvg-id="38" tvg-name="山东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shandong.png" group-title="杭州回看",山东卫视
+http://117.148.179.137/TVOD/88888888/224/3221227909/index.m3u8
+#EXTINF:-1  tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hubei.png" group-title="杭州回看",湖北卫视
+http://117.148.179.142/TVOD/88888888/224/3221231888/index.m3u8
+#EXTINF:-1  tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/heilongjiang.png" group-title="杭州回看",黑龙江卫视
+http://117.148.179.141/TVOD/88888888/224/3221231967/index.m3u8
+#EXTINF:-1  tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/heilongjiang.png" group-title="杭州回看",黑龙江卫视
+http://117.148.179.162/TVOD/88888888/224/3221231520/index.m3u8
+#EXTINF:-1  tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/anhui.png" group-title="杭州回看",安徽卫视
+http://117.148.179.177/TVOD/88888888/224/3221230215/index.m3u8
+#EXTINF:-1  tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="杭州回看",辽宁卫视
+http://117.148.179.152/TVOD/88888888/224/3221231802/index.m3u8
+#EXTINF:-1  tvg-id="50" tvg-name="江西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangxi.png" group-title="杭州回看",江西卫视
+http://117.148.179.141/TVOD/88888888/224/3221231964/index.m3u8
+#EXTINF:-1  tvg-id="56" tvg-name="四川卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/sichuan.png" group-title="杭州回看",四川卫视
+http://117.148.179.142/TVOD/88888888/224/3221231885/index.m3u8
