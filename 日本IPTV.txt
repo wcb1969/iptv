@@ -13,19 +13,6 @@ Tokyo MX 2,https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 MX Live,https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
-NHK,http://203.162.235.41:16901
-NHK-综合,http://203.162.235.41:16903
-Fuji TV,http://203.162.235.41:16904
-Nippon TV,http://203.162.235.41:16905
-TV Asahi,http://203.162.235.41:16906
-TBS,http://203.162.235.41:16907
-NHK BSP,http://203.162.235.41:16910
-BS Fuji,http://203.162.235.41:16911
-BS Nippon TV,http://203.162.235.41:16912
-BS TBS,http://203.162.235.41:16913
-BS Asahi,http://203.162.235.41:16914
-BS Tokyo,http://203.162.235.41:16915
-WOWOW Prime,http://203.162.235.41:16916
 AT-X,https://sub2.neetball.net/live/neet.m3u8
 QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
