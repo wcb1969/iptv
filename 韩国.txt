@@ -41,8 +41,6 @@ http://ye23.win/iptv/korea2021.php?id=bbstv
 http://ye23.win/iptv/korea2021.php?id=myStream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",MTN
 http://ye23.win/iptv/korea2021.php?id=MTN
-#EXTINF:-1 tvg-id="701" tvg-name="" tvg-logo="" group-title="韩国频道",FTV
-http://ye23.win/iptv/korea2021.php?id=FTV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",Channel A
 http://ye23.win/iptv/korea2021.php?id=Channela
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",korea TV
@@ -83,10 +81,6 @@ http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",TJB 대전방송(SBS 大田)
 http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",여수MBC(MBC Yeosu)
-https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",대전MBC(MBC Daejeon)
-https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",선거방송
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",KCTV
