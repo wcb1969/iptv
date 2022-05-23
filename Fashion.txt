@@ -1,4 +1,3 @@
-Fashion,http://168.205.87.198:8555/live/leila/123456/61.ts
 FTV Magzine,https://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 A3Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 Latinangels,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df41355939756000921d15b/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=627f&deviceDNT=0&deviceModel=0
@@ -11,7 +10,6 @@ Global Fashion Channel,https://vcngfcssai.teleosmedia.com/linear/globalfashionch
 ID Fashion,https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 ID Fashion,https://idfashion.cdn-03.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 Runway TV,https://vse2-as-all78.secdn.net/runway-live/play/mp4:runway/playlist.m3u8
-imode TV,https://juyunlive.juyun.tv/live/24950198.m3u8
 FashionTV Singapore,https://fash1043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
 Midnight Secrets,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_secrets_sams_170_hls.smil/playlist.m3u8
 Midnight Secrets,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
@@ -24,4 +22,34 @@ FashionTV Tokyo,https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065
 FashionTV Johannesburg,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 FashionTV Johannesburg,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 FashionTV Johannesburg,https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-FashionTV Paris-Mumbai,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8
+Unknown_1,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+Unknown_17,https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+Unknown_18,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+Unknown_19,https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+Unknown_22,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+Unknown_23,https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_sam_197_hls.smil/playlist.m3u8
+Unknown_25,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+Unknown_28,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+Unknown_31,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+Unknown_44,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b900000_t64MzYwcA==.m3u8
+Unknown_45,https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+Unknown_46,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+Unknown_47,https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
+Unknown_48,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+Unknown_49,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
+Unknown_66,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+Unknown_67,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+Unknown_69,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+Unknown_70,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+Unknown_71,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+Unknown_73,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8
+Unknown_74,https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastfashiontvparis/playlist.m3u8
+Unknown_77,http://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
+Unknown_80,http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
+Unknown_83,https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist_hdhigh.m3u8
+Unknown_84,https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
+Unknown_87,https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+Unknown_93,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+Unknown_96,https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
+Unknown_98,https://siloh.pluto.tv/lilo/production/FashionTV/master.m3u8
+Unknown_105,https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
