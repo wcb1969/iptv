@@ -1,26 +1,10 @@
 HBO,http://gg.gg/HaNoiIPTV-HBO_HD
-HBO,http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/242052
-HBO,http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/7397
 HBO,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
 HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
-HBO,http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/203146
 HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 HBO Asia,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
-HBO Romania,http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/5534
 HBO SIGNATURE,http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2946
-HBO2,http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/137369
-HBO2,http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/4313
-HBO2,http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/377107
-HBO2,http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/47439
 HBO2,http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2942
-HBO2,http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46965
-HBO2,http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/5536
-HBO2,http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/275435
 HBO2 East SD,http://thetvvalet.com:8080/simon/simon/12861
-HBO3,http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/5535
-HBO3,http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/170438
-HBO3,http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/132788
-HBO3,http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/377106
-HBO3,http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/4309
-HBO3,http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/47438
-HBO3,http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/275436
+HBO,http://190.171.101.36:80/HBO/index.m3u8
+HBO HD vn,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
