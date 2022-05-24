@@ -8,3 +8,4 @@ HBO2,http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2942
 HBO2 East SD,http://thetvvalet.com:8080/simon/simon/12861
 HBO,http://190.171.101.36:80/HBO/index.m3u8
 HBO HD vn,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
+HBO,http://59.125.101.187:8757/http/192.168.77.24:8081/hls/71/813/ch41.m3u8?
