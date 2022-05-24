@@ -50,6 +50,8 @@ Unknown_83,https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist_hdhigh.m3u8
 Unknown_84,https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
 Unknown_87,https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
 Unknown_93,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+Fashion & Lifestyle,https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcasthdfashionlifestyle/playlist.m3u8
 Unknown_96,https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
 Unknown_98,https://siloh.pluto.tv/lilo/production/FashionTV/master.m3u8
 Unknown_105,https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
+
