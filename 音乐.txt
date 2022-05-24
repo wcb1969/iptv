@@ -1,0 +1,65 @@
+Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+otpaha,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
+V2BEAT,http://de1se01.v2beat.live/playlist.m3u8
+MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+音乐,http://zzy789.xyz/douyu1.php?id=9650246
+音乐Retro,http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+音乐榜,http://txtest-xp2p.p2p.huya.com/src/1099531740260-1099531740260-86382461021323264-2199063603976-10057-A-0-1.xs
+音乐穿出你的美,http://zzy789.xyz/douyu1.php?id=9678862
+音乐韩国车模,http://zzy789.xyz/douyu1.php?id=1360303
+音乐回归大发,http://zzy789.xyz/douyu1.php?id=40471
+音乐会,http://39.137.67.167:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/index.m3u8?IAS
+音乐架子鼓,http://zzy789.xyz/douyu1.php?id=8887438
+音乐间,http://zzy789.xyz/douyu1.php?id=8405922
+音乐世界,http://zzy789.xyz/douyu1.php?id=9642552
+音乐小石榴,http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs
+CCTV15,http://[2409:8087:4402:20:1:1216:401:16]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/index.m3u8
+CCTV15,http://39.135.49.209:6610/PLTV/88888888/224/3221226989/1.m3u8?servicetype=1
+CCTV15,http://[2409:8087:4402:20:1:1216:401:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8
+CCTV15,http://117.148.179.169:80/PLTV/88888888/224/3221231693/index.m3u8?
+CCTV15,http://[2409:8087:1070:301:2028::22]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225866/index.m3u8?fmt=ts2hls
+CCTV15,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-15/.m3u8
+CCTV15,http://39.135.137.205/PLTV/88888888/224/3221225513/1.m3u8
+CCTV15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV15,http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225854/index.m3u8
+CCTV15,http://39.134.65.78:80/wh7f454c46tw698721486_1282203709/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8?icpid=88888888&RTS=1610939852&from=1&hms_devid=128&vqe=3
+CCTV15,http://39.134.68.169:6610/PLTV/88888888/224/3221225601/index.m3u8?
+CCTV风云音乐,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/1/1.m3u8?fmt=ts2hls
+CCTV风云音乐,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
+CCTV风云音乐,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
+CCTV风云音乐,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls184a519.m3u8
+M2音乐,http://live.m2.tv/hls3/stream.m3u8
+MTV,http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
+MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+MTV CMT MUSIC,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+MTV HITS HD FR,http://190.2.155.162:8080/mtvhit/mpegts
+MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master_2400.m3u8
+MTV Spankin\' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master_2400.m3u8
+MTV Xmas HD FR,http://190.2.155.162:8080/mtvfrance/mpegts
+MTV Yo,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
+MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+MTV音乐,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+MUDR-139,https://siwazywcdn2.com:5278/zhongwenzimu/IedwOy8c/index.m3u8
+MUDR-159,https://siwazywcdn2.com:5278/zhongwenzimu/u7Lzkah8/index.m3u8
+Music,https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
+MUSIC +,http://s02.diazol.hu:10192/hls/stream.m3u8
+Music 24,https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+MUSIC BOX GOLD,http://192.166.144.101:8008/play/a004/index.m3u8
+Music India,http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+MUSIC PLUS,http://79.172.214.45:10190/stream.m3u8
+Music Reload TV HD,http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
+Music Top,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+Music Top,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+Music Top,http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+Music Top,https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1369951744_b2028000_sleng.m3u8
+Music Top,https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+Music Top,http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+Music You,http://203.154.243.89:1213
+MusicPlus HD HU,http://s02.diazol.hu:10190/stream.m3u8
