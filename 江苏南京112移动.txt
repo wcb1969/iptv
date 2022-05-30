@@ -17,13 +17,11 @@ CCTV15HD,http://112.25.47.75/gitv_live/G_CCTV15-HQ/G_CCTV15-HQ.m3u8
 CCTV16HD,http://112.25.47.75/gitv_live/G_CCTV16-HQ/G_CCTV16-HQ.m3u8
 CCTV17HD,http://112.25.47.75/gitv_live/G_CCTV17-HQ/G_CCTV17-HQ.m3u8
 CCTV4K,http://112.25.47.75/gitv_live/G_CCTV4k-HQ/G_CCTV4k-HQ.m3u8
-CGTN,http://112.25.47.75/gitv_live/G_CCTVNEWS/G_CCTVNEWS.m3u8
 湖南卫视,http://112.25.47.75/gitv_live/G_HUNAN-HQ/G_HUNAN-HQ.m3u8
 北京卫视,http://112.25.47.75/gitv_live/G_BEIJING-HQ/G_BEIJING-HQ.m3u8
 东方卫视,http://112.25.47.75/gitv_live/G_DONGFANG-HQ/G_DONGFANG-HQ.m3u8
 天津卫视,http://112.25.47.75/gitv_live/G_TIANJIN-HQ/G_TIANJIN-HQ.m3u8
-安徽卫视,http://112.25.47.75/gitv_live/G_ANHUI-HD-265-8M/G_ANHUI-HQ.m3u8
-安徽卫视,http://112.25.47.75/gitv_live/G_ANHUI-MD/G_ANHUI-MD.m3u8
+安徽卫视,http://112.25.47.75/gitv_live/G_ANHUI-HQ/G_ANHUI-HQ.m3u8
 山东卫视,http://112.25.47.75/gitv_live/G_SHANDONG-HQ/G_SHANDONG-HQ.m3u8
 广东卫视,http://112.25.47.75/gitv_live/G_GUANGDONG-HQ/G_GUANGDONG-HQ.m3u8
 江苏卫视,http://112.25.47.75/gitv_live/G_JIANGSU-HQ/G_JIANGSU-HQ.m3u8
@@ -32,7 +30,21 @@ CGTN,http://112.25.47.75/gitv_live/G_CCTVNEWS/G_CCTVNEWS.m3u8
 湖北卫视,http://112.25.47.75/gitv_live/G_HUBEI-HQ/G_HUBEI-HQ.m3u8
 辽宁卫视,http://112.25.47.75/gitv_live/G_LIAONING-HQ/G_LIAONING-HQ.m3u8
 黑龙江卫视,http://112.25.47.75/gitv_live/G_HEILONGJIANG-HQ/G_HEILONGJIANG-HQ.m3u8
-
+河南卫视,http://112.25.47.75/gitv_live/G_HENAN-HQ/G_HENAN-HQ.m3u8
+河北卫视,http://112.25.47.75/gitv_live/G_HEBEI-HQ/G_HEBEI-HQ.m3u8
+江西卫视,http://112.25.47.75/gitv_live/G_JIANGXI-HQ/G_JIANGXI-HQ.m3u8
+海南卫视,http://112.25.47.75/gitv_live/G_HAINAN-HQ/G_HAINAN-HQ.m3u8
+东南卫视,http://112.25.47.75/gitv_live/G_DONGNAN-HQ/G_DONGNAN-HQ.m3u8
+吉林卫视,http://112.25.47.75/gitv_live/G_JILIN-HQ/G_JILIN-HQ.m3u8
+广西卫视,http://112.25.47.75/gitv_live/G_GUANGXI-HQ/G_GUANGXI-HQ.m3u8
+新疆卫视,http://112.25.47.75/gitv_live/G_XINJIANG/G_XINJIANG.m3u8
+甘肃卫视,http://112.25.47.75/gitv_live/G_GANSU/G_GANSU.m3u8
+青海卫视,http://112.25.47.75/gitv_live/G_QINGHAI/G_QINGHAI.m3u8
+甘肃卫视,http://112.25.47.75/gitv_live/G_GANSU/G_GANSU.m3u8
+西藏卫视,http://112.25.47.75/gitv_live/G_XIZANG/G_XIZANG.m3u8
+陕西卫视,http://112.25.47.75/gitv_live/G_SHANXI/G_SHANXI.m3u8
+内蒙古卫视,http://112.25.47.75/gitv_live/G_NEIMENGGU/G_NEIMENGGU.m3u8
+重庆卫视,http://112.25.47.75/gitv_live/G_CHONGQING-HQ/G_CHONGQING-HQ.m3u8
 
 可用ip
 112.25.47.75、112.25.47.77、
