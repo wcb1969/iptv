@@ -39,6 +39,7 @@ CCTV14,http://113.50.66.47:8104/live.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8
 CETV1,http://113.50.66.47:8104/live.rxip.sc96655.com/live/CETV-1H264_4000.m3u8
 CETV1,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CETV-1H264_4000.m3u8
 CETV4,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CETV-4H264_2000.m3u8
+CGTN,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CGTN.m3u8
 CHC动作电影,http://113.50.66.47:8104/live.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
 CHC动作电影,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
 CHC高清电影,http://113.50.66.47:8104/live.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
@@ -49,11 +50,15 @@ CHC家庭影院,http://113.50.66.47:8104/live.rxip.sc96655.com/live/jbtygqCHCjty
 安徽卫视,http://113.50.66.47:8104/live.rxip.sc96655.com/live/ahwsH265_4000.m3u8
 安居综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ajxw_2000.m3u8
 巴州,http://113.50.66.47:8104/live.rxip.sc96655.com/live/bzxw_4000.m3u8
-巴州电视,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/bzxw_4000.m3u8
+巴州,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/bzxw_4000.m3u8
 宝兴新闻,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/bxdst_2000.m3u8
+巴中文旅,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/bzetH264.m3u8
+巴中综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/bzytH265.m3u8
+北川综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/bcxwHD.m3u8
 北京卫视,http://113.50.66.47:8104/live.rxip.sc96655.com/live/bjwsH265_4000.m3u8
 北京卫视,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/bjwsH265_4000.m3u8
 兵团卫视,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/btws_4000.m3u8
+财富天下,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/cftx.m3u8
 朝天新闻,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ctxwzh_2000.m3u8
 朝天综合,http://113.50.66.47:8104/live.rxip.sc96655.com/live/ctxwzh_2000.m3u8
 成都都市,http://113.50.66.47:8104/live.rxip.sc96655.com/live/CDTV-3_4000.m3u8
@@ -80,6 +85,7 @@ CHC家庭影院,http://113.50.66.47:8104/live.rxip.sc96655.com/live/jbtygqCHCjty
 大邑,http://113.50.66.47:8104/live.rxip.sc96655.com/live/dyytH265_4000.m3u8
 大邑,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/dyytH265_4000.m3u8
 大英新闻,http://113.50.66.47:8104/live.rxip.sc96655.com/live/dyxwzhH265_4000.m3u8
+德昌,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/dcxw.m3u8
 电影,http://113.50.66.47:8104/live.rxip.sc96655.com/live/sy_4000.m3u8
 东方卫视,http://113.50.66.47:8104/live.rxip.sc96655.com/live/dfwsH265_4000.m3u8
 东方卫视,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/dfwsH265_4000.m3u8
@@ -106,6 +112,7 @@ CHC家庭影院,http://113.50.66.47:8104/live.rxip.sc96655.com/live/jbtygqCHCjty
 凤凰中文,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/test1_4000.m3u8
 凤凰资讯,http://113.50.66.47:8104/live.rxip.sc96655.com/live/test2_4000.m3u8
 凤凰资讯,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/test2_4000.m3u8
+涪城综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/fcgq.m3u8
 富顺综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/fszh_2000.m3u8
 甘肃卫视,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/gsws_4000.m3u8
 甘孜综合,http://113.50.66.47:8104/live.rxip.sc96655.com/live/gzxwzh_2000.m3u8
@@ -188,8 +195,9 @@ CHC家庭影院,http://113.50.66.47:8104/live.rxip.sc96655.com/live/jbtygqCHCjty
 邻水综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/lsxw_2000.m3u8
 龙泉综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/lqxw_2000.m3u8
 泸州,http://113.50.66.47:8104/live.rxip.sc96655.com/live/lzxw_2000.m3u8
+泸州,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/lzxw_2000.m3u8
 泸州公共,http://113.50.66.47:8104/live.rxip.sc96655.com/live/lzgg_2000.m3u8
-瀘州2,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/lzgg_2000.m3u8
+泸州公共,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/lzgg_2000.m3u8
 罗江综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ljxwzh_2000.m3u8
 马边,http://113.50.66.47:8104/live.rxip.sc96655.com/live/mbxwzh_2000.m3u8
 马边综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/mbxwzh_2000.m3u8
@@ -231,6 +239,7 @@ CHC家庭影院,http://113.50.66.47:8104/live.rxip.sc96655.com/live/jbtygqCHCjty
 平昌综合,http://113.50.66.47:8104/live.rxip.sc96655.com/live/pcxw_2000.m3u8
 蒲江新聞,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/pjxw_4000.m3u8
 浦江综合,http://113.50.66.47:8104/live.rxip.sc96655.com/live/pjxw_4000.m3u8
+七彩戏剧,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/qcxj.m3u8
 普格新闻,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/pgxwzh_2000.m3u8
 前锋综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/qfxw_2000.m3u8
 青白江综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/qbjxwzh_2000.m3u8
@@ -246,7 +255,7 @@ CHC家庭影院,http://113.50.66.47:8104/live.rxip.sc96655.com/live/jbtygqCHCjty
 荣县,http://113.50.66.47:8104/live.rxip.sc96655.com/live/rxzh_2000.m3u8
 荣县,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/rxzh_2000.m3u8
 沙湾,http://113.50.66.47:8104/live.rxip.sc96655.com/live/swxwzh_2000.m3u8
-沙湾融媒,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/swxwzh_2000.m3u8
+沙湾,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/swxwzh_2000.m3u8
 山东教育卫视,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/sdjy_4000.m3u8
 山东卫视,http://113.50.66.47:8104/live.rxip.sc96655.com/live/sdwsH265_4000.m3u8
 山东卫视,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/sdwsH265_4000.m3u8
@@ -287,7 +296,7 @@ CHC家庭影院,http://113.50.66.47:8104/live.rxip.sc96655.com/live/jbtygqCHCjty
 通江综合,http://113.50.66.47:8104/live.rxip.sc96655.com/live/tjxwH265_4000.m3u8
 通江综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/tjxwH265_4000.m3u8
 万源,http://113.50.66.47:8104/live.rxip.sc96655.com/live/wyxwzh_2000.m3u8
-万源综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/wyxwzh_2000.m3u8
+万源,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/wyxwzh_2000.m3u8
 旺苍新闻,http://113.50.66.47:8104/live.rxip.sc96655.com/live/wcxwzhH265_4000.m3u8
 旺苍新闻,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/wcxwzhH265_4000.m3u8
 五通桥,http://113.50.66.47:8104/live.rxip.sc96655.com/live/wtqxwzh_2000.m3u8
@@ -312,7 +321,7 @@ CHC家庭影院,http://113.50.66.47:8104/live.rxip.sc96655.com/live/jbtygqCHCjty
 雅安綜合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/yazh_2000.m3u8
 盐边,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ybtgq_2000.m3u8
 雁江,http://113.50.66.47:8104/live.rxip.sc96655.com/live/yjxw_2000.m3u8
-雁江综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/yjxw_2000.m3u8
+雁江,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/yjxw_2000.m3u8
 仪陇新闻,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ylxw_2000.m3u8
 营山综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ysxw_2000.m3u8
 岳池,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ycxw_2000.m3u8
@@ -333,3 +342,7 @@ CHC家庭影院,http://113.50.66.47:8104/live.rxip.sc96655.com/live/jbtygqCHCjty
 自贡新闻,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/zgxw_4000.m3u8
 自贡综合,http://113.50.66.47:8104/live.rxip.sc96655.com/live/zgxw_4000.m3u8
 综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jgxwzhH265_4000.m3u8
+中国天气,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/zgqx.m3u8
+中央新影-发现之旅,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/fxzl.m3u8
+中央新影-老故事,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/lgs.m3u8
+中央新影-中学生,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/zxs.m3u8
