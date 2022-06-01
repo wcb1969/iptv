@@ -36,6 +36,8 @@ Fashion TV,https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m
 Fibracat TV,https://cdn02.fibracat.cat/fibracattv/index.m3u8
 Golf,http://203.162.235.41:16924
 GOOD TV2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+GTV八大电视,https://ytb.52sf.ga/live.m3u8?c=32
+GTV八大电视第一剧场,https://ytb.52sf.ga/live.m3u8?c=33
 HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 HBO,http://gg.gg/HaNoiIPTV-HBO_HD
 HBO,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
@@ -69,6 +71,7 @@ NOW财经,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=17
 NOW体育,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=15
 有线18,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=25
 J1,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=14
+J2,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/10
 Kanal 10 Asia,http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 KBC SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
@@ -79,6 +82,7 @@ KIX,https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
 KIX,https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b2500000.m3u8
 KIX,https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 KIX,https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+LIVE三立,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=57
 LSTime电影,http://120.84.96.29:808/hls/35/index.m3u8
 MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
@@ -94,19 +98,32 @@ NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/in
 NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHK华语,https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8
 NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+NOW财经,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=17
+NOW体育,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=15
+NOW新闻,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=16
+NOW新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/5
+NOW直播,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=18
 RTHK31,http://live.tvfix.org/hls/rthk31.m3u8
+RTHK31,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=20
+RTHK31,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/13
+RTHK32,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/14
 RTP,https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 TJB SBS,http://1.245.74.5:1935/live/tv/.m3u8
 TVB,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
+TVBS,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=95
 TVBRICS,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 TVBS欢乐,rtmp://219.80.97.25/sat/tv421
 TVBS新闻,rtmp://219.80.97.25/sat/tv551
+TVBS新闻,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=54
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVB直播,http://111.229.84.232/yulin/tvb.php?id=3
 TVM Internacional,http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 TVN,https://tvn-seezn.pip.cjenm.com:443/tvn/_definst_/s5/chunklist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE&solsessionid=ced1d8fb89dd32a90e5dfa3d317ca053
 TVT,http://176.107.129.219/media/tvt/index.m3u8
+VIUTV,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/6
+VIUTV,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=8
+VIUTV6,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/7
 V2BEAT,http://de1se01.v2beat.live/playlist.m3u8
 World Fashion,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 澳门,http://61.244.22.4/ch2/ch2.live/chunklist_w227807229.m3u8
@@ -190,6 +207,7 @@ World Fashion,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 大立,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 点掌财经,http://cclive.aniu.tv/live/anzb.m3u8
+东森LIVE,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=55
 东森超视,http://twxui.dyndns.tv:9991/dscs
 东森电影,http://120.84.96.29:808/hls/32/index.m3u8
 东森电影,http://120.84.96.33:808/hls/32/index.m3u8
@@ -211,9 +229,11 @@ World Fashion,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-翡翠,http://120.84.96.25:808/hls/25/index.m3u8
-翡翠,http://120.84.96.32:808/hls/25/index.m3u8
+翡翠,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=1
 翡翠,http://120.84.96.29:808/hls/25/index.m3u8
+翡翠,http://120.84.96.25:808/hls/25/index.m3u8
+翡翠,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
+翡翠,http://120.84.96.32:808/hls/25/index.m3u8
 凤凰电视,http://120.84.96.29:808/hls/29/index.m3u8
 凤凰电视,http://120.84.96.31:808/hls/29/index.m3u8
 凤凰电视,http://120.84.96.43:808/hls/29/index.m3u8
@@ -317,14 +337,21 @@ World Fashion,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 凤凰资讯,http://anren.live/HK/AQtQ.m3u8
 凤凰资讯,http://111.13.42.7/PLTV/88888888/224/3221225942/1.m3u8
 公视,http://twxui.dyndns.tv:9991/gshd
+公视,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/168
 国家地理,http://live.tvfix.org/hls/natlgeo.m3u8
 韩国中央,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-华视新闻,http://59.125.98.83:8538/playlist.m3u8
+华视,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/165
+华视,rtmp://219.80.97.25/sat/tv111
+华视,rtmp://219.80.97.25/sat/tv112
+华视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=86
+华视新闻,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=61
 华视新闻,https://ssttvv1.6zxr.xyz/tvbs56/index.m3u8
+华视新闻,http://59.125.98.83:8538/playlist.m3u8
 华语电视,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 环球旅游,http://117.148.179.154/PLTV/88888888/224/3221231712/index.m3u8
+寰宇新闻,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=63
 寰宇新闻,https://ssttvv1.6zxr.xyz/fhwszw/index.m3u8
 岭南戏剧,http://120.84.96.25:808/hls/84/index.m3u8
 龙华偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
@@ -341,15 +368,26 @@ World Fashion,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 龙翔时代,http://120.84.96.33:808/hls/35/index.m3u8
 美国历史,https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 美国中文,https://cdnts.sinovision.net/livestream.m3u8
+民视,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/164
+民视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=84
+民视第一,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/170
+民视台湾,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=99
+民视台湾,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/169
+民视新闻,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=59
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,https://ssttvv1.6zxr.xyz/fhwszx/index.m3u8
-明珠,http://120.84.96.25:808/hls/26/index.m3u8
+明珠,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2
 明珠,http://120.84.96.29:808/hls/26/index.m3u8
+明珠,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=13
 明珠,http://120.84.96.32:808/hls/26/index.m3u8
 年代新闻,http://220.134.196.147:9517/http/116.50.42.18:8081/hls/67/809/ch27.m3u8
 儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
 三立新闻,https://ssttvv1.6zxr.xyz/twtv/index.m3u8
+台视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=83
+台视,rtmp://219.80.97.25/sat/tv071
+台视,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/167
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,https://ytb.52sf.ga/live.m3u8?c=5
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台湾生活网,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 台湾生活网,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
@@ -367,10 +405,13 @@ World Fashion,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 无线LIVE,http://ye23.win/iptv/tvb.php?id=3
 无线财经,http://111.229.84.232/yulin/tvb.php?id=2
 无线财经,http://ye23.win/iptv/tvb.php?id=2
+无线财经,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=10
+无线财经,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/8
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
 无线新闻,http://ye23.win/iptv/tvb.php?id=1
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 无线新闻,http://ye23.win/iptv/tvb.php?id=5
+无线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
 无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
 无线新闻,http://hls.dszbdq.cn/d/wxtv2.php?id=1
 无线新闻,http://ye23.win/iptv/tvb.php?id=4
@@ -387,6 +428,7 @@ World Fashion,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 孝廉,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+新加坡亚洲新闻,https://ytb.52sf.ga/live.m3u8?c=41
 星空卫视,http://120.84.96.32:808/hls/79/index.m3u8
 星空卫视,http://120.84.96.29:808/hls/79/index.m3u8
 星空卫视,http://120.84.96.25:808/hls/79/index.m3u8
@@ -395,11 +437,26 @@ World Fashion,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+壹新闻,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=58
 壹新闻,http://stream.nexttv.com.tw/n001/playlist.m3u8
+有线18,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/12
+有线18,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=25
+有线603,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/11
+有线603,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=26
+有线财经,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/9
+有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
 原住民,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
 原住民,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
+中视,rtmp://219.80.97.25/sat/tv091
+中视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=82
+中视,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/166
+中视经典,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/171
+中视菁采,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/172
+中视新闻,https://ytb.52sf.ga/live.m3u8?c=8
+中视新闻,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=60
+中天新闻,https://ytb.52sf.ga/live.m3u8?c=1
 中天新闻,http://220.134.196.147:9541/http/116.50.42.18:8081/hls/78/80/ch63max.m3u8
 中天新闻,https://ssttvv1.6zxr.xyz/ztxw/index.m3u8
