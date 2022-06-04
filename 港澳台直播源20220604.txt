@@ -156,14 +156,14 @@ Boomerang,P2p://ns2.hellotvvod.com:9906/e80e0ea046cc4206a9935c6997310ca5
 Boomerang,mitv://ns2.hellotvvod.com:9906/9ce1018c356348109b0d9700862a017d.ts
 Boomerang,p5p://fccs.123178.top:9906/60447a4a00022e630190941a11afdf8e.ts
 Boomerang,mitv://ns2.hellotvvod.com:9906/c05f389c25d1400b9f288fa0d45db82e.ts
-Cartoon Network,P2p://ns2.hellotvvod.com:9906/44285c9480dc4d0eaa2e09f741531878
+Cartoon Network,P2p://ns2.hellotvvod.com:9906/44285c9480dc4d0eaa2e09f741531878.ts
 Cartoon Network,mitv://ns2.hellotvvod.com:9906/733dcee580804e88973a45d5b7d49a81.ts
-CatchPlay电影,P2p://ns2.hellotvvod.com:9906/c4eeae79ede24dd3baf9226ec992dbe4
+CatchPlay电影,P2p://ns2.hellotvvod.com:9906/c4eeae79ede24dd3baf9226ec992dbe4.ts
 CatchPlay电影,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594%20.ts
 CatchPlay电影,mitv://ns2.hellotvvod.com:9906/2b42588414e34374ae4a92e73e38d0df.ts
-CatchPlay电影,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594	.ts
+CatchPlay电影,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594.ts
 Cbeebies,mitv://ns2.hellotvvod.com:9906/fb4ea2515b7f464f88387de9c7d6515e.ts
-Cbeebies,P2p://ns2.hellotvvod.com:9906/65758ebebbb5437cbfdb4b5c88597bf9
+Cbeebies,P2p://ns2.hellotvvod.com:9906/65758ebebbb5437cbfdb4b5c88597bf9.ts
 CBEEBIES,https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 CBSN,mitv://ns2.hellotvvod.com:9906/655f053a88c340fd8211f7713cff73af.ts
 Channel 3,mitv://ns2.hellotvvod.com:9906/20c2fdb35d3f41f1bf4b6406e6c7fcb7.ts
