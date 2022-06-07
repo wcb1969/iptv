@@ -3,9 +3,30 @@ HBO,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
 HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
 HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 HBO Asia,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+HBO Romania,http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/5534
 HBO SIGNATURE,http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2946
 HBO2,http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2942
 HBO2 East SD,http://thetvvalet.com:8080/simon/simon/12861
-HBO,http://190.171.101.36:80/HBO/index.m3u8
-HBO HD vn,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 HBO,http://59.125.101.187:8757/http/192.168.77.24:8081/hls/71/813/ch41.m3u8?
+HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+HBO,http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2942
+HBO,http://220.134.196.147:9557/index.m3u8
+HBO,http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2945
+HBO,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
+HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
+HBO,http://gg.gg/HaNoiIPTV-HBO_HD
+HBO,http://dnsplay.xyz:80/aumdkodc/vgasdt13/35286
+HBO,http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2947
+HBO,https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
+HBO Asia,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+HBO East,http://dnsplay.xyz:80/aumdkodc/vgasdt13/43788
+HBO Family,http://dnsplay.xyz:80/aumdkodc/vgasdt13/34898
+HBO Family,http://dnsplay.xyz:80/aumdkodc/vgasdt13/35292
+HBO Plus,http://dnsplay.xyz:80/aumdkodc/vgasdt13/35290
+HBO Signature,http://dnsplay.xyz:80/aumdkodc/vgasdt13/34901
+HBO SIGNATURE,http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2946
+HBO Xtreme,http://dnsplay.xyz:80/aumdkodc/vgasdt13/35258
+HBO2,http://dnsplay.xyz:80/aumdkodc/vgasdt13/34604
+HBO2,http://dnsplay.xyz:80/aumdkodc/vgasdt13/35288
+HBO2,http://dnsplay.xyz:80/aumdkodc/vgasdt13/34889
+HBO2 West,http://dnsplay.xyz:80/aumdkodc/vgasdt13/34605
