@@ -23,8 +23,7 @@ CCTV15,http://39.134.65.78:80/wh7f454c46tw698721486_1282203709/ottrrs.hl.chinamo
 CCTV15,http://39.134.68.169:6610/PLTV/88888888/224/3221225601/index.m3u8?
 CCTV风云音乐,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/1/1.m3u8?fmt=ts2hls
 CCTV风云音乐,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
-CCTV风云音乐,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
-CCTV风云音乐,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls184a519.m3u8
+CCTV风云音乐,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226718/10000100000000060000000006385496_0.smil
 M2音乐,http://live.m2.tv/hls3/stream.m3u8
 MTV,http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
