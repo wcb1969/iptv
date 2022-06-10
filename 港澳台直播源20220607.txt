@@ -1463,3 +1463,9 @@ TVBS欢乐,rtmp://219.80.97.25/sat/tv421
 纬来体育,rtmp://219.80.97.25/sat/tv721
 ELEVEN1,rtmp://219.80.97.25/sat/tv731
 ELEVEN2,rtmp://219.80.97.25/sat/tv741
+八大戏剧,http://z4.ubtvfans.com/live/81/acfa418656aae8179b91f05f9fc80c91/index.m3u8
+八大精彩,http://z4.ubtvfans.com/live/1024/35c82fb056ce95bdfd22a1e4c926b512/index.m3u8
+纬来体育,http://z4.ubtvfans.com/live/118/ecd446d805bf39ceafe574425ceafa77/index.m3u8
+卫视中文,http://z4.ubtvfans.com/live/342/24f09c1d64fc007bcf4377496b5bb64e/index.m3u8
+ELTA影剧,http://209.141.56.65/nmtv.php?id=5bd937d8-a211-4be2-8c5c-a0fb8e62b23f
+ELTA1,http://z4.ubtvfans.com/live/192/5ea01f72d20e53ae824ee679c686ec31/index.m3u8
