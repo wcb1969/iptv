@@ -486,11 +486,13 @@ YYY,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 卫视电影,http://59.125.101.187:10745/http/192.168.77.24:8081/hls/62/804/ch08.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 卫视电影,http://59.125.101.187:10753/http/192.168.77.24:8081/hls/62/804/ch07.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 卫视中文,http://59.125.101.187:10720/http/192.168.77.24:8081/hls/62/804/ch05.m3u8
+无线财经,http://live.cooltv.top/tv/tvb.php?id=2
 无线财经,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze6yNPXBqAv00zQY_SN6RmoQ
 无线财经,http://111.229.84.232/yulin/tvb.php?id=2
 无线财经,http://198.204.239.194:27347/livehlsplay?channel_id=20099
 无线财经,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/8
 无线财经,http://50.7.220.74:8278/j5_twn/playlist.m3u8?tid=m02000000000016321738&ct=18001&tsum=51765b09f6ee643481f0a70be4828cbf
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=1
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
 无线新闻,http://hls.dszbdq.cn/d/wxtv2.php?id=1
