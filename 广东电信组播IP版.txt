@@ -565,3 +565,5 @@ PPTV-4,http://fxhack.f3322.org:8000/udp/239.77.1.186:5146
 网络通道5HD,http://fxhack.f3322.org:8000/udp/239.77.1.120:5146
 网络通道6HD,http://fxhack.f3322.org:8000/udp/239.77.1.122:5146
 频道已停止播出,http://fxhack.f3322.org:8000/udp/239.77.1.114:5146
+
+另有IP可用：2941.vicp.net:8888
