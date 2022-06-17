@@ -1,3 +1,4 @@
+TNT SPORT 2 MX,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/108
 3ABN Dare to Dream,https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
 3ABN International,https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
 3ABN Kids,https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
@@ -7,35 +8,43 @@
 A Pink - Hush,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsfK24gUozL7XrAE.mp4
 à Punt,https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
 A&E,https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
-ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
-ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
-ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
+ABC News,http://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
-ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
+ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
+ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
 ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
 ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
 ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
 ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
+ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
 Abs朝日,http://203.162.235.41:16914
+AFIZZIONADOS,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/890
 Alan Walker-feat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9qiM5gUo-tns8Qc.mp4
 ALTV,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+AMC,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/989
 American Horrors,http://170.178.189.66:1935/live/Stream1/playlist.m3u8?checkedby:iptvcat.com
 AN BOO,http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8?v=
 Andrea feat. Fiki - Sex Za Den,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmcW84gUoqJz6vQc.mp4
+ANIMAL PLANET,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/19
+Animal Planet,https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b2500000.m3u8
+Animal Planet,http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/playlist.m3u8
 Animal Planet,http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 Animal Planet,https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
-Animal Planet,https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b2500000.m3u8
-Animax,https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
-Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
-Animax,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
-Animax,http://50.7.220.74:8278/nippontv_japan/playlist.m3u8?tid=m02000000000018410979&ct=17961&tsum=ffa3078fcab317cc03360e4c7c20125c
-Animax,https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b2500000.m3u8
-Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
-Animax,https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
-Animax,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
+ANIMAL PLANET HD,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1022
 Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-Antv,https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b2500000.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
+Animax,https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+Animax,http://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
+Animax,http://50.7.220.74:8278/nippontv_japan/playlist.m3u8?tid=m02000000000018410979&ct=17961&tsum=ffa3078fcab317cc03360e4c7c20125c
+Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
 Antv,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+Antv,http://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/playlist.m3u8
+Antv,https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 Antv,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 AOA - Excuse Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.mp4
 AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ.mp4
@@ -43,17 +52,19 @@ AOA - 动摇,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4vi24gUo-NvqkgI.mp4
 Ara - Wish,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg--_h7QUojLvmogU.mp4
 Arash feat. Helena - One Night In Dubai,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2-_h7QUo0LvLxwE.mp4
 Areia Kpop Remix,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg____4gUopsLtrQQ.mp4
-Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
+Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
+Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang,http://livecdn.fptplay.net/sdb/arirang_hls.smil/playlist.m3u8
 Arirang,https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
-Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
-Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 Arirang,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 ARTI TV,https://5856e1a25f71a.streamlock.net/easycast7-live/mp4:livestreamhd20/playlist.m3u8
 Asian Food,https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+Asian Food Network,http://livecdn.fptplay.net/hda1/afchd_vhls.smil/playlist.m3u8
 Asian Food Network,https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 Astro AEC,http://50.7.220.74:8278/Aec/playlist.m3u8?tid=m02000000000015394736&ct=17957&tsum=1dcfc710d1e57d6048f64c2e0383ecd3
 Astro Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
@@ -67,138 +78,195 @@ Astro Warna,http://50.7.220.74:8278/Warna/playlist.m3u8?tid=m0200000000001748762
 Astro 欢喜,http://50.7.220.74:8278/Huahee/playlist.m3u8?tid=m02000000000018660079&ct=17957&tsum=5ce7429a79a9a892208c316c2a8133ee
 Astro 双星,http://50.7.220.74:8278/Shuangxing/playlist.m3u8?tid=m02000000000010638087&ct=17957&tsum=16035284df542c2d54efaee5e47bc535
 Atameken,http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/chunklist.m3u8
-AXN,http://59.125.101.187:10759/http/192.168.77.24:8081/hls/71/813/ch43.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+AXN,http://59.125.101.187:10759/http/192.168.77.24:8081/hls/71/813/ch43.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 Baby,https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
-Baby,https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b2500000.m3u8
 BaBy,http://50.7.220.74:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
-BaBy,http://50.7.220.74:8278/babytv_twn/playlist.m3u8?tid=MB3B7827650178276501&ct=18393&tsum=27fb0219125df6a523b97248cdf16d1b
 Baby,https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
+BaBy,http://50.7.220.74:8278/babytv_twn/playlist.m3u8?tid=MB3B7827650178276501&ct=18393&tsum=27fb0219125df6a523b97248cdf16d1b
+Baby,https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b2500000.m3u8
 Baby First,https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 Baby First,http://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+Baby,http://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/playlist.m3u8
+BabyFirst,http://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/playlist.m3u8
 BadenTV,http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-BBC Cbeebies,https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+BBC America,http://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
 BBC CBeeBies,https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b2500000.m3u8
-BBC earth,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
+BBC Cbeebies,https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 BBC earth,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b2500000.m3u8
 BBC earth,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+BBC earth,http://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/playlist.m3u8
 BBC earth,https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
-BBC Lifestyle,https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+BBC earth,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
 BBC Lifestyle,https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
+BBC Lifestyle,http://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+BBC Lifestyle,https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+BBC World News,http://livecdn.fptplay.net/sdb/bbcnew_hls.smil/playlist.m3u8
 BBC World News,https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
-BBC World News,https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b2500000.m3u8
 BBC World News,http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b500000.m3u8
+BBC World News,https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b2500000.m3u8
 BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
 bbstv,http://ye23.win/iptv/korea2021.php?id=bbstv
 Bernama,http://50.7.220.74:8278/Bernama/playlist.m3u8?tid=m02000000000015103647&ct=17958&tsum=c2fd04f2d69c43b4532593798f2fded4
+BITME,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/995
 Bloomberg,https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8
+Bloomberg (Europe),http://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 Bloomberg Quicktake,https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
-Bloomberg TV Europe,https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 Bloomberg TV Europe,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+Bloomberg TV Europe,https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 BloombergTV,http://59.125.98.83:8551/playlist.m3u8
-Blue Ant entertaiment,https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b2500000.m3u8
 Blue Ant entertaiment,https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+Blue Ant entertaiment,https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b2500000.m3u8
 Blue Ant Extreme,https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b2500000.m3u8
 BLUE ANT EXTREME,https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 blueantent,https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8?bycoca
 blueantext,https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8?bycoca
 Blues,https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
 Boomerang,https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+Boomerang,http://livecdn.fptplay.net/hda3/boomerang_vhls.smil/playlist.m3u8
 Boomerang,https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b2500000.m3u8
 BRT,https://livecdn.fptplay.net/sdc/bariavungtau_2000.stream/chunklist.m3u8
 BS,http://203.162.235.41:16911
 BS,http://203.162.235.41:16912
+BS TV Tokyo,http://203.162.235.41:16915
+BS-TBS,http://203.162.235.41:16913
 BTV,https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
 BTV,https://livecdn.fptplay.net/sdc/bacninh_hls.smil/playlist.m3u8
 BTV1,https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
 BTV1,https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist.m3u8
-BTV2,https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist.m3u8
 BTV2,https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
+BTV2,https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist.m3u8
 BTV4,https://livecdn.fptplay.net/hda2/btv4hd_hls.smil/chunklist_b2500000.m3u8
 BTV4,https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist.m3u8
-BTV9,https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 BTV9,https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
+BTV9,https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 C2,http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
+caballeros del zodiaco,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/333
 CAMAU,https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8?
-Campus TV Magdeburg,http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
 Campus TV Magdeburg,https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8?=&ref=www.rheinmaintv.de&seid=598541
+Campus TV Magdeburg,http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
+CANAL 10 CHIAPAS,https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w462891777.m3u8
 Canal 24 horas,https://rtvelivestreamv3.akamaized.net/24h_main_dvr.m3u8
 Canal 2000 La Solana,http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
 Canal San Roque,https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8
 CAPITALTV,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-CATCHPLAY电影,http://50.7.220.74:8278/catchplay_twn/playlist.m3u8?tid=ma51023a5bb5c15986498&ct=17874&tsum=2de38c0bcaece3cb5c50d0d600357cb0
+CARACOL COLOMBIA,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/996
+CARTOONITO,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1036
 CATCHPLAY电影,http://50.7.220.74:8278/catchplay_twn/playlist.m3u8?tid=ME7E4675812646758126&ct=18392&tsum=271a75bd9cc5c9a7ef81aca6ad1df354
+CATCHPLAY电影,http://50.7.220.74:8278/catchplay_twn/playlist.m3u8?tid=ma51023a5bb5c15986498&ct=17874&tsum=2de38c0bcaece3cb5c50d0d600357cb0
+CBeebies,http://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/playlist.m3u8
 CBEEBIES,https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 CBeebies,https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
 CBN Rio,https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 Channel A,http://ye23.win/iptv/korea2021.php?id=Channela
 Channel A,http://ye23.win/iptv/korea2021.php?id=Channel
+CHC Action Movies,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CHC Home Theater,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CI,http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
+Cinemax,http://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+Cinemax,http://59.125.101.187:10761/http/192.168.77.24:8081/hls/61/803/ch02.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 Cinemax,https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 Cinemax,http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8?bycoca
-Cinemax,http://59.125.101.187:10761/http/192.168.77.24:8081/hls/61/803/ch02.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+Cinemax,http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
 Cinemax,https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
-CINEMAX,http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
+Cinemax CHILE,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1049
 Cinemax Vit Nam,https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+Citizen,http://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/playlist.m3u8
 CJB SBS,http://ye23.win/iptv/korea2021.php?id=CJB
 Clara Mae ft. Jake Miller,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgl8-77QUo2KnZ-AU.mp4
+CLARO SPORTS,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/29
+CLARO SPORTS HD,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/895
 Classic,https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
 CMC-USA,https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-CNA,https://i.mjh.nz/au/Sydney/tv.cna.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,https://i.mjh.nz/au/Sydney/tv.cna.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 CNBC,https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
+CNBC,http://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
 CNC中文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+CNN,http://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-CNN HD,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-CNN HD,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 CNN International Germany,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-CNN新闻,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8?
 CNN新闻,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
-CN卡通,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=md272f875bb6916787346&ct=17874&tsum=0c38bae20c6db7e76ad1418654c8ccd4
+CNN新闻,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8?
 CN卡通,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
+CN卡通,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=md272f875bb6916787346&ct=17874&tsum=0c38bae20c6db7e76ad1418654c8ccd4
+COMEDY CENTRAL,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/997
+COMEDY CENTRAL,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/15
+Comedy Hub,http://uksono1-samsunguk.amagi.tv/playlist.m3u8
+Congress,http://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/playlist.m3u8
+CORRE CAMINOS,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/319
 cpbc,http://ye23.win/iptv/korea2021.php?id=cpbc
 Crackle(XUMO),http://crackle-xumo.amagi.tv/playlist.m3u8
+CSI: Miami,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/339
 CTS,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
 cum4k,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6190/index.m3u8
 CYC,http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8
+Da Vinci Kids,http://livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
 Da Vinci Kids Learning,https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 Dal Shabet,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3fq95QUoisPxpAM.mp4
+DAN TV,http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 DANANG1,https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8?
 DaNangTV2,http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 Dance,https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
 Darcizzle电视,http://30a-tv.com/darcizzle.m3u8
 DAVINCI,https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 dema,http://ye23.win/iptv/korea2021.php?id=dema
+Deutsche Welle,http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+DHE COLOMBIA,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/998
 Diez TV,https://streaming.cloud.innovasur.es/mmj/index.m3u8
-Discovery,https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
-Discovery,https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 Discovery,https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b2500000.m3u8
+Discovery,http://livecdn.fptplay.net/hda2/discovery_vhls.smil/playlist.m3u8
+Discovery,https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 Discovery,http://200.220.133.82:8000/play/DISC_CHANNEL
+Discovery,https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+Discovery Asia,http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/playlist.m3u8
 Discovery Asia,https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b2500000.m3u8
-Discovery Asia,https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 Discovery Asia,https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+Discovery Asia,https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+Discovery,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/18
+Discovery,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1023
 Discovery H&H,http://200.220.133.82:8000/play/DISC_HH
+Discovery HOME & HEALTH,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/91
+Discovery HOME & HEALTH,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1024
+Discovery INVESTIGATION,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1033
+Discovery INVESTIGATION,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/92
+Discovery KIDS COLOMBIA,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1038
+Discovery SCIENCE,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1025
+Discovery THEATER,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1026
+Discovery THEATER,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/94
+Discovery TURBO,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/90
+Discovery World,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1029
+DISNEY CHANNEL,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1039
+DISNEY JR ARGENTINA,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1040
+DISTRITO COMEDIA,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/999
 Distrito TV,https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 DJT,https://srv1.adriatelekom.com/DJTelevision/index.m3u8
 DN1,https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
 DN2,https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 DONGNAI1,https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8?
 DONGNAI2,https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8?
+Dragon Ball Super,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/341
+Dragon Ball Z 1989,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/347
 Dreamworks,https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b2500000.m3u8
 Dreamworks,https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
 DreamWorks,https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+DreamWorks,http://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/playlist.m3u8
 DTV,https://livecdn.fptplay.net/sdc/dienbien_2000.stream/chunklist.m3u8
 Dubai Racing 3,http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-Dubai Sports,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 Dubai Sports,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:iptvcat.com
+Dubai Sports,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 Dubai Sports 1,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?
-Dubai Sports 2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 Dubai Sports 2,http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+Dubai Sports 2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 Dubai Sports 3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 DW,https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
+DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 DW News,https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
+E!,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1000
+E!,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/14
 EBS 1,http://ye23.win/iptv/korea2021.php?id=EBS1
 EBS 2,http://ye23.win/iptv/korea2021.php?id=EBS2
 EBS E,http://ye23.win/iptv/korea2021.php?id=EBS_E
@@ -208,50 +276,54 @@ EBS+2,http://ye23.win/iptv/korea2021.php?id=EBS_2
 Ecran TV,http://51.210.199.40/hls/stream.m3u8
 EDGEsport,https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
 EETV,http://www.fdkj.net:9901/tsfile/live/1018_1.m3u8
+EL GOURMET,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1001
 Elbekanal Sch?nebeck,http://62.113.210.250/medienasa-live/RFH_high/master.m3u8
 ELEVEN SPORTS 1,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
 ELEVEN SPORTS 1,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
-ELEVEN1,rtmp://59.124.75.138/sat/tv731
-ELEVEN1,rtmp://59.124.75.150/sat/tv731
 ELEVEN1,rtmp://59.124.75.138:1935/sat/tv731
-ELEVEN2,rtmp://59.124.75.150/sat/md051
-ELEVEN2,rtmp://59.124.75.138/sat/md051
+ELEVEN1,rtmp://59.124.75.150/sat/tv731
+ELEVEN1,rtmp://59.124.75.138/sat/tv731
 ELEVEN2,rtmp://59.124.75.138/sat/tv741
+ELEVEN2,rtmp://59.124.75.138/sat/md051
 ELEVEN2,rtmp://59.124.75.138:1935/sat/tv741
 ELEVEN2,rtmp://59.124.75.150/sat/tv741
-ELTA体育1,rtmp://59.124.75.150/sat/md011
+ELEVEN2,rtmp://59.124.75.150/sat/md051
 ELTA体育1,rtmp://59.124.75.138/sat/md011
+ELTA体育1,rtmp://59.124.75.150/sat/md011
 ELTA体育2,rtmp://59.124.75.150/sat/md021
 ELTA体育2,rtmp://59.124.75.138/sat/md021
-ELTA体育3,rtmp://59.124.75.150/sat/md041
 ELTA体育3,rtmp://59.124.75.138/sat/md041
+ELTA体育3,rtmp://59.124.75.150/sat/md041
 ELTA影剧,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 EMCi,https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/index.m3u8
+ESTRELLA TV,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1002
 ESTV,https://estv-rakuten.amagi.tv/playlist.m3u8
-Euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+ET Live,http://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 Euronews,https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+Euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 Eurosport1 HD,http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/217/stream.m3u8
-Eurosport1 HD,https://livetv.mylifeisgood.ml/channels/eurosport1ru
-Eurosport1 HD,http://213.172.73.171:8081/nimble_live/1176__Eurosport1_HD/playlist.m3u8
 Eurosport1 HD,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/217/stream.m3u8
 Eurosport1 HD,https://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8
 Eurosport1 HD,http://81.177.139.240:8000/play/a00b/index.m3u8
+Eurosport1 HD,https://livetv.mylifeisgood.ml/channels/eurosport1ru
 Eurosport1 HD,http://152.228.154.144/stream/DKQ6M3GWVG1/176.m3u8
 Eurosport1 HD,http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/228/index.m3u8
 Eurosport1 HD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
+Eurosport1 HD,http://213.172.73.171:8081/nimble_live/1176__Eurosport1_HD/playlist.m3u8
 Eurosport2 HD,http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/219/stream.m3u8
-Eurosport2 HD,http://81.177.139.240:8000/play/a00c/index.m3u8
 Eurosport2 HD,https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8
 Eurosport2 HD,https://livetv.mylifeisgood.ml/channels/eurosport2
-Eurosport2 HD,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/stream.m3u8
-Eurosport2 HD,https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/219/stream.m3u8
-Eurosport2 HD,http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/234/index.m3u8
+Eurosport2 HD,http://81.177.139.240:8000/play/a00c/index.m3u8
 Eurosport2 HD,http://152.228.154.144/stream/DKQ6M3GWVG1/192.m3u8
+Eurosport2 HD,http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/234/index.m3u8
+Eurosport2 HD,https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/219/stream.m3u8
+Eurosport2 HD,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/stream.m3u8
 EXID - Ah Yeah,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1J_-4gUouJjNQw.mp4
 EXID - Every Night,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
 EXID - L.I.E,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2abB4gUohpLdxAQ.mp4
 EXID - UP&DOWN,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzMnG4gUoroOQgQU.mp4
 EXID - 上下(中文版),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
+Extrema TV,http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 EYE TV戏剧,http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
 EYE旅游,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
 Fashion,https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist_hdhigh.m3u8
@@ -259,16 +331,17 @@ Fashion,https://siloh.pluto.tv/lilo/production/FashionTV/master.m3u8
 Fashion 4K,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 Fashion Box,http://46.150.192.58/play/34
 Fashion One HD,http://193.33.240.8:8080/fashion_one_hd/index.m3u8
-Fashion TV,https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 Fashion TV,https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
-Fashion TV,https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-Fashion TV,https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
-Fashion TV,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-Fashion TV,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
-Fashion TV,https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
-Fashion TV,http://168.205.87.198:8555/live/4666/123456/61.m3u8
 Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+Fashion TV,http://168.205.87.198:8555/live/4666/123456/61.m3u8
+Fashion TV,https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
+Fashion TV,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
+Fashion TV,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+Fashion TV,https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+Fashion TV,https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+Fashion TV,https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 Fashion TV Czech&Slovak,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+Fashion TV UHD,http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 FashionTV,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad8812deda83d1
 FashionTV,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc
 Fibracat TV,https://cdn02.fibracat.cat/fibracattv/index.m3u8
@@ -276,66 +349,107 @@ Fish TV,http://168.205.87.198:8555/live/4666/123456/62.m3u8
 Folk,https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8
 Foreign Figures - Fire,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzf2h7QUohIem5AQ.mp4
 Four Ladies-Move,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg85Do5QUow-P-wwI.mp4
+Fox News Now,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+Fox SPORT premium,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/102
+Fox SPORTS MEX 2,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/903
+Fox SPORTS MEX 3,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/904
 Fox Sports News,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-FoxNewsTalkRadio,http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+Fox NewsTalkRadio,http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 France 24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 France 24,http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 France 24,https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 France 24 Arabic,http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+France 24 English,http://livecdn.fptplay.net/sdb/france24_hls.smil/playlist.m3u8
 FTV Magzine,https://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 Fuel TV,https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 Fuji,http://cdn.us195.jpnettv.live:1935/jptv/kanto_fuji_720/playlist.m3u8
+Fuji,http://203.162.235.41:16904
 Futura,https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1373095168.m3u8
+Futurama,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/351
 FW,http://163.47.214.155:1935/fwnews/live/playlist.m3u8
 GCN24,http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_high/playlist.m3u8
+GH TV REPUBLICA DOMINICANA,https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 Girls Generation - DIVINE,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgho7o5QUoyr2cggE.mp4
 Girls Generation - Mr.Mr,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgorq64gUozOXcXA.mp4
 Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.mp4
 Goiena,https://zuzenean.goienamedia.eus:8443/goiena-telebista.m3u8
+GOLDEN,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1054
+GOLDEN EDGE,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1055
+GOLDEN PLUS,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1056
+GOLDEN PREMIER,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1057
 Golf,http://203.162.235.41:16924
 Golf,http://203.162.235.41:16924/
+Golf News,http://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 Good TV,http://ye23.win/iptv/korea2021.php?id=Good
 Gugbang TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 H2,https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
+H2,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1030
+H2,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/95
 HAIPHONG,https://livecdn.fptplay.net/sdc/haiphong_2000.stream/chunklist.m3u8?
 HANOI2,https://livecdn.fptplay.net/sdc/hanoitv2_2000.stream/chunklist.m3u8?
-HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
-HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-HBO,http://59.125.101.187:10757/http/192.168.77.24:8081/hls/71/813/ch41.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-HBO,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
-HBO,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
+Hanoicab 2,http://livecdn.fptplay.net/sdb/youtv_hls.smil/playlist.m3u8
+Happy Tree Friends,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/321
 HBO,https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
+HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 HBO,http://gg.gg/HaNoiIPTV-HBO_HD
+HBO,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/80
+HBO,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
+HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
+HBO,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
+HBO,http://59.125.101.187:10757/http/192.168.77.24:8081/hls/71/813/ch41.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+HBO 2,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/32
+HBO 2,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1059
 HBO Asia,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+HBO FAMILY,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/33
+HBO,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1058
+HBO MUNDI,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1061
+HBO PLUS,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/81
+HBO PLUS,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1062
+HBO POP,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1065
+HBO SIGNATURE,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1063
 HBO Signature,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+HBO XTREME,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/35
+HBO XTREME HD,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1064
 HBO强档巨献,http://50.7.220.74:8278/hbohits_twn/playlist.m3u8?tid=MEAE4573157945731579&ct=18392&tsum=f86959d8d1d44b2eb9d30f62bdf2835f
 HBO强档巨献,http://50.7.220.74:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
 HBO温馨家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 HBO温馨家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 HBO原创巨献,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+he man,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/353
 Health TV,http://62.113.210.250/medienasa-live/BLKonline_high/playlist.m3u8
 HELLOVENUS - StickySticky,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnIS24gUoptqYDQ.mp4
 HELLOVENUS - WiggleWiggle,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
+HÉROES EN PIJAMAS,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/328
+HGTV,http://api.vthanhtivii.xyz/v1/getlink/tv360/99/2
 HGTV,https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
 Hip Hop,https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
 History,http://187.85.237.32:8825/ipvt_007
+HISTORY,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/16
+HISTORY,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1032
 History 2,http://cdn.connectbr.com.br:80/h2/playlist.m3u8
 Hits,https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
+Hits,http://api.vthanhtivii.xyz/v1/getlink/tv360/107/2
 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-Hope,https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u8
 Hope,http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+Hope,https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u8
 Hot亚洲影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=no
 HTV,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+HTV Key,http://livecdn.fptplay.net/sdb/htv4_hls.smil/playlist.m3u8
+HTV1,http://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
+HTV3,http://livecdn.fptplay.net/sdb/htv3_hls.smil/playlist.m3u8
 HTV3,https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 HTV9,https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
-Hustler,http://193.33.240.8:80/hustler_hd/video.m3u8
-Hustler,http://193.33.240.8:80/hustler_hd/index.m3u8
-Hustler,http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/244/index.m3u8
 Hustler,http://78.83.191.18:8000/play/a078
+Hustler,http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/244/index.m3u8
+Hustler,http://193.33.240.8:80/hustler_hd/index.m3u8
+Hustler,http://193.33.240.8:80/hustler_hd/video.m3u8
 Hyuna - Lip & Hip   Areia Kpop Remix,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtLrW4gUosLGs2gU.mp4
 IGI,https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+Imagen TV,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/881
 imode时尚,https://juyunlive.juyun.tv/live/24950198.m3u8
 imode时尚,http://juyunlive.juyun.tv/live/24950198.m3u8
+In the Box,http://103.170.123.169:9981/stream/channelid/2001261699?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
 InWild,https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-inwild-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 J1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 J2,http://50.7.220.74:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
@@ -347,75 +461,87 @@ Jenny Live,https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/play
 JET综合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
 JinSoul- Singing in the Rain,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6vC98AUooILmZw.mp4
 JSTV,http://live.ynurl.com/video/s10045-JSTV/index.m3u8
+K Plus (+15 hrs),http://210.210.155.35:80/session/0c338296-303c-11e9-bdab-b82a72d63267/uq2663/h/h08/index2.m3u8
 Kanal 10 Asia,http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 KBC SBS,http://ye23.win/iptv/korea2021.php?id=KBC
 KBC SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+KBS World,http://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+KBS World,https://livecdn.fptplay.net:443/sdb/kbs_hls.smil/playlist.m3u8
 KBS World,https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
 KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
 KBS World,https://vips-livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b5000000.m3u8
 KBS World,https://livecdn.fptplay.net/sdb/kbs_2000.stream/chunklist_b2500000.m3u8
-KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
-KBS World,https://livecdn.fptplay.net:443/sdb/kbs_hls.smil/playlist.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1668602111.m3u8
+KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-KCTV,http://ye23.win/iptv/korea2021.php?id=KCTV
-KCTV,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+KCTV,http://ye23.win/iptv/korea2021.php?id=KCTV
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1668602111.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
 Kesimpta,https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
 KHANHHOA,https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8?
 Kids,https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
 Kirin,http://203.162.235.41:16907
+KIX,https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
 KIX,https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
 KIX,https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b2500000.m3u8
-KIX,https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-KIX,https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
 KIX,https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+KIX,http://livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8
+KIX,https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 KOK FIGHT,https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 korea TV,http://ye23.win/iptv/korea2021.php?id=korea
 KPop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-kroneHit,https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 kroneHit,https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
+kroneHit,https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 Kronic & Krunk - Hey Ho!,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAglNTV4gUo9PrW7wM.mp4
 KTV,https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
 KW TV Wildau,https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8
 Latin,https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8
-LBRTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001268/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 LBRTV,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226000/index.m3u8
+LBRTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001268/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 LBRTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001447/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 LCTV,http://m3u8.channellive.lcbtv.com/nmip-media/channellive/channel101246/playlist.m3u8
 Lifetime,http://187.85.237.32:8825/ipvt_001
+LIFETIME,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/83
+LIFETIME,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1009
 Lifevision TV,https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
 Light Channel,http://62.113.210.250:1935/medienasa-live/mp4:ran1_high/playlist.m3u8
 LIVE,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+Los locos Addams,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/355
+LOS SIMPSON,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/307
 LSTime电影,http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 LSTime电影,http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 LSTV,http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
 LTV,https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
 Luxury World,http://nano.teleservice.su:8080/hls/luxury.m3u8
 M2音乐,http://live.m2.tv/hls3/stream.m3u8
+MALCOLM EL DE ENMEDIO,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/358
+Man,http://103.170.123.169:9981/stream/channelid/1823389429?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
 MavTV Select,https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-MBC,https://stream.chmbc.co.kr/live/TV/playlist.m3u8
+MAXIMA FM Video/Radio,http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 MBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+MBC,https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+MBC,https://stream.chmbc.co.kr/live/TV/playlist.m3u8
 MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 MBN,http://ye23.win/iptv/korea2021.php?id=MBN
 MDF,http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
 MED,http://137.74.205.201/medmuzik/MedStream/playlist.m3u8
 Metro Globe Network,https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 MOMO亲子,http://59.125.101.187:10768/http/192.168.77.24:8066/hls/210/10014/cstv14.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-MOMO综合,rtmp://59.124.75.138/sat/tv761
-MOMO综合,rtmp://59.124.75.138:1935/sat/tv761
 MOMO综合,rtmp://59.124.75.150/sat/tv761
+MOMO综合,rtmp://59.124.75.138:1935/sat/tv761
+MOMO综合,rtmp://59.124.75.138/sat/tv761
 MTN,http://ye23.win/iptv/korea2021.php?id=MTN
 MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 MTV,http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+MTV,http://livecdn.fptplay.net/sdb/mtv_hls.smil/playlist.m3u8
 MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
-MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master_2400.m3u8
 MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master_2400.m3u8
 MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master_2400.m3u8
 MTV Yo,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
@@ -423,40 +549,58 @@ MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/mast
 MTV音乐,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 Music,https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
 MUSIC +,http://s02.diazol.hu:10192/hls/stream.m3u8
+Music BOX,http://livecdn.fptplay.net/hda3/music_vhls.smil/playlist.m3u8
 Music India,http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
-MUSIC PLUS,http://79.172.214.45:10190/stream.m3u8
+Music PLUS,http://79.172.214.45:10190/stream.m3u8
 Music Reload TV HD,http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
-Music Top,http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-Music Top,https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-Music Top,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
 Music Top,https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1369951744_b2028000_sleng.m3u8
+Music Top,http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 Music Top,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 Music Top,http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+Music Top,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+Music Top,https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 Music You,http://203.154.243.89:1213
 MusicPlus HD HU,http://s02.diazol.hu:10190/stream.m3u8
 MuzSojuz,http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
 myStream,http://ye23.win/iptv/korea2021.php?id=myStream
+naruto,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/361
+Nat Geo Wild,http://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
+NATGEO MX,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/17
+NATGEO MX,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/40
+NATGEO MX,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1034
+National Geographic,http://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/playlist.m3u8
 National Geographic,http://200.220.133.82:8000/play/NAT_GEO
 NBC NEWS,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-NBS Korea Agricultural Br,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+NBC News Now,http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 NBS Korea Agricultural Br,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+NBS Korea Agricultural Br,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 New Japan Pro Wrestling W,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
 NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?zshijd
 NHK,http://203.162.235.41:16901
 NHK BS Premium,http://cdn.us195.jpnettv.live:1935/jptv/bspremium_720/playlist.m3u8
+NHK BS1,http://203.162.235.41:16909
 NHK BS1,http://cdn.us195.jpnettv.live:1935/jptv/nhkbs1_720/playlist.m3u8
 NHK Bsp,http://203.162.235.41:16910
 NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+NHK World,http://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
+NHK World,http://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_4M.m3u8
+NHK World,http://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_2M.m3u8
+NHK World,http://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+NHK World,http://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_2M.m3u8
+NHK World,http://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
 NHK World Japan,https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 NHK World Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 NHK World Japan,https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 NHKG,http://203.162.235.41:16903
-NHK华语,https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8
-NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-NHK华语,https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8?
 NHK华语,http://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NHK华语,https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8?
+NHK华语,https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8
 NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NICK JR,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1043
+Nippon TV,http://203.162.235.41:16905
+Nippon TV News24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 NTV,https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
 Oberlausitz TV,http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
 OffenerKanalMagdeburg,http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
@@ -469,15 +613,20 @@ ONE,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunkli
 otpaha,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
 Outdoor,https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 Outdoor America,https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8
+Outdoor Channel,http://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/playlist.m3u8
 PHUYEN,https://livecdn.fptplay.net/sda/phuyen_2000.stream/chunklist.m3u8?
+pinky y cerebro,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/362
 Pop,https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
 pop10,http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
+PORTAL FOXMIX,http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+PRESUMIENDO MEXICO,https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/chunklist_w1924817410_b1428000_sleng.m3u8
 Prime Box Brazil,http://168.205.87.198:8555/live/4666/123456/83.m3u8
-PUNKTum,http://5856e1a25f71a.streamlock.net:1935/easycast8-live/mp4:livestreamhd4/playlist.m3u8
 PunktUM,https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:mdf1_high/playlist.m3u8
+PUNKTum,http://5856e1a25f71a.streamlock.net:1935/easycast8-live/mp4:livestreamhd4/playlist.m3u8
 PUNKTum Fernsehen,http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
 Punktum S?dharz,https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u8
 QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
+QPVN,http://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/playlist.m3u8
 QPVN,https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
 QUANGBINH,https://livecdn.fptplay.net/sda/quangbinh_2000.stream/chunklist.m3u8?
 QUANGNGAI,https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
@@ -487,8 +636,8 @@ RAN1,https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-dessau_high/play
 RAN1 Regionalfernsehen,http://62.113.210.250/medienasa-live/mp4:ran1_high/master.m3u8
 RBW,http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-Redlight HD,http://93.152.174.144:4000/play/privatetv1/index.m3u8
 Redlight HD,http://109.200.130.123:7032/play/353
+Redlight HD,http://93.152.174.144:4000/play/privatetv1/index.m3u8
 Redlight HD,http://93.152.174.144:4000/play/privatetv1/tracks-v1a1/index.m3u8
 Relax,https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8
 Remember,https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
@@ -496,14 +645,18 @@ Retro Plus,https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retro
 RFH Harz,https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8
 RFH TV,https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=528347
 rheinmaintv,https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/chunklist.m3u8
+robotech,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/304
 Rock,https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
+Rock Entertainment,http://livecdn.fptplay.net/hda1/blueantent_vhls.smil/playlist.m3u8
+Rock Extreme,http://livecdn.fptplay.net/hda1/blueantext_vhls.smil/playlist.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 RT en Español,https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 RTHK32,http://50.7.220.74:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
 Sabor & Arte,http://168.205.87.198:8555/live/4666/123456/172.m3u8
-SBS,http://ye23.win/iptv/sbs5.1.php?id=S01
+SAILOR MOON,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/305
 SBS,http://ye23.win/iptv/korea2021.php?id=SBS
+SBS,http://ye23.win/iptv/sbs5.1.php?id=S01
 SBS-Biz,http://ye23.win/iptv/sbs5.1.php?id=S06
 SBS-Fun,http://ye23.win/iptv/sbs5.1.php?id=S04
 SBS-Golf,http://ye23.win/iptv/sbs5.1.php?id=S05
@@ -513,63 +666,113 @@ SBS-MTV,http://ye23.win/iptv/sbs5.1.php?id=S09
 SBS-Plus,http://ye23.win/iptv/sbs5.1.php?id=S03
 SBS-POWER,http://ye23.win/iptv/sbs5.1.php?id=S07
 SBS-Sports,http://ye23.win/iptv/sbs5.1.php?id=S02
+SCTV6,http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/playlist.m3u8
+shera,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/343
+SIPSE TV CHETUMAL,https://webprod.sipse.com.mx:8080/show/merida.m3u8
 Skynews,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 Sonnenklar.TV,http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8
 Spanish,https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
+spiderman,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/310
+STAR CHANNEL,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1004
 Star World,http://59.125.101.187:10758/playlist.m3u8
 Star World,http://59.125.101.187:10761/http/192.168.77.24:8081/hls/71/813/ch42.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+SUNDANCETV,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1069
+SUPER CAMPEONES,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/312
 Tastemade Brasil,https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 TAYNINH11,https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8?
 TBC,http://221.157.125.239:1935/live/psike/playlist.m3u8
 TBS,http://cdn.us195.jpnettv.live:1935/jptv/kanto_tbs_720/playlist.m3u8
 TBS,http://ye23.win/iptv/korea2021.php?id=TBS-a
 TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+TELEMUNDO,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1015
+TELEMUNDO PR,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/89
+Thundercats,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/314
 TITV,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
-TJB SBS,http://ye23.win/iptv/korea2021.php?id=TJB
 TJB SBS,http://1.245.74.5:1935/live/tv/.m3u8
+TJB SBS,http://ye23.win/iptv/korea2021.php?id=TJB
 TJBISBS,http://1.245.74.5:1935/live/tv/chunklist_w1082057117.m3u8
-TLC,https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 TLC,http://220.134.196.147:9511/index.m3u8
+TLC,http://livecdn.fptplay.net/hda2/travelliving_vhls.smil/playlist.m3u8
+TLC,https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+TLC,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/93
+TLC,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1027
 TLC旅游生活,http://59.125.101.187:10774/http/192.168.77.24:8081/hls/70/812/ch38.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+TLNOVELAS,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1016
+TNT SPORT ARG,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/931
 Tomato,http://etomatomobile.hscdn.com/etomato.dvr/livestream/playlist.m3u8
 Travel Box Brazil,http://168.205.87.198:8555/live/4666/123456/124.m3u8
+TRU TV,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1018
+TUDN MX,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/911
+TV Asahi,http://203.162.235.41:16906
 TV HALLE,http://62.113.210.250/medienasa-live/tvhalle_high/playlist.m3u8
+TV Tokyo,http://203.162.235.41:16908
 TV5MONDE,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
+TV5World Asia,http://livecdn.fptplay.net/sdb/tv5_hls.smil/playlist.m3u8
 TV38 Südost-Niedersachen,https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u
 TVB,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 TVB RICS,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-TVBS,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
 TVBS欢乐,rtmp://59.124.75.138/sat/tv421
 TVBS欢乐,rtmp://59.124.75.150/sat/tv421
 TVBS欢乐,rtmp://59.124.75.138:1935/sat/tv421
-TVBS新闻,rtmp://59.124.75.138/sat/tv551
 TVBS新闻,rtmp://59.124.75.150/sat/tv551
 TVBS新闻,http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻,rtmp://59.124.75.138/sat/tv551
 TVBS新闻,rtmp://59.124.75.138:1935/sat/tv551
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVB剧场,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8?zmid
 TVB直播,http://111.229.84.232/yulin/tvb.php?id=3
+TVC DEPORTES,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/913
 TVM Internacional,http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+TVS DE TODOS,http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 TVWorkNet,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 UN Web TV,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+UNICABLE,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/84
+UNIVERSAL TV,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/12
+UNIVERSAL TV,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1073
+UNIVISION,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1020
+UNIVISION SD,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1
+UNIVISION TUDN,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/912
 V2BEAT,http://de1se01.v2beat.live/playlist.m3u8
 ViuTV,http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
+VIVA Russia,https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+VNews,http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/playlist.m3u8
 VOA,https://voa-ingest.akamaized.net/dash/live/2033879/tvmc08/manifest.mpd
+VTC1,http://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/playlist.m3u8
 VTC1,https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b2500000.m3u8
 VTC2,https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
-VTC4,https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
+VTC2,http://livecdn.fptplay.net/sdb/vtc2_hls.smil/playlist.m3u8
+VTC4,http://livecdn.fptplay.net/sdc/vtc4_hls.smil/playlist.m3u8
 VTC4,https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
+VTC4,https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
+VTC5,http://livecdn.fptplay.net/sdb/vtc5_hls.smil/playlist.m3u8
+VTC6,http://livecdn.fptplay.net/sdb/vtc6_hls.smil/playlist.m3u8
+VTC7,http://livecdn.fptplay.net/sdb/todaytv_hls.smil/playlist.m3u8
+VTC8,http://livecdn.fptplay.net/sdb/vtc8_hls.smil/playlist.m3u8
+VTC10,http://livecdn.fptplay.net/sdb/vtc10_hls.smil/playlist.m3u8
+VTC11,http://livecdn.fptplay.net/sdb/vtc11_hls.smil/playlist.m3u8
+VTC12,http://livecdn.fptplay.net/sdb/vtc12_hls.smil/playlist.m3u8
+VTC13,http://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/playlist.m3u8
 VTC13,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
-VTV7,https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/playlist.m3u8
+VTC14,http://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8
+VTC16,http://livecdn.fptplay.net/sdb/vtc16_hls.smil/playlist.m3u8
+VTV5 Highlands,http://api.vthanhtivii.xyz/v1/getlink/vtvgo/163
+VTV5 Southwest,http://api.vthanhtivii.xyz/v1/getlink/vtvgo/7
 VTV7,https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b2500000.m3u8
+VTV7,https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/playlist.m3u8
 VTV7,https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+VTV7,http://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/playlist.m3u8
+VTV8,https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 VTV8,https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/playlist.m3u8
 VTV8,https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b2500000.m3u8
-VTV8,https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-VTV9,https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/playlist.m3u8
+VTV8,http://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/playlist.m3u8
 VTV9,https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+VTV9,http://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/playlist.m3u8
+VTV9,https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/playlist.m3u8
+WARNER,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/10
+WARNER HD,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/1021
 WeatherNation Atlanta,https://siloh.pluto.tv/lilo/production/WeatherNation/ATL/master.m3u8
 WeatherNation Dallas,https://siloh.pluto.tv/lilo/production/WeatherNation/DFW/master.m3u8
 WeatherNation Houston,https://siloh.pluto.tv/lilo/production/WeatherNation/Houston/master.m3u8
@@ -580,16 +783,18 @@ Wild Stories,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.a
 World Fashion,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 World Fashion Russia,https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist.m3u8
 World Poker Tour,https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+Wow tv,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 WOWOW,http://203.162.235.41:16916
 WWE,http://50.7.220.74:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
-XMTV,http://[2409:8087:1070:301:2028::23]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225790/index.m3u8?fmt=ts2hls
+xmen,http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjghghghghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj998989898989898jjjjjjjjjijijijijijijijijjjjjjjjjfulcJIUJUJUameeebiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/331
 XMTV,http://[2409:8087:1070:301:2028::23]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225789/index.m3u8?fmt=ts2hls
+XMTV,http://[2409:8087:1070:301:2028::23]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225790/index.m3u8?fmt=ts2hls
 Xplore,http://xlpore-samsungus.amagi.tv/playlist.m3u8
 XSTV,https://jwcdnqx.hebyun.com.cn/live/jiyunxushui123/1500k/tzwj_video.m3u8
 XXL,http://85.14.32.15:8801/udp/224.100.1.151:56000
 Y+,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
-Y+,http://117.148.179.146/PLTV/88888888/224/3221230226/index.m3u8
 Y+,http://117.148.179.146/PLTV/88888888/224/3221230226/index.m3u8?icpid=88888888&from=8&hms_devid=284,144&prioritypopid=8&online=1638240466
+Y+,http://117.148.179.146/PLTV/88888888/224/3221230226/index.m3u8
 YCTV,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
 YCTV,http://tvpull.dxhmt.cn/tv/11481-3.m3u8
 YTN A,http://ye23.win/iptv/korea2021.php?id=YTN_a
@@ -598,45 +803,45 @@ YYY,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 Спас,http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_2
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_1
-阿里郎电视,http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
+阿里郎,http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
 爱尔达体育1,http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-澳门macau,http://61.244.22.4/ch3/ch3.live/playlist.m3u8
 澳门Macau,http://124.238.99.44:808/hls/357/index.m3u8
-澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
+澳门macau,http://61.244.22.4/ch3/ch3.live/playlist.m3u8
 澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
+澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳视澳门,http://61.244.22.4/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/chunklist_w68545377.m3u8
 澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://103.233.191.132:1935/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8?
+澳视葡文,http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8
 澳视葡文,http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
 澳视葡文,http://61.244.22.4/ch2/ch2.live/playlist.m3u8
 澳视葡文,http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
-澳视葡文,http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8
-澳视体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
 澳视体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8
+澳视体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
 澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
-澳视卫星,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
-澳视卫星,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
 澳视卫星,http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
+澳视卫星,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
+澳视卫星,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
 澳视信息,http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
 澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
-澳视综艺,http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
-澳视综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
 澳视综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8
-八大第一,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+澳视综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+澳视综艺,http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
 八大第一,http://59.125.101.187:10770/http/192.168.77.24:8081/hls/66/808/ch22.m3u8
-八大戏剧,http://59.125.101.187:10771/http/192.168.77.24:8081/hls/69/811/ch34.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-八大戏剧,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
+八大第一,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
 八大戏剧,http://59.125.101.187:10771/http/192.168.77.24:8081/hls/66/808/ch23.m3u8
 八大戏剧,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
+八大戏剧,http://59.125.101.187:10771/http/192.168.77.24:8081/hls/69/811/ch34.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+八大戏剧,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
 八大娱乐,http://50.7.220.74:8278/badaentertain/playlist.m3u8?tid=m6f7aed1b4260&ct=18335&tsum=fd808db00f6ca5c51dd3de7d3e214287
 八大综合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
 八大综合,http://59.125.101.187:10768/http/192.168.77.24:8081/hls/66/808/ch21.m3u8
 博斯高球2,http://198.204.239.194:27347/livehlsplay?channel_id=20117
 博斯高球I,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
-博斯高球I,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
+博斯高球1,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
 博斯网球,rtmp://59.124.75.150/sat/md031
 博斯网球,rtmp://59.124.75.138/sat/md031
 博斯网球,http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
@@ -647,36 +852,35 @@ YYY,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
 大爱,http://50.7.220.74:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱2,http://59.125.101.187:10758/http/192.168.77.24:8081/hls/75/817/ch60.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 大爱2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱2,http://59.125.101.187:10758/http/192.168.77.24:8081/hls/75/817/ch60.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 大立,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 点掌财经,http://cclive.aniu.tv/live/anzb.m3u8
-东森财经,rtmp://59.124.75.138/sat/tv571
-东森财经,http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
+点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 东森财经,http://59.125.101.187:10770/http/192.168.77.24:8081/hls/63/805/ch11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 东森财经,http://59.125.101.187:10770/playlist.m3u8
+东森财经,http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
+东森财经,rtmp://59.124.75.138/sat/tv571
 东森财经美洲,http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8
 东森财经新闻,rtmp://59.124.75.150/sat/tv571
-东森超视,rtmp://59.124.75.138/sat/tv521
-东森超视,rtmp://59.124.75.150/sat/tv521
 东森超视,rtmp://59.124.75.138:1935/sat/tv331
+东森超视,rtmp://59.124.75.150/sat/tv521
 东森超视,http://59.125.101.187:10768/http/192.168.77.24:8081/hls/64/806/ch14.m3u8
+东森超视,rtmp://59.124.75.138/sat/tv521
 东森超视美洲,http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8
 东森电影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 东森美洲,http://38.64.72.148:80/hls/modn/list/2024/chunklist0.m3u8
-东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
-东森戏剧,http://59.125.101.187:10772/http/192.168.77.24:8081/hls/64/806/ch13.m3u8
+东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森戏剧,http://50.7.220.74:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
-东森新闻,http://220.134.196.147:9540/http/116.50.42.18:8081/hls/63/805/ch10.m3u8
-东森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
-东森新闻,https://ssttvv1.6zxr.xyz/dsxw/index.m3u8
-东森新闻,http://61.222.202.191/gt/gttv.php?id=13635&cid=13787
-东森新闻,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
+东森戏剧,http://59.125.101.187:10772/http/192.168.77.24:8081/hls/64/806/ch13.m3u8
 东森新闻,http://220.134.196.147:9508/index.m3u8
 东森新闻,http://220.134.196.147:9540/index.m3u8
+东森新闻,http://220.134.196.147:9540/http/116.50.42.18:8081/hls/63/805/ch10.m3u8
+东森新闻,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
+东森新闻,https://ssttvv1.6zxr.xyz/dsxw/index.m3u8
+东森新闻,http://61.222.202.191/gt/gttv.php?id=13635&cid=13787
 东森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 东森幼幼,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
 东森综合,http://59.125.101.187:10771/http/192.168.77.24:8081/hls/63/805/ch12.m3u8
@@ -686,65 +890,63 @@ YYY,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 动物星球,http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 俄罗斯GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 非凡新闻,http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-翡翠,http://198.204.239.194:27347/livehlsplay?channel_id=20127
 翡翠,http://198.204.239.194:27347/livehlsplay?channel_id=20128
+翡翠,http://198.204.239.194:27347/livehlsplay?channel_id=20127
 凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 凤凰时政,http://liveplay.rednet.cn/live/fenghuang_tv_cq4jaka.m3u8
+凤凰卫视,http://50.7.220.74:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
 凤凰卫视,http://117.169.120.138:8080/live/fhchinese/index.m3u8
 凤凰卫视,http://117.169.120.138:8080/live/fhchinese/.m3u8
-凤凰卫视,http://50.7.220.74:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
-凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8?nsukey=z%2BBfKGEFyh4Fp0aB8zX65Hk%2FyuGRu%2Fcr4cTxr%2Bmmk%2BoDb%2F0zWYZbCxCPjv1Rv3gbKAFnEGidkItbbNfxHvbIQE3YCs8%2B6yymajONrpRyKCPjCYyxRhJg5hMneBwbsvWsOzUhH18%2By1JBzCS0%2Fq2vam7rkPILohuX3UVdt4Gey9FetDXUW5Ck5N4QX2N3QhKrr9Kh%2FuYotUicOdfnQ675Fg%3D%
 凤凰香港,http://183.207.249.34/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
+凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
+凤凰香港,http://50.7.220.74:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 凤凰香港,http://183.207.249.35/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8?nsukey=z%2BBfKGEFyh4Fp0aB8zX65Hk%2FyuGRu%2Fcr4cTxr%2Bmmk%2BoDb%2F0zWYZbCxCPjv1Rv3gbKAFnEGidkItbbNfxHvbIQE3YCs8%2B6yymajONrpRyKCPjCYyxRhJg5hMneBwbsvWsOzUhH18%2By1JBzCS0%2Fq2vam7rkPILohuX3UVdt4Gey9FetDXUW5Ck5N4QX2N3QhKrr9Kh%2FuYotUicOdfnQ675Fg%3D%3D
-凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8?nsukey=z%2BBfKGEFyh4Fp0aB8zX65Hk%2FyuGRu%2Fcr4cTxr%2Bmmk%2BoDb%2F0zWYZbCxCPjv1Rv3gbKAFnEGidkItbbNfxHvbIQE3YCs8%2B6yymajONrpRyKCPjCYyxRhJg5hMneBwbsvWsOzUhH18%2By1JBzCS0%2Fq2vam7rkPILohuX3UVdt4Gey9FetDXUW5Ck5N4QX2N3QhKrr9Kh%2FuYotUicOdfnQ675Fg%3D%
-凤凰香港,http://183.207.249.35:80/PLTV/3/224/3221226975/index.m3u8
 凤凰香港,http://198.204.239.194:27347/livehlsplay?channel_id=30016
-凤凰香港,http://50.7.220.74:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/2020215104547.m3u8
+凤凰香港,http://183.207.249.35:80/PLTV/3/224/3221226975/index.m3u8
 凤凰直播,http://198.204.239.194:27347/livehlsplay?channel_id=30014
-凤凰中文,http://183.207.249.34/PLTV/3/224/3221226922/index.m3u8
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰中文,http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8
 凤凰中文,http://198.204.239.194:27347/livehlsplay?channel_id=30015
-凤凰中文,http://anren.live/HK/AQtU.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文,http://183.207.248.169/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-凤凰中文,http://112.102.214.193:65530/live/fhzw/index.m3u8
-凤凰中文,http://125.210.152.21:9120/live/FHZW.m3u8
-凤凰中文,http://183.207.248.170/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
+凤凰中文,http://anren.live/HK/AQtR.m3u8
+凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 凤凰中文,http://39.135.55.72:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
-凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-凤凰中文,http://anren.live/HK/AQtR.m3u8
-凤凰中文,http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
+凤凰中文,http://183.207.248.170/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+凤凰中文,http://125.210.152.21:9120/live/FHZW.m3u8
+凤凰中文,http://112.102.214.193:65530/live/fhzw/index.m3u8
+凤凰中文,http://183.207.248.169/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+凤凰中文,http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://183.207.249.34/PLTV/3/224/3221226922/index.m3u8
+凤凰中文,http://anren.live/HK/AQtU.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
-凤凰中文,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/test1_4000.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰资讯,http://117.169.120.138:8080/live/fhzixun/index.m3u8
-凤凰资讯,http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
+凤凰中文,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/test1_4000.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://117.169.120.138:8080/live/fhzixun/index.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://50.7.220.74:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
 凤凰资讯,http://39.135.55.72:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-凤凰资讯,http://50.7.220.74:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 凤凰资讯,http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
 凤凰资讯,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 凤凰资讯,http://183.207.249.34/PLTV/3/224/3221226923/index.m3u8
-凤凰资讯,http://anren.live/HK/AQtQ.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
@@ -754,71 +956,67 @@ YYY,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
-公视,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
+凤凰资讯,http://anren.live/HK/AQtQ.m3u8
+凤凰资讯,http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
 公视,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
+公视,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
 国家地理,http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 国家地理台湾,http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
 国家地理野生,http://50.7.220.74:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
-国家地理野生频道,http://50.7.220.74:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
+国家地理野生,http://50.7.220.74:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 海豚综合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 韩国中央,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
 好莱坞电影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
 华藏卫视,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
-华视,http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
-华视,rtmp://59.124.75.150/sat/tv111
 华视,rtmp://59.124.75.138:1935/sat/tv111
+华视,rtmp://59.124.75.150/sat/tv111
+华视,http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 华视,rtmp://59.124.75.138/sat/tv111
-华视新闻,http://59.125.98.83:8538/playlist.m3u8
 华视新闻,https://ssttvv1.6zxr.xyz/tvbs56/index.m3u8
+华视新闻,http://59.125.98.83:8538/playlist.m3u8
 华语电视,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 环球旅游,http://117.148.179.154/PLTV/88888888/224/3221231712/index.m3u8
-寰宇新闻,https://ssttvv1.6zxr.xyz/fhwszw/index.m3u8
 靖天卡通,http://50.7.220.74:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
-蠟筆小新,http://111.6.244.41:80/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8
-龙华电影,https://wabc.ml/hlk.php?id=132
 龙华经典,http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
-龙华经典,https://wabc.ml/hlk.php?id=234
-龙华卡通,https://wabc.ml/hlk.php?id=89
-龙华偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 龙华偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d?zgangd
+龙华偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
+龙华偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 龙华偶像,http://59.125.98.83:8536/playlist.m3u8
 龙华偶像,http://59.125.101.187:10762/http/192.168.77.24:8066/hls/210/10012/cstv12.m3u8
-龙华偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
 龙华偶像,http://220.134.196.147:9536/index.m3u8
-龙华偶像,https://wabc.ml/hlk.php?id=122
 龙华日韩,http://59.125.101.187:10763/http/192.168.77.24:8066/hls/210/10011/cstv11.m3u8
 龙华日韩,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
 龙华日韩,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8
 龙华日韩,http://59.125.98.83:8535/playlist.m3u8
 龙华日韩,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+龙华戏剧,http://59.125.101.187:10764/http/192.168.77.24:8066/hls/210/10010/cstv10.m3u8
+龙华戏剧,http://59.125.98.83:8534/playlist.m3u8
 龙华戏剧,http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
 龙华戏剧,http://50.7.220.74:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
 龙华戏剧,https://wabc.ml/hlk.php?id=95
 龙华戏剧,http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-龙华戏剧,http://59.125.101.187:10764/http/192.168.77.24:8066/hls/210/10010/cstv10.m3u8
-龙华戏剧,http://59.125.98.83:8534/playlist.m3u8
 龙华影剧,http://50.7.220.74:8278/lunghuamovie_twn/playlist.m3u8?tid=mdb73470557ff10965185&ct=17874&tsum=d0a4494eb289910a11f4d305a804136a
 美国历史,https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 美国中文,https://cdnts.sinovision.net/livestream.m3u8
 美丽人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 美食星球,https://wabc.ml/hlk.php?id=143
-美亚电影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 美亚电影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+美亚电影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 民视,rtmp://59.124.75.138/sat/tv051
 民视,rtmp://59.124.75.150/sat/tv051
-民视,http://220.134.196.147:9504/index.m3u8
 民视,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
+民视,http://220.134.196.147:9504/index.m3u8
 民视新闻,http://50.7.220.74:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,https://ssttvv1.6zxr.xyz/fhwszx/index.m3u8
 明珠,http://198.204.239.194:27347/livehlsplay?channel_id=30026 VIUTV,http://198.204.239.194:27347/livehlsplay?channel_id=30032
 明珠,http://198.204.239.194:27347/livehlsplay?channel_id=30026
 年代MUCH,http://59.125.101.187:10775/http/192.168.77.24:8081/hls/64/806/ch15.m3u8
-年代MUCH,http://59.125.101.187:10775/playlist.m3u8
 年代MUCH,http://59.125.101.187:10775/http/192.168.77.24:8081/hls/64/806/ch15.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+年代MUCH,http://59.125.101.187:10775/playlist.m3u8
 年代新闻,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 霹雳台湾,http://59.125.101.187:10768/http/192.168.77.24:8081/hls/75/817/ch59.m3u8
 求索动物,http://111.11.123.49:6610/000000001000/6000000002000010046/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429143132239553&channel-id=wasusyt&Contentid=6000000002000010046
@@ -828,9 +1026,8 @@ YYY,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
 三立台湾,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-三立新闻,http://59.125.101.187:10756/http/192.168.77.24:8081/hls/65/807/ch18.m3u8
-三立新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立新闻,http://59.125.101.187:10756/http/192.168.77.24:8081/hls/65/807/ch18.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+三立新闻,http://59.125.101.187:10756/http/192.168.77.24:8081/hls/65/807/ch18.m3u8
 三立综合,http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 台视,http://220.134.196.147:9501/index.m3u8
 台视,http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
@@ -838,11 +1035,10 @@ YYY,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 台视,rtmp://59.124.75.138:1935/sat/tv071
 台视,rtmp://59.124.75.150/sat/tv071
 台视,rtmp://59.124.75.138/sat/tv071
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台湾生活网,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 台湾生活网,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
-台湾戏剧,https://wabc.ml/hlk.php?id=233
 探索,http://111.11.123.49:6610/000000001000/5359008697329269813/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429145628240518&channel-id=wasusyt&Contentid=5359008697329269813
 探索动力,http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
 探索科学,http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
@@ -854,52 +1050,52 @@ YYY,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 纬来电影,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
-纬来日本,http://60.251.59.180:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
-纬来日本,rtmp://59.124.75.138/sat/tv771
 纬来日本,http://220.134.196.147:9537/index.m3u8
 纬来日本,rtmp://59.124.75.150/sat/tv771
+纬来日本,http://60.251.59.180:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
+纬来日本,rtmp://59.124.75.138/sat/tv771
+纬来体育,rtmp://59.124.75.150/sat/tv721
 纬来体育,rtmp://59.124.75.138:1935/sat/tv721
 纬来体育,rtmp://59.124.75.138/sat/tv721
-纬来体育,rtmp://59.124.75.150/sat/tv721
 纬来戏剧,http://59.125.101.187:10756/http/192.168.77.24:8081/hls/69/811/ch33.m3u8
 纬来戏剧,http://60.251.59.180:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
-纬来育乐,rtmp://59.124.75.150/sat/tv701
-纬来育乐,http://59.125.101.187:10762/playlist.m3u8
 纬来育乐,rtmp://59.124.75.138/sat/tv701
 纬来育乐,http://59.125.101.187:10762/http/192.168.77.24:8081/hls/68/810/ch30.m3u8
 纬来育乐,rtmp://59.124.75.138:1935/sat/tv701
+纬来育乐,rtmp://59.124.75.150/sat/tv701
+纬来育乐,http://59.125.101.187:10762/playlist.m3u8
 纬来综合,http://59.125.101.187:10770/http/192.168.77.24:8081/hls/68/810/ch32.m3u8
 卫视电影,http://59.125.98.83:8506/.m3u8
 卫视中文,http://60.251.59.180:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
-无线财经,http://198.204.239.194:27347/livehlsplay?channel_id=20099
 无线财经,http://111.229.84.232/yulin/tvb.php?id=2
-无线财经,http://live.cooltv.top/tv/tvb.php?id=2
 无线财经,http://hls.dszbdq.cn/d/wxtv2.php?id=2
+无线财经,http://live.cooltv.top/tv/tvb.php?id=2
+无线财经,http://198.204.239.194:27347/livehlsplay?channel_id=20099
 无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=1
+无线新闻,http://198.204.239.194:27347/livehlsplay?channel_id=30024
 无线新闻,http://hls.dszbdq.cn/d/wxtv2.php?id=1
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=1
-无线新闻,http://198.204.239.194:27347/livehlsplay?channel_id=30024
 无线资讯,http://198.204.239.194:27347/livehlsplay?channel_id=30019
 喜羊羊,http://118.26.120.23:55336/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
 香港电台,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 香港电台,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
+香港电影,http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
+香港电影,http://117.148.179.134/PLTV/88888888/224/3221231672/index.m3u8
 香港电影,http://117.148.179.134/PLTV/88888888/224/3221231556/index.m3u8
 香港电影,http://117.148.179.134/PLTV/88888888/224/3221231709/index.m3u8
 香港电影,http://117.148.179.134/PLTV/88888888/224/3221231757/index.m3u8
 香港电影,http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
 香港电影,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
-香港电影,http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
+香港电影,http://117.148.179.134/PLTV/88888888/224/3221231742/index.m3u8
 香港电影,http://117.148.179.134/PLTV/88888888/224/3221231564/index.m3u8
 香港电影,http://117.148.179.134/PLTV/88888888/224/3221231565/index.m3u8
 香港电影,http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
-香港电影,http://117.148.179.134/PLTV/88888888/224/3221231672/index.m3u8
-香港电影,http://117.148.179.134/PLTV/88888888/224/3221231742/index.m3u8
-香港电影,http://117.148.179.134/PLTV/88888888/224/3221231645/index.m3u8
 香港电影,http://117.148.179.134/PLTV/88888888/224/3221231652/index.m3u8
-香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+香港电影,http://117.148.179.134/PLTV/88888888/224/3221231645/index.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 香港女神系列,http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
 香港台,http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
 香港卫视,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
@@ -917,34 +1113,32 @@ YYY,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 星卫电影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 亚州综合,https://wabc.ml/hlk.php?id=138
 亚洲旅游,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
-亚洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 有线,rtmp://59.124.75.138:1935/sat/hk011
 有线18,rtmp://59.124.75.138:1935/sat/hk041
 有线财经,http://50.7.220.74:8278/tvbcaijing_twn/playlist.m3u8?tid=mbc57c85dcc17&ct=18336&tsum=1423657d67e66f6bb156158f2dd60353
 有线体育,http://198.204.239.194:27347/livehlsplay?channel_id=20198
 有线新闻,http://198.204.239.194:27347/livehlsplay?channel_id=30037
-原住民,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
 原住民,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+原住民,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 智林体育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-中国电影,http://50.7.220.74:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3
-中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
-中视,rtmp://59.124.75.138:1935/sat/tv091
 中视,rtmp://59.124.75.138/sat/tv091
 中视,rtmp://59.124.75.150/sat/tv091
-中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
+中视,rtmp://59.124.75.138:1935/sat/tv091
 中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
 中视新闻,http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 中台湾生活网,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 中天新闻,http://220.134.196.147:9503/index.m3u8
 中天新闻,http://60.251.59.180:8504/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
 中天亚洲,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
-中天娱乐,http://60.251.59.180:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 中天娱乐,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
-中天综合,http://220.134.196.147:9526/index.m3u8
+中天娱乐,http://60.251.59.180:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 中天综合,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+中天综合,http://220.134.196.147:9526/index.m3u8
 罪案侦辑,http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=MDED2146129621461296&ct=18392&tsum=5d3635ae16593892965af78a8a1c402c
