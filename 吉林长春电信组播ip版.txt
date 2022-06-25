@@ -11,7 +11,7 @@ VSPN全电竞高清,http://nas.tuyuannet.cn:8800/rtp/239.37.0.140:5540
 北京卫视高清,http://nas.tuyuannet.cn:8800/rtp/239.37.0.9:5540
 东方卫视高清,http://nas.tuyuannet.cn:8800/rtp/239.37.0.123:5540
 东南卫视高清,http://nas.tuyuannet.cn:8800/rtp/239.37.0.124:5540
-动画（没有LOGO）高清,http://nas.tuyuannet.cn:8800/rtp/239.37.0.147:5540
+动画,http://nas.tuyuannet.cn:8800/rtp/239.37.0.147:5540
 电影4K,http://nas.tuyuannet.cn:8800/rtp/239.37.0.148:5540
 广东卫视高清,http://nas.tuyuannet.cn:8800/rtp/239.37.0.12:5540
 贵州卫视高清,http://nas.tuyuannet.cn:8800/rtp/239.37.0.157:5540
