@@ -67,8 +67,8 @@ BTV卡酷少儿,http://www.hezw.top:8000/udp/239.21.1.49:5002
 济南娱乐,http://www.hezw.top:8000/udp/239.21.1.66:5002
 济南商务,http://www.hezw.top:8000/udp/239.21.1.67:5002
 济南少儿,http://www.hezw.top:8000/udp/239.21.1.68:5002
-青岛QTV-1,http://www.hezw.top:8000/udp/239.21.1.69:5002
-青岛QTV-2,http://www.hezw.top:8000/udp/239.21.1.70:5002
+青岛1,http://www.hezw.top:8000/udp/239.21.1.69:5002
+青岛2,http://www.hezw.top:8000/udp/239.21.1.70:5002
 青岛3,http://www.hezw.top:8000/udp/239.21.1.71:5002
 青岛4,http://www.hezw.top:8000/udp/239.21.1.72:5002
 青岛5,http://www.hezw.top:8000/udp/239.21.1.73:5002
@@ -136,8 +136,8 @@ IPTV魅力时尚,http://www.hezw.top:8000/udp/239.21.1.129:5002
 山东新闻 ,http://www.hezw.top:8000/udp/239.21.1.140:5002
 山东体育 ,http://www.hezw.top:8000/udp/239.21.1.141:5002
 CCTV5+ ,http://www.hezw.top:8000/udp/239.21.1.142:5002
-宁阳-1 ,http://www.hezw.top:8000/udp/239.21.1.143:5002
-宁阳-2,http://www.hezw.top:8000/udp/239.21.1.144:5002
+宁阳1 ,http://www.hezw.top:8000/udp/239.21.1.143:5002
+宁阳2,http://www.hezw.top:8000/udp/239.21.1.144:5002
 济南鲁中,http://www.hezw.top:8000/udp/239.21.1.149:5002
 济南科教,http://www.hezw.top:8000/udp/239.21.1.150:5002
 CCTV2 ,http://www.hezw.top:8000/udp/239.21.1.151:5002
@@ -174,7 +174,7 @@ IPTV5+,http://www.hezw.top:8000/udp/239.21.1.161:5002
 金乡新闻 ,http://www.hezw.top:8000/udp/239.21.1.184:5002
 邹城新闻 ,http://www.hezw.top:8000/udp/239.21.1.185:5002
 CCTV17 ,http://www.hezw.top:8000/udp/239.21.1.186:5002
-济南济阳综合 ,http://www.hezw.top:8000/udp/239.21.1.187:5002
+济阳综合 ,http://www.hezw.top:8000/udp/239.21.1.187:5002
 CCTV5+ LD,http://www.hezw.top:8000/udp/239.21.1.190:5002
 海看电竞 LD,http://www.hezw.top:8000/udp/239.21.1.191:5002
 新闻综合 ,http://www.hezw.top:8000/udp/239.21.1.193:5002
@@ -183,7 +183,7 @@ BTV纪实 LD,http://www.hezw.top:8000/udp/239.21.1.194:5002
 金鹰纪实 LD,http://www.hezw.top:8000/udp/239.21.1.196:5002
 综合测试 ,http://www.hezw.top:8000/udp/239.21.1.203:5002
 烟台影视 ,http://www.hezw.top:8000/udp/239.21.1.204:5002
-烟台经济科技 ,http://www.hezw.top:8000/udp/239.21.1.205:5002
+烟台经济 ,http://www.hezw.top:8000/udp/239.21.1.205:5002
 CCTV17,http://www.hezw.top:8000/udp/239.21.1.206:5002
 山东少儿 ,http://www.hezw.top:8000/udp/239.21.1.208:5002
 日照岚山 ,http://www.hezw.top:8000/udp/239.21.1.209:5002
