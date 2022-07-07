@@ -1,7 +1,7 @@
-大新电视台,http://111.59.63.32:9901/tsfile/live/1001_1.m3u8
+大新,http://111.59.63.32:9901/tsfile/live/1001_1.m3u8
 崇左综合,http://111.59.63.32:9901/tsfile/live/1002_1.m3u8
 广西卫视,http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
-广西综艺旅游,http://111.59.63.32:9901/tsfile/live/1004_1.m3u8
+广西综艺,http://111.59.63.32:9901/tsfile/live/1004_1.m3u8
 广西都市,http://111.59.63.32:9901/tsfile/live/1005_1.m3u8
 广西影视,http://111.59.63.32:9901/tsfile/live/1006_1.m3u8
 广西新闻,http://111.59.63.32:9901/tsfile/live/1007_1.m3u8
@@ -21,7 +21,7 @@ CCTV13,http://111.59.63.32:9901/tsfile/live/1020_1.m3u8
 CCTV14,http://111.59.63.32:9901/tsfile/live/1021_1.m3u8
 CCTV15,http://111.59.63.32:9901/tsfile/live/1022_1.m3u8
 CCTV17,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
-中国教育1台,http://111.59.63.32:9901/tsfile/live/1024_1.m3u8
+CETV1,http://111.59.63.32:9901/tsfile/live/1024_1.m3u8
 江苏卫视,http://111.59.63.32:9901/tsfile/live/1025_1.m3u8
 东方卫视,http://111.59.63.32:9901/tsfile/live/1026_1.m3u8
 安徽卫视,http://111.59.63.32:9901/tsfile/live/1027_1.m3u8
