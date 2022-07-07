@@ -1,8 +1,4 @@
-﻿CCTV10（承德技师学院线路）,http://stream.cdjsxy.cn/kjpd/playlist.m3u8
-CCTV12（承德技师学院线路）,http://stream.cdjsxy.cn/shyf/playlist.m3u8
-CCTV17（承德技师学院线路）,http://stream.cdjsxy.cn/lypd/playlist.m3u8
-北京卫视（承德技师学院线路）,http://stream.cdjsxy.cn/bjws/playlist.m3u8
-上海金山,http://livejs1.newsjs.net/jspd/playlist.m3u8
+﻿上海金山,http://livejs1.newsjs.net/jspd/playlist.m3u8
 房山无线,http://live.funhillrm.com/2/playlist.m3u8
 房山有线,http://live.funhillrm.com/5/playlist.m3u8
 石景山,http://live.sjsrm.com/bjsjs/playlist.m3u8
@@ -24,7 +20,6 @@ CCTV17（承德技师学院线路）,http://stream.cdjsxy.cn/lypd/playlist.m3u8
 芜湖教育,http://live1.wuhubtv.com/channel4/playlist.m3u8
 淮南新闻,http://stream.0554news.com/hnds1/playlist.m3u8
 淮南公共,http://stream.0554news.com/hnds2/playlist.m3u8
-蒙城新闻,http://live.plus.ahmctv.net/channel2/playlist.m3u8
 龙岩综合,http://live.lytv.net.cn/zhpwd/playlist.m3u8
 龙岩公共,http://live.lytv.net.cn/ggpd/playlist.m3u8
 宁德1,http://live.nddst.com/NDTV1D/playlist.m3u8
@@ -135,10 +130,6 @@ CCTV1（松桃线路）,http://live.strmtzx.cn/stzy/playlist.m3u8
 桦甸综合,http://stream10.jlntv.cn/huadian/playlist.m3u8
 江源,http://stream10.jlntv.cn/jiangyuantv/playlist.m3u8
 九台,http://stream10.jlntv.cn/jiutaitv/playlist.m3u8
-德惠综合,http://stream11.jlntv.cn/dehuitv/playlist.m3u8
-双阳综合,http://stream11.jlntv.cn/shuangyang/playlist.m3u8
-榆树综合,http://stream.zhystv.com/ysyt/playlist.m3u8
-榆树综艺,http://stream.zhystv.com/yset/playlist.m3u8
 锦州新闻,http://stream.jzgbdst.cn/1/playlist.m3u8
 锦州教育,http://stream.jzgbdst.cn/2/playlist.m3u8
 锦州公共,http://stream.jzgbdst.cn/3/playlist.m3u8
@@ -147,7 +138,6 @@ CCTV1（松桃线路）,http://live.strmtzx.cn/stzy/playlist.m3u8
 朔州1,http://stream.sxsztv.com/live1/playlist.m3u8
 朔州2,http://stream.sxsztv.com/live2/playlist.m3u8
 大宁,http://live.daningtv.com/channel1/playlist.m3u8
-翼城,http://live.aiyicheng.com.cn/channel1/playlist.m3u8
 高平综合,http://live.gprmt.cn/gpnews/playlist.m3u8
 西安新闻,http://stream2.xiancity.cn/xatv1/playlist.m3u8
 西安都市,http://stream2.xiancity.cn/xatv2/playlist.m3u8
