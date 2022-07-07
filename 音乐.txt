@@ -8,12 +8,9 @@ MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIAC
 MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 音乐Retro,http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 音乐榜,http://txtest-xp2p.p2p.huya.com/src/1099531740260-1099531740260-86382461021323264-2199063603976-10057-A-0-1.xs
-音乐会,http://39.137.67.167:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/index.m3u8?IAS
 音乐小石榴,http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs
 CCTV15,http://[2409:8087:4402:20:1:1216:401:16]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/index.m3u8
-CCTV15,http://39.135.49.209:6610/PLTV/88888888/224/3221226989/1.m3u8?servicetype=1
 CCTV15,http://[2409:8087:4402:20:1:1216:401:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8
-CCTV15,http://117.148.179.169:80/PLTV/88888888/224/3221231693/index.m3u8?
 CCTV15,http://[2409:8087:1070:301:2028::22]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225866/index.m3u8?fmt=ts2hls
 CCTV15,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-15/.m3u8
 CCTV15,http://39.135.137.205/PLTV/88888888/224/3221225513/1.m3u8
@@ -23,24 +20,18 @@ CCTV15,http://39.134.65.78:80/wh7f454c46tw698721486_1282203709/ottrrs.hl.chinamo
 CCTV15,http://39.134.68.169:6610/PLTV/88888888/224/3221225601/index.m3u8?
 CCTV风云音乐,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/1/1.m3u8?fmt=ts2hls
 CCTV风云音乐,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
-CCTV风云音乐,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226718/10000100000000060000000006385496_0.smil
 M2音乐,http://live.m2.tv/hls3/stream.m3u8
 MTV,http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
-MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-MTV CMT MUSIC,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 MTV HITS HD FR,http://190.2.155.162:8080/mtvhit/mpegts
 MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master_2400.m3u8
-MTV Spankin\' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master_2400.m3u8
 MTV Xmas HD FR,http://190.2.155.162:8080/mtvfrance/mpegts
 MTV Yo,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
-MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 MTV音乐,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-Music,https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
+MUDR-139,https://siwazywcdn2.com:5278/zhongwenzimu/IedwOy8c/index.m3u8
+MUDR-159,https://siwazywcdn2.com:5278/zhongwenzimu/u7Lzkah8/index.m3u8
 MUSIC +,http://s02.diazol.hu:10192/hls/stream.m3u8
-Music 24,https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 Music India,http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 MUSIC PLUS,http://79.172.214.45:10190/stream.m3u8
 Music Reload TV HD,http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
@@ -50,4 +41,189 @@ Music Top,http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 Music Top,https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1369951744_b2028000_sleng.m3u8
 Music Top,https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 Music Top,http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+Music You,http://203.154.243.89:1213
 MusicPlus HD HU,http://s02.diazol.hu:10190/stream.m3u8
+5首绝美情歌,https://vd3.bdstatic.com/mda-mjtb7bbvk98u8z58/480p/h264/1635409459813822543/mda-mjtb7bbvk98u8z58.mp4
+5首伤感DJ,https://vd2.bdstatic.com/mda-nd5cr584424xr57c/sc/cae_h264_delogo/1649238205192327499/mda-nd5cr584424xr57c.mp4
+5首伤感音乐舞曲🎵,https://vd3.bdstatic.com/mda-mkh8vtjpfn1iq9ei/480p/h264/1637216574377274148/mda-mkh8vtjpfn1iq9ei.mp4
+6首DJ歌曲,https://vd3.bdstatic.com/mda-nd58yc4sjrakii4r/sc/cae_h264_delogo/1649230374417253340/mda-nd58yc4sjrakii4r.mp4
+6首火遍全网歌曲,https://vd3.bdstatic.com/mda-mkf63gabjer51i9c/480p/h264/1637037550863164410/mda-mkf63gabjer51i9c.mp4
+7 канал,https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr/playlist.m3u8
+7首伤感情歌,https://vd2.bdstatic.com/mda-nbdj7sp20st0jd9d/sc/cae_h264_delogo/1644847557994341172/mda-nbdj7sp20st0jd9d.mp4
+8首串烧歌曲,https://vd3.bdstatic.com/mda-mmpgmu9qnrdctwza/hd/cae_h264/1640350134589718126/mda-mmpgmu9qnrdctwza.mp4
+8首老歌,https://vd3.bdstatic.com/mda-ncw56qz9i48y8pi8/sc/cae_h264_delogo/1648721358570368798/mda-ncw56qz9i48y8pi8.mp4
+9MUSES - Wild,http://feed.resrc.svideo.sogoucdn.com/videodown/110002/540/e5a4011e3fe607ec3d39b9ba59f9a9fd.mp4
+9MUSES - Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_K204wUogPqGqQY.mp4
+9首DJ舞曲,https://vd2.bdstatic.com/mda-mhig1c3sw223mx8p/1080p/cae_h264/1629380139191731149/mda-mhig1c3sw223mx8p.mp4
+12 Music,http://s02.diazol.hu:10192/stream.m3u8
+21年DJ爆红网络洗脑神曲,https://vdse.bdstatic.com//bf4bb1d82b2eb17681c49e745dc2da21.mp4
+2021串烧DJ,https://vd3.bdstatic.com/mda-mdeu032ygvtkm95k/hd/mda-mdeu032ygvtkm95k.mp4
+2021催泪情歌DJ,https://vdse.bdstatic.com//b3a011133da73776af09309a9ee4d4c9.mp4
+2021歌曲,https://vd2.bdstatic.com/mda-mmcdm04add2nws28/1080p/cae_h264/1639608593870785368/mda-mmcdm04add2nws28.mp4
+2021酒吧夜店经典,https://vdse.bdstatic.com//f222c3fafbcc09db6f39991e5c982450.mp4
+2021女生版伤感DJ情歌,https://vdse.bdstatic.com//8fe197e92568201d4899dfd3d94585a7.mp4
+2021情歌,https://vdse.bdstatic.com//3d84abfc356b7a2f128eea22fcb442a2.mp4
+2021热门伤感DJ,https://vdse.bdstatic.com//06b4e9b185b843e694e4d20e9b0a0aac.mp4
+2021伤感情歌6首,https://vdse.bdstatic.com//80e0473f97055cec1c9c76c1c7e5498a.mp4
+2021伤感洗脑神曲,https://vdse.bdstatic.com//8ad29ca92a901b9992431cf0c5266101.mp4
+2021伤感音乐,https://vdse.bdstatic.com//6d39df48360bdb12f73800397c4a6c02.mp4
+2021中文舞曲,https://vdse.bdstatic.com//02a4b136a5e939a0401fc1b58eec7831.mp4
+2021最好听情歌,https://vdse.bdstatic.com//e668900af1d683c1f8762c1184d516d3.mp4
+2021最佳伤感情歌,https://vdse.bdstatic.com//59c5abc138bf1da5585bb765c530137e.mp4
+DJ版精选8首,https://vdse.bdstatic.com//0ac0c7446ae226121af41b2b4e375ae3.mp4
+DJ车载音乐,https://vd3.bdstatic.com/mda-mjtm31vvhj027na9/720p/h264/1635433115826085505/mda-mjtm31vvhj027na9.mp4
+DJ酒醉风雨情 伤心苦酒 朋友的酒 红尘没有错,https://vd4.bdstatic.com/mda-nd1a4zuxf78py830/sc/cae_h264_delogo/1649003829932795060/mda-nd1a4zuxf78py830.mp4
+DJ情6首,https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43fbdc.mp4
+DJ情歌,https://vdse.bdstatic.com//4d7e8fe409b2ba9e08b179de8e146fa3.mp4
+DJ情歌5首,https://vd3.bdstatic.com/mda-mmg7iqkrutbwd7az/sc/cae_h264/1639851941696222972/mda-mmg7iqkrutbwd7az.mp4
+DJ情火 拥抱你离去 夜夜夜漫长,https://vd3.bdstatic.com/mda-nd3gy7ukv0reh4xv/sc/cae_h264_delogo/1649115109025912038/mda-nd3gy7ukv0reh4xv.mp4
+DJ舍不得又能怎样呢,https://vd2.bdstatic.com/mda-ncv1qd3acxskd46p/sc/cae_h264_delogo/1648720820032252958/mda-ncv1qd3acxskd46p.mp4
+DJ舞曲,https://vd2.bdstatic.com/mda-mmqfbgzdj99h2g2a/sc/cae_h264_nowatermark/1640431486180468034/mda-mmqfbgzdj99h2g2a.mp4
+DJ舞曲,https://vd2.bdstatic.com/mda-ncp5ggtppe1c0gw0/720p/h264_delogo/1648094099072851708/mda-ncp5ggtppe1c0gw0.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1648813542-0-0-b75fb95e3bd44e8af5cc964483db1b1a&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=ced9e69a4f6154e91be590c1d5a488ab&logid=0942439256&vid=12262793352915624883&pt=0&appver=7.2.1.10&model=T7-5G10&osver=9&cr=2&abtest=peav_g52&sle=1&sl=2303&split=1993062&dt=0&nt=0&kpdl=1&h265_m=-1&klogid=0000000000000000&kapid=1&psp=1&psk=8&pif=0_0_0_0&qtfc=65535&qtut=0&stg=none
+DJ舞曲,https://vd4.bdstatic.com/mda-idpg23napy9gsnxb/logo/sc/mda-idpg23napy9gsnxb.mp4
+DJ舞曲,https://vd2.bdstatic.com/mda-nch73gktvfmgdrbd/sc/cae_h264_delogo/1647644537085447432/mda-nch73gktvfmgdrbd.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1648813542-0-0-4a2d27d50015d19f3ed5cf5fbc261f79&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=ced9e69a4f6154e91be590c1d5a488ab&logid=0942439256&vid=4192073541598205553&pt=0&appver=7.2.1.10&model=T7-5G10&osver=9&cr=2&abtest=peav_g52&sle=1&sl=1420&split=1235330&dt=1&nt=0&pe=0&prerender=0&kpdl=1&h265_m=-1&klogid=c770aa16cadb579d&kapid=1&psp=1&psk=68&pif=0_0_0_0&qtfc=65535&qtut=0&stg=none
+DJ舞曲,https://vd2.bdstatic.com/mda-nchdvhumb9t222dt/720p/h264_delogo/1647597232402077616/mda-nchdvhumb9t222dt.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1648813542-0-0-355c817c82d5b57396302bd3461bac2c&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=ced9e69a4f6154e91be590c1d5a488ab&logid=0942439256&vid=7721459444580608676&pt=0&appver=7.2.1.10&model=T7-5G10&osver=9&cr=2&abtest=peav_g52&sle=1&sl=2380&split=2030320&dt=1&nt=0&pe=0&prerender=0&kpdl=1&h265_m=-1&klogid=1b51c89b2702d8cc&kapid=1&psp=1&psk=64&pif=0_0_0_0&qtfc=65535&qtut=0&stg=none
+DJ舞曲,https://vdse.bdstatic.com//1fc9fd16e02ca272bb81666b85bf4135.mp4
+dj新歌句句在理,https://vd4.bdstatic.com/mda-ncmb65kfdfysdq4g/sc/cae_h264_delogo/1647946141035592767/mda-ncmb65kfdfysdq4g.mp4
+DJ一个多情又无情的人,https://vd2.bdstatic.com/mda-ncmehsk9eppqsm78/sc/cae_h264_delogo/1648092632169440803/mda-ncmehsk9eppqsm78.mp4
+DJ最美不过你的微笑,https://vd4.bdstatic.com/mda-mhs2qjdmkjz2rb7g/sc/cae_h264/1630029534870787600/mda-mhs2qjdmkjz2rb7g.mp4EXID - Ah Yeah,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1J_-4gUouJjNQw.mp4
+EXID - Every Night,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
+EXID - L.I.E,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2abB4gUohpLdxAQ.mp4
+EXID - UP&DOWN,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzMnG4gUoroOQgQU.mp4
+EXID - 上下(中文版),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
+Foreign Figures - Fire,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzf2h7QUohIem5AQ.mp4
+Four Ladies-Move,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg85Do5QUow-P-wwI.mp4
+Girls Generation - DIVINE,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgho7o5QUoyr2cggE.mp4
+Girls Generation - Mr.Mr,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgorq64gUozOXcXA.mp4
+Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.mp4
+HELLOVENUS - StickySticky,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnIS24gUoptqYDQ.mp4
+HELLOVENUS - WiggleWiggle,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4Remix,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtLrW4gUosLGs2gU.mp4
+Jason Derulo - The Other Side,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgt6qM5gUo8JmR4gQ.mp4
+JinSoul- Singing in the Rain,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6vC98AUooILmZw.mp4
+Kronic & Krunk - Hey Ho!,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAglNTV4gUo9PrW7wM.mp4
+OH MY GIRL - BUNGEE (Fall in Love),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnfmh7QUokqegngQ.mp4
+阿里山的姑娘 康定情歌 山路十八弯 敖包相会,https://vdse.bdstatic.com//ae82f5b93166f47d85ff12124a021323.mp4
+爱不得忘不舍,https://vd3.bdstatic.com/mda-mh8j8egnj8idbvd8/1080p/cae_h264/1629367979662473678/mda-mh8j8egnj8idbvd8.mp4
+爱错绝情的你,https://vd4.bdstatic.com/mda-nc37edj3rtfxe0dw/720p/h264_delogo/1646371172935157274/mda-nc37edj3rtfxe0dw.mp4
+爱到最后是孤独,https://vd4.bdstatic.com/mda-mh9fjm2j86uyymfa/1080p/cae_h264/1628593607912074882/mda-mh9fjm2j86uyymfa.mp4
+爱难求情难断,https://vdse.bdstatic.com//0c8ed110c5522e9bd31752ecb999b1ab.mp4
+爱你到最后一刻,https://vd3.bdstatic.com/mda-mhr9c7q9xzgy1812/1080p/cae_h264/1630062648077583523/mda-mhr9c7q9xzgy1812.mp4
+爱情迷了路,https://vd4.bdstatic.com/mda-mdbrb7fns70avrmt/1080p/cae_h264/1618222287/mda-mdbrb7fns70avrmt.mp4
+爱一回错一回,https://vd4.bdstatic.com/mda-mbim69siwwsgwp7d/v1-cae/1080p/mda-mbim69siwwsgwp7d.mp4
+澳门酒吧音乐DJ,https://vd3.bdstatic.com/mda-mkpi5r0xe92ja446/480p/h264/1637759253085791346/mda-mkpi5r0xe92ja446.mp4
+百花香(抖音DJ版),https://vd4.bdstatic.com/mda-mdsd1z3wbqeeyumq/fhd/cae_h264_nowatermark/1620021906658368673/mda-mdsd1z3wbqeeyumq.mp4
+爆红经典DJ老歌,https://vd4.bdstatic.com/mda-nd3au1ey6tub05er/sc/cae_h264_delogo/1649059875966223462/mda-nd3au1ey6tub05er.mp4
+爆红老歌10首车载,https://vd3.bdstatic.com/mda-nbhgwre9iykh09ya/sc/cae_h264_delogo/1645187028367793873/mda-nbhgwre9iykh09ya.mp4
+爆红全网十首DJ车载,https://vdse.bdstatic.com//1d9f9d517346fec2e70d03eae43cff03.mp4
+背叛情歌,https://vd2.bdstatic.com/mda-nd9g7g9pdc9d06hz/sc/cae_h264_delogo/1649669454990045825/mda-nd9g7g9pdc9d06hz.mp4
+蔡依琳,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1veR5wUosO_wxAM.mp4
+唱着情歌流着泪,https://vd3.bdstatic.com/mda-mhwaejanf0ie6b8j/1080p/cae_h264/1630409563129833732/mda-mhwaejanf0ie6b8j.mp4
+超好听的情歌,https://vd4.bdstatic.com/mda-mmh42td9ea0c1cjm/1080p/cae_h264/1639797853752669407/mda-mmh42td9ea0c1cjm.mp4
+超强车载重音乐,https://vdse.bdstatic.com//be2987198eb242f59daaea05ac1d95ee.mp4
+潮湿的心,https://vd3.bdstatic.com/mda-jfsre2z1s4xk012w/sc/mda-jfsre2z1s4xk012w.mp4
+车载DJ,https://vd4.bdstatic.com/mda-nahdi45ud73s2842/sc/cae_h264_delogo/1642519489503455798/mda-nahdi45ud73s2842.mp4
+车载DJ舞曲,https://vd3.bdstatic.com/mda-nask5v8g11h6fqmf/sc/cae_h264_delogo/1643293983357482773/mda-nask5v8g11h6fqmf.mp4
+车载必备DJ舞曲,https://vd2.bdstatic.com/mda-mm33bvw7zymzhwgx/1080p/cae_h264/1638591344918378556/mda-mm33bvw7zymzhwgx.mp4
+车载音乐DJ歌曲,https://vd3.bdstatic.com/mda-ncf25mrs5bm53k6j/sc/cae_h264_delogo/1647396409036292673/mda-ncf25mrs5bm53k6j.mp4
+揣着梦想走,https://txmov2.a.kwimgs.com/upic/2022/02/25/08/BMjAyMjAyMjUwODU3NTNfNDgxMDc1MjAyXzY4MzQ3NDE3MTkxXzJfMw==_b_B82c9abb3bc16937e87baa32d383adedb.mp4
+串烧老歌,https://vd2.bdstatic.com/mda-ncv5mjtix2x9nnjx/sc/cae_h264_delogo/1648614652163181662/mda-ncv5mjtix2x9nnjx.mp4
+闯天涯,https://vd2.bdstatic.com/mda-mjf3hahmam95yfkd/sc/cae_h264_nowatermark/1634352379471224566/mda-mjf3hahmam95yfkd.mp4
+磁性温柔,https://vd3.bdstatic.com/mda-nd736b0mc5pyu7ph/sc/cae_h264_delogo/1649386250658873408/mda-nd736b0mc5pyu7ph.mp4
+催泪情歌,https://vdse.bdstatic.com//ee648c31127460a0d345bd335edec60d.mp4
+大欢 - 多年以后,https://vdse.bdstatic.com/3a67df360efffec634e564acc1397119.mp4
+等爱的玫瑰,https://vd2.bdstatic.com/mda-jfsusw53dxs6kyvc/sc/mda-jfsusw53dxs6kyvc.mp4
+邓紫棋13,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298025415.mp4
+邓紫棋14,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240297965874.mp4
+邓紫棋15,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301809263.mp4
+电音舞曲- (Rap Feat.  Of 4Minute),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgwNWb4gUolJ62iwQ.mp4
+东莞3星酒吧劲爆,https://vd3.bdstatic.com/mda-nc91jug6hru2kas8/sc/cae_h264_delogo/1646878042944090737/mda-nc91jug6hru2kas8.mp4
+动感DJ舞曲,https://vd3.bdstatic.com/mda-ii00rzrptt9e56yf/sc/mda-ii00rzrptt9e56yf.mp4
+多年以后,https://vd3.bdstatic.com/mda-mhqekuegbh6112js/1080p/cae_h264/1629891559415737083/mda-mhqekuegbh6112js.mp4
+耳朵无损,https://vd3.bdstatic.com/mda-nd5f9bu39gty1wfk/sc/cae_h264_delogo/1649244084303159392/mda-nd5f9bu39gty1wfk.mp4
+风中泪,http://txmov2.a.yximgs.com/upic/2021/01/07/06/BMjAyMTAxMDcwNjU5MjhfMTU0MDc1NjUwOF80MTk5MDI5NTM1Nl8yXzM=_b_B2c0675b0c05835b9efde19e6a2d9a47f.mp4
+感动天感动地,https://vd2.bdstatic.com/mda-kc9syj5km9m1bvbq/sc/mda-kc9syj5km9m1bvbq.mp4
+歌曲联唱,https://vd2.bdstatic.com/mda-jiugyuw4xwqiwzet/sc/mda-jiugyuw4xwqiwzet.mp4
+光明,https://vd4.bdstatic.com/mda-ma7y4ug97hcdf710/v1-cae/1080p/mda-ma7y4ug97hcdf710.mp4
+海来阿木 浪子心,https://vd3.bdstatic.com/mda-mgr9s5pv0jeqbcm8/1080p/cae_h264/1627298307874491239/mda-mgr9s5pv0jeqbcm8.mp4
+韩可可 错位时空,https://vd3.bdstatic.com/mda-mgciytzb45z6z8yj/1080p/cae_h264/1626183756603775947/mda-mgciytzb45z6z8yj.mp4
+荷东dj,https://vd4.bdstatic.com/mda-kc2b015ijvbriss5/v1-cae/sc/mda-kc2b015ijvbriss5.mp4
+黑街,https://vd3.bdstatic.com/mda-mk612p9ceppwbgxj/sc/cae_h264/1636246729628620650/mda-mk612p9ceppwbgxj.mp4
+怀旧老歌,https://vd2.bdstatic.com/mda-iifxghwz0upr9ng0/sc/mda-iifxghwz0upr9ng0.mp4
+黄昏之恋,http://txmov2.a.yximgs.com/upic/2020/12/17/15/BMjAyMDEyMTcxNTU4MDJfMTU0MDc1NjUwOF80MDg0NzI4NTQ3NV8yXzM=_b_Bf21b260fe57f4ea92f16595655476453.mp4
+佳仁 - Paradise Lost,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy9j64wUogPOGEQ.mp4
+今夜为你醉,https://vdse.bdstatic.com//b68123a666cce39e7413da912e3675a3.mp4
+将军在上,https://vd4.bdstatic.com/mda-mm83f0d9sws2zdu4/sc/cae_h264/1639107595725814486/mda-mm83f0d9sws2zdu4.mp4
+金典老歌,https://vdse.bdstatic.com//36ea0ffcf8156a44b9d524d999eb088a.mp4
+金泫雅 - HyunA-Ice Cream,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyt_s4gUolOCslAQ.mp4
+劲爆DJ串烧,https://vdse.bdstatic.com//01b1f78bb5b009d36ce3f5051e7383c1.mp4
+劲爆DJ串烧,https://vd4.bdstatic.com/mda-mmncsg2n2cc3xdeg/480p/h264/1640253222392397868/mda-mmncsg2n2cc3xdeg.mp4
+劲歌热舞DJ,https://vd3.bdstatic.com/mda-mku3r3h9uxyjxpjf/480p/h264/1638153592661083380/mda-mku3r3h9uxyjxpjf.mp4
+经典老歌,https://vd3.bdstatic.com/mda-ihps4033ktcz7mfq/sc/mda-ihps4033ktcz7mfq.mp4
+经典老歌,https://vd2.bdstatic.com/mda-ncd2yz4tkhsx9x7n/sc/cae_h264_delogo/1647224948607209677/mda-ncd2yz4tkhsx9x7n.mp4
+经典老歌,https://vd4.bdstatic.com/mda-ifts1w15vc6w8ujq/logo/sc/mda-ifts1w15vc6w8ujq.mp4
+经典老歌,https://vd2.bdstatic.com/mda-mhwbtsnrmm6v6x5r/sc/cae_h264/1630403250895754314/mda-mhwbtsnrmm6v6x5r.mp4
+经典老歌,https://vd4.bdstatic.com/mda-igbpw1bm4vdxitj0/logo/sc/mda-igbpw1bm4vdxitj0.mp4
+经典老歌,https://vd3.bdstatic.com/mda-ig8mrb0k4jjc5ydt/sc/mda-ig8mrb0k4jjc5ydt.mp4
+经典老歌,https://vdse.bdstatic.com//f203048340fe15016fbec9a72905680d.mp4
+经典老歌,https://vd3.bdstatic.com/mda-nct6d4p39gziiwud/720p/h264_delogo/1648441969749209277/mda-nct6d4p39gziiwud.mp4
+经典流行音乐,https://vdse.bdstatic.com//aa18d91f14915e1e79eacb046ac7747e.mp4
+经典女神,http://1.117.152.239:39000/huya.php?id=11352909
+经典小品,http://117.148.179.163/PLTV/88888888/224/3221231570/index.m3u8
+经典音乐河,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch29-2.m3u8
+精选8首,https://vdse.bdstatic.com//200ab148a9e867ad29f5fda4ac175305.mp4
+精选8首,https://vdse.bdstatic.com//525174705415c8773bd465ce4b88b18d.mp4
+精选DJ情歌,https://vdse.bdstatic.com//2ead9cf04f5e9e3a99eea79534c3c104.mp4
+精选DJ洗脑神曲,https://vd2.bdstatic.com/mda-ncsh78jh0xna7ngs/sc/cae_h264_delogo/1648389408244925817/mda-ncsh78jh0xna7ngs.mp4
+精选车载酒吧劲爆中文DJ舞曲,https://vd2.bdstatic.com/mda-nc1dmpzkg7y9k6y1/sc/cae_h264_delogo/1646218423219778510/mda-nc1dmpzkg7y9k6y1.mp4
+精选大江南北歌曲,https://vd3.bdstatic.com/mda-mkudm4eq9p8p3u86/480p/h264/1638178700564898831/mda-mkudm4eq9p8p3u86.mp4
+精选邓丽君经典歌曲8首,https://vdse.bdstatic.com//6fdc7d09e2f04a19745752bb60fbcc76.mp4
+精选酒吧DJ舞曲,https://vdse.bdstatic.com//0e59c29ddbc68ed60dce8a6f4631c1f1.mp4
+精选五首DJ男声串烧,https://vd2.bdstatic.com/mda-maqfk730tsig88wr/v2-hknm/1080p/mda-maqfk730tsig88wr.mp4
+精选洗脑曲,https://vd3.bdstatic.com/mda-mjgmwij68mqdp5qc/480p/h264/1634485877945514484/mda-mjgmwij68mqdp5qc.mp4
+镜中女人花,http://txmov2.a.yximgs.com/upic/2021/01/01/12/BMjAyMTAxMDExMjU2NTRfMTU0MDc1NjUwOF80MTY4NTMyMjQyNl8yXzM=_b_Bf8f3112bb9c801bbe8a3ae1a563417df.mp4
+酒吧DJ舞曲,https://vdse.bdstatic.com//5208fb24e1d76b0e81f992e91537f086.mp4
+酒吧爆火DJ舞曲,https://vd4.bdstatic.com/mda-mmgf5h3qfy82g3p6/1080p/cae_h264/1639741043433716746/mda-mmgf5h3qfy82g3p6.mp4
+酒吧爆火DJ舞曲②,https://vd4.bdstatic.com/mda-mmgf9k7sqr771a0d/1080p/cae_h264/1639739439753027337/mda-mmgf9k7sqr771a0d.mp4
+酒吧劲爆中文舞曲,https://vd4.bdstatic.com/mda-mm0b66vfp7wt1u2z/1080p/cae_h264/1638380807362057569/mda-mm0b66vfp7wt1u2z.mp4
+酒吧慢摇DJ舞曲,https://vd4.bdstatic.com/mda-ncm0qvdrfhujssxg/sc/cae_h264_delogo/1647910096911072273/mda-ncm0qvdrfhujssxg.mp4
+绝美情歌DJ精选,https://vdse.bdstatic.com//c5c64b60c9fdfbdfa3e959bb1d56c4b0.mp4
+渇望,https://vd3.bdstatic.com/mda-mkmhuih1w2cmza3u/480p/h264/1637585190624896109/mda-mkmhuih1w2cmza3u.mp4
+苦乐年华DJ,https://vd3.bdstatic.com/mda-nc1atnt5xwr8np3w/sc/cae_h264_delogo/1646207174401225524/mda-nc1atnt5xwr8np3w.mp4
+苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_h264/1629888246186602728/mda-mhqekuf2r91v08dt.mp4
+老歌,https://vd4.bdstatic.com/mda-nak42txm5wcxf86z/sc/cae_h264_nowatermark_delogo/1643945872582337997/mda-nak42txm5wcxf86z.mp4
+老歌,https://vd3.bdstatic.com/mda-ka6r4qi3e0s5isqm/sc/mda-ka6r4qi3e0s5isqm.mp4
+老歌,https://vd2.bdstatic.com/mda-nd59vsq0r1e2j3g2/sc/cae_h264_delogo/1649230737582909591/mda-nd59vsq0r1e2j3g2.mp4
+老歌,https://vd2.bdstatic.com/mda-ncu43xwjqxdjbvwd/cae_h264_delogo/1648656472707879926/mda-ncu43xwjqxdjbvwd.mp4
+老歌,https://vd3.bdstatic.com/mda-ncvd21k9ttjthjaf/sc/cae_h264_delogo/1648633014805656420/mda-ncvd21k9ttjthjaf.mp4
+老歌DJ,https://vd2.bdstatic.com/mda-ncvm0bnkt2pcev81/sc/cae_h264_delogo/1648675885400529387/mda-ncvm0bnkt2pcev81.mp4
+李玲玉 女儿情,http://vd4.bdstatic.com/mda-jiqh0kcd7kgpwnmb/sc/mda-jiqh0kcd7kgpwnmb.mp4
+李玲玉 天竺少女,http://vd3.bdstatic.com/mda-icktmsmht26j2399/sc/mda-icktmsmht26j2399.mp4
+李翊君 - 多情人都把灵魂给了谁,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/o1koj80kDcERprb8epC%40%40hd.m3u8
+连锁反应,https://vd2.bdstatic.com/mda-na26q8vkv1hegaw4/sc/cae_h264/1641186067929723723/mda-na26q8vkv1hegaw4.mp4
+林翠萍/林玉英经典歌曲联唱HD,https://vdse.bdstatic.com//7db965a410019e9021f6c6aa33057d25.mp4
+林翠萍经典歌曲精选HD,https://vdse.bdstatic.com//d18ce7521b67a9d0b50cf805034f2e21.mp4
+龙飘飘 歌声恋情,https://vd3.bdstatic.com/mda-nbr8qai32badkdf1/sc/cae_h264_delogo/1645933170027877953/mda-nbr8qai32badkdf1.mp4
+迈阿密泳装秀,https://vdse.bdstatic.com//319327c8c757bef7a18bd423fc520e71.mp4
+迈阿密泳装周合集,https://vd2.bdstatic.com/mda-kcjmkds5b68q4g5c/v1-cae/hd/mda-kcjmkds5b68q4g5c.mp4
+没理由,https://bj.bcebos.com/v1/baidu-little-video/vod-gechgi84v43uhfhp/mda-kmbyf4x2aeqt8cds.mp4
+美女走秀,https://vdse.bdstatic.com//07542a16fc71689e380ba5e8b1d3b790.mp4
+妹妹你爱了就大胆说,https://vd4.bdstatic.com/mda-mk9954y2p2w6aiy8/sc/cae_h264/1636527394441224517/mda-mk9954y2p2w6aiy8.mp4
+梦醒时分梦驼铃,https://vd2.bdstatic.com/mda-kgrag6y9hpf7jfay/v1-cae/sc/mda-kgrag6y9hpf7jfay.mp4
+你是我今生不能忘的唯一,https://vd4.bdstatic.com/mda-mbdzgfvp4bz1hhg8/v1-cae/1080p/mda-mbdzgfvp4bz1hhg8.mp4
+女驸马,https://vd3.bdstatic.com/mda-mkc73kvdz3q3xwaw/fhd/cae_h264_nowatermark/1636904021328088500/mda-mkc73kvdz3q3xwaw.mp4
+女孩街头演唱DJ《放不下想又怕》,https://vd2.bdstatic.com/mda-nb8mpxwznwj6s3ps/sc/cae_h264_nowatermark_delogo/1644456565663753843/mda-nb8mpxwznwj6s3ps.mp4
+女生DJ串烧,https://vd4.bdstatic.com/mda-mmncsg3gspc9rq5m/480p/h264/1640253169234879704/mda-mmncsg3gspc9rq5m.mp4
+女生DJ伤感情歌FHD,https://vdse.bdstatic.com//8fe41305b5c64f8e11715b4dfd442c67.mp4
+女生版DJ洗脑神曲,https://vdse.bdstatic.com//6d2f84ad5762c818efd8dc210d8743c6.mp4
+拼命的喝酒拼命的抽烟,https://vd2.bdstatic.com/mda-nd1n5vscnn77rui2/sc/cae_h264_delogo/1648915878369422268/mda-nd1n5vscnn77rui2.mp4
+朴孝敏 – SKETCH,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguq6r7gUouOyF4gE.mp4
+千年等一回,https://vd3.bdstatic.com/mda-jc7mtk91nwgdtc7c/sc/mda-jc7mtk91nwgdtc7c.mp4
+情歌8首,https://vd2.bdstatic.com/mda-mk7hhug7aprk2806/sc/cae_h264/1636496746808750167/mda-mk7hhug7aprk2806.mp4
+情歌好听却难唱,http://em.21dtv.com/songs/60115911.mkv
+情难断,https://vd4.bdstatic.com/mda-nbpw16dugr0ppae5/sc/cae_h264_delogo/1645737527853870072/mda-nbpw16dugr0ppae5.mp4
+全民蹦迪洗脑神曲,https://vd3.bdstatic.com/mda-mm72pcq75p29jy3y/480p/h264/1638928782018074273/mda-mm72pcq75p29jy3y.mp4
+让人陶醉的几首DJ舞曲,https://vdse.bdstatic.com//0f464b2beaf5887f90ac36b68fcd342f.mp4
+让我做你的眼睛,https://vd2.bdstatic.com/mda-mhaargrart2qrkdz/1080p/cae_h264/1629630942996744682/mda-mhaargrart2qrkdz.mp4
+热门DJ笑纳,https://vd3.bdstatic.com/mda-mkn4pytp5id88k1n/hd/cae_h264/1637642343249797600/mda-mkn4pytp5id88k1n.mp4
+人生如歌,http://mobi.kuwo.cn/tmevideo/tme1257678.mp4
+
