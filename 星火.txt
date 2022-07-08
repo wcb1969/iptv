@@ -3440,7 +3440,7 @@ Unknown_7801,http://ocj2.kksmg.com/ocj1/ocj2.m3u8
 Unknown_3098,http://p2.weizan.cn/1110366022/132071060845712961/live.m3u8
 Unknown_3377,http://p2.weizan.cn/11844069/132114573749498521/live.m3u8
 Unknown_3463,https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8
-Unknown_3467,https://p2.weizan.cn/2123201810/941522397962841708/live.m3u8
+三沙卫视,https://p2.weizan.cn/2123201810/941522397962841708/live.m3u8
 Unknown_4045,https://p2.weizan.cn/1033266991/776920781637802678/live.m3u8
 Unknown_4046,https://p2.weizan.cn/1033266991/748750643185685521/live.m3u8
 Unknown_4047,https://p2.weizan.cn/1033266991/615876688276112015/live.m3u8
@@ -3461,7 +3461,7 @@ Unknown_5190,http://p2bj.weizan.cn/351104/837056569960221505/live.m3u8
 Unknown_5193,http://p2bj.weizan.cn/351104/694292401376336037/live.m3u8
 Unknown_5195,http://p2bj.weizan.cn/351104/791122427715011838/live.m3u8
 Unknown_5292,https://p2bj.weizan.cn/309104/751799777014582046/live.m3u8
-Unknown_4799,http://p4.weizan.cn/1275348489/398654743195260966/live.m3u8
+矿区,http://p4.weizan.cn/1275348489/398654743195260966/live.m3u8
 Unknown_4863,http://p4.weizan.cn/596962/573388626766862967/live.m3u8
 Unknown_7909,https://p4.weizan.cn/1135473620/373615394535215266/live.m3u8
 Unknown_8502,http://p4.weizan.cn/635735175/716981024541808512/live.m3u8
@@ -3471,16 +3471,10 @@ Unknown_5764,https://p6.vzan.com/720020/626981218629939023/live.m3u8
 Unknown_5765,https://p6.vzan.com/720020/517762918718461566/live.m3u8
 Unknown_8963,http://p6.weizan.cn/20949943/686382240051116083/live.m3u8
 Unknown_8964,http://p6.weizan.cn/20949943/854255741283707329/live.m3u8
-Unknown_8163,http://p8.vzan.com/1468353950/484795547597958159/live.m3u8
+江安,http://p8.vzan.com/1468353950/484795547597958159/live.m3u8
 Unknown_8196,http://p8.vzan.com/11849299/516924941292238026/live.m3u8
 Unknown_8191,http://palive.patv123.com:8091/live/xwpd_800K.m3u8
-Unknown_5835,http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8
-Unknown_6488,http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakzhpd.m3u8
-Unknown_6493,http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakggpd.m3u8
-Unknown_6496,http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakjypd.m3u8
-Unknown_3893,http://pili-live-hdl.tvliving.gdmztv.com/meizhou-tvliving/mztv1.flv
-Unknown_3898,http://pili-live-hdl.tvliving.gdmztv.com/meizhou-tvliving/mztv2.flv
-Unknown_6163,http://pili-live-hdl.zhdd.tianma3600.com/zhddgbds/dspd1.m3u8
+沛县,http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8
 Unknown_4084,http://pili-live-hdl-gxyl2.tianma3600.com/gxyl2/ylzh.m3u8
 Unknown_4087,http://pili-live-hdl-gxyl2.tianma3600.com/gxyl2/ylgg.m3u8
 Unknown_8613,https://pili-live-hdl-kmjy.tianma3600.com/kmjy/kmjy.m3u8
