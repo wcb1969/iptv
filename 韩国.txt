@@ -1,95 +1,277 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",KBS-1
-http://ye23.vip/z7z8/2021/kbs2020.php?id=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",KBS-2
-http://ye23.vip/z7z8/2021/kbs2020.php?id=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",KBS-WORLD
-http://ye23.vip/z7z8/2021/kbs2020.php?id=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",TJB SBS
-http://ye23.win/iptv/korea2021.php?id=TJB
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",CJB SBS
-http://ye23.win/iptv/korea2021.php?id=CJB
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",KBC SBS
-http://ye23.win/iptv/korea2021.php?id=KBC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",SBS
-http://ye23.win/iptv/sbs5.1.php?id=S01
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",SBS-Sports
-http://ye23.win/iptv/sbs5.1.php?id=S02
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",SBS-Plus
-http://ye23.win/iptv/sbs5.1.php?id=S03
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",SBS-Fun
-http://ye23.win/iptv/sbs5.1.php?id=S04
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",SBS-Golf
-http://ye23.win/iptv/sbs5.1.php?id=S05
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",SBS-Biz
-http://ye23.win/iptv/sbs5.1.php?id=S06
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",SBS-MTV
-http://ye23.win/iptv/sbs5.1.php?id=S09
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",SBS-GorealraM
-http://ye23.win/iptv/sbs5.1.php?id=S19
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",SBS-POWER
-http://ye23.win/iptv/sbs5.1.php?id=S07
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",SBS-LOVE
-http://ye23.win/iptv/sbs5.1.php?id=S08
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",Good TV
-http://ye23.win/iptv/korea2021.php?id=Good
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",cpbc
-http://ye23.win/iptv/korea2021.php?id=cpbc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",bbstv
-http://ye23.win/iptv/korea2021.php?id=bbstv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",myStream
-http://ye23.win/iptv/korea2021.php?id=myStream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",MTN
-http://ye23.win/iptv/korea2021.php?id=MTN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",Channel A
-http://ye23.win/iptv/korea2021.php?id=Channela
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",korea TV
-http://ye23.win/iptv/korea2021.php?id=korea
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",YTN
-http://ye23.win/iptv/korea2021.php?id=ytn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",Channel A
-http://ye23.win/iptv/korea2021.php?id=Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",TBS
-http://ye23.win/iptv/korea2021.php?id=TBS-a
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",KCTV
-http://ye23.win/iptv/korea2021.php?id=KCTV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",EBS 1
-http://ye23.win/iptv/korea2021.php?id=EBS1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",EBS 2
-http://ye23.win/iptv/korea2021.php?id=EBS2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",EBS i
-http://ye23.win/iptv/korea2021.php?id=EBSi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",EBS+2
-http://ye23.win/iptv/korea2021.php?id=EBS_2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",EBS E
-http://ye23.win/iptv/korea2021.php?id=EBS_E
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",EBS KIDS
-http://ye23.win/iptv/korea2021.php?id=EBS_KIDS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",dema
-http://ye23.win/iptv/korea2021.php?id=dema
-#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="韩国频道",阿里郎WORLD
-http://ye23.win/iptv/korea2021.php?id=arirang_1
-#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="韩国频道",阿里郎WORLD
-http://ye23.win/iptv/korea2021.php?id=arirang_2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",KBC 광주방송(SBS 光州)
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",국악방송
-http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",MTN
-http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",NBS Korea Agricultural Br
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",TJB 대전방송(SBS 大田)
-http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",선거방송
-http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",KCTV
-http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",KCTV
-http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="韩国频道",ArirangTV
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",MBC韩剧频道
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国频道",KBS 国际频道
-https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+Anny One TV,http://mytv.dothome.co.kr/ch/catv/230.php
+Apink,http://epg.112114.xyz/douyu/123351
+Apink,http://124.223.212.38:83/douyu/123351
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang Radio,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
+Arirang Radio,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+Arirang Radio,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+AsiaN,https://apichvod19.seezntv.com/OTM/10200_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+BBS Buddhist Broadcasting,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+bbstv,http://ye23.win/iptv/korea2021.php?id=bbstv
+BTN,http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
+Carry TV,http://mytv.dothome.co.kr/ch/catv/264.php
+CCHINA,https://apichvod19.seezntv.com/OTM/10790_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+Channel A,http://ye23.win/iptv/korea2021.php?id=Channel
+Channel China,http://mytv.dothome.co.kr/ch/catv/229.php
+ChannelA,http://mytv.dothome.co.kr/ch/catv/212.php
+ChannelA,http://106.246.182.11:9981/stream/channelid/87
+ChannelA,http://mytv.dothome.co.kr/ch/catv/133.php
+ChannelA,http://han.ddkdxmkj.com/api/han123.php?id=15
+ChannelA,https://apichvod19.seezntv.com/OTM/10030_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+ChannelA,http://www.hwado.net/webtv/catv/52.php
+CJB SBS,http://ye23.win/iptv/korea2021.php?id=CJB
+CPBC,http://onair1.cpbc.co.kr:1935/tv/smil:live.smil/playlist.m3u8
+cpbc,http://ye23.win/iptv/korea2021.php?id=cpbc
+CTS,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+dema,http://ye23.win/iptv/korea2021.php?id=dema
+Discovery,https://apichvod19.seezntv.com/OTM/10840_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+Discovery,http://mytv.dothome.co.kr/ch/catv/285.php
+EBS 1,http://ye23.win/iptv/korea2021.php?id=EBS1
+EBS 2,http://ye23.win/iptv/korea2021.php?id=EBS2
+EBS E,http://ye23.win/iptv/korea2021.php?id=EBS_E
+EBS i,http://ye23.win/iptv/korea2021.php?id=EBSi
+EBS KIDS,http://ye23.win/iptv/korea2021.php?id=EBS_KIDS
+EBS+2,http://ye23.win/iptv/korea2021.php?id=EBS_2
+EBS1,http://ebsonair.flive.skcdn.com/groundwavefamilypc/familypc1m/playlist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr:1935/groundwavetablet500k/tablet500k/playlist.m3u8
+EBS2,http://ebsonair.flive.skcdn.com/ebs2familypc/familypc1m/playlist.m3u8
+EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+EBS-KIDS,http://ebsonair.flive.skcdn.com/ebsufamilypc/familypc1m/playlist.m3u8
+EBS-KIDS,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+FISHINGTV,http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
+FTV钓鱼节目,https://apichvod19.seezntv.com/OTM/10270_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+FTV钓鱼节目,http://mytv.dothome.co.kr/ch/catv/255.php
+GCN教会,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
+GOLF&PBA,https://apichvod19.seezntv.com/OTM/10290_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+GOLF&PBA,http://mytv.dothome.co.kr/ch/catv/250.php
+Good TV,http://ye23.win/iptv/korea2021.php?id=Good
+Gugbang TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+Highkick,http://mytv.dothome.co.kr/ch/catv/25.php
+IB体育,https://apichvod19.seezntv.com/OTM/10220_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+IB-体育,http://mytv.dothome.co.kr/ch/catv/253.php
+iHQ电视剧,https://apichvod19.seezntv.com/OTM/10800_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+IHQ电视剧,http://mytv.dothome.co.kr/ch/catv/256.php
+JTBC,https://apichvod19.seezntv.com/OTM/10010_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+JTBC,http://mytv.dothome.co.kr/ch/catv/211.php
+JTBC,http://106.246.182.11:9981/stream/channelid/84
+JTBC2,https://apichvod19.seezntv.com/OTM/10780_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+JTBC2,http://mytv.dothome.co.kr/ch/catv/282.php
+JTBC4,https://apichvod19.seezntv.com/OTM/10890_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+JTBC4,http://mytv.dothome.co.kr/ch/catv/283.php
+JTBC高尔夫,http://mytv.dothome.co.kr/ch/catv/248.php
+JTBC高尔夫,https://apichvod19.seezntv.com/OTM/10280_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+JTBC体育,http://mytv.dothome.co.kr/ch/catv/249.php
+JTBC体育,https://apichvod19.seezntv.com/OTM/10700_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+KBC SBS,http://ye23.win/iptv/korea2021.php?id=KBC
+KBS1,http://222.109.117.27:9981/stream/channelid/2133459073
+KBS1,http://220.95.92.160:9981/stream/channelid/660474352
+KBS1,https://apichvod19.seezntv.com/OTM/10170_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+KBS1,http://183.99.22.189:9981/stream/channelid/983691437
+KBS2,http://222.109.117.27:9981/stream/channelid/123020099
+KBS2,http://220.95.92.160:9981/stream/channelid/280136412
+KBS2,https://apichvod19.seezntv.com/OTM/10140_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+KBS2,http://183.99.22.189:9981/stream/channelid/1564137658
+KBS电视剧,http://119.197.107.139:9981/stream/channelid/85
+KBS电视剧,http://ye23.vip/z7z8/2021/kbs2020.php?id=5
+KBS电视剧,http://luotuo.ycchenrong.cn/dl/kbs.php?id=5
+KBS故事,http://ye23.vip/z7z8/2021/kbs2020.php?id=8
+KBS故事,http://luotuo.ycchenrong.cn/dl/kbs.php?id=8
+KBS国际,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+KBS生活,http://luotuo.ycchenrong.cn/dl/kbs.php?id=7
+KBS生活,http://ye23.vip/z7z8/2021/kbs2020.php?id=7
+KBS世界,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+KBS体育,http://mytv.dothome.co.kr/ch/catv/243.php
+KBS体育,https://apichvod19.seezntv.com/OTM/10410_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+KBS体育,http://live1.streamk.co:8080/sportsbox_preview/live52/playlist.m3u8?site=gaktv&ch=live52
+KBS新闻,http://luotuo.ycchenrong.cn/dl/kbs.php?id=4
+KBS新闻,http://mytv.dothome.co.kr/ch/catv/1.php
+KCTV,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+KCTV,http://ye23.win/iptv/korea2021.php?id=KCTV
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+korea TV,http://ye23.win/iptv/korea2021.php?id=korea
+K-POP,http://mytv.dothome.co.kr/ch/catv/286.php
+K-POP,https://apichvod19.seezntv.com/OTM/10960_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+K-POP,http://ye23.win/iptv/sbs5.1.php?id=S20
+KTV,https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
+KTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+MBC,https://stream.chmbc.co.kr/live/TV/playlist.m3u8
+MBC,https://wowza.jejumbc.com/live/tv_jejumbc/chunklist_w1563394527.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
+MBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+MBC,https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+MBC,https://apichvod19.seezntv.com/OTM/10540_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+MBC,http://mytv.dothome.co.kr/ch/public/21.php
+MBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+MBC_every1,http://106.246.182.11:9981/stream/channelid/29
+MBC-NET,http://free.fullspeed.tv/iptv-query?streaming-ip=http://mytv.dothome.co.kr/ch/catv/28.php
+MBC-NET,http://mytv.dothome.co.kr/ch/catv/28.php
+MBC体育,https://apichvod19.seezntv.com/OTM/10430_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+MBC体育,http://mytv.dothome.co.kr/ch/catv/242.php
+MBC体育,http://live1.streamk.co:8080/sportsbox_preview/live55/playlist.m3u8?site=gaktv&ch=live53
+MBN,https://apichvod19.seezntv.com/OTM/10020_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+MBN,http://mytv.dothome.co.kr/ch/catv/214.php
+MBN,http://ye23.win/iptv/korea2021.php?id=MBN
+MBN,http://mytv.dothome.co.kr/ch/catv/54.php
+MBN,http://106.246.182.11:9981/stream/channelid/88
+Mnet,https://apichvod19.seezntv.com/OTM/10150_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+Mnet,http://mytv.dothome.co.kr/ch/catv/224.php
+Mnet,http://106.246.182.11:9981/stream/channelid/62
+Movie,https://apichvod19.seezntv.com/OTM/11090_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+Movie,http://mytv.dothome.co.kr/ch/catv/232.php
+MTN,http://ye23.win/iptv/korea2021.php?id=MTN
+MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+MyStream,http://ye23.win/iptv/korea2021.php?id=myStream
+NBS Korea Agricultural Br,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+NBS Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+NewKID1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=612
+NewKID1,https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
+NewKID2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
+NewKID2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
+NewKID3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=623
+NewKID4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
+NewKID4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
+NGWILD,https://apichvod19.seezntv.com/OTM/10230_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+OBS,https://apichvod19.seezntv.com/OTM/10510_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+OBS,http://mytv.dothome.co.kr/ch/catv/281.php
+OBS比赛,http://59.23.231.102:1935/live/obsstream1/myStream.sdp/playlist.m3u8
+OCN,http://106.246.182.11:9981/stream/channelid/60
+OCN,https://apichvod19.seezntv.com/OTM/10950_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+OCN,http://121.136.153.200:9981/stream/channelid/35
+OL!FE,http://mytv.dothome.co.kr/ch/catv/254.php
+OL!FE,https://apichvod19.seezntv.com/OTM/10320_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+PLAYY Welme,https://apichvod19.seezntv.com/OTM/11740_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+PLAYY动作,http://mytv.dothome.co.kr/ch/catv/233.php
+PLAYY动作,https://apichvod19.seezntv.com/OTM/11720_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+PLAYY治愈,https://apichvod19.seezntv.com/OTM/11730_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+PLAYY自由,https://apichvod19.seezntv.com/OTM/11750_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+Running Man-2,https://918dc7ace8f2bd063a86686619563602.v.smtcdns.net/akm-tct.douyucdn.cn/live/131977rb5GOrl6uS.flv
+Running Man-2,http://124.223.212.38:83/douyu/131977
+Running Man-2,http://epg.112114.xyz/douyu/131977
+SBS,http://183.99.22.189:9981/stream/channelid/1124346476
+SBS,https://apichvod19.seezntv.com/OTM/10550_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+SBS,http://221.157.125.239:1935/live/psike/playlist.m3u8
+SBS,http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
+SBS,https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
+SBS,http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+SBS,http://222.109.117.27:9981/stream/channelid/2096368258
+SBS,http://han.ddkdxmkj.com/api/sbs.php?id=1
+SBS,http://ye23.win/iptv/sbs5.1.php?id=S01
+SBS,http://220.95.92.160:9981/stream/channelid/1445999617
+SBS,http://itskoi.dothome.co.kr/sbs.php?id=S01
+SBS F!L,https://apichvod19.seezntv.com/OTM/10930_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+SBS F!L,http://mytv.dothome.co.kr/ch/catv/284.php
+SBS_funE,http://itskoi.dothome.co.kr/sbs.php?id=S04
+SBS_funE,http://han.ddkdxmkj.com/api/sbs.php?id=4
+SBS_funE,http://106.246.182.11:9981/stream/channelid/27
+SBS_MTV,http://han.ddkdxmkj.com/api/sbs.php?id=9
+SBS_MTV,http://itskoi.dothome.co.kr/sbs.php?id=S09
+SBS_Plus,http://han.ddkdxmkj.com/api/sbs.php?id=3
+SBS_Plus,http://106.246.182.11:9981/stream/channelid/32
+SBS_Plus,http://itskoi.dothome.co.kr/sbs.php?id=S03
+SBS-Biz,http://ye23.win/iptv/sbs5.1.php?id=S06
+SBS-Fun,http://ye23.win/iptv/sbs5.1.php?id=S04
+SBS-Golf,http://ye23.win/iptv/sbs5.1.php?id=S05
+SBS-GorealraM,http://ye23.win/iptv/sbs5.1.php?id=S19
+SBS-LOVE,http://ye23.win/iptv/sbs5.1.php?id=S08
+SBS-MTV,http://ye23.win/iptv/sbs5.1.php?id=S09
+SBS-Plus,http://ye23.win/iptv/sbs5.1.php?id=S03
+SBS-POWER,http://ye23.win/iptv/sbs5.1.php?id=S07
+SBS高尔夫,http://mytv.dothome.co.kr/ch/catv/247.php
+SBS高尔夫,http://han.ddkdxmkj.com/api/sbs.php?id=5
+SBS高尔夫,https://apichvod19.seezntv.com/OTM/10160_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+SBS高尔夫,http://itskoi.dothome.co.kr/sbs.php?id=S05
+SBS体育,https://apichvod19.seezntv.com/OTM/10420_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+SBS体育,http://live1.streamk.co:8080/sportsbox_preview/live51/playlist.m3u8?site=gaktv&ch=live51
+SBS体育,http://mytv.dothome.co.kr/ch/catv/241.php
+SEEZN,https://apichvod19.seezntv.com/OTM/11770_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+SilveriTV,http://live.silveritv.kr:8080/hls/stream.m3u8
+SKY体育,https://apichvod19.seezntv.com/OTM/10440_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+SKY体育,http://mytv.dothome.co.kr/ch/catv/246.php
+SPOTV,https://apichvod19.seezntv.com/OTM/10070_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+SPOTV,http://live1.streamk.co:8080/sportsbox_preview/live53/playlist.m3u8?site=gaktv&ch=live53
+SPOTV,http://mytv.dothome.co.kr/ch/catv/244.php
+SPOTV ON,http://live1.streamk.co:8080/sportsbox_preview/live46/playlist.m3u8?site=gaktv&ch=live46
+SPOTV ON2,http://live1.streamk.co:8080/sportsbox_preview/live47/playlist.m3u8?site=gaktv&ch=live47
+SPOTV2,http://live1.streamk.co:8080/sportsbox_preview/live54/playlist.m3u8?site=gaktv&ch=live54
+SPOTV2,http://mytv.dothome.co.kr/ch/catv/245.php
+SPOTV2,https://apichvod19.seezntv.com/OTM/11990_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+TBS,http://ye23.win/iptv/korea2021.php?id=TBS-a
+TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+TBS首尔,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_mobile_360.smil/playlist.m3u8
+TBS首尔,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+TJB,http://1.245.74.5:1935/live/tv/.m3u8
+TJB SBS,http://ye23.win/iptv/korea2021.php?id=TJB
+TVN,http://106.246.182.11:9981/stream/channelid/91
+TVN,http://mytv.dothome.co.kr/ch/catv/221.php
+TVN,https://apichvod19.seezntv.com/OTM/10050_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+TVN-SHOW,http://mytv.dothome.co.kr/ch/catv/222.php
+TVN-SHOW,https://apichvod19.seezntv.com/OTM/10130_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+TVN电视剧,http://mytv.dothome.co.kr/ch/catv/226.php
+TVN电视剧,https://apichvod19.seezntv.com/OTM/10110_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+TVN故事,https://apichvod19.seezntv.com/OTM/10120_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+TVN故事,http://mytv.dothome.co.kr/ch/catv/223.php
+TVN体育,http://mytv.dothome.co.kr/ch/catv/227.php
+TVN体育,https://apichvod19.seezntv.com/OTM/10100_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+YTN,http://mytv.dothome.co.kr/ch/catv/215.php
+YTN,http://210.92.207.38:40001
+YTN,http://106.246.182.11:9981/stream/channelid/57
+YTN,https://apichvod19.seezntv.com/OTM/10300_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+YTN,http://ye23.win/iptv/korea2021.php?id=ytn
+阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_2
+阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_1
+比利亚兹,https://apichvod19.seezntv.com/OTM/10080_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+比利亚兹,http://mytv.dothome.co.kr/ch/catv/252.php
+波耀,http://mytv.dothome.co.kr/ch/catv/262.php
+朝鲜,http://106.246.182.11:9981/stream/channelid/90
+朝鲜,https://apichvod19.seezntv.com/OTM/10040_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+朝鲜,http://14.33.186.88:9981/stream/channelid/21
+朝鲜,http://mytv.dothome.co.kr/ch/catv/213.php
+朝鲜,http://220.118.153.181:9981/stream/channelid/37
+朝鲜,http://221.148.26.130:9981/stream/channelid/77
+朝鲜,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+朝鲜,http://119.197.107.139:9981/stream/channelid/46
+朝鲜2,http://106.246.182.11:9981/stream/channelid/102
+大桥儿童,http://mytv.dothome.co.kr/ch/catv/265.php
+电视剧,http://mytv.dothome.co.kr/ch/catv/26.php
+电影天堂,https://apichvod19.seezntv.com/OTM/11010_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+电影天堂,http://mytv.dothome.co.kr/ch/catv/231.php
+非洲,http://210.97.86.161:9981/stream/channelid/348320263
+粉红色,http://mytv.dothome.co.kr/ch/catv/263.php
+高尔夫,https://apichvod19.seezntv.com/OTM/10390_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+韩国电影3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
+韩国歌谣,http://live.kytv.co.kr:8080/hls/stream.m3u8
+韩国音乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+韩剧,https://stream.ads.ottera.tv/playlist.m3u8?network_id=622
+韩联社,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
+韩联社,http://106.246.182.11:9981/stream/channelid/56
+韩联社,http://mytv.dothome.co.kr/ch/catv/216.php
+韩联社,https://apichvod19.seezntv.com/OTM/10350_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+惊喜,http://mytv.dothome.co.kr/ch/catv/24.php
+梦工厂,http://mytv.dothome.co.kr/ch/catv/266.php
+明星,http://mytv.dothome.co.kr/ch/catv/22.php
+跑男-3,https://918dc7ace8f2bd063a86686619563602.v.smtcdns.net/akm-tct.douyucdn.cn/live/7298973rf8ZRAH9s.flv
+跑男-3,http://124.223.212.38:83/douyu/7298973
+跑男-3,http://epg.112114.xyz/douyu/7298973
+频道呼吸,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
+特雷诺维拉,https://apichvod19.seezntv.com/OTM/10210_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+图尼伯斯,http://mytv.dothome.co.kr/ch/catv/225.php
+围棋,http://mytv.dothome.co.kr/ch/catv/251.php
+围棋电视,https://apichvod19.seezntv.com/OTM/10260_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+我独自生活,http://mytv.dothome.co.kr/ch/catv/21.php
+无限挑战,http://mytv.dothome.co.kr/ch/catv/23.php
+音乐广播1,http://124.223.212.38:83/douyu/40471
+音乐广播1,http://epg.112114.xyz/douyu/40471
+音乐节目2,http://epg.112114.xyz/douyu/603070
+音乐节目2,http://124.223.212.38:83/douyu/603070
+中华电视,http://mytv.dothome.co.kr/ch/catv/228.php
+中华电视,https://apichvod19.seezntv.com/OTM/10190_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+综艺郑周行,http://mytv.dothome.co.kr/ch/catv/27.php
+综艺郑周行,http://free.fullspeed.tv/iptv-query?streaming-ip=http://mytv.dothome.co.kr/ch/catv/27.php
