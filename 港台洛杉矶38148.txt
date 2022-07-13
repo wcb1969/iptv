@@ -1,0 +1,15 @@
+2号[1920*1080],http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+3号[1920*1080],http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+1号[1920*1080],http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
+5号[1920*1080],http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+8号[1920*1080],http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+6号[1920*1080],http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+9号[853*480],http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
+11号[720*540],http://38.64.72.148:80/hls/modn/list/4011/chunklist0.m3u8
+12号[1920*1080],http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+13号[1920*1080],http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+15号[1920*1080],http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+18号[1920*1080],http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8
+21号[1920*1080],http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8
+24号[1920*1080],http://38.64.72.148:80/hls/modn/list/2024/chunklist0.m3u8
+26号[1920*1080],http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
