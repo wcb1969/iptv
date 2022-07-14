@@ -1,3 +1,5 @@
+长沙移动,rtmp://35848.lssplay.aodianyun.com/guangdianyun_35848/tv_channel_357?auth_key=1936694397-0-0-1533e6e0f3b85847e1f2a57af1cd1e52
+长沙新闻,rtmp://35848.lssplay.aodianyun.com/guangdianyun_35848/tv_channel_346?auth_key=1936692784-0-0-9042421539d8424068f7e575f090dbca
 Unknown_8559,rtmp://113.62.170.99:1935/live/tvchannel1
 Unknown_8563,rtmp://113.62.170.99:1935/live/tvchannel2
 Unknown_9667,rtmp://116.213.200.53/tslsChannelLive/PCG0DuD/live

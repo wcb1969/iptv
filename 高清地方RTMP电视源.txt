@@ -19,8 +19,8 @@
 历城新闻,rtmp://jsylivealone.iqilu.com/licheng/licheng_tv01
 章丘综合,rtmp://jsylivealone.iqilu.com/zhangqiu/zhangqiu_tv01
 章丘2,rtmp://jsylivealone.iqilu.com/zhangqiu/zhangqiu_tv02
-新闻,rtmp://jsylivealone.iqilu.com/huangdao/huangdao_tv01
-生活,rtmp://jsylivealone.iqilu.com/huangdao/huangdao_tv02
+黄岛新闻,rtmp://jsylivealone.iqilu.com/huangdao/huangdao_tv01
+黄岛生活,rtmp://jsylivealone.iqilu.com/huangdao/huangdao_tv02
 即墨新闻,rtmp://jsylivealone.iqilu.com/jimo/jimo_tv01
 即墨生活,rtmp://jsylivealone.iqilu.com/jimo/jimo_tv02
 胶州新闻,rtmp://jsylivealone.iqilu.com/jiaozhou/jiaozhou_tv01

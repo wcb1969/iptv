@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/FiTdDp1.png",24 Hour Free Movies (720p) [Not 24/7]
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/xI2NDv1.png",43 канал (720p)
+http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Actionable (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e25a1932c8368bdbfd87d/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/69315/2a0000016653697bea0c072bf5c5bc1c11ec/260x160",Amedia Hit (1080p) [Not 24/7]
+https://sc.id-tv.kz/amedia_hit_hd.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true",An American Christmas Carol (720p)
+https://cloudfront.tubi.video/5b97b1f5-a605-44a5-a192-12e10beece40/sd846jzc/stream.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dd011302f4d7da05d4bf3",Bloody Disgusting (1080p)
+https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/MU_kr5sb2dvLW1pZ3JhdGVkL2JvbGx5d29vZC1oZC5qcGeSlQJkAMLDlQIAKMLD",Bollywood HD (1080p) [Not 24/7]
+https://sc.id-tv.kz/bollywood_hd.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/Z07M07j.png",Boogle Bollywood (1080p) [Not 24/7]
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/Ths3dIy.png",Bumblebee TV PopCornFlix Action (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png",CCTV6
+http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/fuw0hHE.png",Charge! (720p)
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://cdn.mitvstatic.com/channels/ar_incaa-tv_m.png",CINE.AR (720p) [Not 24/7]
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 ,like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo",Cinevision Canal 19 (720p)
+https://live.teledom.info:3713/live/cinevisionlive.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://od.lk/s/MF8yMjUyNDQ4NjZf/Crackle_365x365.png",Crackle (720p)
+https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/XAQpMY6.png",Crackle (XUMO) (1080p)
+http://crackle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/9Xc7Q7S.jpg",DUSTx (720p)
+https://dust.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FILM%2B_logo_2014_Hungary.png/512px-FILM%2B_logo_2014_Hungary.png",Film+ (720p) [Not 24/7]
+https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
+#EXTINF:-1 group-title="Movies",Filmeraa (720p)
+https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/rgNQYAl.png",FrightFlix (720p)
+https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/ZVO8GVI.png",Ghost TV (712p) [Not 24/7]
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/yngqRL8.png",IFC Films Picks (1080p)
+https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ir-ifilm-4421.jpg",iFILM (720p) [Not 24/7]
+https://live.presstv.ir/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/CZViCwB.jpg",Kuriakos Cine (1080p) [Not 24/7]
+http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/F5ER0we.png",MBC Plus Drama (1080p)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/pIuJqYk.png",Movie Kingdom (720p)
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png",MovieSphere (1080p)
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png",MyTime movie network Brazil (720p)
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png",MyTime movie network Mexico (720p)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png",MyTime movie network Spain (1080p)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/IYDllP5.jpg",NETV Toronto (720p) [Not 24/7]
+https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
+#EXTINF:-1 ,like Gecko) Chrome/91.0.4472.124 Safari/537.36
+http://livestreaming5.onlinehorizons.net/hls-live/NTNNileCinema/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Movies",Persian Film (720p) [Not 24/7]
+http://51.210.227.135/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-cinema-fr.png",Persiana Cinema (720p)
+http://51.210.199.15/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies",Persiana Classic (720p) [Not 24/7]
+http://51.210.199.26/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-comedy-fr.png",Persiana Comedy (720p)
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-family-fr.png",Persiana Family (720p)
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-iranian-fr.png",Persiana Iranian (720p) [Not 24/7]
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-korea-fr.png",Persiana Korea (720p)
+http://51.210.199.14/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies",Persiana Plus (1080p)
+http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus 3 (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png",Rotana Cinema (1080p)
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png",Rotana Cinema KSA (1080p)
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Runtime_120x120.png?raw=true",RunTime (1080p)
+https://ammoruntime-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png",Runtime (Spain) (1080p)
+https://ammo-espanol-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/yngqRL8.png",Rush by AMC (1080p)
+https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Sepanj TV (720p) [Not 24/7]
+http://51.210.199.30/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/n9cuM2W.jpg",SL 1 (720p)
+http://51.210.199.3/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/BVuUx5R.jpg",SL 2 (720p)
+http://51.210.199.2/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies",TehranTV 24 (720p)
+http://51.210.227.132/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS Film Noir Network (720p)
+https://rpn1.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/FYym7gH.png",Utsav Gold (720p) [Geo-blocked]
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/ylPU4Uf.jpg",Watch It Scream! (720p)
+https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image",Weyyak Action (1080p)
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image",Weyyak Drama (720p)
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/mZJXXMkp/wildside.png",Wildside TV (720p)
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/hfia0wN.png",Wixlar (720p)
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.domkino-premium.tv/im/logo3d.png",Дом Кино Премиум (1080p) [Not 24/7]
+https://sc.id-tv.kz/domkino_hd.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/lHn6OlM.png",Дорама (1080p) [Not 24/7]
+https://sc.id-tv.kz/dorama_hd.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://cdn.red-media.ru/wp-content/uploads/2019/12/kinomiks(1).png",Киномикс (1080p) [Not 24/7]
+https://sc.id-tv.kz/Kinomix_hd.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/27485/2a0000015bb473bf37b6e42848ef98cf014e/160x160",Кинопремьера (1080p) [Not 24/7]
+https://sc.id-tv.kz/Kinopremiera_hd.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://cdn.red-media.ru/wp-content/uploads/2019/12/kinosvidanie(1).png",Киносвидание (1080p) [Not 24/7]
+https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://cdn.red-media.ru/wp-content/uploads/2019/12/kinosemja(1).png",Киносемья (1080p) [Not 24/7]
+https://sc.id-tv.kz/Kinosemiya_hd.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/54380/2a0000015bb4794b517301f7377c7b9ab0e8/160x120",Мужское кино (1080p) [Not 24/7]
+https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/eUAAPRe.png",СТРК (720p) [Not 24/7]
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8

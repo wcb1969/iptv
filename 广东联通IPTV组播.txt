@@ -1,0 +1,317 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="418" tvg-name="CETV-1高清" tvg-logo="",CETV-1高清
+http://路由器IP:udpxy端口/rtp/239.0.1.240:4120
+#EXTINF:-1 tvg-id="422" tvg-name="上海纪实高清" tvg-logo="",上海纪实高清
+http://路由器IP:udpxy端口/rtp/239.0.1.242:5111
+#EXTINF:-1 tvg-id="425" tvg-name="吉林卫视高清" tvg-logo="",吉林卫视高清
+http://路由器IP:udpxy端口/rtp/239.0.1.245:5183
+#EXTINF:-1 tvg-id="424" tvg-name="江西卫视高清" tvg-logo="",江西卫视高清
+http://路由器IP:udpxy端口/rtp/239.0.1.244:5166
+#EXTINF:-1 tvg-id="423" tvg-name="河北卫视高清" tvg-logo="",河北卫视高清
+http://路由器IP:udpxy端口/rtp/239.0.1.243:8072
+#EXTINF:-1 tvg-id="421" tvg-name="福建东南卫视高清" tvg-logo="",福建东南卫视高清
+http://路由器IP:udpxy端口/rtp/239.0.1.241:5109
+#EXTINF:-1 tvg-id="834" tvg-name="高尔夫网球高清" tvg-logo="",高尔夫网球高清
+http://路由器IP:udpxy端口/rtp/239.0.10.229:5229
+#EXTINF:-1 tvg-id="835" tvg-name="女性时尚高清" tvg-logo="",女性时尚高清
+http://路由器IP:udpxy端口/rtp/239.0.10.230:5230
+#EXTINF:-1 tvg-id="837" tvg-name="怀旧剧场高清" tvg-logo="",怀旧剧场高清
+http://路由器IP:udpxy端口/rtp/239.0.10.232:5232
+#EXTINF:-1 tvg-id="836" tvg-name="世界地理高清" tvg-logo="",世界地理高清
+http://路由器IP:udpxy端口/rtp/239.0.10.231:5231
+#EXTINF:-1 tvg-id="841" tvg-name="风云音乐高清" tvg-logo="",风云音乐高清
+http://路由器IP:udpxy端口/rtp/239.0.10.236:5236
+#EXTINF:-1 tvg-id="840" tvg-name="第一剧场高清" tvg-logo="",第一剧场高清
+http://路由器IP:udpxy端口/rtp/239.0.10.235:5235
+#EXTINF:-1 tvg-id="839" tvg-name="央视精品高清" tvg-logo="",央视精品高清
+http://路由器IP:udpxy端口/rtp/239.0.10.234:5234
+#EXTINF:-1 tvg-id="838" tvg-name="风云剧场高清" tvg-logo="",风云剧场高清
+http://路由器IP:udpxy端口/rtp/239.0.10.233:5233
+#EXTINF:-1 tvg-id="830" tvg-name="兵器科技高清" tvg-logo="",兵器科技高清
+http://路由器IP:udpxy端口/rtp/239.0.10.225:5225
+#EXTINF:-1 tvg-id="833" tvg-name="央视台球高清" tvg-logo="",央视台球高清
+http://路由器IP:udpxy端口/rtp/239.0.10.228:5228
+#EXTINF:-1 tvg-id="832" tvg-name="风云足球高清" tvg-logo="",风云足球高清
+http://路由器IP:udpxy端口/rtp/239.0.10.227:5227
+#EXTINF:-1 tvg-id="831" tvg-name="电视指南高清" tvg-logo="",电视指南高清
+http://路由器IP:udpxy端口/rtp/239.0.10.226:5226
+#EXTINF:-1 tvg-id="109" tvg-name="CCTV-10科教标清1" tvg-logo="",CCTV-10科教标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.70:8228
+#EXTINF:-1 tvg-id="383" tvg-name="CCTV-10科教高清1" tvg-logo="",CCTV-10科教高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.98:8116
+#EXTINF:-1 tvg-id="110" tvg-name="CCTV-11戏曲标清1" tvg-logo="",CCTV-11戏曲标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.71:5400
+#EXTINF:-1 tvg-id="111" tvg-name="CCTV-12社会与法标清1" tvg-logo="",CCTV-12社会与法标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.72:8232
+#EXTINF:-1 tvg-id="385" tvg-name="CCTV-12社会与法高清1" tvg-logo="",CCTV-12社会与法高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.99:8124
+#EXTINF:-1 tvg-id="112" tvg-name="CCTV-13新闻标清1" tvg-logo="",CCTV-13新闻标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.73:8264
+#EXTINF:-1 tvg-id="113" tvg-name="CCTV-14少儿标清1" tvg-logo="",CCTV-14少儿标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.74:8236
+#EXTINF:-1 tvg-id="387" tvg-name="CCTV-14少儿高清1" tvg-logo="",CCTV-14少儿高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.100:8132
+#EXTINF:-1 tvg-id="114" tvg-name="CCTV-15音乐标清1" tvg-logo="",CCTV-15音乐标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.75:8052
+#EXTINF:-1 tvg-id="100" tvg-name="CCTV-1综合标清1" tvg-logo="",CCTV-1综合标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.65:8080
+#EXTINF:-1 tvg-id="101" tvg-name="CCTV-2财经标清1" tvg-logo="",CCTV-2财经标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.66:8004
+#EXTINF:-1 tvg-id="103" tvg-name="CCTV-4中文国际标清1" tvg-logo="",CCTV-4中文国际标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.67:8216
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV-7军事农业标清1" tvg-logo="",CCTV-7军事农业标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.68:8024
+#EXTINF:-1 tvg-id="380" tvg-name="CCTV-7军事农业高清1" tvg-logo="",CCTV-7军事农业高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.96:8104
+#EXTINF:-1 tvg-id="108" tvg-name="CCTV-9纪录标清1" tvg-logo="",CCTV-9纪录标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.69:8032
+#EXTINF:-1 tvg-id="382" tvg-name="CCTV-9纪录高清1" tvg-logo="",CCTV-9纪录高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.97:8112
+#EXTINF:-1 tvg-id="115" tvg-name="CCTV-NEWS标清1" tvg-logo="",CCTV-NEWS标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.76:8056
+#EXTINF:-1 tvg-id="373" tvg-name="CCTV1-高清" tvg-logo="",CCTV1-高清
+http://路由器IP:udpxy端口/rtp/239.0.1.3:8008
+#EXTINF:-1 tvg-id="375" tvg-name="CCTV2-高清" tvg-logo="",CCTV2-高清
+http://路由器IP:udpxy端口/rtp/239.0.1.4:8084
+#EXTINF:-1 tvg-id="374" tvg-name="CCTV5高清1" tvg-logo="",CCTV5高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.101:8004
+#EXTINF:-1 tvg-id="389" tvg-name="IPTV5高清1" tvg-logo="",IPTV5高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.102:4120
+#EXTINF:-1 tvg-id="007" tvg-name="TVS1广东经济科教标清1" tvg-logo="",TVS1广东经济科教标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.51:5008
+#EXTINF:-1 tvg-id="301" tvg-name="TVS1广东经济科教高清1" tvg-logo="",TVS1广东经济科教高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.94:5013
+#EXTINF:-1 tvg-id="008" tvg-name="TVS2广东南方卫视标清1" tvg-logo="",TVS2广东南方卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.52:5009
+#EXTINF:-1 tvg-id="010" tvg-name="TVS4广东影视标清1" tvg-logo="",TVS4广东影视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.54:5011
+#EXTINF:-1 tvg-id="011" tvg-name="TVS5广东少儿标清1" tvg-logo="",TVS5广东少儿标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.55:5012
+#EXTINF:-1 tvg-id="219" tvg-name="东南卫视标清1" tvg-logo="",东南卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.26:8112
+#EXTINF:-1 tvg-id="203" tvg-name="东方卫视标清1" tvg-logo="",东方卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.10:8192
+#EXTINF:-1 tvg-id="409" tvg-name="东方卫视高清1" tvg-logo="",东方卫视高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.82:8032
+#EXTINF:-1 tvg-id="236" tvg-name="中国教育-1标清1" tvg-logo="",中国教育-1标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.43:4120
+#EXTINF:-1 tvg-id="216" tvg-name="云南卫视-标清1" tvg-logo="",云南卫视-标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.23:8108
+#EXTINF:-1 tvg-id="231" tvg-name="兵团卫视标清1" tvg-logo="",兵团卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.38:4120
+#EXTINF:-1 tvg-id="224" tvg-name="内蒙古卫视标清1" tvg-logo="",内蒙古卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.31:8176
+#EXTINF:-1 tvg-id="205" tvg-name="北京卫视标清1" tvg-logo="",北京卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.12:8240
+#EXTINF:-1 tvg-id="403" tvg-name="北京卫视高清1" tvg-logo="",北京卫视高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.83:8024
+#EXTINF:-1 tvg-id="233" tvg-name="卡酷动画标清1" tvg-logo="",卡酷动画标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.40:9248
+#EXTINF:-1 tvg-id="239" tvg-name="厦门卫视标清1" tvg-logo="",厦门卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.46:4120
+#EXTINF:-1 tvg-id="221" tvg-name="吉林卫视标清1" tvg-logo="",吉林卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.28:8200
+#EXTINF:-1 tvg-id="214" tvg-name="四川卫视-标清1" tvg-logo="",四川卫视-标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.21:8288
+#EXTINF:-1 tvg-id="412" tvg-name="四川卫视高清1" tvg-logo="",四川卫视高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.87:5095
+#EXTINF:-1 tvg-id="206" tvg-name="天津卫视标清1" tvg-logo="",天津卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.13:8144
+#EXTINF:-1 tvg-id="407" tvg-name="天津卫视高清1" tvg-logo="",天津卫视高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.89:1234
+#EXTINF:-1 tvg-id="227" tvg-name="宁夏卫视标清1" tvg-logo="",宁夏卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.34:8124
+#EXTINF:-1 tvg-id="204" tvg-name="安徽卫视标清1" tvg-logo="",安徽卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.11:8272
+#EXTINF:-1 tvg-id="415" tvg-name="安徽卫视高清1" tvg-logo="",安徽卫视高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.81:8064
+#EXTINF:-1 tvg-id="207" tvg-name="山东卫视标清1" tvg-logo="",山东卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.14:8148
+#EXTINF:-1 tvg-id="408" tvg-name="山东卫视高清1" tvg-logo="",山东卫视高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.90:8052
+#EXTINF:-1 tvg-id="237" tvg-name="山东教育标清1" tvg-logo="",山东教育标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.44:5092
+#EXTINF:-1 tvg-id="223" tvg-name="山西卫视标清1" tvg-logo="",山西卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.30:8172
+#EXTINF:-1 tvg-id="093" tvg-name="岭南戏曲标清1" tvg-logo="",岭南戏曲标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.59:5073
+#EXTINF:-1 tvg-id="005" tvg-name="广东体育标清1" tvg-logo="",广东体育标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.49:5004
+#EXTINF:-1 tvg-id="302" tvg-name="广东体育高清1" tvg-logo="",广东体育高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.95:5057
+#EXTINF:-1 tvg-id="004" tvg-name="广东公共标清1" tvg-logo="",广东公共标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.48:5005
+#EXTINF:-1 tvg-id="091" tvg-name="广东南方购物标清1" tvg-logo="",广东南方购物标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.57:5087
+#EXTINF:-1 tvg-id="001" tvg-name="广东卫视标清" tvg-logo="",广东卫视标清
+http://路由器IP:udpxy端口/rtp/239.0.1.5:5002
+#EXTINF:-1 tvg-id="300" tvg-name="广东卫视高清" tvg-logo="",广东卫视高清
+http://路由器IP:udpxy端口/rtp/239.0.1.1:5001
+#EXTINF:-1 tvg-id="012" tvg-name="广东嘉佳卡通标清1" tvg-logo="",广东嘉佳卡通标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.56:5007
+#EXTINF:-1 tvg-id="006" tvg-name="广东国际标清1" tvg-logo="",广东国际标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.50:5100
+#EXTINF:-1 tvg-id="003" tvg-name="广东新闻标清1" tvg-logo="",广东新闻标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.47:5006
+#EXTINF:-1 tvg-id="002" tvg-name="广东珠江标清" tvg-logo="",广东珠江标清
+http://路由器IP:udpxy端口/rtp/239.0.1.6:5003
+#EXTINF:-1 tvg-id="220" tvg-name="广西卫视标清1" tvg-logo="",广西卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.27:8300
+#EXTINF:-1 tvg-id="094" tvg-name="房产频道标清1" tvg-logo="",房产频道标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.60:5072
+#EXTINF:-1 tvg-id="229" tvg-name="新疆卫视标清1" tvg-logo="",新疆卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.36:8160
+#EXTINF:-1 tvg-id="226" tvg-name="旅游卫视标清1" tvg-logo="",旅游卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.33:8304
+#EXTINF:-1 tvg-id="402" tvg-name="江苏卫视高清1" tvg-logo="",江苏卫视高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.80:8028
+#EXTINF:-1 tvg-id="208" tvg-name="江西卫视标清1" tvg-logo="",江西卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.15:8280
+#EXTINF:-1 tvg-id="218" tvg-name="河北卫视-标清1" tvg-logo="",河北卫视-标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.25:8292
+#EXTINF:-1 tvg-id="215" tvg-name="河南卫视-标清1" tvg-logo="",河南卫视-标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.22:8128
+#EXTINF:-1 tvg-id="201" tvg-name="浙江卫视标清1" tvg-logo="",浙江卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.8:8284
+#EXTINF:-1 tvg-id="401" tvg-name="浙江卫视高清1" tvg-logo="",浙江卫视高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.79:1234
+#EXTINF:-1 tvg-id="209" tvg-name="深圳卫视标清1" tvg-logo="",深圳卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.16:9244
+#EXTINF:-1 tvg-id="404" tvg-name="深圳卫视高清1" tvg-logo="",深圳卫视高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.84:8020
+#EXTINF:-1 tvg-id="210" tvg-name="湖北卫视-标清1" tvg-logo="",湖北卫视-标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.17:8136
+#EXTINF:-1 tvg-id="406" tvg-name="湖北卫视高清1" tvg-logo="",湖北卫视高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.88:1234
+#EXTINF:-1 tvg-id="200" tvg-name="湖南卫视标清1" tvg-logo="",湖南卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.7:8064
+#EXTINF:-1 tvg-id="400" tvg-name="湖南卫视高清1" tvg-logo="",湖南卫视高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.78:8012
+#EXTINF:-1 tvg-id="235" tvg-name="炫动卡通标清1" tvg-logo="",炫动卡通标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.42:5090
+#EXTINF:-1 tvg-id="095" tvg-name="现代教育标清1" tvg-logo="",现代教育标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.61:5103
+#EXTINF:-1 tvg-id="230" tvg-name="甘肃卫视标清1" tvg-logo="",甘肃卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.37:8188
+#EXTINF:-1 tvg-id="018" tvg-name="移动频道标清1" tvg-logo="",移动频道标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.63:5101
+#EXTINF:-1 tvg-id="228" tvg-name="西藏卫视标清1" tvg-logo="",西藏卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.35:8164
+#EXTINF:-1 tvg-id="238" tvg-name="财富天下标清1" tvg-logo="",财富天下标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.45:9136
+#EXTINF:-1 tvg-id="213" tvg-name="贵州卫视-标清1" tvg-logo="",贵州卫视-标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.20:8120
+#EXTINF:-1 tvg-id="211" tvg-name="辽宁卫视-标清1" tvg-logo="",辽宁卫视-标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.18:8116
+#EXTINF:-1 tvg-id="411" tvg-name="辽宁卫视高清1" tvg-logo="",辽宁卫视高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.85:8056
+#EXTINF:-1 tvg-id="217" tvg-name="重庆卫视-标清1" tvg-logo="",重庆卫视-标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.24:8296
+#EXTINF:-1 tvg-id="414" tvg-name="重庆卫视高清1" tvg-logo="",重庆卫视高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.91:5097
+#EXTINF:-1 tvg-id="234" tvg-name="金鹰卡通标清1" tvg-logo="",金鹰卡通标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.41:9252
+#EXTINF:-1 tvg-id="413" tvg-name="金鹰纪实高清1" tvg-logo="",金鹰纪实高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.92:5094
+#EXTINF:-1 tvg-id="222" tvg-name="陕西卫视标清1" tvg-logo="",陕西卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.29:8140
+#EXTINF:-1 tvg-id="225" tvg-name="青海卫视标清1" tvg-logo="",青海卫视标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.32:8184
+#EXTINF:-1 tvg-id="212" tvg-name="黑龙江卫视-标清1" tvg-logo="",黑龙江卫视-标清1
+http://路由器IP:udpxy端口/rtp/239.0.1.19:8196
+#EXTINF:-1 tvg-id="405" tvg-name="黑龙江卫视高清1" tvg-logo="",黑龙江卫视高清1
+http://路由器IP:udpxy端口/rtp/239.0.1.86:8016
+#EXTINF:-1 tvg-id="102" tvg-name="CCTV-3综艺标清" tvg-logo="",CCTV-3综艺标清
+http://路由器IP:udpxy端口/rtp/239.0.1.103:5052
+#EXTINF:-1 tvg-id="105" tvg-name="CCTV-6电影标清" tvg-logo="",CCTV-6电影标清
+http://路由器IP:udpxy端口/rtp/239.0.1.105:5054
+#EXTINF:-1 tvg-id="107" tvg-name="CCTV-8电视剧" tvg-logo="",CCTV-8电视剧
+http://路由器IP:udpxy端口/rtp/239.0.1.106:5055
+#EXTINF:-1 tvg-id="426" tvg-name="熊猫频道" tvg-logo="",熊猫频道
+http://路由器IP:udpxy端口/rtp/239.0.1.173:5178
+#EXTINF:-1 tvg-id="619" tvg-name="极K精选-测试" tvg-logo="",极K精选-测试
+http://路由器IP:udpxy端口/rtp/239.0.10.206:5206
+#EXTINF:-1 tvg-id="377" tvg-name="CCTV-4高清" tvg-logo="",CCTV-4高清
+http://路由器IP:udpxy端口/rtp/239.0.1.180:6040
+#EXTINF:-1 tvg-id="427" tvg-name="广西卫视高清" tvg-logo="",广西卫视高清
+http://路由器IP:udpxy端口/rtp/239.0.1.181:6041
+#EXTINF:-1 tvg-id="104" tvg-name="CCTV-5体育标清" tvg-logo="",CCTV-5体育标清
+http://路由器IP:udpxy端口/rtp/239.0.1.104:5053
+#EXTINF:-1 tvg-id="988" tvg-name="精选频道3" tvg-logo="",精选频道3
+http://路由器IP:udpxy端口/rtp/239.0.1.202:5108
+#EXTINF:-1 tvg-id="973" tvg-name="精选频道4" tvg-logo="",精选频道4
+http://路由器IP:udpxy端口/rtp/239.0.1.203:5107
+#EXTINF:-1 tvg-id="017" tvg-name="广东综艺宽色域AVS2" tvg-logo="",广东综艺宽色域AVS2
+http://路由器IP:udpxy端口/rtp/239.0.1.138:5177
+#EXTINF:-1 tvg-id="303" tvg-name="广东珠江高清" tvg-logo="",广东珠江高清
+http://路由器IP:udpxy端口/rtp/239.0.1.133:5172
+#EXTINF:-1 tvg-id="503" tvg-name="广东珠江超清" tvg-logo="",广东珠江超清
+http://路由器IP:udpxy端口/rtp/239.0.1.134:5173
+#EXTINF:-1 tvg-id="116" tvg-name="CCTV-17农业" tvg-logo="",CCTV-17农业
+http://路由器IP:udpxy端口/rtp/239.0.1.192:9264
+#EXTINF:-1 tvg-id="243" tvg-name="CETV2" tvg-logo="",CETV2
+http://路由器IP:udpxy端口/rtp/239.0.1.210:4120
+#EXTINF:-1 tvg-id="244" tvg-name="CETV4" tvg-logo="",CETV4
+http://路由器IP:udpxy端口/rtp/239.0.1.211:4121
+#EXTINF:-1 tvg-id="344" tvg-name="河源公共高清" tvg-logo="",河源公共高清
+http://路由器IP:udpxy端口/rtp/239.0.1.236:5225
+#EXTINF:-1 tvg-id="53" tvg-name="河源公共" tvg-logo="",河源公共
+http://路由器IP:udpxy端口/rtp/239.0.1.237:5226
+#EXTINF:-1 tvg-id="811" tvg-name="游戏竞技" tvg-logo="",游戏竞技
+http://路由器IP:udpxy端口/rtp/239.0.1.239:5120
+#EXTINF:-1 tvg-id="903" tvg-name="VSPN电竞" tvg-logo="",VSPN电竞
+http://路由器IP:udpxy端口/rtp/239.0.1.182:5150
+#EXTINF:-1 tvg-id="608" tvg-name="IPTV3加" tvg-logo="",IPTV3加
+http://路由器IP:udpxy端口/rtp/238.123.45.101:9004
+#EXTINF:-1 tvg-id="609" tvg-name="IPTV5加" tvg-logo="",IPTV5加
+http://路由器IP:udpxy端口/rtp/238.123.45.102:9008
+#EXTINF:-1 tvg-id="604" tvg-name="IPTV6加" tvg-logo="",IPTV6加
+http://路由器IP:udpxy端口/rtp/238.123.45.104:9016
+#EXTINF:-1 tvg-id="606" tvg-name="IPTV8加" tvg-logo="",IPTV8加
+http://路由器IP:udpxy端口/rtp/238.123.45.19:8072
+#EXTINF:-1 tvg-id="603" tvg-name="IPTV法治" tvg-logo="",IPTV法治
+http://路由器IP:udpxy端口/rtp/238.123.45.203:1234
+#EXTINF:-1 tvg-id="600" tvg-name="IPTV谍战剧场" tvg-logo="",IPTV谍战剧场
+http://路由器IP:udpxy端口/rtp/238.123.45.200:1234
+#EXTINF:-1 tvg-id="602" tvg-name="IPTV野外" tvg-logo="",IPTV野外
+http://路由器IP:udpxy端口/rtp/238.123.45.202:1234
+#EXTINF:-1 tvg-id="610" tvg-name="少儿动画" tvg-logo="",少儿动画
+http://路由器IP:udpxy端口/rtp/238.123.45.100:9000
+#EXTINF:-1 tvg-id="612" tvg-name="收视指南" tvg-logo="",收视指南
+http://路由器IP:udpxy端口/rtp/238.123.45.4:8012
+#EXTINF:-1 tvg-id="607" tvg-name="热播剧场" tvg-logo="",热播剧场
+http://路由器IP:udpxy端口/rtp/238.123.45.105:9020
+#EXTINF:-1 tvg-id="605" tvg-name="经典电影" tvg-logo="",经典电影
+http://路由器IP:udpxy端口/rtp/238.123.45.106:9024
+#EXTINF:-1 tvg-id="611" tvg-name="魅力时尚" tvg-logo="",魅力时尚
+http://路由器IP:udpxy端口/rtp/238.123.45.103:9012
+#EXTINF:-1 tvg-id="601" tvg-name="IPTV相声小品" tvg-logo="",IPTV相声小品
+http://路由器IP:udpxy端口/rtp/238.123.45.201:1234
+#EXTINF:-1 tvg-id="417" tvg-name="贵州卫视高清" tvg-logo="",贵州卫视高清
+http://路由器IP:udpxy端口/rtp/239.0.10.75:5075
+#EXTINF:-1 tvg-id="826" tvg-name="国学" tvg-logo="",国学
+http://路由器IP:udpxy端口/rtp/239.0.1.163:6024
+#EXTINF:-1 tvg-id="827" tvg-name="文物宝库" tvg-logo="",文物宝库
+http://路由器IP:udpxy端口/rtp/239.0.1.164:6025
+#EXTINF:-1 tvg-id="810" tvg-name="梨园" tvg-logo="",梨园
+http://路由器IP:udpxy端口/rtp/239.0.1.148:6009
+#EXTINF:-1 tvg-id="816" tvg-name="武术世界" tvg-logo="",武术世界
+http://路由器IP:udpxy端口/rtp/239.0.1.154:6015
+#EXTINF:-1 tvg-id="809" tvg-name="汽摩" tvg-logo="",汽摩
+http://路由器IP:udpxy端口/rtp/239.0.1.147:6008
+#EXTINF:-1 tvg-id="824" tvg-name="环球奇观" tvg-logo="",环球奇观
+http://路由器IP:udpxy端口/rtp/239.0.1.161:6022
+#EXTINF:-1 tvg-id="820" tvg-name="老故事" tvg-logo="",老故事
+http://路由器IP:udpxy端口/rtp/239.0.1.158:6019
+#EXTINF:-1 tvg-id="812" tvg-name="靓妆" tvg-logo="",靓妆
+http://路由器IP:udpxy端口/rtp/239.0.1.150:6011
+#EXTINF:-1 tvg-id="015" tvg-name="广东影视4K超高清频道" tvg-logo="",广东影视4K超高清频道
+http://路由器IP:udpxy端口/rtp/239.0.1.169:6030
+#EXTINF:-1 tvg-id="376" tvg-name="CCTV-3高清测试" tvg-logo="",CCTV-3高清测试
+http://路由器IP:udpxy端口/rtp/239.0.1.177:6037
+#EXTINF:-1 tvg-id="378" tvg-name="CCTV-5高清测试" tvg-logo="",CCTV-5高清测试
+http://路由器IP:udpxy端口/rtp/239.0.1.175:6035
+#EXTINF:-1 tvg-id="379" tvg-name="CCTV-6高清测试" tvg-logo="",CCTV-6高清测试
+http://路由器IP:udpxy端口/rtp/239.0.1.176:6036
+#EXTINF:-1 tvg-id="381" tvg-name="CCTV-8高清测试" tvg-logo="",CCTV-8高清测试
+http://路由器IP:udpxy端口/rtp/239.0.1.174:6034

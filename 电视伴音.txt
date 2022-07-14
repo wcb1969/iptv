@@ -1,266 +1,450 @@
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://live.cooltv.top/logo/凤凰中文.png",凤凰中文
-http://live.cooltv.top/tv/fhxaudio.php?id=2
-#EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv1.png",CCTV-1 综合
-https://cctv5cncc.v.wscdns.com/live/cctv1_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv2.png",CCTV-2 财经
-https://cctv5cncc.v.wscdns.com/live/cctv2_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv3.png",CCTV-3 综艺
-http://cctv.v.myalicdn.com/live/cctv3_1audio.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv4.png",CCTV-4 中文国际 亚洲
-https://cctv5cncc.v.wscdns.com/live/cctv4_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv4.png",CCTV-4 中文国际 欧洲
-https://cctv5cncc.v.wscdns.com/live/cctveurope_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv4.png",CCTV-4 中文国际 美洲
-https://cctv5cncc.v.wscdns.com/live/cctvamerica_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv5.png",CCTV-5 体育
-https://cctv5cncc.v.wscdns.com/live/cctv5_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv5+.png",CCTV-5+ 体育赛事
-https://cctv5cncc.v.wscdns.com/live/cctv5plus_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv6.png",CCTV-6 电影
-http://cctv.v.myalicdn.com/live/cctv6_1audio.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv7.png",CCTV-7 国防军事
-https://cctv5cncc.v.wscdns.com/live/cctv7_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv8.png",CCTV-8 电视剧
-http://cctv.v.myalicdn.com/live/cctv8_1audio.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv9.png",CCTV-9 纪录
-https://cctv5cncc.v.wscdns.com/live/cctvjilu_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv10.png",CCTV-10 科教
-https://cctv5cncc.v.wscdns.com/live/cctv10_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv11.png",CCTV-11 戏曲
-https://cctv5cncc.v.wscdns.com/live/cctv11_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv12.png",CCTV-12 社会与法
-https://cctv5cncc.v.wscdns.com/live/cctv12_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv13.png",CCTV-13 新闻
-https://cctv5cncc.v.wscdns.com/live/cctv13_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv14.png",CCTV-14 少儿
-https://cctv5cncc.v.wscdns.com/live/cctvchild_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv15.png",CCTV-15 音乐
-https://cctv5cncc.v.wscdns.com/live/cctv15_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv16.png",CCTV-16 奥林匹克
-https://cctv5cncc.v.wscdns.com/live/cctv16_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv17.png",CCTV-17 农业农村
-https://cctv5cncc.v.wscdns.com/live/cctv17_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="https://gitee.com/radioer/photo/raw/main/cgtn.png",CGTN
-http://stream.zeno.fm/ambvmys65rquv
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVxinke.png",CCTV新科动漫
-http://cctvalic.v.myalicdn.com/live/xinkedongman_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://live.cooltv.top/logo/湖南卫视.png",湖南卫视
-http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",东方卫视
-http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://live.cooltv.top/logo/浙江卫视.png",浙江卫视
-http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",江苏卫视
-http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",北京卫视
-http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://live.cooltv.top/logo/深圳卫视.png",深圳卫视
-http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽卫视
-http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://live.cooltv.top/logo/山东卫视.png",山东卫视
-http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://live.cooltv.top/logo/东南卫视.png",东南卫视
-http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",广东卫视
-http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png",四川卫视
-http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://live.cooltv.top/logo/天津卫视.png",天津卫视
-http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆卫视
-http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视
-http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://live.cooltv.top/logo/辽宁卫视.png",辽宁卫视
-http://satellitepull.cnr.cn/live/wxlnws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视
-http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江卫视
-http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://live.cooltv.top/logo/河北卫视.png",河北卫视
-http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://live.cooltv.top/logo/河南卫视.png",河南卫视
-http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://live.cooltv.top/logo/贵州卫视.png",贵州卫视
-http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://live.cooltv.top/logo/甘肃卫视.png",甘肃卫视
-http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png",陕西卫视
-http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://live.cooltv.top/logo/延边卫视.png",延边卫视
-http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png",西藏卫视
-http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png",海南卫视
-http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",江西卫视
-http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png",宁夏卫视
-http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png",山西卫视
-http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/hks.png",香港卫视
-https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://live.cooltv.top/logo/青海卫视.png",青海卫视
-http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",内蒙古卫视
-http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png",新疆卫视
-http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png",北京新闻
-https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png",北京文艺
-https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv2_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png",北京科教
-https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv3_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png",北京影视
-https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png",北京财经
-https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png",北京冬奥纪实
-https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv6_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png",北京生活
-https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png",北京青年
-https://piccpndks.v.kcdnvip.com/audio/btv8_2.m3u8
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png",中国教育1
-https://wstvalic.v.myalicdn.com/wstv/cetv1_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png",中国教育2
-https://wstvalic.v.myalicdn.com/wstv/cetv2_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png",中国教育3
-https://wstvalic.v.myalicdn.com/wstv/cetv3_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png",中国教育4
-https://wstvalic.v.myalicdn.com/wstv/cetv4_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png",第一财经
-http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/音乐之声.png",CNR音乐之声
-http://liveop.cctv.cn/hls/yyzs192/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/经典音乐广播.png",CNR经典音乐广播
-http://liveop.cctv.cn/hls/jdyygb192/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/河北汽车音乐台.png",河北汽车音乐台
-https://radio.pull.hebtv.com/live/hebqcyy.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="http://pic.qtfm.cn/2022/0602/20220602062630.png",合肥文艺广播
-https://hylive.hfbtv.com/lsdream/3kJdo0U/1000/live.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/北京音乐广播.png",北京音乐广播
-http://123.56.16.201:1935/live/fm974/96K/tzwj_video.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/北京青年广播.png",北京青年广播
-http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/安徽音乐广播.png",安徽音乐广播
-http://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/陕西音乐广播.png",陕西音乐广播·快乐988
-http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/好听1055.png",陕西青少广播·好听1055
-http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/北京经典969.png",北京经典969
-http://live.funhillrm.com/4/sd/live.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/旅游之声.png",旅游之声
-http://starfish.bj.aliyun.007.qingting.fm:8000/fm98.7lvyouzhisheng
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山东音乐广播.png",山东音乐广播
-http://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山东经典音乐广播.png",山东经典音乐广播
-http://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/摩登音乐台.png",湖南文艺广播·摩登音乐台
-http://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/芒果音乐台.png",湖南音乐之声·芒果音乐台
-http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/hitfm.png",CRI HIT FM (北京)
-http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/hitfm.png",CRI HIT FM (广州)
-http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/mix1039.png",新疆音乐广播MixFM1039
-http://livehywaudio2.chinamcache.com/xjtvs/gb06.m3u8?auth_key=1701481179-0-0-f5b0844d2432e7a4c6458ae7152483ba
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山西音乐广播.png",山西音乐广播
-http://live.cooltv.top/tv/cutv.php?id=sxyygb
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/宜昌音乐生活广播.png",宜昌音乐生活广播
-http://play.3xgd.com/fm/qct.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/江西音乐广播.png",江西音乐广播
-http://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/宁波音乐广播.png",宁波音乐广播
-http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/playfm.png",PlayFM甬江之声
-http://netlive.zhxwzx.com/live/1001.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/内蒙古音乐之声.png",内蒙古音乐之声
-http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/楚天音乐广播.png",楚天音乐广播
-http://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/湖北经典音乐广播.png",湖北经典音乐广播
-http://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://pic.qingting.fm/2015/0225/20150225111148873.png",广西音乐广播
-http://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/广西女主播.png",广西经济广播·女主播电台
-http://satellitepull.cnr.cn/live/wx32gxjjgb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/云南音乐广播.png",云南音乐广播
-http://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/四川城市之音.png",四川城市之音
-http://satellitepull.cnr.cn/live/wxsccszs/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/四川岷江音乐.png",四川岷江音乐
-http://scgctvshow.sctv.com/SRTRADIO/live/minjiangmusic/1.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/厦门音乐广播.png",厦门音乐广播
-http://live2.kxm.xmtv.cn/aac_xmyy/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/江苏音乐广播.png",江苏音乐广播
-http://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/江苏经典流行音乐广播.png",江苏经典流行音乐广播
-http://satellitepull.cnr.cn/live/wx32jsjdlxyy/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/动听968.png",浙江音乐调频·动听968
-http://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/河北音乐广播.png",河北音乐广播
-http://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/开封音乐广播.png",开封音乐广播
-http://live.dxhmt.cn:9081/gb/10200-4.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/广东音乐之声.png",广东音乐之声
-http://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/深圳飞扬971.png",深圳飞扬971
-http://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/深圳生活942.png",深圳生活942
-http://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/海南音乐广播.png",海南音乐广播
-http://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/贵州音乐广播.png",贵州音乐广播
-http://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/贵州都市广播.png",贵州都市广播
-http://satellitepull.cnr.cn/live/wx32gzqcgb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/黑龙江音乐广播.png",黑龙江音乐广播
-http://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/福建汽车音乐广播.png",福建汽车音乐广播
-http://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/福州音乐广播.png",福州音乐广播
-http://live.zohi.tv/audio/s10001-FM893/index.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/成都经典946.png",成都文化休闲广播·radio946
-http://live.cooltv.top/tv/cdgb.php?id=433-20
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/亚洲音乐台成都.png",AsiaFM 亚洲音乐台
-http://asiafm.vip:8000/fm965
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/海口音乐广播.png",WHIZ Radio 海口音乐广播
-http://starfish.sz.aliyun.005.qingting.fm:8000/haikouSIMULRADIO
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/青岛音体广播.png",青岛音乐体育广播
-http://video11.qtv.com.cn/zhiboytgb-sd/manifest.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://pic.qtfm.cn/2021/0324/20210324095429.png",青岛摩登音乐调频
-http://video11.qtv.com.cn/zhibo886/manifest.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/辽宁经典音乐广播.png",辽宁经典音乐广播
-http://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/青海交通音乐广播.png",青海交通音乐广播
-http://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/绍兴私家车音乐广播.png",绍兴私家车音乐广播
-http://live.shaoxing.com.cn/audio/s10001-xq3/index.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/扬州经济音乐广播.png",扬州经济音乐广播
-http://live.cooltv.top/tv/yz.php?id=jjyy
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/武汉音乐广播.png",武汉音乐广播
-http://stream.appwuhan.com/yypdzb/sd/live.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://pic.qingting.fm/2015/0521/20150521164427620.png",武汉青少广播·M-radio
-http://stream.appwuhan.com/sepdzb/sd/live.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="http://livehls.oss-cn-shanghai.aliyuncs.com/2020/12/11/image/798285e1766815818d495053cc2881c8.png",常州音乐广播
-http://live.cooltv.top/tv/cz.php?id=fm935
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/烟台音乐广播.png",烟台音乐广播
-http://live.yantaitv.cn/live/899686f2687848cdbe62b1c27f3b3fc1/111dcc2035384c579cb79a260591a4ea.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/1056.png",盛京105.6
-http://starfish.bj.aliyun.006.qingting.fm:8000/shenyangjingdianyinle
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/惠州音乐广播.png",惠州音乐广播
-http://stream.hztvmg.com/test17/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/苏州音乐广播.png",苏州都市音乐广播
-http://live.cooltv.top/tv/szradio.php?id=szdsyygb
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/太原音乐广播.png",太原音乐广播
-http://live.cooltv.top/tv/cutv.php?id=tyyygb
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/杭州城市资讯广播.PNG",杭州城市资讯广播
-http://live.cooltv.top/tv/hz.php?id=23
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/石家庄音乐广播.PNG",石家庄音乐广播
-http://pluslive2.sjzntv.cn/aac_yygb/playlist.m3u8
+RTHK Radio 1,https://rthkaudio6cnr-lh.akamaihd.net/i/radio6cnr_1@575604/master.m3u8
+RTHK Radio 2,https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
+RTHK Radio 3,https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+RTHK Radio 5,https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
+RTHK Radio 6,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
+CGTN Radio,http://sk.cri.cn/am846.m3u8
+CRI环球资讯广播,http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
+CRI华语环球广播,http://sk.cri.cn/hyhq.m3u8
+CRI南海之声,http://sk.cri.cn/nhzs.m3u8
+CRI世界华声,http://sk.cri.cn/hxfh.m3u8
+CRI轻松调频,http://sk.cri.cn/915.m3u8
+CNR中国之声,https://live-play.cctvnews.cctv.com/cctv/zgzs192.m3u8
+CNR经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+CNR文艺之声,http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
+CNR阅读之声,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+CNR台海之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+CNR乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+CNR老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+CNR民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+CNR香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+CNR大湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+CNR神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+CNR中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+CNR维吾尔语广播,http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+CNR藏语广播,http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+CNR哈萨克语广播,http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+长三角之声,http://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
+第一财经广播,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+CCTV1 综合,https://cctv5cncc.v.wscdns.com/live/cctv1_1/index.m3u8?adapt=0&BR=audio
+CCTV2 财经,https://cctv5cncc.v.wscdns.com/live/cctv2_1/index.m3u8?adapt=0&BR=audio
+CCTV3 综艺,http://cctv.v.myalicdn.com/live/cctv3_1audio.m3u8
+CCTV4 中文国际 亚洲,https://cctv5cncc.v.wscdns.com/live/cctv4_1/index.m3u8?adapt=0&BR=audio
+CCTV4 中文国际 欧洲,https://cctv5cncc.v.wscdns.com/live/cctveurope_1/index.m3u8?adapt=0&BR=audio
+CCTV4 中文国际 美洲,https://cctv5cncc.v.wscdns.com/live/cctvamerica_1/index.m3u8?adapt=0&BR=audio
+CCTV5 体育,https://cctv5cncc.v.wscdns.com/live/cctv5_1/index.m3u8?adapt=0&BR=audio
+CCTV5+ 体育赛事,https://cctv5cncc.v.wscdns.com/live/cctv5plus_1/index.m3u8?adapt=0&BR=audio
+CCTV6 电影,http://cctv.v.myalicdn.com/live/cctv6_1audio.m3u8
+CCTV7 国防军事,https://cctv5cncc.v.wscdns.com/live/cctv7_1/index.m3u8?adapt=0&BR=audio
+CCTV8 电视剧,http://cctv.v.myalicdn.com/live/cctv8_1audio.m3u8
+CCTV9 纪录,https://cctv5cncc.v.wscdns.com/live/cctvjilu_1/index.m3u8?adapt=0&BR=audio
+CCTV10 科教,https://cctv5cncc.v.wscdns.com/live/cctv10_1/index.m3u8?adapt=0&BR=audio
+CCTV11 戏曲,https://cctv5cncc.v.wscdns.com/live/cctv11_1/index.m3u8?adapt=0&BR=audio
+CCTV12 社会与法,https://cctv5cncc.v.wscdns.com/live/cctv12_1/index.m3u8?adapt=0&BR=audio
+CCTV13 新闻,https://cctv5cncc.v.wscdns.com/live/cctv13_1/index.m3u8?adapt=0&BR=audio
+CCTV14 少儿,https://cctv5cncc.v.wscdns.com/live/cctvchild_1/index.m3u8?adapt=0&BR=audio
+CCTV15 音乐,https://cctv5cncc.v.wscdns.com/live/cctv15_1/index.m3u8?adapt=0&BR=audio
+CCTV16 奥林匹克,https://cctv5cncc.v.wscdns.com/live/cctv16_1/index.m3u8?adapt=0&BR=audio
+CCTV17 农业农村,https://cctv5cncc.v.wscdns.com/live/cctv17_1/index.m3u8?adapt=0&BR=audio
+CGTN,http://stream.zeno.fm/ambvmys65rquv
+BBC Radio 1,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
+BBC Radio 1Xtra,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio=320000.m3u8
+BBC Radio 1 Dance,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio=320000.m3u8
+BBC Radio 1 Relax,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio=320000.m3u8
+BBC Radio 2,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8
+BBC Radio 3,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.m3u8
+BBC Radio 4,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.m3u8
+BBC Radio 4 Extra,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.m3u8
+BBC Radio 5 Live,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8
+BBC Radio 6,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
+BBC World Service,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
+A-line Radio 网路音乐台,http://radio.apple-line.com:987/radio-data/alinePlayer.php
+全国治安交通网,http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
+CityFM|城市广播,http://fm929.cityfm.tw:8080/929.mp3
+CityFM|台北健康,http://fm901.cityfm.tw:8080/901.mp3
+CityFM|台南之音,http://fm971.cityfm.tw:8080/971.mp3
+CityFM|大苗栗广播,http://fm983.cityfm.tw:8080/983.mp3
+正义电台,http://211.20.119.103:8081
+太阳电台,http://211.20.119.102:8081
+台北广播电台FM93.1,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+台北广播电台AM1134,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
+台中广播电台,http://211.20.119.101:8081
+中广音乐网,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv
+中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv
+News98新闻台,http://stream.rcs.revma.com/55tyxsy4qtzuv
+飞碟电台,http://stream.rcs.revma.com/em90w4aeewzuv
+宝岛联播网|宝岛新声,http://stream.superfm99-1.com.tw:8555
+宝岛联播网|大千电台,http://stream.superfm99-1.com.tw:8554
+国立教育电台,http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
+台湾古典音乐台,http://59.120.88.155:8000/live.mp3
+CAPITAL 958,https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+988友声有色,http://23023.live.streamtheworld.com/988_FMAAC.aac
+MY,https://astro1.rastream.com/myfm
+8FM,https://mediaprima.rastream.com/mediaprima-onefm
+好FM,https://22283.live.streamtheworld.com/HAO_963AAC.aac
+YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
+LOVE 972,https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
+UFM 1003,https://22283.live.streamtheworld.com/UFM_1003AAC.aac
+Radio France Internationale,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+CNA 938,https://14033.live.streamtheworld.com/938NOW_PREM.aac
+Eclectic24,https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
+VOCALO,https://stream.wbez.org/vocalolinear
+WUNC,http://216.246.39.189/wunc-source
+KJZZ,http://kjzz.streamguys1.com/kjzz_aac_high
+WLRN,https://hls.wlrn.mobi/live/WLRNFMAAC/live/WLRNFMAAC256/playlist.m3u8
+WBEZ,http://stream.wbez.org/wbezlinear
+HPM News,http://stream.houstonpublicmedia.org/news-aac-256
+MPR News,http://nis.stream.publicradio.org/nis.mp3
+KCRW News,http://kcrw.streamguys1.com/kcrw_192k_mp3_news
+WOSU,http://wosu.streamguys1.com/NPR_256
+KQED,http://hls.kqed.org/kqed/256/playlist.m3u8
+WAMU,http://hls-1.wamu.org/itunes/256/playlist.m3u8
+KPBS,http://kpbs-wowza.streamguys1.com/live/smil:kpbs.smil/live/kpbs256kaac.stream/playlist.m3u8
+KUT,http://kut-hls.streamguys1.com/kut1/256/playlist.m3u8
+CPR,https://stream2.cprnetwork.org/2198_256.aac/playlist.m3u8
+KWMU,http://kwmu-flash.streamguys1.com/live/smil:kwmu1.smil/live/kwmu1-256k.stream/playlist.m3u8
+GPB,http://gpb-hls.streamguys1.com/itunes256/playlist.m3u8
+WUWM,http://wuwm.streamguys1.com/live
+NHPR,http://205.234.238.46/nhpr-256-source.aac
+WBHM,https://audio.wbhm.org/live.m4a
+FOX News Radio,http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/index_300_av-b.m3u8
+CNN International,http://tunein.ord.streamguys1.com/secure-CNNi
+Al Jazeera,http://tunein.ord.streamguys1.com/secure-aljazeera-english
+MSNBC,http://tunein.ord.streamguys1.com/secure-msnbc-premium
+阿里郎电台(视频),https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+阿里郎电台(音频),http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/arirang_3ch_audio/playlist.m3u8
+Today’s Hits,http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
+Pop Hits,http://rfcmedia.streamguys1.com/newpophitspremium.mp3
+Alternative Hits,http://rfcmedia.streamguys1.com/alternativehitspremium.mp3
+Country Hits,http://rfcmedia.streamguys1.com/countryhitspremium.mp3
+Country Roads,http://rfcmedia.streamguys1.com/countryroadspremium.mp3
+Relax & Unwind,http://rfcmedia.streamguys1.com/relaxationpremium.mp3
+Smooth Jazz,http://rfcmedia.streamguys1.com/smoothjazzpremium.mp3
+The Hit List,http://rfcmedia.streamguys1.com/srhitlist.mp3
+Dance One,http://rfcmedia.streamguys1.com/srdanceone.mp3
+Disco Beats,http://rfcmedia.streamguys1.com/srdiscobeats.mp3
+Today's Country Hits,http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3
+V2BEAT,https://stream.v2beat.live/icecast.audio?t=file.mp3
+Coffee House,http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
+AsiaFM 亚洲音乐,http://asiafm.hk:8000/asiafm
+AsiaFM 亚洲经典,http://goldfm.cn:8000/goldfm
+AsiaFM 亚洲天空,http://funradio.cn:8000/funradio
+AsiaFM HD音乐,http://asiafm.hk:8000/asiahd
+Big B Radio - 中文流行,http://cpop.bigbradio.net/s
+Big B Radio - 韩语流行,http://kpop.bigbradio.net/s
+Big B Radio - 日语流行,http://jpop.bigbradio.net/s
+Big B Radio - 亚洲流行,http://apop.bigbradio.net/s
+Modern Radio,http://play.redefine.ltd/Stream1/FM1058-1.m3u8
+电音电台,http://play.redefine.ltd/Stream3/FM1058-3.m3u8
+古典音乐台,http://play.redefine.ltd/Stream2/FM1058-2.m3u8
+沐耳电台,http://mplay.muearfm.cn/muearfm/fm666.m3u8
+动感音悦台,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+潮流音悦台,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+警广之声,http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
+天籁之音-经典正流行,http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
+天籁之音 Hi-Fi Radio,http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+天籁之音-国风,http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
+民谣 蓝调,http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
+舞迷心窍,http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8
+心灵音乐馆,http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
+80后音悦台,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+经典FM,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+格莱美音乐台,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+卷卷猫电台,http://stream3.hndt.com/now/PHucVOu2/playlist.m3u8
+有声文摘,http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
+安全百科,http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
+民谣音乐,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+天籁古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+摇滚天空,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+天津静海区综合广播·交通广播网,http://starfish.bj.aliyun.001.qingting.fm:8000/jingdianFM1008
+湖南潇湘之声,http://satellitepull.cnr.cn/live/wx32hunyygb/playlist.m3u8
+湖南经济广播,http://satellitepull.cnr.cn/live/wx32hunjjgb/playlist.m3u8
+湖南旅游广播·PoPoPod播客电台,http://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
+湖南交通广播,http://satellitepull.cnr.cn/live/wx32hunjtgb/playlist.m3u8
+湖南金鹰之声,http://satellitepull.cnr.cn/live/wx32955/playlist.m3u8
+湖南综合广播,http://satellitepull.cnr.cn/live/wx32hunxwgb/playlist.m3u8
+京津冀之声,http://audiolive.rbc.cn:1935/live/fm945/96K/tzwj_video.m3u8
+北京新闻广播,http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
+北京交通广播,http://audiolive.rbc.cn:1935/live/fm1039/96K/tzwj_video.m3u8
+北京青年广播,http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
+北京外语广播,http://audiolive.rbc.cn:1935/live/am774/96K/tzwj_video.m3u8
+北京城市广播·副中心之声,http://audiolive.rbc.cn:1935/live/fm1073/96K/tzwj_video.m3u8
+北京文艺广播,http://123.56.16.201:1935/live/fm876/96K/tzwj_video.m3u8
+北京故事广播,http://123.56.16.201:1935/live/am603/96K/tzwj_video.m3u8
+北京体育广播,http://audiolive.rbc.cn:1935/live/fm1025/96K/tzwj_video.m3u8
+江苏故事广播,http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
+江苏新闻综合广播,http://satellitepull.cnr.cn/live/wx32jsxwzhgb/playlist.m3u8
+江苏新闻广播,http://satellitepull.cnr.cn/live/wx32jsxwgb/playlist.m3u8
+江苏文艺广播,http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
+江苏金陵之声,http://satellitepull.cnr.cn/live/wx32jsqctp/playlist.m3u8
+江苏交通广播,http://satellitepull.cnr.cn/live/wx32jsjtgb/playlist.m3u8
+江苏财经广播,http://satellitepull.cnr.cn/live/wx32jscjgb/playlist.m3u8
+江苏健康广播,http://satellitepull.cnr.cn/live/wx32jsjkgb/playlist.m3u8
+安徽之声,http://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8
+安徽生活广播·城市之声,http://satellitepull.cnr.cn/live/wxahshgb/playlist.m3u8
+安徽经济广播,http://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8
+安徽交通广播,http://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
+安徽旅游广播·高速之声,http://satellitepull.cnr.cn/live/wxahlygb/playlist.m3u8
+安徽戏曲广播·动听995,http://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8
+安徽故事广播,http://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8
+湖北之声,http://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8
+楚天交通广播,http://satellitepull.cnr.cn/live/wx32hubctjtgb/playlist.m3u8
+湖北亲子广播,http://satellitepull.cnr.cn/live/wx32hubfnetgb/playlist.m3u8
+湖北生活广播,http://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
+湖北城市之声,http://satellitepull.cnr.cn/live/wx32hubjtgb/playlist.m3u8
+湖北资讯广播,http://satellitepull.cnr.cn/live/wx32hubzxgb/playlist.m3u8
+湖北农村广播,http://satellitepull.cnr.cn/live/wx32hubncgb/playlist.m3u8
+武汉新闻广播,http://stream.appwuhan.com/xwpdzb/sd/live.m3u8
+武汉交通广播,http://stream.appwuhan.com/jtpdzb/sd/live.m3u8
+武汉经济广播,http://stream.appwuhan.com/cjpdzb/sd/live.m3u8
+河北文艺广播,http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
+河北综合广播,http://satellitepull.cnr.cn/live/wxhebzhgb/playlist.m3u8
+河北交通广播,http://satellitepull.cnr.cn/live/wxhebjtgb/playlist.m3u8
+河北经济广播,http://satellitepull.cnr.cn/live/wxhebjjgb/playlist.m3u8
+河北生活广播,http://satellitepull.cnr.cn/live/wxhebshgb/playlist.m3u8
+福建新闻广播,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
+福建都市广播·私家车987,http://satellitepull.cnr.cn/live/wx32fjdndsgb/playlist.m3u8
+福建交通广播,http://satellitepull.cnr.cn/live/wx32fjdnjtgb/playlist.m3u8
+福建经济广播,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
+福建东南广播,http://satellitepull.cnr.cn/live/wx32fjdngb/playlist.m3u8
+江西综合新闻广播,http://satellitepull.cnr.cn/live/wx32jiangxxwgb/playlist.m3u8
+江西都市广播,http://satellitepull.cnr.cn/live/wx32jiangxdsgb/playlist.m3u8
+江西信息交通广播,http://satellitepull.cnr.cn/live/wx32jiangxjtgb/playlist.m3u8
+江西民生广播,http://satellitepull.cnr.cn/live/wx32jiangxmsgb/playlist.m3u8
+江西农村广播·绿色985,http://satellitepull.cnr.cn/live/wx32jiangxncgb/playlist.m3u8
+山东综合广播,http://live-hls.ihzlh.linker.cc/ihzlh/sd_ts01_95.m3u8
+山东文艺广播,http://live-hls.ihzlh.linker.cc/ihzlh/sd_ts03_975.m3u8
+山东交通广播,http://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
+山东体育休闲广播,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+山东经济广播,http://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8
+山东乡村广播,http://satellitepull.cnr.cn/live/wxsdxcgb/playlist.m3u8
+绍兴之声,http://live.shaoxing.com.cn/audio/s10001-xw1/index.m3u8
+绍兴交通广播,http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8
+陕西交通广播,http://satellitepull.cnr.cn/live/wxsxxjtgb/playlist.m3u8
+陕西经济广播·896汽车调频,http://satellitepull.cnr.cn/live/wxsxxjjgb/playlist.m3u8
+陕西都市广播·陕广新闻,http://satellitepull.cnr.cn/live/wxsxxdsgb/playlist.m3u8
+陕西农村广播,http://satellitepull.cnr.cn/live/wxsxxncgb/playlist.m3u8
+陕西戏曲广播,http://satellitepull.cnr.cn/live/wxsxxxqgb/playlist.m3u8
+陕西新闻广播,http://satellitepull.cnr.cn/live/wxsxxxwgb/playlist.m3u8
+浙江之声,http://satellitepull.cnr.cn/live/wxzjzs/playlist.m3u8
+浙江经济广播,http://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8
+浙江交通之声,http://satellitepull.cnr.cn/live/wxzjjtgb/playlist.m3u8
+浙江民生资讯广播,http://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8
+浙江城市之声,http://satellitepull.cnr.cn/live/wxzjcszs/playlist.m3u8
+浙江旅游之声,http://satellitepull.cnr.cn/live/wxzj1045/playlist.m3u8
+重庆都市广播·私家车938,http://satellitepull.cnr.cn/live/wxcqdsgb/playlist.m3u8
+万州综合广播,http://123.146.162.24:8013/tslslive/L4cvRM0/hls/live_sd.m3u8
+万州交通广播,http://123.146.162.24:8013/tslslive/gBEcw39/hls/live_sd.m3u8
+宁波新闻综合广播,http://ihzlh.linker.cc/ihzlh/zjnb_ts04_920.m3u8
+宁波老少广播·阳光904,http://ihzlh.linker.cc/ihzlh/zjnb_ts05_904.m3u8
+宁波交通广播,http://ihzlh.linker.cc/ihzlh/zjnb_ts01_939.m3u8
+宁波经济广播,http://ihzlh.linker.cc/ihzlh/zjnb_ts03_1029.m3u8
+Nice FM,http://netlive.zhxwzx.com/live/1047.m3u8
+广东新闻广播,http://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
+广东股市广播,http://satellitepull.cnr.cn/live/wxgdgsgb/playlist.m3u8
+广东文体广播,http://satellitepull.cnr.cn/live/wxgdwtgb/playlist.m3u8
+广东城市之声,http://satellitepull.cnr.cn/live/wxgdcszs/playlist.m3u8
+广东南粤之声,http://satellitepull.cnr.cn/live/wxnyzs/playlist.m3u8
+珠江经济台,http://satellitepull.cnr.cn/live/wxgdzjjjt/playlist.m3u8
+南方生活广播,http://satellitepull.cnr.cn/live/wxgdnfshgb/playlist.m3u8
+羊城交通广播,http://satellitepull.cnr.cn/live/wxgdycjtt/playlist.m3u8
+深圳交通广播,http://satellitepull.cnr.cn/live/wxszjjpl/playlist.m3u8
+惠州综合广播,http://stream.hztvmg.com/gbtest2/sd/live.m3u8
+海南新闻广播,http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
+海南交通广播,http://satellitepull.cnr.cn/live/wxhainjtgb/playlist.m3u8
+四川经济广播,http://satellitepull.cnr.cn/live/wxscjjgb/playlist.m3u8
+四川文艺广播,http://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
+四川新闻广播,http://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8
+四川交通广播,http://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
+四川综合广播四川之声,http://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
+四川私家车广播,http://satellitepull.cnr.cn/live/wxsc925/playlist.m3u8
+贵州经济广播,http://satellitepull.cnr.cn/live/wx32gzjjgb/playlist.m3u8
+贵州旅游广播,http://satellitepull.cnr.cn/live/wx32gzlygb/playlist.m3u8
+贵州故事广播,http://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8
+贵州综合广播,http://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
+河南农村广播大象资讯台,http://satellitepull.cnr.cn/live/wxhnncgb/playlist.m3u8
+河南新闻广播,http://satellitepull.cnr.cn/live/wxhnxwgb/playlist.m3u8
+河南经济广播,http://satellitepull.cnr.cn/live/wxhnjjgb/playlist.m3u8
+河南戏曲广播,http://satellitepull.cnr.cn/live/wxhnxqgb/playlist.m3u8
+河南教育广播,http://satellitepull.cnr.cn/live/wxhnlygb/playlist.m3u8
+河南信息广播,http://satellitepull.cnr.cn/live/wxhnxxgb/playlist.m3u8
+吉林新闻综合广播,http://satellitepull.cnr.cn/live/wxjlxwzhgb/playlist.m3u8
+吉林交通广播,http://satellitepull.cnr.cn/live/wxjljtgb/playlist.m3u8
+吉林乡村广播,http://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
+延边新闻广播,http://satellitepull.cnr.cn/live/wxybxwgb/playlist.m3u8
+辽宁之声,http://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8
+辽宁乡村广播,http://satellitepull.cnr.cn/live/wxlnxcgb/playlist.m3u8
+辽宁经济广播,http://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8
+辽宁交通广播,http://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8
+厦门综合广播,https://live2.kxm.xmtv.cn/aac_zhgb/playlist.m3u8
+厦门旅游广播,https://live2.kxm.xmtv.cn/aac_xmly/sd/live.m3u8
+厦门经济交通广播,https://live2.kxm.xmtv.cn/aac_xmjjjt/sd/live.m3u8
+厦门闽南之声,https://live2.kxm.xmtv.cn/aac_mnzs/playlist.m3u8
+福州左海之声,http://live.zohi.tv/audio/s10001-FM901/index.m3u8
+福州交通之声,http://live.zohi.tv/audio/s10001-FM876/index.m3u8
+福州新闻广播,http://live.zohi.tv/audio/s10001-FM944/index.m3u8
+雅安综合广播,https://m3u8channel.wuxianyaan.com/cms/audios/nmip-media/audiolive/audio10/playlist.m3u8
+雅安交通旅游广播,https://m3u8channel.wuxianyaan.com/cms/audios/nmip-media/audiolive/audio12/playlist.m3u8
+徐州新闻综合广播,http://stream1.huaihai.tv/aac_gbfm93/playlist.m3u8
+黑龙江新闻广播,http://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
+黑龙江交通广播,http://satellitepull.cnr.cn/live/wx32hljjtgb/playlist.m3u8
+黑龙江都市女性广播,http://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8
+黑龙江生活广播,http://satellitepull.cnr.cn/live/wx32hljsjcgb/playlist.m3u8
+黑龙江高校广播,http://satellitepull.cnr.cn/live/wx32hljgxgb/playlist.m3u8
+黑龙江老年少儿广播·爱家调频,http://satellitepull.cnr.cn/live/wx32hljajgb/playlist.m3u8
+黑龙江乡村广播,http://satellitepull.cnr.cn/live/wx32hljxcgb/playlist.m3u8
+黑龙江朝鲜语广播,http://satellitepull.cnr.cn/live/wx32hljcygb/playlist.m3u8
+内蒙古农村牧区广播绿野之声,http://satellitepull.cnr.cn/live/wx32nmglyzs/playlist.m3u8
+内蒙古新闻广播,http://satellitepull.cnr.cn/live/wx32nmghyzhxwgb/playlist.m3u8
+内蒙古经济生活广播,http://satellitepull.cnr.cn/live/wx32nmgjjgb/playlist.m3u8
+内蒙古评书曲艺广播,http://satellitepull.cnr.cn/live/wx32nmgpsqy/playlist.m3u8
+内蒙古蒙语对外广播草原之声,http://satellitepull.cnr.cn/live/wx32nmgdwgb/playlist.m3u8
+内蒙古蒙语新闻综合广播,http://satellitepull.cnr.cn/live/wx32nmgmygb/playlist.m3u8
+锡林郭勒汉语广播,http://satellitepull.cnr.cn/live/wx32nmgxlglhygb/playlist.m3u8
+锡林郭勒蒙语广播,http://satellitepull.cnr.cn/live/wx32nmgxlglmygb/playlist.m3u8
+阿拉善汉语广播,http://satellitepull.cnr.cn/live/wx32nmgalshygb/playlist.m3u8
+阿拉善蒙语广播,http://satellitepull.cnr.cn/live/wx32nmgalsmygb/playlist.m3u8
+呼伦贝尔汉语广播,http://satellitepull.cnr.cn/live/wx32nmghlbehygb/playlist.m3u8
+呼伦贝尔蒙语广播,http://satellitepull.cnr.cn/live/wx32nmghlbemygb/playlist.m3u8
+新疆新闻广播,http://satellitepull.cnr.cn/live/wxxjxwgb/playlist.m3u8
+新疆交通广播,http://satellitepull.cnr.cn/live/wxxjjtgb/playlist.m3u8
+新疆私家车广播,http://satellitepull.cnr.cn/live/wxxjsjcgb/playlist.m3u8
+新疆绿色广播,http://satellitepull.cnr.cn/live/wxxjlsgb/playlist.m3u8
+西藏都市生活广播,http://satellitepull.cnr.cn/live/wxxzdsshgb/playlist.m3u8
+西藏对外交通广播,http://satellitepull.cnr.cn/live/wxxzdwjtgb/playlist.m3u8
+西藏汉语广播,http://satellitepull.cnr.cn/live/wxxzhygb/playlist.m3u8
+西藏藏语广播,http://satellitepull.cnr.cn/live/wxxzzygb/playlist.m3u8
+广西教育广播,http://satellitepull.cnr.cn/live/wx32gbjyshgb/playlist.m3u8
+广西综合广播,http://satellitepull.cnr.cn/live/wx32gxrmgb/playlist.m3u8
+广西北部湾之声,http://satellitepull.cnr.cn/live/wx32gxdwgb/playlist.m3u8
+广西交通广播,http://satellitepull.cnr.cn/live/wx32gxjtgb/playlist.m3u8
+云南新闻广播,http://satellitepull.cnr.cn/live/wxynxwgb/playlist.m3u8
+云南经济广播·私家车电台,http://satellitepull.cnr.cn/live/wxynjjgb/playlist.m3u8
+云南交通之声,http://satellitepull.cnr.cn/live/wxynjtgb/playlist.m3u8
+云南旅游广播·香格里拉之声,http://satellitepull.cnr.cn/live/wxxgllzs/playlist.m3u8
+云南民族广播,http://satellitepull.cnr.cn/live/wxynmzgb/playlist.m3u8
+云南国际广播,http://satellitepull.cnr.cn/live/wxynsegb/playlist.m3u8
+云南教育广播·知道分子频道,http://satellitepull.cnr.cn/live/wxynjygb/playlist.m3u8
+宁夏经济广播,http://satellitepull.cnr.cn/live/wxnxjjgb/playlist.m3u8
+宁夏旅游广播,http://satellitepull.cnr.cn/live/wxnxdsgb/playlist.m3u8
+青海新闻综合广播,http://satellitepull.cnr.cn/live/wx32qhwxzhgb/playlist.m3u8
+青海经济广播,http://satellitepull.cnr.cn/live/wx32qhjjgb/playlist.m3u8
+益阳之声,http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/fm997.m3u8
+益阳交通频道·汽车881,http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/fm881.m3u8
+开州之声,http://183.64.174.171:10124/tlgb.m3u8
+欢乐调频,http://starfish.bj.aliyun.007.qingting.fm:8000/huanletiaopin
+房山电台,http://live.funhillrm.com/3/sd/live.m3u8
+CNR音乐之声,http://liveop.cctv.cn/hls/yyzs192/playlist.m3u8
+CNR经典音乐广播,http://liveop.cctv.cn/hls/jdyygb192/playlist.m3u8
+安徽音乐广播,http://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
+陕西音乐广播·快乐988,http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
+陕西青少广播·好听1055,http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
+北京经典969,http://live.funhillrm.com/4/sd/live.m3u8
+旅游之声,http://starfish.bj.aliyun.007.qingting.fm:8000/fm98.7lvyouzhisheng
+山东音乐广播,http://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
+山东经典音乐广播,http://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
+湖南文艺广播·摩登音乐台,http://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
+湖南音乐之声·芒果音乐台,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+CRI HIT FM (北京),http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
+CRI HIT FM (广州),http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
+新疆音乐广播MixFM1039,http://livehywaudio2.chinamcache.com/xjtvs/gb06.m3u8?auth_key=1701481179-0-0-f5b0844d2432e7a4c6458ae7152483ba
+江西音乐广播,http://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8
+宁波音乐广播,http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
+PlayFM甬江之声,http://netlive.zhxwzx.com/live/1001.m3u8
+内蒙古音乐之声,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+湖北经典音乐广播,http://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
+广西音乐广播,http://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
+广西经济广播·女主播电台,http://satellitepull.cnr.cn/live/wx32gxjjgb/playlist.m3u8
+云南音乐广播,http://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
+四川城市之音,http://satellitepull.cnr.cn/live/wxsccszs/playlist.m3u8
+四川岷江音乐,http://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
+厦门音乐广播,http://live2.kxm.xmtv.cn/aac_xmyy/playlist.m3u8
+楚天音乐广播,http://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
+江苏音乐广播,http://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
+江苏经典流行音乐广播,http://satellitepull.cnr.cn/live/wx32jsjdlxyy/playlist.m3u8
+浙江音乐调频·动听968,http://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
+河北音乐广播,http://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8
+深圳飞扬971,http://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
+深圳生活942,http://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8
+海南音乐广播,http://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8
+贵州音乐广播,http://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8
+宁夏音乐广播,http://satellitepull.cnr.cn/live/wxnxyygb/playlist.m3u8
+黑龙江音乐广播,http://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
+福建汽车音乐广播,http://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8
+福州音乐广播,http://live.zohi.tv/audio/s10001-FM893/index.m3u8
+AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
+WHIZ Radio 海口音乐广播,http://starfish.sz.aliyun.005.qingting.fm:8000/haikouSIMULRADIO
+青岛音乐体育广播,http://video11.qtv.com.cn/zhiboytgb-sd/manifest.m3u8
+青岛摩登音乐调频,http://video11.qtv.com.cn/zhibo886/manifest.m3u8
+辽宁经典音乐广播,http://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
+青海交通音乐广播,http://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
+绍兴私家车音乐广播,http://live.shaoxing.com.cn/audio/s10001-xq3/index.m3u8
+武汉音乐广播,http://stream.appwuhan.com/yypdzb/sd/live.m3u8
+武汉青少广播·M-radio,http://stream.appwuhan.com/sepdzb/sd/live.m3u8
+烟台音乐广播,http://live.yantaitv.cn/live/899686f2687848cdbe62b1c27f3b3fc1/111dcc2035384c579cb79a260591a4ea.m3u8
+惠州音乐广播,http://stream.hztvmg.com/test17/playlist.m3u8
+CCTV新科动漫,http://cctvalic.v.myalicdn.com/live/xinkedongman_1/index.m3u8?adapt=0&BR=audio
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+东方卫视,http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
+浙江卫视,http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
+江苏卫视,http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
+安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
+天津卫视,http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
+重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
+湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
+辽宁卫视,http://satellitepull.cnr.cn/live/wxlnws/playlist.m3u8
+吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
+河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
+甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
+陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
+延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
+西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
+海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
+江西卫视,http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8
+宁夏卫视,http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
+青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
+内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
+新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
+中国教育1,https://wstvalic.v.myalicdn.com/wstv/cetv1_1/index.m3u8?adapt=0&BR=audio
+中国教育2,https://wstvalic.v.myalicdn.com/wstv/cetv2_1/index.m3u8?adapt=0&BR=audio
+中国教育3,https://wstvalic.v.myalicdn.com/wstv/cetv3_1/index.m3u8?adapt=0&BR=audio
+中国教育4,https://wstvalic.v.myalicdn.com/wstv/cetv4_1/index.m3u8?adapt=0&BR=audio
+V0A-1,https://stream.radiojar.com/t2n88q0st5quv
+山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
+香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
+北京新闻,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio
+北京文艺,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv2_1/index.m3u8?adapt=0&BR=audio
+北京科教,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv3_1/index.m3u8?adapt=0&BR=audio
+北京影视,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio
+北京财经,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio
+北京冬奥纪实,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv6_1/index.m3u8?adapt=0&BR=audio
+北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
+北京青年,https://piccpndks.v.kcdnvip.com/audio/btv8_2.m3u8
+第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
+河北汽车音乐台,https://radio.pull.hebtv.com/live/hebqcyy.m3u8
+合肥文艺广播,https://hylive.hfbtv.com/lsdream/3kJdo0U/1000/live.m3u8
+北京音乐广播,http://123.56.16.201:1935/live/fm974/96K/tzwj_video.m3u8
+山西音乐广播,http://live.cooltv.top/tv/cutv.php?id=sxyygb
+宜昌音乐生活广播,http://play.3xgd.com/fm/qct.m3u8
+金陵之声,http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/3/224/3221227940/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3
+金陵之声,http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/4/224/3221227940/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3
+四川岷江音乐,http://scgctvshow.sctv.com/SRTRADIO/live/minjiangmusic/1.m3u8
+开封音乐广播,http://live.dxhmt.cn:9081/gb/10200-4.m3u8
+成都文化休闲广播·radio946,http://live.cooltv.top/tv/cdgb.php?id=433-20
+扬州经济音乐广播,http://live.cooltv.top/tv/yz.php?id=jjyy
+常州音乐广播,http://live.cooltv.top/tv/cz.php?id=fm935
+苏州都市音乐广播,http://live.cooltv.top/tv/szradio.php?id=szdsyygb
+太原音乐广播,http://live.cooltv.top/tv/cutv.php?id=tyyygb
+杭州城市资讯广播,http://live.cooltv.top/tv/hz.php?id=23
+石家庄音乐广播,http://pluslive2.sjzntv.cn/aac_yygb/playlist.m3u8
