@@ -92,6 +92,7 @@ DETV2,rtmp://jsylivealone.iqilu.com/donge/donge_tv02
 嘉峪关新闻,rtmp://live.ahsz.tv/video/s10001-szzh
 昌吉,rtmp://live.cjshw.com/live/cjdst
 昌吉,rtmp://live.cjshw.com/live/cjsh
+泰山,rtmp://jsylivealone.iqilu.com/taishan/taishan_tv01
 泰州1,rtmp://live.mytaizhou.net:9935/live/xwzh_sd
 泰州2,rtmp://live.mytaizhou.net:9935/live/jjsh_sd
 泰州1,rtmp://live.mytaizhou.net:9935/live/ysyl_sd
