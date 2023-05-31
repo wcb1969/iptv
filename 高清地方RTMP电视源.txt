@@ -349,7 +349,6 @@ TVBS新闻,rtmp://119.81.124.89/sa
 酉阳综合,rtmp://113.207.29.195/applive/youytv01
 永川综合,rtmp://113.207.29.195/applive/yctv01
 屯溪,rtmp://112.30.194.221:11935/live/63cfaf06e7064943b9a1b7d76d3470dd
-屯溪,rtmp://112.30.194.221:11935/live/63cfaf06e7064943b9a1b7d76d3470dd
 景泰综合,rtmp://play.kankanlive.com/live/1624439143745981
 古浪综合,rtmp://play.kankanlive.com/live/1647934328544907
 永昌,rtmp://play.kankanlive.com/live/1652755738635915
