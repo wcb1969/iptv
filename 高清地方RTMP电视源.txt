@@ -517,8 +517,6 @@ CCTV6,rtmp://202.204.52.116:1935/livetv/cctv6hd
 CCTV7,rtmp://202.204.52.116:1935/livetv/cctv7hd
 CCTV8,rtmp://202.204.52.116:1935/livetv/cctv8hd
 CCTV9,rtmp://202.204.52.116:1935/livetv/cctv9hd
-CCTV10,rtmp://202.204.52.116:1935/livetv/cctv10hd
-CCTV11,rtmp://202.204.52.116:1935/livetv/cctv11hd
 CCTV12,rtmp://202.204.52.116:1935/livetv/cctv12hd
 CCTV13,rtmp://202.204.52.116:1935/livetv/cctv13hd
 CCTV14,rtmp://202.204.52.116:1935/livetv/cctv14hd
