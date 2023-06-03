@@ -57,3 +57,7 @@ CCTV4K,http://fjbciptv.live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mn
 CETV1,http://fjbciptv.live.bestvcdn.com.cn/live/program/live/zgjy1thd8m/8000000/mnf.m3u8
 CETV2,http://fjbciptv.live.bestvcdn.com.cn/live/program/live/cetv2/2500000/mnf.m3u8
 CETV4,http://fjbciptv.live.bestvcdn.com.cn/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
+福建新闻,http://fjbciptv.live.bestvcdn.com.cn/live/program/live/fjxwhd8m/8000000/mnf.m3u8
+五星体育,http://fjbciptv.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+上海新闻,http://fjbciptv.live.bestvcdn.com.cn/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+第一财经,http://fjbciptv.live.bestvcdn.com.cn/live/program/live/dycjhd8m/8000000/mnf.m3u8
