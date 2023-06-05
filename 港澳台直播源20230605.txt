@@ -144,6 +144,9 @@ ZOO MOO,https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
 东森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
 东森综合,http://61.221.81.93:8078/hls/34/80/ebc.m3u8
 东森综合,http://50.7.238.114:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 翡翠,https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1684386186&rand=Ni8Rw6rndN&uuid=9b647b3816b2a66a&from=web&sign=ead53160d4dabd0506da91b89c483a6a
 翡翠,http://r.jdshipin.com/62WM7
 翡翠,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
@@ -152,6 +155,8 @@ ZOO MOO,https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
 翡翠,http://r.jdshipin.com/n90gt
 翡翠,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
 凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
+凤凰香港,http://lu1.cc/itv/gatv/fhx2.php?id=fhhk
+凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
@@ -205,3 +210,27 @@ ZOO MOO,https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
 中天新闻,https://dispatch.ulivetv.net/v/live/cg1049vjg14w.m3u8?stream_id=cg1049vjg14w&timestamp=1685187300&rand=SItVoOb1jj&uuid=9b647b3816b2a66a&from=web&sign=ee9793023b0702b7fcd1bb47ca489dd7
 中天综合,http://61.221.81.93:8078/hls/35/80/cti.m3u8
 中天综合,https://dispatch.ulivetv.net/v/live/cg0ifkvu1hhc.m3u8?stream_id=cg0ifkvu1hhc&timestamp=1684387487&rand=h5ZAGkW3j1&uuid=9b647b3816b2a66a&from=web&sign=190c1b05dbf0f302a89ff5463ea6a99c
+HOY,http://stream.hkanime.live/raw/77.ts?token=NLfh4OWRrB2rpB22NRHrug&expires=1729095468
+HOY,http://stream.hkanime.live/hls/77/index.m3u8?token=j8_4LuplTcJ3sVQoeWs7aw&expires=1729095580
+HOY信息,http://stream.hkanime.live/raw/78.ts?token=Nvy1SLYHVIas9_TFUFRFWQ&expires=1729095468
+HOY信息,http://stream.hkanime.live/hls/78/index.m3u8?token=Xs0EBv-awtOdAQ8fjq-2Cg&expires=1729095580
+J2,http://stream.hkanime.live/raw/82.ts?token=91HpoheYrdbvUBoWHXFolA&expires=1729095468
+J2,http://stream.hkanime.live/hls/82/index.m3u8?token=uUu-kGtdBaTndgFXkfhl8w&expires=1729095580
+Viu,http://stream.hkanime.live/raw/99.ts?token=2rmGeSfHHujDuKhJpc1tCw&expires=1729095468
+Viu,http://stream.hkanime.live/hls/99/index.m3u8?token=JIkZifUqF4C8Zd2LxDqZ9w&expires=1729095580
+Viu Six,http://stream.hkanime.live/raw/96.ts?token=zcEzSRtX6DDUmIHvARcTmQ&expires=1729095468
+Viu Six,http://stream.hkanime.live/hls/96/index.m3u8?token=pGEHumbsT-WLImQst_rmuQ&expires=1729095580
+翡翠,http://stream.hkanime.live/raw/81.ts?token=2EMFswzXgRgMzzZv-VtnRg&expires=1729095468
+翡翠,http://stream.hkanime.live/hls/81/index.m3u8?token=gpW2jrm4oLZEIEYEcaVBBQ&expires=1729095580
+RTHK31,http://stream.hkanime.live/raw/31.ts?token=3F3gcPtuOLQY_fvlao3k8Q&expires=1729095468
+RTHK31,http://stream.hkanime.live/hls/31/index.m3u8?token=g9aXCFUQBLFgLhvnVewK2w&expires=1729095580
+RTHK32,http://stream.hkanime.live/raw/32.ts?token=pDtP58lj7SgFmXYn6YhvOw&expires=1729095468
+RTHK32,http://stream.hkanime.live/hls/32/index.m3u8?token=IqFTl0irbyiiAQxnX6hgqg&expires=1729095580
+明珠,http://stream.hkanime.live/raw/84.ts?token=jldHHKT1PLyoso8SCqE7SA&expires=1729095468
+明珠,http://stream.hkanime.live/hls/84/index.m3u8?token=tihIQbzFkh7ACO5nLqTIqg&expires=1729095580
+无线财经信息,http://stream.hkanime.live/raw/85.ts?token=onDglZl4qiVacnrZoShEtA&expires=1729095468
+无线财经信息,http://stream.hkanime.live/hls/85/index.m3u8?token=5wY6cinxieA_eYTxTJyAxQ&expires=1729095580
+无线新闻,http://stream.hkanime.live/raw/83.ts?token=nlamiMoAImnQpYULCQDdAw&expires=1729095468
+无线新闻,http://stream.hkanime.live/hls/83/index.m3u8?token=Pom65L7wXC14agrFA7v2GQ&expires=1729095580
+香港国际财经,http://stream.hkanime.live/raw/76.ts?token=liyLsySHri-f8SmCYFf78Q&expires=1729095468
+香港国际财经,http://stream.hkanime.live/hls/76/index.m3u8?token=scSgIvPjgfITfBNEIgwwvg&expires=1729095580
