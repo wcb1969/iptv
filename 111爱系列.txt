@@ -28,16 +28,6 @@
 爱都市,http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
 爱都市,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
 爱都市,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
-爱尔达体育,rtmp://9wv7.mine.nu/sat/md051
-爱尔达体育1,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
-爱尔达体育1,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-爱尔达体育1,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
-爱尔达体育1,http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
-爱尔达体育2,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
-爱尔达体育2,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
-爱尔达体育2,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
-爱尔达影剧,http://198.16.100.90:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
-爱尔达影剧,http://50.7.238.114:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 爱怀旧,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
 爱怀旧,http://111.11.123.28:6610/000000001000/6000000006000260630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959820221014135640297861&channel-id=wasusyt&Contentid=6000000006000260630
 爱怀旧,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
