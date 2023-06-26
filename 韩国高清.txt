@@ -1,32 +1,7 @@
+Arirang,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
+Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
 Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang Radio,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
-Arirang Radio,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-Arirang Radio,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
-BBS Buddhist Broadcasting,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-BTN,http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
-Gugbang TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-KBS国际,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
-KTV,https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
-KTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
-MBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-MBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-NBS Korea Agricultural Br,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-Running Man-2,http://epg.112114.xyz/douyu/131977
-SBS,http://183.99.22.189:9981/stream/channelid/1124346476
-SBS,http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
-SilveriTV,http://live.silveritv.kr:8080/hls/stream.m3u8
-TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-TBS首尔,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
-TJB,http://1.245.74.5:1935/live/tv/.m3u8
-韩国音乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-频道呼吸,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 Arirang,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
 Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.com
@@ -36,16 +11,66 @@ Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/
 Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
 Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-Woman,https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
-Planet Earth,https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
-Music Box,https://code.vthanhtivi.pw/getlink/mytv/69/hd.m3u8
-Happy Kids,https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
+BBS Buddhist Broadcasting,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 Box Hits,https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
-EXTVLCOPT:http-user-agent=Dalvik/2.1.0,https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
+BTN,http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
+Gongyoung Shopping,https://etv.publichs.com/live5.stream/playlist.m3u8
+GS My Shop,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+Gugbang TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+Happy Kids,https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
+Home & Shopping,http://gg.gg/Ha_Noi_IPTV_78-Home_and_Shopping_HD
+Hyundai Home Shopping Plus,http://gg.gg/Ha_Noi_IPTV_72-Hyundai_Mall_Plus_HD
 KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+KBS W,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
+KBS24,http://ye23.vip/z7z8/2021/kbs2020.php?id=4
+KBS24,http://mytv.dothome.co.kr/ch/catv/1.php
+KBS国际,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8?checkedby:iptvcat.net
+KCTV,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+KoreaTV,https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
+Kpop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+Lotte Home Shopping,https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w14884132.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w396428287.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w854988460.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
+MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+MBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+MBC大田,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-TJB SBS,http://1.245.74.5:1935/live/tv/.m3u8
-韩国音乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-CMT Equal Play,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Music Box,https://code.vthanhtivi.pw/getlink/mytv/69/hd.m3u8
 Music Reload,http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
+MUSIC TOP,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+National Assembly TV,https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
+NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8?checkedby:iptvcat.net
+NBS,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+NHTV,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+Persiana Korea,http://51.210.199.14/hls/stream.m3u8
+Planet Earth,https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
+Running Man-2,http://epg.112114.xyz/douyu/131977
+SBS,http://1.245.74.5:1935/live/tv/playlist.m3u8
+SBS,http://8.ykwlm.sinaapp.com/han3.php?id=14
+SBS,https://d2a2z5wd1u31lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-10pb6vgdcdmd3-prod/hls-harvester2-1293-prod/us-east-1/cc-10pb6vgdcdmd3/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+SBS,https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ig8f3xt8vbpcg-prod/hls-harvester2-1293-prod/us-east-1/cc-ig8f3xt8vbpcg/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+SBS,https://dm72lx2w7znja.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-658a8vltn9ut6-prod/hls-harvester2-1293-prod/us-east-1/cc-658a8vltn9ut6/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+SBS,https://d3qf0zy79zrp4j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jku0o3d6cdg6d-prod/hls-harvester2-1293-prod/us-east-1/cc-jku0o3d6cdg6d/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+SBS,https://d303zg8wpbocww.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-57imp9bv8y60f-prod/hls-harvester2-1293-prod/us-east-1/cc-57imp9bv8y60f/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+SBS,http://183.99.22.189:9981/stream/channelid/1124346476
+SBS,http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
+Shinsegae TV Shopping,https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+SilveriTV,http://live.silveritv.kr:8080/hls/stream.m3u8
+SK stoa,http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8
+TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+TJB,http://1.245.74.5:1935/live/tv/.m3u8
+Woman,https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
+韩国音乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+频道呼吸,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
