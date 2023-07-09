@@ -1,139 +1,139 @@
-广州竞赛 HD,rtp://225.1.101.1:7523
-CGTN HD,rtp://225.1.101.3:7523
-海南卫视 HD,rtp://225.1.101.4:7523
-广州影视 HD,rtp://225.1.101.5:7523
-CCTV-1,rtp://225.1.101.12:7523
-中国天气广东,rtp://225.1.101.14:7523
-新疆卫视,rtp://225.1.101.15:7523
-西藏卫视,rtp://225.1.101.16:7523
-央广购物 HD,rtp://225.1.101.17:7523
-山西卫视,rtp://225.1.101.19:7523
-青海卫视 HD,rtp://225.1.101.20:7523
-广西卫视 HD,rtp://225.1.101.21:7523
-天元围棋,rtp://225.1.101.22:7523
-山西优购物,rtp://225.1.101.23:7523
-甘肃卫视,rtp://225.1.101.24:7523
-澳亚卫视,rtp://225.1.101.25:7523
-CCTV-2 HD,rtp://225.1.101.26:7523
-CCTV-7 HD,rtp://225.1.101.27:7523
-CCTV-9 HD,rtp://225.1.101.28:7523
-四川卫视 HD,rtp://225.1.101.29:7523
-CCTV-10 HD,rtp://225.1.101.30:7523
-凤凰中文标清拉伸,rtp://225.1.101.31:7523
-星空卫视,rtp://225.1.101.32:7523
-CCTV-12 HD,rtp://225.1.101.33:7523
-CCTV-14 HD,rtp://225.1.101.34:7523
-香港翡翠标清拉伸,rtp://225.1.101.41:7523
-香港明珠,rtp://225.1.101.43:7523
-广东综艺-4K-25P,rtp://225.1.101.44:7523
-香港翡翠 HD,rtp://225.1.101.45:7523
-青岛中华美食 HD,rtp://225.1.101.48:7523
-广东公共,rtp://225.1.101.49:7523
-CCTV-4 HD,rtp://225.1.101.52:7523
-湖南快乐垂钓 HD,rtp://225.1.101.54:7523
-安徽卫视 HD,rtp://225.1.101.57:7523
-贵州卫视 HD,rtp://225.1.101.58:7523
-湖南茶频道 HD,rtp://225.1.101.59:7523
-黑龙江卫视 HD,rtp://225.1.101.61:7523
-大湾区卫视,rtp://225.1.101.62:7523
-广东影视,rtp://225.1.101.64:7523
-广东新闻,rtp://225.1.101.65:7523
-广东少儿,rtp://225.1.101.66:7523
-CGTN俄语 HD,rtp://225.1.101.67:7523
-湖南快乐购 HD,rtp://225.1.101.70:7523
-CETV-1 HD,rtp://225.1.101.84:7523
-东南卫视 HD,rtp://225.1.101.89:7523
-河南卫视 HD,rtp://225.1.101.91:7523
-SiTV东方财经 HD,rtp://225.1.101.92:7523
-CGTN西语 HD,rtp://225.1.101.93:7523
-CCTV-6 HD,rtp://225.1.101.94:7523
-白云新闻,rtp://225.1.101.97:7523
-CCTV-8 HD,rtp://225.1.101.98:7523
-青海卫视,rtp://225.1.101.99:7523
-CCTV-11 HD,rtp://225.1.101.100:7523
-广东体育 HD,rtp://225.1.101.102:7523
-北京家有购物,rtp://225.1.101.104:7523
-重庆卫视 HD,rtp://225.1.101.105:7523
-广东珠江 HD,rtp://225.1.101.106:7523
-兵团卫视,rtp://225.1.101.107:7523
-湖南金鹰卡通 HD,rtp://225.1.101.108:7523
-CCTV-4K(25P),rtp://225.1.101.109:7523
-SiTV乐游 HD,rtp://225.1.101.111:7523
-湖北卫视 HD,rtp://225.1.101.112:7523
-SiTV欢笑剧场 HD,rtp://225.1.101.113:7523
-SiTV劲爆体育 HD,rtp://225.1.101.114:7523
-SiTV动漫秀场 HD,rtp://225.1.101.116:7523
-SiTV游戏风云 HD,rtp://225.1.101.117:7523
-江西卫视 HD,rtp://225.1.101.118:7523
-广东岭南戏曲,rtp://225.1.101.119:7523
-SiTV魅力足球 HD,rtp://225.1.101.120:7523
-CCTV-3 HD,rtp://225.1.101.121:7523
-SiTV生活时尚 HD,rtp://225.1.101.122:7523
-SiTV都市剧场 HD,rtp://225.1.101.123:7523
-CCTV-5+ HD,rtp://225.1.101.124:7523
-CCTV-13 HD,rtp://225.1.101.125:7523
-河北卫视 HD,rtp://225.1.101.127:7523
-广东嘉佳卡通,rtp://225.1.101.129:7523
-CCTV-16_4K(25P),rtp://225.1.101.130:7523
-佛山公共,rtp://225.1.101.131:7523
-CCTV-16 HD,rtp://225.1.101.133:7523
-天津卫视 HD,rtp://225.1.101.136:7523
-SiTV金色学堂 HD,rtp://225.1.101.137:7523
-CCTV1HD,rtp://225.1.101.138:11111
-香港明珠 HD,rtp://225.1.101.139:7523
-CHC高清电影,rtp://225.1.101.140:7523
-湖南先锋乒羽,rtp://225.1.101.142:7523
-深圳卫视 HD,rtp://225.1.101.144:7523
-东方卫视 HD,rtp://225.1.101.145:7523
-辽宁卫视 HD,rtp://225.1.101.146:7523
-广铁电视01 HD,rtp://225.1.101.147:7523
-CGTN阿语 HD,rtp://225.1.101.148:7523
-北京卡酷少儿,rtp://225.1.101.149:7523
-北京卫视 HD,rtp://225.1.101.150:7523
-广东卫视 HD,rtp://225.1.101.151:7523
-江苏卫视 HD,rtp://225.1.101.153:7523
-浙江卫视 HD,rtp://225.1.101.154:7523
-吉林卫视 HD,rtp://225.1.101.155:7523
-广铁电视02 HD,rtp://225.1.101.156:7523
-广州综合 HD,rtp://225.1.101.158:7523
-广州新闻 HD,rtp://225.1.101.159:7523
-CCTV-15 HD,rtp://225.1.101.160:7523
-CCTV-17 HD,rtp://225.1.101.161:7523
-SiTV新视觉 HD,rtp://225.1.101.162:7523
-安徽家家购物,rtp://225.1.101.164:7523
-CGTN法语 HD,rtp://225.1.101.165:7523
-宁夏卫视,rtp://225.1.101.169:7523
-CETV-4,rtp://225.1.101.170:7523
-聚鲨环球精选,rtp://225.1.101.172:7523
-三沙卫视 HD,rtp://225.1.101.173:7523
-NNM家庭理财,rtp://225.1.101.174:7523
-SiTV法治天地 HD,rtp://225.1.101.176:7523
-央广购物,rtp://225.1.101.178:7523
-CGTN,rtp://225.1.101.180:7523
-北京纪实科教 HD,rtp://225.1.101.182:7523
-江苏优漫卡通,rtp://225.1.101.184:7523
-山东卫视 HD,rtp://225.1.101.185:7523
-内蒙古卫视,rtp://225.1.101.186:7523
-CCTV-5 HD,rtp://225.1.101.187:7523
-CHC动作电影 HD,rtp://225.1.101.189:7523
-蓝屏（停播广州少儿）,rtp://225.1.101.191:7523
-CHC家庭影院 HD,rtp://225.1.101.192:7523
-湖南卫视 HD,rtp://225.1.101.199:7523
-河南卫视 HD,rtp://225.1.101.200:7523
-广东南方购物 HD,rtp://225.1.101.201:7523
-广州-4K(25P),rtp://225.1.101.202:7523
-广州法治 HD,rtp://225.1.101.203:7523
-云南卫视 HD,rtp://225.1.101.204:7523
-广东经济科教 HD,rtp://225.1.101.211:7523
-北京卫视 HD,rtp://225.1.101.221:7523
-广视课堂 HD,rtp://225.1.101.224:7523
-广视课堂 HD,rtp://225.1.101.225:7523
-广视课堂 HD,rtp://225.1.101.226:7523
-广视课堂 HD,rtp://225.1.101.227:7523
-广视课堂 HD,rtp://225.1.101.228:7523
-广视课堂 HD,rtp://225.1.101.229:7523
-广视课堂 HD,rtp://225.1.101.230:7523
-广视课堂 HD,rtp://225.1.101.236:7523
-广视课堂 HD,rtp://225.1.101.237:7523
-广视课堂 HD,rtp://225.1.101.238:7523
-广视课堂 HD,rtp://225.1.101.239:7523
+CCTV1,http://mail.owenxuan.com:10000/udp/225.1.101.12:7523
+CCTV2,http://mail.owenxuan.com:10000/udp/225.1.101.26:7523
+CCTV3,http://mail.owenxuan.com:10000/udp/225.1.101.121:7523
+CCTV4,http://mail.owenxuan.com:10000/udp/225.1.101.52:7523
+CCTV4K,http://mail.owenxuan.com:10000/udp/225.1.101.109:7523
+CCTV5,http://mail.owenxuan.com:10000/udp/225.1.101.187:7523
+CCTV5+,http://mail.owenxuan.com:10000/udp/225.1.101.124:7523
+CCTV6,http://mail.owenxuan.com:10000/udp/225.1.101.94:7523
+CCTV7,http://mail.owenxuan.com:10000/udp/225.1.101.27:7523
+CCTV8,http://mail.owenxuan.com:10000/udp/225.1.101.98:7523
+CCTV9,http://mail.owenxuan.com:10000/udp/225.1.101.28:7523
+CCTV10,http://mail.owenxuan.com:10000/udp/225.1.101.30:7523
+CCTV11,http://mail.owenxuan.com:10000/udp/225.1.101.100:7523
+CCTV12,http://mail.owenxuan.com:10000/udp/225.1.101.33:7523
+CCTV13,http://mail.owenxuan.com:10000/udp/225.1.101.125:7523
+CCTV14,http://mail.owenxuan.com:10000/udp/225.1.101.34:7523
+CCTV15,http://mail.owenxuan.com:10000/udp/225.1.101.160:7523
+CCTV16,http://mail.owenxuan.com:10000/udp/225.1.101.133:7523
+CCTV16-4K,http://mail.owenxuan.com:10000/udp/225.1.101.130:7523
+CCTV17,http://mail.owenxuan.com:10000/udp/225.1.101.161:7523
+CCTV1HD,http://mail.owenxuan.com:10000/udp/225.1.101.138:11111
+CETV1,http://mail.owenxuan.com:10000/udp/225.1.101.84:7523
+CETV4,http://mail.owenxuan.com:10000/udp/225.1.101.170:7523
+CGTN,http://mail.owenxuan.com:10000/udp/225.1.101.3:7523
+CGTN,http://mail.owenxuan.com:10000/udp/225.1.101.180:7523
+CGTN阿语,http://mail.owenxuan.com:10000/udp/225.1.101.148:7523
+CGTN俄语,http://mail.owenxuan.com:10000/udp/225.1.101.67:7523
+CGTN法语,http://mail.owenxuan.com:10000/udp/225.1.101.165:7523
+CGTN西语,http://mail.owenxuan.com:10000/udp/225.1.101.93:7523
+CHC动作电影,http://mail.owenxuan.com:10000/udp/225.1.101.189:7523
+CHC高清电影,http://mail.owenxuan.com:10000/udp/225.1.101.140:7523
+CHC家庭影院,http://mail.owenxuan.com:10000/udp/225.1.101.192:7523
+NNM家庭理财,http://mail.owenxuan.com:10000/udp/225.1.101.174:7523
+安徽家家购物,http://mail.owenxuan.com:10000/udp/225.1.101.164:7523
+安徽卫视,http://mail.owenxuan.com:10000/udp/225.1.101.57:7523
+澳亚卫视,http://mail.owenxuan.com:10000/udp/225.1.101.25:7523
+白云新闻,http://mail.owenxuan.com:10000/udp/225.1.101.97:7523
+北京纪实科教,http://mail.owenxuan.com:10000/udp/225.1.101.182:7523
+北京家有购物,http://mail.owenxuan.com:10000/udp/225.1.101.104:7523
+北京卡酷少儿,http://mail.owenxuan.com:10000/udp/225.1.101.149:7523
+北京卫视,http://mail.owenxuan.com:10000/udp/225.1.101.150:7523
+北京卫视,http://mail.owenxuan.com:10000/udp/225.1.101.221:7523
+兵团卫视,http://mail.owenxuan.com:10000/udp/225.1.101.107:7523
+茶频道,http://mail.owenxuan.com:10000/udp/225.1.101.59:7523
+大湾区卫视,http://mail.owenxuan.com:10000/udp/225.1.101.62:7523
+东方财经,http://mail.owenxuan.com:10000/udp/225.1.101.92:7523
+东方卫视,http://mail.owenxuan.com:10000/udp/225.1.101.145:7523
+东南卫视,http://mail.owenxuan.com:10000/udp/225.1.101.89:7523
+动漫秀场,http://mail.owenxuan.com:10000/udp/225.1.101.116:7523
+都市剧场,http://mail.owenxuan.com:10000/udp/225.1.101.123:7523
+法治天地,http://mail.owenxuan.com:10000/udp/225.1.101.176:7523
+翡翠,http://mail.owenxuan.com:10000/udp/225.1.101.41:7523
+翡翠,http://mail.owenxuan.com:10000/udp/225.1.101.45:7523
+凤凰中文,http://mail.owenxuan.com:10000/udp/225.1.101.31:7523
+佛山公共,http://mail.owenxuan.com:10000/udp/225.1.101.131:7523
+甘肃卫视,http://mail.owenxuan.com:10000/udp/225.1.101.24:7523
+广东公共,http://mail.owenxuan.com:10000/udp/225.1.101.49:7523
+广东经济,http://mail.owenxuan.com:10000/udp/225.1.101.211:7523
+广东南方购物,http://mail.owenxuan.com:10000/udp/225.1.101.201:7523
+广东少儿,http://mail.owenxuan.com:10000/udp/225.1.101.66:7523
+广东体育,http://mail.owenxuan.com:10000/udp/225.1.101.102:7523
+广东卫视,http://mail.owenxuan.com:10000/udp/225.1.101.151:7523
+广东新闻,http://mail.owenxuan.com:10000/udp/225.1.101.65:7523
+广东影视,http://mail.owenxuan.com:10000/udp/225.1.101.64:7523
+广东珠江,http://mail.owenxuan.com:10000/udp/225.1.101.106:7523
+广东综艺4K,http://mail.owenxuan.com:10000/udp/225.1.101.44:7523
+广视课堂,http://mail.owenxuan.com:10000/udp/225.1.101.224:7523
+广视课堂,http://mail.owenxuan.com:10000/udp/225.1.101.225:7523
+广视课堂,http://mail.owenxuan.com:10000/udp/225.1.101.226:7523
+广视课堂,http://mail.owenxuan.com:10000/udp/225.1.101.227:7523
+广视课堂,http://mail.owenxuan.com:10000/udp/225.1.101.228:7523
+广视课堂,http://mail.owenxuan.com:10000/udp/225.1.101.229:7523
+广视课堂,http://mail.owenxuan.com:10000/udp/225.1.101.230:7523
+广视课堂,http://mail.owenxuan.com:10000/udp/225.1.101.236:7523
+广视课堂,http://mail.owenxuan.com:10000/udp/225.1.101.237:7523
+广视课堂,http://mail.owenxuan.com:10000/udp/225.1.101.238:7523
+广视课堂,http://mail.owenxuan.com:10000/udp/225.1.101.239:7523
+广铁电视,http://mail.owenxuan.com:10000/udp/225.1.101.156:7523
+广铁电视01,http://mail.owenxuan.com:10000/udp/225.1.101.147:7523
+广西卫视,http://mail.owenxuan.com:10000/udp/225.1.101.21:7523
+广州4K,http://mail.owenxuan.com:10000/udp/225.1.101.202:7523
+广州法治,http://mail.owenxuan.com:10000/udp/225.1.101.203:7523
+广州竞赛,http://mail.owenxuan.com:10000/udp/225.1.101.1:7523
+广州少儿,http://mail.owenxuan.com:10000/udp/225.1.101.191:7523
+广州新闻,http://mail.owenxuan.com:10000/udp/225.1.101.159:7523
+广州影视,http://mail.owenxuan.com:10000/udp/225.1.101.5:7523
+广州综合,http://mail.owenxuan.com:10000/udp/225.1.101.158:7523
+贵州卫视,http://mail.owenxuan.com:10000/udp/225.1.101.58:7523
+海南卫视,http://mail.owenxuan.com:10000/udp/225.1.101.4:7523
+河北卫视,http://mail.owenxuan.com:10000/udp/225.1.101.127:7523
+河南卫视,http://mail.owenxuan.com:10000/udp/225.1.101.91:7523
+河南卫视,http://mail.owenxuan.com:10000/udp/225.1.101.200:7523
+黑龙江卫视,http://mail.owenxuan.com:10000/udp/225.1.101.61:7523
+湖北卫视,http://mail.owenxuan.com:10000/udp/225.1.101.112:7523
+湖南快乐购,http://mail.owenxuan.com:10000/udp/225.1.101.70:7523
+湖南卫视,http://mail.owenxuan.com:10000/udp/225.1.101.199:7523
+欢笑剧场,http://mail.owenxuan.com:10000/udp/225.1.101.113:7523
+吉林卫视,http://mail.owenxuan.com:10000/udp/225.1.101.155:7523
+嘉佳卡通,http://mail.owenxuan.com:10000/udp/225.1.101.129:7523
+江苏卫视,http://mail.owenxuan.com:10000/udp/225.1.101.153:7523
+江西卫视,http://mail.owenxuan.com:10000/udp/225.1.101.118:7523
+金色学堂,http://mail.owenxuan.com:10000/udp/225.1.101.137:7523
+金鹰卡通,http://mail.owenxuan.com:10000/udp/225.1.101.108:7523
+劲爆体育,http://mail.owenxuan.com:10000/udp/225.1.101.114:7523
+聚鲨环球精选,http://mail.owenxuan.com:10000/udp/225.1.101.172:7523
+快乐垂钓,http://mail.owenxuan.com:10000/udp/225.1.101.54:7523
+乐游,http://mail.owenxuan.com:10000/udp/225.1.101.111:7523
+辽宁卫视,http://mail.owenxuan.com:10000/udp/225.1.101.146:7523
+岭南戏曲,http://mail.owenxuan.com:10000/udp/225.1.101.119:7523
+魅力足球,http://mail.owenxuan.com:10000/udp/225.1.101.120:7523
+明珠,http://mail.owenxuan.com:10000/udp/225.1.101.43:7523
+内蒙古卫视,http://mail.owenxuan.com:10000/udp/225.1.101.186:7523
+宁夏卫视,http://mail.owenxuan.com:10000/udp/225.1.101.169:7523
+青海卫视,http://mail.owenxuan.com:10000/udp/225.1.101.20:7523
+青海卫视,http://mail.owenxuan.com:10000/udp/225.1.101.99:7523
+三沙卫视,http://mail.owenxuan.com:10000/udp/225.1.101.173:7523
+山东卫视,http://mail.owenxuan.com:10000/udp/225.1.101.185:7523
+山西卫视,http://mail.owenxuan.com:10000/udp/225.1.101.19:7523
+山西优购物,http://mail.owenxuan.com:10000/udp/225.1.101.23:7523
+深圳卫视,http://mail.owenxuan.com:10000/udp/225.1.101.144:7523
+生活时尚,http://mail.owenxuan.com:10000/udp/225.1.101.122:7523
+四川卫视,http://mail.owenxuan.com:10000/udp/225.1.101.29:7523
+天津卫视,http://mail.owenxuan.com:10000/udp/225.1.101.136:7523
+天元围棋,http://mail.owenxuan.com:10000/udp/225.1.101.22:7523
+西藏卫视,http://mail.owenxuan.com:10000/udp/225.1.101.16:7523
+先锋乒羽,http://mail.owenxuan.com:10000/udp/225.1.101.142:7523
+香港明珠,http://mail.owenxuan.com:10000/udp/225.1.101.139:7523
+新疆卫视,http://mail.owenxuan.com:10000/udp/225.1.101.15:7523
+新视觉,http://mail.owenxuan.com:10000/udp/225.1.101.162:7523
+星空卫视,http://mail.owenxuan.com:10000/udp/225.1.101.32:7523
+央广购物,http://mail.owenxuan.com:10000/udp/225.1.101.17:7523
+央广购物,http://mail.owenxuan.com:10000/udp/225.1.101.178:7523
+优漫卡通,http://mail.owenxuan.com:10000/udp/225.1.101.184:7523
+游戏风云,http://mail.owenxuan.com:10000/udp/225.1.101.117:7523
+云南卫视,http://mail.owenxuan.com:10000/udp/225.1.101.204:7523
+浙江卫视,http://mail.owenxuan.com:10000/udp/225.1.101.154:7523
+中国天气广东,http://mail.owenxuan.com:10000/udp/225.1.101.14:7523
+中华美食,http://mail.owenxuan.com:10000/udp/225.1.101.48:7523
+重庆卫视,http://mail.owenxuan.com:10000/udp/225.1.101.105:7523
