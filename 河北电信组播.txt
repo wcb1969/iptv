@@ -1,287 +1,317 @@
-#EXTM3U
-#EXTINF:-1 ,CCTV1
-rtp://239.254.200.45:8008
-#EXTINF:-1 ,CCTV2
-rtp://239.254.200.158:6000
-#EXTINF:-1 ,CCTV3
-rtp://239.254.200.13:6000
-#EXTINF:-1 ,CCTV4
-rtp://239.254.200.190:6307
-#EXTINF:-1 ,CCTV5
-rtp://239.254.200.14:6000
-#EXTINF:-1 ,CCTV6
-rtp://239.254.200.15:6000
-#EXTINF:-1 ,CCTV7
-rtp://239.254.200.159:6000
-#EXTINF:-1 ,CCTV8
-rtp://239.254.200.16:6000
-#EXTINF:-1 ,CCTV9
-rtp://239.254.200.59:8112
-#EXTINF:-1 ,CCTV10
-rtp://239.254.200.160:6000
-#EXTINF:-1 ,CCTV11
-rtp://239.254.200.7:8040
-#EXTINF:-1 ,CCTV12
-rtp://239.254.200.161:6000
-#EXTINF:-1 ,CCTV13
-rtp://239.254.200.9:8264
-#EXTINF:-1 ,CCTV14
-rtp://239.254.200.162:6000
-#EXTINF:-1 ,CCTV15
-rtp://239.254.200.11:8052
-#EXTINF:-1 ,CCTV17
-rtp://239.254.201.120:8144
-#EXTINF:-1 ,CGTN
-rtp://239.254.200.12:8056
-#EXTINF:-1 ,CCTV5＋
-rtp://239.254.200.46:8004
-#EXTINF:-1 ,河北卫视
-rtp://239.254.200.174:6000
-#EXTINF:-1 ,河北经济
-rtp://239.254.200.18:6000
-#EXTINF:-1 ,河北都市
-rtp://239.254.200.19:6000
-#EXTINF:-1 ,河北影视
-rtp://239.254.200.20:6000
-#EXTINF:-1 ,河北少儿
-rtp://239.254.200.21:6000
-#EXTINF:-1 ,河北公共
-rtp://239.254.200.22:6000
-#EXTINF:-1 ,河北农民
-rtp://239.254.200.23:6000
-#EXTINF:-1 ,睛彩河北
-rtp://239.254.200.27:6000
-#EXTINF:-1 ,三佳购物
-rtp://239.254.200.143:6000
-#EXTINF:-1 ,优购物
-rtp://239.254.201.78:6283
-#EXTINF:-1 ,快乐购物
-rtp://239.254.201.79:7196
-#EXTINF:-1 ,家有购物
-rtp://239.254.201.80:7192
-#EXTINF:-1 ,聚鲨环球精选
-rtp://239.254.201.81:7191
-#EXTINF:-1 ,时尚购物
-rtp://239.254.201.82:6282
-#EXTINF:-1 ,石家庄新闻综合
-rtp://239.254.200.157:6000
-#EXTINF:-1 ,石家庄娱乐
-rtp://239.254.200.29:6000
-#EXTINF:-1 ,石家庄生活
-rtp://239.254.200.30:6000
-#EXTINF:-1 ,石家庄都市
-rtp://239.254.200.31:6000
-#EXTINF:-1 ,承德新闻
-rtp://239.254.200.32:6000
-#EXTINF:-1 ,承德公共
-rtp://239.254.200.33:6000
-#EXTINF:-1 ,承德文化
-rtp://239.254.200.34:6000
-#EXTINF:-1 ,张家口1
-rtp://239.254.200.35:6000
-#EXTINF:-1 ,张家口2
-rtp://239.254.200.36:6000
-#EXTINF:-1 ,张家口3
-rtp://239.254.200.37:6000
-#EXTINF:-1 ,张家口导视
-rtp://239.254.200.38:6000
-#EXTINF:-1 ,秦皇岛1
-rtp://239.254.200.39:6000
-#EXTINF:-1 ,秦皇岛2
-rtp://239.254.200.40:6000
-#EXTINF:-1 ,秦皇岛3
-rtp://239.254.200.41:6000
-#EXTINF:-1 ,唐山新闻
-rtp://239.254.200.166:6000
-#EXTINF:-1 ,唐山生活
-rtp://239.254.200.167:6000
-#EXTINF:-1 ,唐山影视
-rtp://239.254.200.168:6000
-#EXTINF:-1 ,唐山公共
-rtp://239.254.200.169:6000
-#EXTINF:-1 ,廊坊新闻
-rtp://239.254.200.183:6000
-#EXTINF:-1 ,廊坊公共
-rtp://239.254.200.184:6000
-#EXTINF:-1 ,廊坊导视
-rtp://239.254.200.186:6000
-#EXTINF:-1 ,沧州1
-rtp://239.254.200.42:6000
-#EXTINF:-1 ,沧州2
-rtp://239.254.200.43:6000
-#EXTINF:-1 ,沧州3
-rtp://239.254.200.44:6000
-#EXTINF:-1 ,保定新闻
-rtp://239.254.200.144:6000
-#EXTINF:-1 ,保定经济
-rtp://239.254.200.145:6000
-#EXTINF:-1 ,保定文化
-rtp://239.254.200.146:6000
-#EXTINF:-1 ,衡水综合
-rtp://239.254.200.147:6000
-#EXTINF:-1 ,衡水影视
-rtp://239.254.200.148:6000
-#EXTINF:-1 ,衡水公共
-rtp://239.254.200.149:6000
-#EXTINF:-1 ,邢台综合
-rtp://239.254.200.150:6000
-#EXTINF:-1 ,邢台生活
-rtp://239.254.200.151:6000
-#EXTINF:-1 ,邢台公共
-rtp://239.254.200.152:6000
-#EXTINF:-1 ,邯郸新闻综合
-rtp://239.254.200.153:6000
-#EXTINF:-1 ,邯郸公共
-rtp://239.254.200.154:6000
-#EXTINF:-1 ,邯郸科教
-rtp://239.254.200.155:6000
-#EXTINF:-1 ,湖南卫视
-rtp://239.254.200.48:8012
-#EXTINF:-1 ,浙江卫视
-rtp://239.254.200.53:8036
-#EXTINF:-1 ,江苏卫视
-rtp://239.254.200.51:8028
-#EXTINF:-1 ,安徽卫视
-rtp://239.254.200.163:6000
-#EXTINF:-1 ,北京卫视
-rtp://239.254.200.47:8024
-#EXTINF:-1 ,天津卫视
-rtp://239.254.200.54:1234
-#EXTINF:-1 ,辽宁卫视
-rtp://239.254.200.57:8056
-#EXTINF:-1 ,山东卫视
-rtp://239.254.200.55:8052
-#EXTINF:-1 ,云南卫视
-rtp://239.254.200.68:8108
-#EXTINF:-1 ,河南卫视
-rtp://239.254.201.16:7174
-#EXTINF:-1 ,黑龙江卫视
-rtp://239.254.200.49:8016
-#EXTINF:-1 ,四川卫视
-rtp://239.254.200.202:6325
-#EXTINF:-1 ,江西卫视
-rtp://239.254.201.12:6290
-#EXTINF:-1 ,贵州卫视
-rtp://239.254.201.20:6315
-#EXTINF:-1 ,深圳卫视
-rtp://239.254.200.50:8020
-#EXTINF:-1 ,湖北卫视
-rtp://239.254.200.164:6000
-#EXTINF:-1 ,东方卫视
-rtp://239.254.200.52:8032
-#EXTINF:-1 ,重庆卫视
-rtp://239.254.200.203:6323
-#EXTINF:-1 ,东南卫视
-rtp://239.254.201.13:6291
-#EXTINF:-1 ,广东卫视
-rtp://239.254.200.56:8048
-#EXTINF:-1 ,广西卫视
-rtp://239.254.200.80:8300
-#EXTINF:-1 ,吉林卫视
-rtp://239.254.201.15:6339
-#EXTINF:-1 ,陕西卫视
-rtp://239.254.200.82:8140
-#EXTINF:-1 ,山西卫视
-rtp://239.254.200.83:8172
-#EXTINF:-1 ,内蒙古卫视
-rtp://239.254.200.84:8176
-#EXTINF:-1 ,青海卫视
-rtp://239.254.200.85:8184
-#EXTINF:-1 ,旅游卫视
-rtp://239.254.200.86:8304
-#EXTINF:-1 ,宁夏卫视
-rtp://239.254.200.87:8124
-#EXTINF:-1 ,西藏卫视
-rtp://239.254.200.88:8164
-#EXTINF:-1 ,新疆卫视
-rtp://239.254.200.89:8160
-#EXTINF:-1 ,甘肃卫视
-rtp://239.254.200.90:8188
-#EXTINF:-1 ,卡酷动画
-rtp://239.254.200.91:9248
-#EXTINF:-1 ,金鹰卡通
-rtp://239.254.200.92:9252
-#EXTINF:-1 ,山东教育
-rtp://239.254.200.247:4120
-#EXTINF:-1 ,纪实高清
-rtp://239.254.200.58:8060
-#EXTINF:-1 ,CETV-1高清
-rtp://239.254.200.225:6259
-#EXTINF:-1 ,北京纪实高清
-rtp://239.254.200.188:6311
-#EXTINF:-1 ,金鹰纪实高清
-rtp://239.254.200.189:6293
-#EXTINF:-1 ,电视指南
-rtp://239.254.200.142:6256
-#EXTINF:-1 ,第一剧场
-rtp://239.254.200.93:6227
-#EXTINF:-1 ,风云剧场
-rtp://239.254.200.94:6228
-#EXTINF:-1 ,怀旧剧场
-rtp://239.254.200.95:6229
-#EXTINF:-1 ,风云音乐
-rtp://239.254.200.96:6230
-#EXTINF:-1 ,风云足球
-rtp://239.254.200.97:6231
-#EXTINF:-1 ,国防军事
-rtp://239.254.200.101:6235
-#EXTINF:-1 ,世界地理
-rtp://239.254.200.102:6236
-#EXTINF:-1 ,老故事
-rtp://239.254.200.104:6237
-#EXTINF:-1 ,环球奇观
-rtp://239.254.200.105:6238
-#EXTINF:-1 ,文物宝库
-rtp://239.254.200.106:6239
-#EXTINF:-1 ,国学
-rtp://239.254.200.107:6255
-#EXTINF:-1 ,茶频道
-rtp://239.254.200.228:6258
-#EXTINF:-1 ,DV生活
-rtp://239.254.200.109:6240
-#EXTINF:-1 ,女性时尚
-rtp://239.254.200.110:6241
-#EXTINF:-1 ,文化精品
-rtp://239.254.200.111:6251
-#EXTINF:-1 ,新科动漫
-rtp://239.254.200.112:6242
-#EXTINF:-1 ,中学生
-rtp://239.254.200.113:6243
-#EXTINF:-1 ,早期教育
-rtp://239.254.200.114:6244
-#EXTINF:-1 ,英语辅导
-rtp://239.254.200.116:6245
-#EXTINF:-1 ,书画
-rtp://239.254.200.217:6267
-#EXTINF:-1 ,摄影
-rtp://239.254.200.119:6246
-#EXTINF:-1 ,梨园
-rtp://239.254.200.120:6247
-#EXTINF:-1 ,卫生健康
-rtp://239.254.200.121:6248
-#EXTINF:-1 ,CETV-2
-rtp://239.254.200.226:6260
-#EXTINF:-1 ,CETV-4
-rtp://239.254.200.227:6261
-#EXTINF:-1 ,劲爆体育
-rtp://239.254.200.139:4120
-#EXTINF:-1 ,全纪实
-rtp://239.254.200.140:4120
-#EXTINF:-1 ,财富天下
-rtp://239.254.200.124:9136
-#EXTINF:-1 ,4k直播
-rtp://239.254.200.243:6000
-#EXTINF:-1 ,PPTV-1
-rtp://239.254.200.204:6000
-#EXTINF:-1 ,PPTV-2
-rtp://239.254.200.205:6000
-#EXTINF:-1 ,PPTV-3
-rtp://239.254.200.206:6000
-#EXTINF:-1 ,PPTV-4
-rtp://239.254.200.207:6000
-#EXTINF:-1 ,PPTV-5
-rtp://239.254.200.208:6000
-#EXTINF:-1 ,PPTV-6
-rtp://239.254.200.209:6000
-#EXTINF:-1 ,九屏直播频道
-rtp://239.254.200.248:6000
+4k直播,http://www.biaowen.net:4022/udp/239.254.200.243:6000
+CCTV1,http://www.biaowen.net:4022/udp/239.254.200.45:8008
+CCTV2,http://www.biaowen.net:4022/udp/239.254.200.158:6000
+CCTV3,http://www.biaowen.net:4022/udp/239.254.200.13:6000
+CCTV3,http://www.biaowen.net:4022/udp/239.254.201.152:7205
+CCTV4,http://www.biaowen.net:4022/udp/239.254.200.190:6307
+CCTV4美洲,http://www.biaowen.net:4022/udp/239.254.201.206:4220
+CCTV4欧洲,http://www.biaowen.net:4022/udp/239.254.201.205:4220
+CCTV5,http://www.biaowen.net:4022/udp/239.254.200.14:6000
+CCTV5,http://www.biaowen.net:4022/udp/239.254.201.153:7206
+CCTV5＋,http://www.biaowen.net:4022/udp/239.254.200.46:8004
+CCTV6,http://www.biaowen.net:4022/udp/239.254.200.15:6000
+CCTV6,http://www.biaowen.net:4022/udp/239.254.201.154:7207
+CCTV7,http://www.biaowen.net:4022/udp/239.254.200.159:6000
+CCTV8,http://www.biaowen.net:4022/udp/239.254.200.16:6000
+CCTV8,http://www.biaowen.net:4022/udp/239.254.201.155:7208
+CCTV9,http://www.biaowen.net:4022/udp/239.254.200.59:8112
+CCTV10,http://www.biaowen.net:4022/udp/239.254.200.160:6000
+CCTV11,http://www.biaowen.net:4022/udp/239.254.201.123:8120
+CCTV11,http://www.biaowen.net:4022/udp/239.254.200.7:8040
+CCTV12,http://www.biaowen.net:4022/udp/239.254.200.161:6000
+CCTV13,http://www.biaowen.net:4022/udp/239.254.200.9:8264
+CCTV14,http://www.biaowen.net:4022/udp/239.254.200.162:6000
+CCTV15,http://www.biaowen.net:4022/udp/239.254.201.124:8136
+CCTV16,http://www.biaowen.net:4022/udp/239.254.200.
+CCTV16-4K,http://www.biaowen.net:4022/udp/239.254.201.
+CCTV17,http://www.biaowen.net:4022/udp/239.254.201.120:8144
+CCTV兵器科技,http://www.biaowen.net:4022/udp/239.254.200.101:6235
+CCTV兵器科技高清,http://www.biaowen.net:4022/udp/239.254.201.225:7249
+CCTV第一剧场,http://www.biaowen.net:4022/udp/239.254.200.93:6227
+CCTV第一剧场高清,http://www.biaowen.net:4022/udp/239.254.201.218:7258
+CCTV电视指南,http://www.biaowen.net:4022/udp/239.254.200.142:6256
+CCTV电视指南高清,http://www.biaowen.net:4022/udp/239.254.201.217:7250
+CCTV风云剧场,http://www.biaowen.net:4022/udp/239.254.200.94:6228
+CCTV风云剧场高清,http://www.biaowen.net:4022/udp/239.254.201.219:7257
+CCTV风云音乐,http://www.biaowen.net:4022/udp/239.254.200.96:6230
+CCTV风云音乐高清,http://www.biaowen.net:4022/udp/239.254.201.221:7259
+CCTV风云足球,http://www.biaowen.net:4022/udp/239.254.200.97:6231
+CCTV风云足球高清,http://www.biaowen.net:4022/udp/239.254.201.222:7251
+CCTV高尔夫网球,http://www.biaowen.net:4022/udp/239.254.200.98:6232
+CCTV高尔夫网球高清,http://www.biaowen.net:4022/udp/239.254.201.223:7252
+CCTV怀旧剧场,http://www.biaowen.net:4022/udp/239.254.200.95:6229
+CCTV怀旧剧场高清,http://www.biaowen.net:4022/udp/239.254.201.220:7256
+CCTV女性时尚,http://www.biaowen.net:4022/udp/239.254.200.110:6241
+CCTV女性时尚高清,http://www.biaowen.net:4022/udp/239.254.201.228:7255
+CCTV世界地理,http://www.biaowen.net:4022/udp/239.254.200.102:6236
+CCTV世界地理高清,http://www.biaowen.net:4022/udp/239.254.201.226:7254
+CCTV文化精品,http://www.biaowen.net:4022/udp/239.254.200.111:6251
+CCTV文化精品高清,http://www.biaowen.net:4022/udp/239.254.201.229:7260
+CCTV央广购物,http://www.biaowen.net:4022/udp/239.254.201.202:7268
+CCTV央视台球,http://www.biaowen.net:4022/udp/239.254.201.171:7176
+CETV1高清,http://www.biaowen.net:4022/udp/239.254.200.225:6259
+CETV2,http://www.biaowen.net:4022/udp/239.254.200.226:6260
+CETV4,http://www.biaowen.net:4022/udp/239.254.200.227:6261
+CGTN,http://www.biaowen.net:4022/udp/239.254.200.12:8056
+CGTN 阿拉伯语,http://www.biaowen.net:4022/udp/239.254.201.211:4220
+CGTN 俄语,http://www.biaowen.net:4022/udp/239.254.201.212:4220
+CGTN 法语,http://www.biaowen.net:4022/udp/239.254.201.210:4220
+CGTN 西班牙语,http://www.biaowen.net:4022/udp/239.254.201.209:4220
+CGTN 英文记录,http://www.biaowen.net:4022/udp/239.254.201.208:4220
+安徽卫视,http://www.biaowen.net:4022/udp/239.254.200.163:6000
+安平,http://www.biaowen.net:4022/udp/239.254.201.42:5348
+安新,http://www.biaowen.net:4022/udp/239.254.201.99:6255
+霸州,http://www.biaowen.net:4022/udp/239.254.200.4:5313
+柏乡,http://www.biaowen.net:4022/udp/239.254.201.140:5383
+保定公共,http://www.biaowen.net:4022/udp/239.254.200.145:6000
+保定生活健康,http://www.biaowen.net:4022/udp/239.254.200.146:6000
+保定新闻,http://www.biaowen.net:4022/udp/239.254.200.144:6000
+北京纪实科教,http://www.biaowen.net:4022/udp/239.254.200.188:6311
+北京卡酷少儿,http://www.biaowen.net:4022/udp/239.254.200.91:9248
+北京卫视,http://www.biaowen.net:4022/udp/239.254.200.47:8024
+冰雪体育,http://www.biaowen.net:4022/udp/239.254.201.172:7244
+渤海,http://www.biaowen.net:4022/udp/239.254.201.35:5327
+财富天下,http://www.biaowen.net:4022/udp/239.254.200.124:6370
+沧州1,http://www.biaowen.net:4022/udp/239.254.200.42:6000
+沧州2,http://www.biaowen.net:4022/udp/239.254.200.43:6000
+沧州3,http://www.biaowen.net:4022/udp/239.254.200.44:6000
+茶频道,http://www.biaowen.net:4022/udp/239.254.200.228:6258
+昌黎,http://www.biaowen.net:4022/udp/239.254.201.61:5230
+车迷,http://www.biaowen.net:4022/udp/239.254.201.162:6266
+成安,http://www.biaowen.net:4022/udp/239.254.201.143:6210
+承德公共,http://www.biaowen.net:4022/udp/239.254.200.33:6000
+承德文化,http://www.biaowen.net:4022/udp/239.254.200.34:6000
+承德新闻,http://www.biaowen.net:4022/udp/239.254.200.32:6000
+赤城,http://www.biaowen.net:4022/udp/239.254.201.131:5269
+崇礼,http://www.biaowen.net:4022/udp/239.254.201.117:5267
+大厂,http://www.biaowen.net:4022/udp/239.254.201.71:5310
+大城,http://www.biaowen.net:4022/udp/239.254.201.34:5308
+大名,http://www.biaowen.net:4022/udp/239.254.201.149:6212
+定兴电视,http://www.biaowen.net:4022/udp/239.254.200.172:5246
+定州电视,http://www.biaowen.net:4022/udp/239.254.201.74:6251
+东方财经,http://www.biaowen.net:4022/udp/239.254.201.181:7214
+东方卫视,http://www.biaowen.net:4022/udp/239.254.200.52:8032
+东光,http://www.biaowen.net:4022/udp/239.254.201.76:5331
+东南卫视,http://www.biaowen.net:4022/udp/239.254.201.13:6291
+动漫秀场,http://www.biaowen.net:4022/udp/239.254.201.165:6358
+都市剧场,http://www.biaowen.net:4022/udp/239.254.201.167:6360
+法治天地,http://www.biaowen.net:4022/udp/239.254.201.183:7226
+肥乡,http://www.biaowen.net:4022/udp/239.254.201.105:5223
+丰南,http://www.biaowen.net:4022/udp/239.254.200.218:5186
+丰宁,http://www.biaowen.net:4022/udp/239.254.200.5:5290
+丰润,http://www.biaowen.net:4022/udp/239.254.201.58:5197
+凤凰电影,http://www.biaowen.net:4022/udp/239.254.201.1:5214
+凤凰中文,http://www.biaowen.net:4022/udp/239.254.201.2:5226
+凤凰资讯,http://www.biaowen.net:4022/udp/239.254.201.3:5227
+抚宁,http://www.biaowen.net:4022/udp/239.254.201.213:5232
+辅视角2-标清,http://www.biaowen.net:4022/udp/239.254.201.87:6000
+辅视角3-标清,http://www.biaowen.net:4022/udp/239.254.201.88:6000
+阜城,http://www.biaowen.net:4022/udp/239.254.201.98:5361
+阜平,http://www.biaowen.net:4022/udp/239.254.201.40:5248
+甘肃卫视,http://www.biaowen.net:4022/udp/239.254.200.90:8188
+高碑店,http://www.biaowen.net:4022/udp/239.254.200.210:5254
+高阳,http://www.biaowen.net:4022/udp/239.254.201.96:6253
+高邑,http://www.biaowen.net:4022/udp/239.254.201.24:5170
+固安,http://www.biaowen.net:4022/udp/239.254.201.101:5312
+故城,http://www.biaowen.net:4022/udp/239.254.201.126:5362
+馆陶,http://www.biaowen.net:4022/udp/239.254.201.106:5224
+广东卫视,http://www.biaowen.net:4022/udp/239.254.200.56:8048
+广平电视,http://www.biaowen.net:4022/udp/239.254.201.70:5220
+广西卫视,http://www.biaowen.net:4022/udp/239.254.200.80:8300
+广宗电视,http://www.biaowen.net:4022/udp/239.254.201.50:5373
+贵州卫视,http://www.biaowen.net:4022/udp/239.254.201.20:6315
+国学,http://www.biaowen.net:4022/udp/239.254.200.107:6255
+海南卫视,http://www.biaowen.net:4022/udp/239.254.201.125:6288
+邯郸公共,http://www.biaowen.net:4022/udp/239.254.200.154:6000
+邯郸科技,http://www.biaowen.net:4022/udp/239.254.200.155:6000
+邯郸新闻,http://www.biaowen.net:4022/udp/239.254.200.153:6000
+邯山,http://www.biaowen.net:4022/udp/239.254.201.116:5225
+河北都市,http://www.biaowen.net:4022/udp/239.254.200.19:6000
+河北公共,http://www.biaowen.net:4022/udp/239.254.200.22:6000
+河北经济,http://www.biaowen.net:4022/udp/239.254.200.18:6000
+河北农民,http://www.biaowen.net:4022/udp/239.254.200.23:6000
+河北少儿,http://www.biaowen.net:4022/udp/239.254.200.21:6000
+河北卫视,http://www.biaowen.net:4022/udp/239.254.200.174:6000
+河北影视,http://www.biaowen.net:4022/udp/239.254.200.20:6000
+河北杂技,http://www.biaowen.net:4022/udp/239.254.201.139:7203
+河南卫视,http://www.biaowen.net:4022/udp/239.254.201.16:7174
+黑龙江卫视,http://www.biaowen.net:4022/udp/239.254.200.49:8016
+衡水公共,http://www.biaowen.net:4022/udp/239.254.200.149:6000
+衡水新闻,http://www.biaowen.net:4022/udp/239.254.200.147:6000
+湖北卫视,http://www.biaowen.net:4022/udp/239.254.200.164:6000
+湖南卫视,http://www.biaowen.net:4022/udp/239.254.200.48:8012
+欢笑剧场,http://www.biaowen.net:4022/udp/239.254.201.164:6355
+环球旅游,http://www.biaowen.net:4022/udp/239.254.201.161:6264
+环球奇观,http://www.biaowen.net:4022/udp/239.254.200.105:6238
+黄骅,http://www.biaowen.net:4022/udp/239.254.201.36:5325
+鸡泽,http://www.biaowen.net:4022/udp/239.254.201.60:5218
+吉林卫视,http://www.biaowen.net:4022/udp/239.254.201.15:6339
+极速汽车,http://www.biaowen.net:4022/udp/239.254.201.168:6362
+纪实人文高清,http://www.biaowen.net:4022/udp/239.254.200.58:8060
+冀州,http://www.biaowen.net:4022/udp/239.254.200.179:5346
+家家购物,http://www.biaowen.net:4022/udp/239.254.201.144:7262
+家庭理财,http://www.biaowen.net:4022/udp/239.254.201.188:6366
+家有购物,http://www.biaowen.net:4022/udp/239.254.201.80:7192
+嘉佳卡通,http://www.biaowen.net:4022/udp/239.254.201.201:7269
+江苏卫视,http://www.biaowen.net:4022/udp/239.254.200.51:8028
+江西卫视,http://www.biaowen.net:4022/udp/239.254.201.12:6290
+金色学堂,http://www.biaowen.net:4022/udp/239.254.201.182:7227
+金鹰纪实高清,http://www.biaowen.net:4022/udp/239.254.200.189:6293
+金鹰卡通,http://www.biaowen.net:4022/udp/239.254.200.92:9252
+劲爆体育,http://www.biaowen.net:4022/udp/239.254.200.139:4120
+晋州电视,http://www.biaowen.net:4022/udp/239.254.201.127:5184
+睛彩河北,http://www.biaowen.net:4022/udp/239.254.200.27:6000
+井陉,http://www.biaowen.net:4022/udp/239.254.201.215:6167
+井陉矿区,http://www.biaowen.net:4022/udp/239.254.201.14:5175
+景县,http://www.biaowen.net:4022/udp/239.254.200.240:5350
+靓妆,http://www.biaowen.net:4022/udp/239.254.200.122:6249
+九屏直播,http://www.biaowen.net:4022/udp/239.254.200.248:6000
+聚鲨环球精选,http://www.biaowen.net:4022/udp/239.254.201.81:7191
+康保,http://www.biaowen.net:4022/udp/239.254.201.135:5270
+快乐垂钓,http://www.biaowen.net:4022/udp/239.254.200.229:6257
+快乐购,http://www.biaowen.net:4022/udp/239.254.201.79:7196
+涞水,http://www.biaowen.net:4022/udp/239.254.201.10:5250
+涞源,http://www.biaowen.net:4022/udp/239.254.200.213:5260
+廊坊公共,http://www.biaowen.net:4022/udp/239.254.200.184:6000
+廊坊新闻,http://www.biaowen.net:4022/udp/239.254.200.183:6000
+老故事,http://www.biaowen.net:4022/udp/239.254.200.104:6237
+乐亭,http://www.biaowen.net:4022/udp/239.254.201.107:5200
+梨园,http://www.biaowen.net:4022/udp/239.254.200.120:6247
+梨园高清,http://www.biaowen.net:4022/udp/239.254.201.231:7228
+辽宁卫视,http://www.biaowen.net:4022/udp/239.254.200.57:8056
+临时直播频道2,http://www.biaowen.net:4022/udp/239.254.201.65:6000
+临时直播频道3,http://www.biaowen.net:4022/udp/239.254.201.66:6000
+临时直播频道4,http://www.biaowen.net:4022/udp/239.254.201.67:6000
+临时直播频道5,http://www.biaowen.net:4022/udp/239.254.201.68:6000
+临漳,http://www.biaowen.net:4022/udp/239.254.201.73:5221
+隆化,http://www.biaowen.net:4022/udp/239.254.201.142:5296
+隆尧,http://www.biaowen.net:4022/udp/239.254.201.69:5379
+卢龙,http://www.biaowen.net:4022/udp/239.254.201.216:5233
+鹿泉,http://www.biaowen.net:4022/udp/239.254.201.204:6166
+栾城,http://www.biaowen.net:4022/udp/239.254.200.215:5173
+滦南,http://www.biaowen.net:4022/udp/239.254.201.22:5191
+滦平,http://www.biaowen.net:4022/udp/239.254.201.4:5291
+滦州,http://www.biaowen.net:4022/udp/239.254.201.30:5196
+旅游卫视,http://www.biaowen.net:4022/udp/239.254.200.86:8304
+马拉松,http://www.biaowen.net:4022/udp/239.254.201.173:7246
+满城,http://www.biaowen.net:4022/udp/239.254.200.222:5252
+每日健身,http://www.biaowen.net:4022/udp/239.254.201.174:7245
+孟村,http://www.biaowen.net:4022/udp/239.254.201.38:5329
+南宫,http://www.biaowen.net:4022/udp/239.254.201.48:5371
+南和,http://www.biaowen.net:4022/udp/239.254.201.72:6000
+南皮,http://www.biaowen.net:4022/udp/239.254.201.119:5335
+内蒙古卫视,http://www.biaowen.net:4022/udp/239.254.200.84:8176
+内丘,http://www.biaowen.net:4022/udp/239.254.201.77:5380
+宁晋,http://www.biaowen.net:4022/udp/239.254.201.51:5375
+宁夏卫视,http://www.biaowen.net:4022/udp/239.254.200.87:8124
+平泉,http://www.biaowen.net:4022/udp/239.254.200.177:5286
+平乡,http://www.biaowen.net:4022/udp/239.254.201.53:5378
+七彩戏剧,http://www.biaowen.net:4022/udp/239.254.201.180:7213
+迁安,http://www.biaowen.net:4022/udp/239.254.201.109:5199
+迁西,http://www.biaowen.net:4022/udp/239.254.201.26:5188
+秦皇岛1,http://www.biaowen.net:4022/udp/239.254.200.39:6000
+秦皇岛2,http://www.biaowen.net:4022/udp/239.254.200.40:6000
+秦皇岛3,http://www.biaowen.net:4022/udp/239.254.200.41:6000
+青海卫视,http://www.biaowen.net:4022/udp/239.254.200.85:8184
+青县,http://www.biaowen.net:4022/udp/239.254.201.112:5333
+清河,http://www.biaowen.net:4022/udp/239.254.200.170:5366
+邱县,http://www.biaowen.net:4022/udp/239.254.201.129:6209
+求索纪录,http://www.biaowen.net:4022/udp/239.254.201.176:7221
+曲阳,http://www.biaowen.net:4022/udp/239.254.200.242:5265
+曲周,http://www.biaowen.net:4022/udp/239.254.200.236:5210
+全纪实,http://www.biaowen.net:4022/udp/239.254.201.200:6356
+全纪实,http://www.biaowen.net:4022/udp/239.254.200.140:4120
+饶阳,http://www.biaowen.net:4022/udp/239.254.201.44:5353
+任县,http://www.biaowen.net:4022/udp/239.254.201.115:5381
+容城,http://www.biaowen.net:4022/udp/239.254.201.102:6256
+三河,http://www.biaowen.net:4022/udp/239.254.201.113:5315
+三佳购物,http://www.biaowen.net:4022/udp/239.254.200.143:6000
+沙河,http://www.biaowen.net:4022/udp/239.254.200.181:5369
+山东教育,http://www.biaowen.net:4022/udp/239.254.200.247:4120
+山东卫视,http://www.biaowen.net:4022/udp/239.254.200.55:8052
+山西卫视,http://www.biaowen.net:4022/udp/239.254.200.83:8172
+陕西卫视,http://www.biaowen.net:4022/udp/239.254.200.82:8140
+涉县,http://www.biaowen.net:4022/udp/239.254.201.97:5222
+摄影,http://www.biaowen.net:4022/udp/239.254.200.119:6246
+深泽,http://www.biaowen.net:4022/udp/239.254.201.108:5180
+深圳卫视,http://www.biaowen.net:4022/udp/239.254.200.50:8020
+深州,http://www.biaowen.net:4022/udp/239.254.201.46:5357
+生活时尚,http://www.biaowen.net:4022/udp/239.254.201.166:6359
+生态环境,http://www.biaowen.net:4022/udp/239.254.201.187:6226
+石家庄都市,http://www.biaowen.net:4022/udp/239.254.200.31:6000
+石家庄生活,http://www.biaowen.net:4022/udp/239.254.200.30:6000
+石家庄新闻,http://www.biaowen.net:4022/udp/239.254.200.157:6000
+石家庄娱乐,http://www.biaowen.net:4022/udp/239.254.200.29:6000
+时尚购物,http://www.biaowen.net:4022/udp/239.254.201.82:6282
+书画,http://www.biaowen.net:4022/udp/239.254.200.217:6267
+双滦,http://www.biaowen.net:4022/udp/239.254.201.63:5293
+顺平,http://www.biaowen.net:4022/udp/239.254.201.118:6257
+四川卫视,http://www.biaowen.net:4022/udp/239.254.200.202:6325
+四海钓鱼,http://www.biaowen.net:4022/udp/239.254.201.185:6363
+肃宁,http://www.biaowen.net:4022/udp/239.254.201.100:5179
+肃宁,http://www.biaowen.net:4022/udp/239.254.201.122:5336
+唐山公共,http://www.biaowen.net:4022/udp/239.254.200.169:6000
+唐山生活,http://www.biaowen.net:4022/udp/239.254.200.167:6000
+唐山新闻,http://www.biaowen.net:4022/udp/239.254.200.166:6000
+唐山影视,http://www.biaowen.net:4022/udp/239.254.200.168:6000
+唐县,http://www.biaowen.net:4022/udp/239.254.201.41:5264
+陶瓷,http://www.biaowen.net:4022/udp/239.254.201.21:7175
+体育赛事,http://www.biaowen.net:4022/udp/239.254.201.170:8176
+天津卫视,http://www.biaowen.net:4022/udp/239.254.200.54:1234
+天元围棋,http://www.biaowen.net:4022/udp/239.254.201.156:6270
+网络棋牌,http://www.biaowen.net:4022/udp/239.254.201.159:7169
+望都,http://www.biaowen.net:4022/udp/239.254.201.56:6246
+卫生健康,http://www.biaowen.net:4022/udp/239.254.200.121:6248
+魏县,http://www.biaowen.net:4022/udp/239.254.201.148:6211
+文安,http://www.biaowen.net:4022/udp/239.254.201.103:5314
+文物宝库,http://www.biaowen.net:4022/udp/239.254.200.106:6239
+文物宝库高清,http://www.biaowen.net:4022/udp/239.254.201.227:7230
+无极,http://www.biaowen.net:4022/udp/239.254.200.220:5167
+吴桥,http://www.biaowen.net:4022/udp/239.254.201.138:5337
+武安,http://www.biaowen.net:4022/udp/239.254.201.6:5216
+武术世界,http://www.biaowen.net:4022/udp/239.254.200.100:6234
+武术世界高清,http://www.biaowen.net:4022/udp/239.254.201.224:7229
+武邑,http://www.biaowen.net:4022/udp/239.254.201.8:5355
+西藏卫视,http://www.biaowen.net:4022/udp/239.254.200.88:8164
+先锋乒羽,http://www.biaowen.net:4022/udp/239.254.201.160:7172
+香河,http://www.biaowen.net:4022/udp/239.254.201.32:5306
+新动漫,http://www.biaowen.net:4022/udp/239.254.201.158:7170
+新疆卫视,http://www.biaowen.net:4022/udp/239.254.200.89:8160
+新科动漫,http://www.biaowen.net:4022/udp/239.254.200.112:6242
+邢台生活,http://www.biaowen.net:4022/udp/239.254.200.152:6000
+邢台综合,http://www.biaowen.net:4022/udp/239.254.200.150:6000
+兴隆,http://www.biaowen.net:4022/udp/239.254.201.95:5295
+雄县,http://www.biaowen.net:4022/udp/239.254.201.94:6254
+徐水,http://www.biaowen.net:4022/udp/239.254.201.147:6260
+盐山,http://www.biaowen.net:4022/udp/239.254.201.114:5334
+英语辅导,http://www.biaowen.net:4022/udp/239.254.200.116:6245
+永清,http://www.biaowen.net:4022/udp/239.254.201.141:5316
+优购物,http://www.biaowen.net:4022/udp/239.254.201.78:6283
+优漫卡通,http://www.biaowen.net:4022/udp/239.254.201.203:7178
+优优宝贝,http://www.biaowen.net:4022/udp/239.254.201.186:6272
+游戏风云,http://www.biaowen.net:4022/udp/239.254.201.163:6354
+游戏竞技,http://www.biaowen.net:4022/udp/239.254.201.157:6269
+羽毛球专区,http://www.biaowen.net:4022/udp/239.254.201.214:7264
+玉田,http://www.biaowen.net:4022/udp/239.254.201.28:5194
+元氏,http://www.biaowen.net:4022/udp/239.254.200.191:5169
+云南卫视,http://www.biaowen.net:4022/udp/239.254.200.68:8108
+赞皇,http://www.biaowen.net:4022/udp/239.254.200.244:5177
+早期教育,http://www.biaowen.net:4022/udp/239.254.200.114:6244
+早期教育高清,http://www.biaowen.net:4022/udp/239.254.201.230:7253
+枣强,http://www.biaowen.net:4022/udp/239.254.201.136:5363
+张北,http://www.biaowen.net:4022/udp/239.254.201.130:5271
+张家口1,http://www.biaowen.net:4022/udp/239.254.200.35:6000
+张家口2,http://www.biaowen.net:4022/udp/239.254.200.36:6000
+赵县,http://www.biaowen.net:4022/udp/239.254.201.111:5183
+浙江卫视,http://www.biaowen.net:4022/udp/239.254.200.53:8036
+中国交通,http://www.biaowen.net:4022/udp/239.254.201.110:5181
+中华美食,http://www.biaowen.net:4022/udp/239.254.201.189:7171
+中华特产,http://www.biaowen.net:4022/udp/239.254.201.184:6263
+中式八球国际公开赛,http://www.biaowen.net:4022/udp/239.254.200.187:6000
+中学生,http://www.biaowen.net:4022/udp/239.254.200.113:6243
+重庆汽摩,http://www.biaowen.net:4022/udp/239.254.200.103:6252
+重庆卫视,http://www.biaowen.net:4022/udp/239.254.200.203:6323
+涿鹿,http://www.biaowen.net:4022/udp/239.254.201.145:5272
+涿州,http://www.biaowen.net:4022/udp/239.254.201.17:5261
+足球,http://www.biaowen.net:4022/udp/239.254.201.169:6341
+遵化,http://www.biaowen.net:4022/udp/239.254.201.146:5202
