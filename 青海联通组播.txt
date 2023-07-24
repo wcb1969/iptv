@@ -1,13 +1,13 @@
 CCTV1HD,http://lovegfs.top:8000/udp/239.120.1.120:8778
 CCTV2HD,http://lovegfs.top:8000/udp/239.120.1.223:9484
-CCTV3HD测试,http://lovegfs.top:8000/udp/239.120.1.88:9420
+CCTV3HD,http://lovegfs.top:8000/udp/239.120.1.88:9420
 CCTV4,http://lovegfs.top:8000/udp/239.120.1.43:8232
 CCTV4,http://lovegfs.top:8000/udp/239.120.1.159:9012
 CCTV5+,http://lovegfs.top:8000/udp/239.120.1.245:9428
 CCTV5HD,http://lovegfs.top:8000/udp/239.120.1.46:8248
 CCTV6HD,http://lovegfs.top:8000/udp/239.120.1.49:8252
 CCTV7HD,http://lovegfs.top:8000/udp/239.120.1.224:9490
-CCTV8HD测试,http://lovegfs.top:8000/udp/239.120.1.50:8308
+CCTV8HD,http://lovegfs.top:8000/udp/239.120.1.50:8308
 CCTV9HD,http://lovegfs.top:8000/udp/239.120.1.227:9496
 CCTV10,http://lovegfs.top:8000/udp/239.120.1.250:9448
 CCTV11,http://lovegfs.top:8000/udp/239.120.1.163:9036
