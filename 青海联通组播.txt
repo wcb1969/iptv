@@ -12,3 +12,14 @@ CCTV5+,http://lovegfs.top:8000/udp/239.120.1.245:9428
 西宁生活,http://lovegfs.top:8000/udp/239.120.1.248:9440
 西宁新闻,http://lovegfs.top:8000/udp/239.120.1.249:9444
 CCTV10,http://lovegfs.top:8000/udp/239.120.1.250:9448
+中国天气,http://lovegfs.top:8000/udp/239.120.1.241:9408
+东南卫视,http://lovegfs.top:8000/udp/239.120.1.232:9372
+安徽卫视,http://lovegfs.top:8000/udp/239.120.1.226:9348
+家庭理财,http://lovegfs.top:8000/udp/239.120.1.222:9340
+都市剧场,http://lovegfs.top:8000/udp/239.120.1.221:9336
+生活时尚,http://lovegfs.top:8000/udp/239.120.1.220:9332
+动漫秀场,http://lovegfs.top:8000/udp/239.120.1.219:9328
+乐游,http://lovegfs.top:8000/udp/239.120.1.217:9320
+欢笑剧场,http://lovegfs.top:8000/udp/239.120.1.216:9316
+游戏风云,http://lovegfs.top:8000/udp/239.120.1.215:9312
+河北卫视,http://lovegfs.top:8000/udp/239.120.1.212:9300
