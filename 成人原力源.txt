@@ -1,26 +1,26 @@
-彩虹e,mitv://135.148.104.228:19806/3f5f22df9a324f759e43967b0d3ffe65
-彩虹电影,mitv://135.148.104.228:19806/65b9f44984e749a8b14455a173779644
-LOOK TV,mitv://135.148.104.228:19806/c8aab8c8683c4f35aba0e745535afd41
-潘朵啦玩美,mitv://135.148.104.228:19806/3f91635cf956419490d1905f7d5c6790
-惊艳成人电影,mitv://135.148.104.228:19806/9eaea463d2f54b5d92fb34948ad0b72d
-松视1,mitv://135.148.104.228:19806/878c994ac52a4c50a71914f559b0ddc6
-松视2,mitv://135.148.104.228:19806/3bd5b1fec1134ecc856c965a5c0e6ff9
-PLAYBOY,mitv://135.148.104.228:19806/47f99c6bdb9449a594cc0621f8980f3c
-香蕉,mitv://135.148.104.228:19806/cb6c40d4aea546a7b518377e7aee5fb0
-松视3,mitv://135.148.104.228:19806/0045293e14224851a3e930cf0b8a07f8
-JStar极限,mitv://135.148.104.228:19806/a55acb84487242d882b0b53dd110b845
-HAPPY,mitv://135.148.104.228:19806/7b02a03ce3094b4e84f883565805f3a4
-K,mitv://135.148.104.228:19806/1aec46d506634015a1276c5e4d846976
-彩虹e,mitv://generationnexxxt.com:19806/3f5f22df9a324f759e43967b0d3ffe65
-彩虹电影,mitv://generationnexxxt.com:19806/65b9f44984e749a8b14455a173779644
-LOOK TV,mitv://generationnexxxt.com:19806/c8aab8c8683c4f35aba0e745535afd41
-潘朵啦玩美,mitv://generationnexxxt.com:19806/3f91635cf956419490d1905f7d5c6790
-惊艳成人电影,mitv://generationnexxxt.com:19806/9eaea463d2f54b5d92fb34948ad0b72d
-松视1,mitv://generationnexxxt.com:19806/878c994ac52a4c50a71914f559b0ddc6
-松视2,mitv://generationnexxxt.com:19806/3bd5b1fec1134ecc856c965a5c0e6ff9
-PLAYBOY,mitv://generationnexxxt.com:19806/47f99c6bdb9449a594cc0621f8980f3c
-香蕉,mitv://generationnexxxt.com:19806/cb6c40d4aea546a7b518377e7aee5fb0
-松视3,mitv://generationnexxxt.com:19806/0045293e14224851a3e930cf0b8a07f8
-JStar极限,mitv://generationnexxxt.com:19806/a55acb84487242d882b0b53dd110b845
-HAPPY,mitv://generationnexxxt.com:19806/7b02a03ce3094b4e84f883565805f3a4
-K,mitv://generationnexxxt.com:19806/1aec46d506634015a1276c5e4d846976
+彩虹e,mitv://135.148.104.228:19806/2061b87b342c4060879467426ec343f6
+彩虹电影,mitv://135.148.104.228:19806/80f6c5a52dc14d82bd6751bae9a7bd2d
+LOOK TV,mitv://135.148.104.228:19806/92bcfe5249e74ea5952e0789ad1ca434
+潘朵啦玩美,mitv://135.148.104.228:19806/95508bd377be4e57b98e82771b1def03
+惊艳成人电影,mitv://135.148.104.228:19806/87c67ddb3fe542209fad31646df0ab1e
+松视1,mitv://135.148.104.228:19806/f4f8edef1bc84e3f96f0ef2f1aca7462
+松视2,mitv://135.148.104.228:19806/214a310f878442028c2bea560e9518c6
+PLAYBOY,mitv://135.148.104.228:19806/a1bdd4044b1241498c615ee02ab4e868
+香蕉,mitv://135.148.104.228:19806/2755dbf54022456bb1def228cda54ba1
+松视3,mitv://135.148.104.228:19806/4f855e073cb74c4ba33494f3c5feab03
+JStar极限,mitv://135.148.104.228:19806/dcf99b2bda44417a96ec205123929881
+HAPPY,mitv://135.148.104.228:19806/3d1df484dbe649a3b509dbe60dca4bfa
+K,mitv://135.148.104.228:19806/5e51b7ff2fa34cb6a667e3d3c217da88
+彩虹e,mitv://generationnexxxt.com:19806/2061b87b342c4060879467426ec343f6
+彩虹电影,mitv://generationnexxxt.com:19806/80f6c5a52dc14d82bd6751bae9a7bd2d
+LOOK TV,mitv://generationnexxxt.com:19806/92bcfe5249e74ea5952e0789ad1ca434
+潘朵啦玩美,mitv://generationnexxxt.com:19806/95508bd377be4e57b98e82771b1def03
+惊艳成人电影,mitv://generationnexxxt.com:19806/87c67ddb3fe542209fad31646df0ab1e
+松视1,mitv://generationnexxxt.com:19806/f4f8edef1bc84e3f96f0ef2f1aca7462
+松视2,mitv://generationnexxxt.com:19806/214a310f878442028c2bea560e9518c6
+PLAYBOY,mitv://generationnexxxt.com:19806/a1bdd4044b1241498c615ee02ab4e868
+香蕉,mitv://generationnexxxt.com:19806/2755dbf54022456bb1def228cda54ba1
+松视3,mitv://generationnexxxt.com:19806/4f855e073cb74c4ba33494f3c5feab03
+JStar极限,mitv://generationnexxxt.com:19806/dcf99b2bda44417a96ec205123929881
+HAPPY,mitv://generationnexxxt.com:19806/3d1df484dbe649a3b509dbe60dca4bfa
+K,mitv://generationnexxxt.com:19806/5e51b7ff2fa34cb6a667e3d3c217da88
