@@ -115,7 +115,7 @@ CGTN 英文记录,http://wqking.top:4022/udp/239.253.93.195:6373
 安徽卫视[768*576],http://wqking.top:4022/udp/239.253.92.69:8025
 安徽卫视[768*576],http://www.wqking.top:4022/udp/239.253.2.27:8142
 安平,http://wqking.top:4022/udp/239.253.93.36:6189
-安平1,http://www.wqking.top:4022/udp/239.253.2.168:8992
+安平,http://www.wqking.top:4022/udp/239.253.2.168:8992
 安新[720*576],http://wqking.top:4022/udp/239.253.93.107:6274
 安新综合[720*576],http://www.wqking.top:4022/udp/239.253.3.48:8270
 霸州综合[1047*576],http://wqking.top:4022/udp/239.253.93.209:6387
@@ -179,18 +179,18 @@ CGTN 英文记录,http://wqking.top:4022/udp/239.253.93.195:6373
 甘肃卫视[768*576],http://wqking.top:4022/udp/239.253.92.48:8053
 甘肃卫视[768*576],http://www.wqking.top:4022/udp/239.253.2.54:8304
 高碑店,http://wqking.top:4022/udp/239.253.93.23:6176
-高碑店1,http://www.wqking.top:4022/udp/239.253.2.223:9322
+高碑店,http://www.wqking.top:4022/udp/239.253.2.223:9322
 高阳[785*576],http://wqking.top:4022/udp/239.253.93.105:6272
-高阳新闻[785*576],http://www.wqking.top:4022/udp/239.253.3.46:8258
+高阳[785*576],http://www.wqking.top:4022/udp/239.253.3.46:8258
 故城,http://wqking.top:4022/udp/239.253.93.161:6329
-故城1,http://www.wqking.top:4022/udp/239.253.3.71:8408
+故城,http://www.wqking.top:4022/udp/239.253.3.71:8408
 馆陶[720*576],http://wqking.top:4022/udp/239.253.93.115:6282
 广东卫视,http://wqking.top:4022/udp/239.253.92.206:8108
 广东卫视,http://www.wqking.top:4022/udp/239.253.2.116:8676
 广东卫视[768*576],http://wqking.top:4022/udp/239.253.92.34:8042
 广东卫视[768*576],http://www.wqking.top:4022/udp/239.253.2.43:8238
 广平[768*576],http://wqking.top:4022/udp/239.253.93.66:6231
-广平新闻[768*576],http://www.wqking.top:4022/udp/239.253.3.20:8102
+广平[768*576],http://www.wqking.top:4022/udp/239.253.3.20:8102
 广西卫视,http://wqking.top:4022/udp/239.253.92.76:8043
 广西卫视,http://www.wqking.top:4022/udp/239.253.2.44:8244
 广西卫视,http://www.wqking.top:4022/udp/239.253.92.76:8043
@@ -230,7 +230,7 @@ CGTN 英文记录,http://wqking.top:4022/udp/239.253.93.195:6373
 河北卫视,http://www.wqking.top:4022/udp/239.253.2.152:8896
 河北影视,http://wqking.top:4022/udp/239.253.92.173:6003
 河北影视,http://www.wqking.top:4022/udp/239.253.92.173:6003
-河北影视剧,http://www.wqking.top:4022/udp/239.253.2.20:8100
+河北影视,http://www.wqking.top:4022/udp/239.253.2.20:8100
 河北杂技[768*576],http://wqking.top:4022/udp/239.253.93.170:6338
 河北杂技[768*576],http://www.wqking.top:4022/udp/239.253.3.76:8438
 河南卫视,http://wqking.top:4022/udp/239.253.92.137:6144
@@ -294,7 +294,7 @@ CGTN 英文记录,http://wqking.top:4022/udp/239.253.93.195:6373
 井陉,http://wqking.top:4022/udp/239.253.93.205:6383
 井陉,http://wqking.top:4022/udp/239.253.92.215:6067
 景县,http://wqking.top:4022/udp/239.253.93.38:6191
-景县1,http://www.wqking.top:4022/udp/239.253.2.234:9388
+景县,http://www.wqking.top:4022/udp/239.253.2.234:9388
 九屏直播,http://www.wqking.top:4022/udp/239.253.3.14:8066
 巨鹿,http://wqking.top:4022/udp/239.253.92.254:6449
 聚鲨环球[785*576],http://wqking.top:4022/udp/239.253.93.100:6266
@@ -304,9 +304,9 @@ CGTN 英文记录,http://wqking.top:4022/udp/239.253.93.195:6373
 快乐垂钓,http://wqking.top:4022/udp/239.253.93.213:6391
 宽城新闻[720*576],http://wqking.top:4022/udp/239.253.93.117:6019
 涞水[768*576],http://wqking.top:4022/udp/239.253.93.17:6170
-涞水1[768*576],http://www.wqking.top:4022/udp/239.253.2.157:8926
+涞水[768*576],http://www.wqking.top:4022/udp/239.253.2.157:8926
 涞源,http://wqking.top:4022/udp/239.253.93.22:6175
-涞源综合,http://www.wqking.top:4022/udp/239.253.2.160:8944
+涞源,http://www.wqking.top:4022/udp/239.253.2.160:8944
 廊坊公共,http://wqking.top:4022/udp/239.253.92.166:6037
 廊坊新闻,http://wqking.top:4022/udp/239.253.92.164:6036
 乐亭[768*576],http://wqking.top:4022/udp/239.253.93.250:6290
@@ -325,7 +325,7 @@ CGTN 英文记录,http://wqking.top:4022/udp/239.253.93.195:6373
 临时直播[785*576],http://www.wqking.top:4022/udp/239.253.3.15:8072
 临西,http://wqking.top:4022/udp/239.253.94.29:6628
 临漳,http://wqking.top:4022/udp/239.253.93.84:6250
-临漳1,http://www.wqking.top:4022/udp/239.253.3.35:8192
+临漳,http://www.wqking.top:4022/udp/239.253.3.35:8192
 隆化,http://wqking.top:4022/udp/239.253.93.174:6342
 隆尧[720*576],http://wqking.top:4022/udp/239.253.93.65:6230
 卢龙[785*576],http://wqking.top:4022/udp/239.253.93.206:6384
@@ -350,7 +350,7 @@ CGTN 英文记录,http://wqking.top:4022/udp/239.253.93.195:6373
 CCTV女性时尚[1047*576],http://www.wqking.top:4022/udp/239.253.2.85:8490
 平泉,http://wqking.top:4022/udp/239.253.92.156:6012
 平乡[768*576],http://wqking.top:4022/udp/239.253.93.53:6206
-平乡综合[768*576],http://www.wqking.top:4022/udp/239.253.3.7:8024
+平乡[768*576],http://www.wqking.top:4022/udp/239.253.3.7:8024
 汽摩[785*576],http://wqking.top:4022/udp/239.253.92.46:6110
 迁安[768*576],http://wqking.top:4022/udp/239.253.93.113:6280
 迁西[768*576],http://wqking.top:4022/udp/239.253.92.247:6091
@@ -380,7 +380,7 @@ CCTV女性时尚[1047*576],http://www.wqking.top:4022/udp/239.253.2.85:8490
 三佳购物,http://wqking.top:4022/udp/239.253.92.24:8130
 三佳购物,http://www.wqking.top:4022/udp/239.253.2.147:8862
 沙河[768*576],http://wqking.top:4022/udp/239.253.93.179:6347
-沙河新闻[768*576],http://www.wqking.top:4022/udp/239.253.2.149:8878
+沙河[768*576],http://www.wqking.top:4022/udp/239.253.2.149:8878
 山东教育[785*576],http://wqking.top:4022/udp/239.253.92.106:6135
 山东教育[785*576],http://www.wqking.top:4022/udp/239.253.2.181:9562
 山东卫视,http://wqking.top:4022/udp/239.253.92.207:8109
@@ -414,7 +414,7 @@ CCTV女性时尚[1047*576],http://www.wqking.top:4022/udp/239.253.2.85:8490
 书画[768*576],http://wqking.top:4022/udp/239.253.93.214:6392
 双滦[720*576],http://wqking.top:4022/udp/239.253.92.147:6224
 顺平[785*576],http://wqking.top:4022/udp/239.253.93.148:6316
-顺平1[785*576],http://www.wqking.top:4022/udp/239.253.3.64:8366
+顺平[785*576],http://www.wqking.top:4022/udp/239.253.3.64:8366
 四川卫视,http://wqking.top:4022/udp/239.253.92.16:6043
 四川卫视,http://www.wqking.top:4022/udp/239.253.2.180:9064
 四川卫视[768*576],http://wqking.top:4022/udp/239.253.92.73:8033
