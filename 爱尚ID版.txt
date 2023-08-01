@@ -1,5 +1,4 @@
 爱上4K 25M2160,http://xxx.xx.xx.xx/live.aishang.ctlcdn.com/00000110240505_1/playlist.m3u8?CONTENTID=00000110240505_1
-CCTV4K 25M2160,http://xxx.xx.xx.xx/live.aishang.ctlcdn.com/00000110240505_1/playlist.m3u8?CONTENTID=00000110240505_1
 CCTV1 8M1080,http://xxx.xx.xx.xx/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1
 CCTV2 8M1080,http://xxx.xx.xx.xx/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1
 CCTV3 2M1080,http://xxx.xx.xx.xx/live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTENTID=00000110240245_1
@@ -17,9 +16,11 @@ CCTV12 2M1080,http://xxx.xx.xx.xx/live.aishang.ctlcdn.com/00000110240252_1/playl
 CCTV13 8M1080,http://xxx.xx.xx.xx/live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1
 CCTV14 2M1080,http://xxx.xx.xx.xx/live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8?CONTENTID=00000110240253_1
 CCTV15 8M1080,http://xxx.xx.xx.xx/live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CONTENTID=00000110240329_1
+CCTV16 8M1080,http://xxx.xx.xx.xx/live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CONTENTID=00000110240388_1
+CCTV16 20M2160,http://xxx.xx.xx.xx/live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CONTENTID=00000110240389_1
 CCTV17 8M1080,http://xxx.xx.xx.xx/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3u8?CONTENTID=00000110240326_1
 IPTV5+ 2M1080,http://xxx.xx.xx.xx/live.aishang.ctlcdn.com/00000110240281_1/playlist.m3u8?CONTENTID=00000110240281_1
-中国教育1 8M1080,http://xxx.xx.xx.xx/live.aishang.ctlcdn.com/00000110240302_1/playlist.m3u8?CONTENTID=00000110240302_1
+CETV1 8M1080,http://xxx.xx.xx.xx/live.aishang.ctlcdn.com/00000110240302_1/playlist.m3u8?CONTENTID=00000110240302_1
 东南卫视 8M1080,http://xxx.xx.xx.xx/live.aishang.ctlcdn.com/00000110240588_1/playlist.m3u8?CONTENTID=00000110240588_1
 东方卫视 8M1080,http://xxx.xx.xx.xx/live.aishang.ctlcdn.com/00000110240242_1/playlist.m3u8?CONTENTID=00000110240242_1
 北京卫视 2M1080,http://xxx.xx.xx.xx/live.aishang.ctlcdn.com/00000110240129_1/playlist.m3u8?CONTENTID=00000110240129_1
