@@ -1,4 +1,6 @@
 CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
+CCTV1,http://www.yima.eu.org/as1.php?id=cctv1hd
+CCTV1,http://www.yima.eu.org/as.php?id=cctv1hd
 CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
 CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
 CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
@@ -16,6 +18,7 @@ CCTV14,http://live.cooltv.top/tv/aishang.php?id=cctv14hd
 CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
 CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
 CCTV16-4K,http://live.cooltv.top/tv/aishang.php?id=cctv164k
+CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 湖南卫视,http://live.cooltv.top/tv/aishang.php?id=hunwshd
 浙江卫视,http://live.cooltv.top/tv/aishang.php?id=zjwshd
 东方卫视,http://live.cooltv.top/tv/aishang.php?id=dfwshd
