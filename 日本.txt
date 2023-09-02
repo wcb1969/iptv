@@ -1,7 +1,7 @@
 TBS News,https://ythls.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
 NHK PREMIUM WORLD HD 4K,https://cdn2.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8#491c9daa7f9f5537617201603f94585f46ad638f76decd3ab7a668a68e253dcb
 ANIPLUS,http://210.210.155.35/dr9445/h/h02/index.m3u8
-GEEKDOT(Crunchyroll-animes),
+GEEKDOT(Crunchyroll-animes),https://stream.ichibantv.com:3764/hybrid/play.m3u8
 Animes TV,https://stmv1.srvif.com/animetv/animetv/chunklist_w432289428.m3u8
 WORDING TV,https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1495874316.m3u8 LOADINGTV(animes),https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w2107640393.m3u8
 Locomotion,http://51.222.85.85:81/hls/loco/index.m3u8
