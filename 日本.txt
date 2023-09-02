@@ -1,7 +1,18 @@
+TBS News,https://ythls.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
+NHK PREMIUM WORLD HD 4K,https://cdn2.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8#491c9daa7f9f5537617201603f94585f46ad638f76decd3ab7a668a68e253dcb
+ANIPLUS,http://210.210.155.35/dr9445/h/h02/index.m3u8
+GEEKDOT(Crunchyroll-animes),
+Animes TV,https://stmv1.srvif.com/animetv/animetv/chunklist_w432289428.m3u8
+WORDING TV,https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1495874316.m3u8 LOADINGTV(animes),https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w2107640393.m3u8
+Locomotion,http://51.222.85.85:81/hls/loco/index.m3u8
+NHKG-SD,https://nhk4.mov3.co/hls/nhk.m3u8
+Tokyo Narita Airport,http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8#1173e9d09195db64bc39aa3d7098b0673b3fdec561d418ede2928a945890eabe
+OTAKUSIGNTV,https://stmv1.srvif.com/otaku/otaku/chunklist_w1095969292.m3u8
 6,http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/81875
 Animax,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
 Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+AnimeStation,https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 Animax,http://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
 Asahi,http://jpvip999.dinhluong.jp:727/hls/asahi/index.m3u8
 AT-X ,https://sub2.neetball.net/live/neet.m3u8
@@ -87,6 +98,7 @@ WOWOWプライム (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u
 WOWOWライブ (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 キッズステーション (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ゴルフネットワーク (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+CartoonNetwork,http://103.112.191.9:880/LAOSAT1090.m3u8
 スーパー!ドラマTV (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 スカイA (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 スターチャンネル1 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
