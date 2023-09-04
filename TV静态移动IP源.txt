@@ -1,0 +1,43 @@
+CCTV-4K,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000266303.m3u8
+CCTV-8K,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2020603461.m3u8
+CCTV-8K,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2020603421.m3u8
+CCTV-1,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210103.m3u8
+CCTV-2,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203603.m3u8
+CCTV-3,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
+CCTV-4,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204803.m3u8
+CCTV-5,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205103.m3u8
+CCTV-5+,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204503.m3u8
+CCTV-6,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
+CCTV-7,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000510003.m3u8
+CCTV-8,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
+CCTV-9,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
+CCTV-10,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
+CCTV-11,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204103.m3u8
+CCTV-12,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8
+CCTV-13,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204603.m3u8
+CCTV-14,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204403.m3u8
+CCTV-15,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205003.m3u8
+CCTV-16,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012375003.m3u8
+CCTV-16,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012492303.m3u8
+CCTV-17,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204203.m3u8
+
+CGTN,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2001656803.m3u8
+CGTN 纪录,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010155403.m3u8
+CGTN 法语,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010153503.m3u8
+CGTN 俄语,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010152603.m3u8
+CGTN 阿拉伯语,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010155203.m3u8
+CGTN 西班牙语,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010152503.m3u8
+
+风云足球,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514203.m3u8
+风云音乐,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514103.m3u8
+风云剧场,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513603.m3u8
+第一剧场,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514403.m3u8
+怀旧剧场,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012511203.m3u8
+央视文化精品,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513803.m3u8
+兵器科技,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513403.m3u8
+高尔夫网球,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012512503.m3u8
+女性时尚,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513903.m3u8
+央视台球,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513703.m3u8
+电视指南,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514003.m3u8
+世界地理,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513303.m3u8
+卫生健康,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513503.m3u8
