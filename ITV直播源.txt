@@ -94,6 +94,7 @@ NewTV古装剧场,http://tvcdn.kkmz.top/itv/2000000003000000024.m3u8?cdn=hnbbliv
 CCTV1,http://tvcdn.kkmz.top/itv/5000000004000002226.m3u8?cdn=bestzb
 四川卫视,http://tvcdn.kkmz.top/itv/5000000004000006119.m3u8?cdn=bestzb
 海南卫视,http://tvcdn.kkmz.top/itv/5000000004000006211.m3u8?cdn=bestzb
+三沙卫视,http://tvcdn.kkmz.top/itv/5000000011000288016.m3u8?cdn=bestzb
 CCTV14,http://tvcdn.kkmz.top/itv/5000000004000006673.m3u8?cdn=bestzb
 湖南卫视,http://tvcdn.kkmz.top/itv/5000000004000006692.m3u8?cdn=bestzb
 天津卫视,http://tvcdn.kkmz.top/itv/5000000004000006827.m3u8?cdn=bestzb
