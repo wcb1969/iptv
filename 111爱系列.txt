@@ -72,3 +72,15 @@
 爱动漫,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000059
 爱体育,http://php.jdshipin.com:8880/itv6.php?cid=wasusyt&id=6000000006000290630
 爱体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000060
+爱体育,http://psp94525.iask.in:6688/udp/239.93.0.135:9008
+爱浪漫,http://psp94525.iask.in:6688/udp/239.93.42.21:5140
+爱喜剧,http://psp94525.iask.in:6688/udp/239.93.42.9:5140
+爱奇谈,http://psp94525.iask.in:6688/udp/239.93.42.22:5140
+爱科幻,http://psp94525.iask.in:6688/udp/239.93.42.10:5140
+爱院线,http://psp94525.iask.in:6688/udp/239.93.42.11:5140
+爱幼教,http://psp94525.iask.in:6688/udp/239.93.42.17:5140
+爱玩具,http://psp94525.iask.in:6688/udp/239.93.42.18:5140
+爱动漫,http://psp94525.iask.in:6688/udp/239.93.42.23:5140
+爱体育,http://psp94525.iask.in:6688/udp/239.93.42.19:5140
+爱赛车,http://psp94525.iask.in:6688/udp/239.93.42.20:5140
+爱生活,http://psp94525.iask.in:6688/udp/239.93.0.206:8028
