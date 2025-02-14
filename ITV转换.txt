@@ -1,3 +1,8 @@
+纯享4K,http://47.92.243.74:5000/TVOD/1000000004000011651/ystenlive/index.m3u8
+CCTV16 奥林匹克4K,http://47.92.243.74:5000/TVOD/5000000008000023254/bestzb/index.m3u8
+SiTV欢笑剧场4K,http://47.92.243.74:5000/TVOD/5000000007000010001/bestzb/index.m3u8
+华数4K,http://47.92.243.74:5000/TVOD/6000000003000004748/wasusyt/index.m3u8
+华数4K,http://47.92.243.74:5000/TVOD/2000000004000000014/hnbblive/index.m3u8
 CCTV1,http://47.92.243.74:5000/TVOD/6000000001000029752/wasusyt/index.m3u8
 CCTV1,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3
 CCTV1,http://111.29.9.34:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
