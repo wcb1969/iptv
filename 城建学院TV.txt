@@ -1,0 +1,140 @@
+CCTV1,https://tv.bfsu.edu.cn/hls/cctv1hd.m3u8
+CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+CCTV2,https://tv.bfsu.edu.cn/hls/cctv2hd.m3u8
+CCTV3,https://tv.bfsu.edu.cn/hls/cctv3hd.m3u8
+CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+CCTV4,https://tv.bfsu.edu.cn/hls/cctv4hd.m3u8
+CCTV5,https://tv.bfsu.edu.cn/hls/cctv5hd.m3u8
+CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+CCTV5+,https://tv.bfsu.edu.cn/hls/cctv5phd.m3u8
+CCTV5+,http://iptv.huuc.edu.cn/hls/cctv5phd.m3u8
+CCTV6,https://tv.bfsu.edu.cn/hls/cctv6hd.m3u8
+CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+CCTV7,https://tv.bfsu.edu.cn/hls/cctv7hd.m3u8
+CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+CCTV8,https://tv.bfsu.edu.cn/hls/cctv8hd.m3u8
+CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
+CCTV9,https://tv.bfsu.edu.cn/hls/cctv9hd.m3u8
+CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+CCTV10,https://tv.bfsu.edu.cn/hls/cctv10hd.m3u8
+CCTV11,https://tv.bfsu.edu.cn/hls/cctv11hd.m3u8
+CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
+CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+CCTV12,https://tv.bfsu.edu.cn/hls/cctv12hd.m3u8
+CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+CCTV13,https://tv.bfsu.edu.cn/hls/cctv13hd.m3u8
+CCTV14,https://tv.bfsu.edu.cn/hls/cctv14hd.m3u8
+CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+CCTV15,https://tv.bfsu.edu.cn/hls/cctv15hd.m3u8
+CCTV15,http://iptv.huuc.edu.cn/hls/cctv15hd.m3u8
+CCTV16,http://iptv.huuc.edu.cn/hls/cctv16hd.m3u8
+CCTV16,https://tv.bfsu.edu.cn/hls/cctv16hd.m3u8
+CCTV17,http://iptv.huuc.edu.cn/hls/cctv17hd.m3u8
+CCTV17,https://tv.bfsu.edu.cn/hls/cctv17hd.m3u8
+安徽卫视,https://tv.bfsu.edu.cn/hls/ahhd.m3u8
+安徽卫视,https://iptv.huuc.edu.cn/hls/ahhd.m3u8
+北京财经,https://tv.bfsu.edu.cn/hls/btv5hd.m3u8
+北京财经,http://iptv.huuc.edu.cn/hls/btv5hd.m3u8
+北京纪实科教,http://iptv.huuc.edu.cn/hls/btv3hd.m3u8
+北京纪实科教,https://tv.bfsu.edu.cn/hls/btv3hd.m3u8
+北京卡酷少儿,http://iptv.huuc.edu.cn/hls/btv10hd.m3u8
+北京卡酷少儿,https://tv.bfsu.edu.cn/hls/btv10hd.m3u8
+北京生活,http://iptv.huuc.edu.cn/hls/btv7hd.m3u8
+北京生活,https://tv.bfsu.edu.cn/hls/btv7hd.m3u8
+北京体育,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
+北京体育,https://tv.bfsu.edu.cn/hls/btv11hd.m3u8
+北京卫视,https://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+北京卫视,https://tv.bfsu.edu.cn/hls/btv1hd.m3u8
+北京文艺,https://tv.bfsu.edu.cn/hls/btv2hd.m3u8
+北京文艺,https://iptv.huuc.edu.cn/hls/btv2hd.m3u8
+北京新闻,https://iptv.huuc.edu.cn/hls/btv9hd.m3u8
+北京新闻,https://tv.bfsu.edu.cn/hls/btv9hd.m3u8
+北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
+北京影视,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
+北京影视,https://iptv.huuc.edu.cn/hls/btv4hd.m3u8
+北京影视,https://tv.bfsu.edu.cn/hls/btv4hd.m3u8
+东方卫视,https://tv.bfsu.edu.cn/hls/dfhd.m3u8
+东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
+东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+东南卫视,https://tv.bfsu.edu.cn/hls/dnhd.m3u8
+广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
+广东卫视,https://tv.bfsu.edu.cn/hls/gdhd.m3u8
+广西卫视,http://iptv.huuc.edu.cn/hls/gxhd.m3u8
+广西卫视,https://tv.bfsu.edu.cn/hls/gxhd.m3u8
+贵州卫视,http://iptv.huuc.edu.cn/hls/gzhd.m3u8
+贵州卫视,https://tv.bfsu.edu.cn/hls/gzhd.m3u8
+海南卫视,https://tv.bfsu.edu.cn/hls/lyhd.m3u8
+海南卫视,http://iptv.huuc.edu.cn/hls/lyhd.m3u8
+河北卫视,http://iptv.huuc.edu.cn/hls/nbhd.m3u8
+河北卫视,https://tv.bfsu.edu.cn/hls/nbhd.m3u8
+河南卫视,https://tv.bfsu.edu.cn/hls/hnhd.m3u8
+河南卫视,http://iptv.huuc.edu.cn/hls/hnhd.m3u8
+黑龙江卫视,https://tv.bfsu.edu.cn/hls/hljhd.m3u8
+黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+湖北卫视,https://tv.bfsu.edu.cn/hls/hbhd.m3u8
+湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+湖南卫视,https://tv.bfsu.edu.cn/hls/hunanhd.m3u8
+吉林卫视,https://tv.bfsu.edu.cn/hls/jlhd.m3u8
+吉林卫视,http://iptv.huuc.edu.cn/hls/jlhd.m3u8
+江苏卫视,https://tv.bfsu.edu.cn/hls/jshd.m3u8
+江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
+江西卫视,https://tv.bfsu.edu.cn/hls/jxhd.m3u8
+江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+辽宁卫视,https://tv.bfsu.edu.cn/hls/lnhd.m3u8
+三沙卫视,https://tv.bfsu.edu.cn/hls/sshd.m3u8
+三沙卫视,http://iptv.huuc.edu.cn/hls/sshd.m3u8
+山东卫视,https://iptv.huuc.edu.cn/hls/sdhd.m3u8
+山东卫视,https://tv.bfsu.edu.cn/hls/sdhd.m3u8
+陕西卫视,http://iptv.huuc.edu.cn/hls/sxhd.m3u8
+陕西卫视,https://tv.bfsu.edu.cn/hls/sxhd.m3u8
+深圳卫视,https://iptv.huuc.edu.cn/hls/szhd.m3u8
+深圳卫视,https://tv.bfsu.edu.cn/hls/szhd.m3u8
+四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
+四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
+四川卫视,https://tv.bfsu.edu.cn/hls/schd.m3u8
+天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
+天津卫视,http://tv.bfsu.edu.cn/hls/tjhd.m3u8
+浙江卫视,https://tv.bfsu.edu.cn/hls/zjhd.m3u8
+浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+重庆卫视,https://tv.bfsu.edu.cn/hls/cqhd.m3u8
+重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+CETV1,https://tv.bfsu.edu.cn/hls/cetv1.m3u8
+CETV4,https://tv.bfsu.edu.cn/hls/cetv4.m3u8
+山东教育卫视,https://tv.bfsu.edu.cn/hls/sdetv.m3u8
+星空卫视,https://tv.bfsu.edu.cn/hls/startv.m3u8
+凤凰中文 576,http://tv.bfsu.edu.cn/hls/fhzw.m3u8
+凤凰电影 576,http://tv.bfsu.edu.cn/hls/fhdy.m3u8
+凤凰资讯 576,http://tv.bfsu.edu.cn/hls/fhzx.m3u8
+新疆卫视 576,http://tv.bfsu.edu.cn/hls/xjtv.m3u8
+山西卫视 576,http://tv.bfsu.edu.cn/hls/sxrtv.m3u8
+CCTV世界地理 576,https://tv.bfsu.edu.cn/hls/sjdltv.m3u8
+CCTV兵器科技 576,http://tv.bfsu.edu.cn/hls/gfjstv.m3u8
+CCTV怀旧剧场 576,http://tv.bfsu.edu.cn/hls/hjjctv.m3u8
+CCTV第一剧场 576,http://tv.bfsu.edu.cn/hls/dyjctv.m3u8
+CCTV风云剧场 576,http://tv.bfsu.edu.cn/hls/fyjctv.m3u8
+CCTV风云足球 576,https://tv.bfsu.edu.cn/hls/fyzqtv.m3u8
+CCTV风云音乐 576,http://tv.bfsu.edu.cn/hls/fyyyjd.m3u8
+云南卫视 576,http://tv.bfsu.edu.cn/hls/yntv.m3u8
+兵团卫视 576,http://tv.bfsu.edu.cn/hls/bttv.m3u8
+内蒙古卫视 576,http://tv.bfsu.edu.cn/hls/nmtv.m3u8
+厦门卫视 576,http://tv.bfsu.edu.cn/hls/xmtv.m3u8
+宁夏卫视 576,http://tv.bfsu.edu.cn/hls/nxtv.m3u8
+甘肃卫视 576,http://tv.bfsu.edu.cn/hls/gstv.m3u8
+西藏卫视 576,http://tv.bfsu.edu.cn/hls/xztv.m3u8
+青海卫视 576,http://tv.bfsu.edu.cn/hls/qhtv.m3u8
+国家地理 576,http://tv.bfsu.edu.cn/hls/natlgeo.m3u8
+CHC动作电影 576,http://tv.bfsu.edu.cn/hls/chcatv.m3u8
+CHC家庭影院 576,http://tv.bfsu.edu.cn/hls/chctv.m3u8
+CHC影迷电影 4M1080,http://tv.bfsu.edu.cn/hls/chc.m3u8
+金鹰卡通 576,http://tv.bfsu.edu.cn/hls/jykttv.m3u8
+Channel V 576,http://tv.bfsu.edu.cn/hls/channelv.m3u8
+StarSports 576,http://tv.bfsu.edu.cn/hls/starsports.m3u8
+探索 576,http://tv.bfsu.edu.cn/hls/discovery.m3u8
+全纪实 2M1080,http://tv.bfsu.edu.cn/hls/documentaryhd.m3u8
+金鹰纪实 3M1080,http://iptv.huuc.edu.cn/hls/gedocu.m3u8
