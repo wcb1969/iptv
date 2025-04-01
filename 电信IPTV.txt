@@ -154,9 +154,9 @@ CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
 CCTV4K,http://116.23.99.235:50000/udp/239.77.0.194:5146
 CCTV4K,https://stream1.freetv.fun/54376a4d22fadd3ac7fb8fcc0b92321f9a5736c597ad6f68cacb0a2e835cf92b.m3u8
 CCTV4美洲,http://tvbox6.icu/tv/migu.php?id=cctv4m
-CCTV4-美洲,http://live.nctv.top/KLJHDS/migu.php?id=cctv4a
+CCTV4美洲,http://live.nctv.top/KLJHDS/migu.php?id=cctv4a
 CCTV4欧洲,http://tvbox6.icu/tv/migu.php?id=cctv4o
-CCTV4-欧洲,http://live.nctv.top/KLJHDS/migu.php?id=cctv4o
+CCTV4欧洲,http://live.nctv.top/KLJHDS/migu.php?id=cctv4o
 CCTV5,http://59.54.14.19:8888/udp/239.77.0.170:5146
 CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
 CCTV5,http://goo.bkpcp.top/mg/cctv5
