@@ -104,7 +104,6 @@
 9-Life,tvbus://6WjWyrfRyDF5uG4mhFM82cxQXMsHKRWC3SZUtjmcMjTFLhrwQux7YFk21qgkg
 9-Life,tvbus://74d7LmMptyt6rawMgb36atsZzjNABah24RVa6r37ZTAFwNntbu
 9-Life,tvbus://87zeYf1VZaVVKqZAsvxyNK6kS1M4xzGz5wDPpCqcNsnKrZW187
-28 AI 智慧赛马,http://aktv-stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
 600 News,tvbus://8ELD9jYXnYyLXjWcQmuJwjbHgmzsqWxXMLtrocTr49derp2Y1V
 600 News,tvbus://5sZZMnMeaAmQCjTx5eAM8uxEcE1N3kikW5iFo71t22fDxo7RypPJYaEnVEH8w
 600 News,tvbus://86myVLcJ4bAeBKgiVHNHemCFpMf58JtcYQtZiAZ4fUVFH8dPWs
@@ -262,11 +261,8 @@ AMC,tvbus://8eEXEwA3wJ2T2EGximFFAtCXPr3dJoxfAtLv9GpTaRNXbzX2no
 AMC,tvbus://7RgXw382g3wwsrecLmGsn3UVcnLwCurDsJMig8RFkusf9sLHeW
 AMC,tvbus://82RbiSJWCCWZ4C3JqftGqHeP5pGWV6d5mLZNCTSUu8YzwEpD8Y
 AMC,tvbus://5hr9huZQcnLrdjcyPn7DV3pnbM4NQKWy6dm3ph2KhGWerJd7FUoYWVPirWWJ7
-AMC电影,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
-AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影,p3p://167.114.175.6:55331/625bbd49000d7c0d1954e42d45bc3182
 AMC电影,p3p://173.208.176.178:31809/625bbd49000d7c0d1954e42d45bc3182
-AMC电影,http://aktv-stream.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
 AMC电影,tvbus://7DY5ZDjuWfC9k4NE3L8hHexyuka8NxYbc5dW5X2Q1PiAYT6gUS
 AMC电影,tvbus://6um4MCPkkn9gyUNMRXWNL2yTvTZjWDnu2NWEFJqL5c3snvCwXv
 AMC电影,tvbus://7svYtKfLc5MyomoVrd1cfSJmZuA6bZAwxtzXx5wo7sHEe4M5u4
@@ -413,14 +409,13 @@ Astro  Bola 1,tvbus://7xccttxNLByBbwnGnZMojXzYcoZci6ytBfA4NzYv31pNCduQMh
 Astro  Bola 1,tvbus://7NsUQqFtYhbdT3yc64MjcMU5EGPCnwLaV4q2AJDqB7qLaZWHBk
 Astro  Bola 1,tvbus://5YRfvq3EwRd3YVpumw5SJDfeReoDviMYKTSToEepzzZK84oSRtvw8ahk13126
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
-Astro AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
-Astro AURA HD,tvbus://7UkofJhgANiUps3oePyKXVC87do8DY3rvmyqsVSYwAkbEmmWVu
-Astro AURA HD,tvbus://7Z1Kq4XJBH4LjXkZ44U5eZgogqX48tTnruSJR5pXt75n5BGEbZ
-Astro AURA HD,tvbus://7xW2jQYBgGdkJ4PwtP2vGgJhsDYMNCU66Vdj64DcSuFHm6zKut
-Astro AURA HD,tvbus://7vehc5eTiGdE8q97T5XsUE1US4aLEV2HXYMsWJBTBqVKVC4ohP
-Astro AURA HD,tvbus://6GFmYo9R7Cdh2SRrnMZprua2628TMenqGKjNqjgdiH8vBpfX49HcrtJ2qHrwc
-Astro AURA HD,tvbus://7gsseqi5JJZjkKhRUfBpV9UvZMFSJHfVTsm8inqK8pDWrMgCbR
-Astro AURA HD,tvbus://8H4TBhGizdXBdEaXrjqBav6TnsaBywwHEsYbt7JncCeJWMMSCL
+Astro AURA,tvbus://7UkofJhgANiUps3oePyKXVC87do8DY3rvmyqsVSYwAkbEmmWVu
+Astro AURA,tvbus://7Z1Kq4XJBH4LjXkZ44U5eZgogqX48tTnruSJR5pXt75n5BGEbZ
+Astro AURA,tvbus://7xW2jQYBgGdkJ4PwtP2vGgJhsDYMNCU66Vdj64DcSuFHm6zKut
+Astro AURA,tvbus://7vehc5eTiGdE8q97T5XsUE1US4aLEV2HXYMsWJBTBqVKVC4ohP
+Astro AURA,tvbus://6GFmYo9R7Cdh2SRrnMZprua2628TMenqGKjNqjgdiH8vBpfX49HcrtJ2qHrwc
+Astro AURA,tvbus://7gsseqi5JJZjkKhRUfBpV9UvZMFSJHfVTsm8inqK8pDWrMgCbR
+Astro AURA,tvbus://8H4TBhGizdXBdEaXrjqBav6TnsaBywwHEsYbt7JncCeJWMMSCL
 Astro Badminton,tvbus://7CfCYn1y5L7rkfF8iYS83rygxcKRpdy7X9eFq8Aworx556A1wX
 Astro Badminton,tvbus://7MJ5f82Go7xq4AVahMRzYRxPERZQdZCWAHcag2L8PBuiYGbsyp
 Astro Badminton,tvbus://727CUK1wEV2vr4j49a7WpaDkjxwvwbS7pHVgSJ9NaPrTMCMjMT
@@ -688,19 +683,15 @@ Astro WARNA,tvbus://8afzWjPJiptFAX9AB7bvc27RhKqYcWxZDQGK71PPMmmrgRtNZS
 Astro WARNA,tvbus://7wiy21GJGVY5noWaTjuRstnRH5R1KvuLagL1vZijGTrXNJc95K
 Astro WARNA,tvbus://6NMb3PxxFbooLnQSGVvwCTREuMqc9JCJcYYffJhSYQ4aT9iKv1bXM2S77ye6J
 Astro WARNA,tvbus://7JTNSgcd3qkutWVfKMxcLMx7VM2SmuC33Q9DvbTBK8mmJVN3cH
-Astro爱奇艺,http://aktv-stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
 Astro爱奇艺,https://haoyunlai.serv00.net/Smartv-1.php?id=Qiyi
 Astro爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 Astro爱奇艺,p3p://173.208.176.178:31809/5fe07bb800090e1173d5591b2d87144a
 Astro华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 Astro欢喜,p3p://173.208.176.178:31809/620f05bb0000b01ff985bb62369741c0
-Astro欢喜,http://aktv-stream.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
-Astro欢喜,https://haoyunlai.serv00.net/Smartv-1.php?id=Huahee
 Astro欢喜,http://php.jdshipin.com/smt.php?id=Huahee
 Astro剧集,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 Astro剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 Astro剧集,p3p://173.208.176.178:31809/5fdeca140004e52a6d37e0be49f64a69
-Astro全佳,http://aktv-stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
 Astro全佳,https://haoyunlai.serv00.net/Smartv-1.php?id=Quanjia
 Astro全佳,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro综合,p3p://173.208.176.178:31809/64bbb99f0005fdbf0e8331dd6a6f10a1
@@ -725,13 +716,16 @@ Australian Christian Channel,tvbus://8QJKmMXe1RswC1aenmQRmx8wXsbcHCksVPJBS7h7TGe
 Australian Christian Channel,tvbus://5tQTE9bHWb9drMjm9igggaGD8KnzekW6ZV9MTjcQekdG6C14nood8RpVgk16L
 Australian Christian Channel,tvbus://7NJzVvjQ1nquuEdw5DCb1YBt4xKwCyRTPiyBbVuNryWuKpu2uB
 Australian Christian Channel,tvbus://7eBtocBN9Ymr3uPx27TXUwUxdAospHd4LgfgoXqGeLkHbCQ7cg
-Awani,tvbus://8753BxUWtMF4K4MWKkZ5bNeghmb4iMTpzc9r7WtCQUYxKPdWHJ
-Awani,tvbus://8ZTXR4y8amHXbhPhPCN9hEWFZSyL6ZWHbnMsCnw1WNTH3ot8Js
-Awani,tvbus://6wTMX6R7FTs8n8zxhAAVgDMB9YeBGLxJr7xsFd4gUiAFdwwJ1z
-Awani,tvbus://7SNcNbBeYbyEAhJ3WkQrRR2z8fscrpLzh5Nb5SJcgm8h2agmLx
-Awani,tvbus://8arSX51YJt2KZAPEUifs9YgdnipA2mPaA8R3SUce1Y5UUUyeJE
-Awani,tvbus://75YdRVChTB7a311aTQzh2rZjGcKGKfxAJD1kCrf5M27VdBcoHe
-Awani,tvbus://67XidWLXL6uDhQCE9zrXeAgt3cFYtW7tJGxH1RWdusAiLSH1ka5mFrVdbEVSs
+Astro Awani,http://198.16.100.186:8278/Awani/playlist.m3u8?tid=MADA3704315537043155&ct=19254&tsum=b13ed0c5ea09f584d34097329df9150b
+Astro Awani,http://198.16.100.186:8278/Awani/playlist.m3u8?tid=MB3B5555835155558351&ct=19225&tsum=148341f2ac3dfc57fd8bb8b2f6e4d190
+Astro Awani,http://50.7.234.10:8278/Awani/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=0f71ca01265212a0661a852481be9c13
+Astro Awani,tvbus://8753BxUWtMF4K4MWKkZ5bNeghmb4iMTpzc9r7WtCQUYxKPdWHJ
+Astro Awani,tvbus://8ZTXR4y8amHXbhPhPCN9hEWFZSyL6ZWHbnMsCnw1WNTH3ot8Js
+Astro Awani,tvbus://6wTMX6R7FTs8n8zxhAAVgDMB9YeBGLxJr7xsFd4gUiAFdwwJ1z
+Astro Awani,tvbus://7SNcNbBeYbyEAhJ3WkQrRR2z8fscrpLzh5Nb5SJcgm8h2agmLx
+Astro Awani,tvbus://8arSX51YJt2KZAPEUifs9YgdnipA2mPaA8R3SUce1Y5UUUyeJE
+Astro Awani,tvbus://75YdRVChTB7a311aTQzh2rZjGcKGKfxAJD1kCrf5M27VdBcoHe
+Astro Awani,tvbus://67XidWLXL6uDhQCE9zrXeAgt3cFYtW7tJGxH1RWdusAiLSH1ka5mFrVdbEVSs
 AwesomeTV,tvbus://7bjuPGki8T7timpavsG3aQbJgUT8TkagYwCBNNwKMw8o7xTCtj
 AwesomeTV,tvbus://6v2duX9UAw3aJFd568213ZfadiMWMPBKmWKUNaijWhUeBAuPYj
 AwesomeTV,tvbus://7upSgDeKmPbGJTDTP8kfzVWA3VN6CcovSz7Y7HXB4dQeitvB9u
@@ -2561,13 +2555,10 @@ Happy TV,tvbus://7E1UZgWL7GWdv4NE53JgyT57LzS93TYUjuPAuAdrY78Q4F5AFW
 Happy TV,tvbus://7d2eYr19oZCjwirY1Y9GZBCJg1WoG6wj9563SYKY41hn2HmRnG
 Happy TV,tvbus://8MmFR59HMsm5HZMB4fRpAfu2o77rHh9NxUE9UVApxhQ8zJVPMH
 Happy TV,tvbus://75Rt2ir6pe91zqCZrKArWTH2ZaJbRzYVfzMf32wrJoMYpBh5B3
-HBO,http://125.227.210.55:8153/VideoInput/play.ts
 HBO,p3p://167.114.175.6:55331/65d07877000b028d4787830a723c4ce7
 HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
-HBO,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
-HBO,http://ali.hlspull.yximgs.com/live/huanqiuhktvmqqlqpwqjctjfhjvqjqjuqlvcbeyweqweefshqfhhqsqqcxhbo.flv
 HBO ,p3p://167.114.175.6:55331/64e364fb000a0212a977a1cd342976da
-HBO FAMILY,http://108.181.20.197/livehttpplay?channel_id=20092
+HBO Family,http://108.181.20.197/livehttpplay?channel_id=20092
 HBO Family (TW),tvbus://89sLth2YqpiJqe4xbqmNRzQPTUnViXsWqZ8RqHzhV1vwgx4Ucc
 HBO Family (TW),tvbus://8WGny1nzyq9J3qjSCgJDu5Jnjvtva4ds7aHwCqGSAPqpRjxCH7
 HBO Family (TW),tvbus://7KFBH3hcWgwRZ368n87epsmNEsB2SYX6EgVMutppgekd6Com59
@@ -2596,7 +2587,7 @@ HBO HD(TW),tvbus://8kVEGAeh9y48ZCACFvSbm7hsg9owHU2AXHpg31kPU6JL9fnSKX
 HBO HD(TW),tvbus://8XH6jHx9aJJjP7tcY71BWjNRnNtazWPFka3viXWEraz7Sonjk9
 HBO HD(TW),tvbus://7ExvHrQhgJ1ty5HMJ5Z674Sqk7Z52kzuUxqCPoyPjtB5KZU2pS
 HBO HD(TW),tvbus://5RkjtdmUPqLdecUy5mkWaF1jYscsRowZMwqb198rxZsQEAaenECvyxnuRzGkf
-HBO HITS,http://108.181.20.197/livehttpplay?channel_id=20091
+HBO Hits,http://108.181.20.197/livehttpplay?channel_id=20091
 HBO Hits ID,tvbus://85wLCXvXpnPWAGKp1sfjx8KK2afxsMGB86YVU4yB3cEQwJJ6w6
 HBO Hits ID,tvbus://8GMzDHwAdbEtPHK4Taa18TEhei21AB5djZgpnBbLzXEWYiHxA3
 HBO Hits ID,tvbus://7gd3MMNUZu5o7qFSNiWjsowo5okDR8huSzfpJnLBuxVcyFGksY
@@ -2659,27 +2650,27 @@ Helios Deep Music,tvbus://7w2gvdczCYLHNUKf9pE638NuFLRcyAht2AqUuEyrHzVh9KAp8a
 Helios Deep Music,tvbus://8iAzMJ7xaSQHCNj4j6pvMHgY7LCCMXpT7CdR6YseJR6oXvKENe
 HGTV,p3p://167.114.175.6:55331/644518fd0002d5953f21bedc56b6465f
 HGTV,p3p://173.208.176.178:31809/644518fd0002d5953f21bedc56b6465f
-HGTV Canada,tvbus://6ykJgxFWYP5jWcfxnDZsoKUCdeNPniYgHhbeEu8PLy6HkUTxQL
-HGTV Canada,tvbus://73VSTQUE3vTXjrg2kAbFMRXB1exzUeiXRYqcCFUu5Rr8R9pDv2
-HGTV Canada,tvbus://85gBhQUkKdV3vQUVmYAs29gLj3CjcMrzkoDgZQy5tngR1bAcuf
-HGTV Canada,tvbus://7dZ8gG52tgLVpXFs6VzjdrLLgCTmtoHMHZhtHuLg3D74rLmTcz
-HGTV Canada,tvbus://7YYQSVPocVXUp1DsewBGiMR4rDksqFAmTEbzZugScvyG3VvsZP
-HGTV Canada,tvbus://7cHSQz1XgGiMM3VAtCwUyRFaixBXQN6C2zzvyMzrUAJLzhNox5
-HGTV Canada,tvbus://6PBeunF9nNzsy9eTZtaT9LMhpUD68kNbQS1E25dEcfXAFxZPsxWoE8DuFBvKF
-HGTV HD,tvbus://8A2uGCGQ9QsqLKEVWLN5G1LJaWQzGWuF5AYnmJPiFRzLqkAjDx
-HGTV HD,tvbus://885oYjFxd1NepRDaQyuPY6qJuTn4fSprLTBeFvVg7eUNpnHAnm
-HGTV HD,tvbus://6yvhnF64t8K3kGPB1hPF9x37QJ33aAXg1amEVeqmc5MJkNvbUp
-HGTV HD,tvbus://76NkfHvTLf8ZQcUxzJHAsBtnXfVePjYmfCKJDg4tc7kzcNCPW9
-HGTV HD,tvbus://5Lo78a6EtZqQkPZfeu1QtqrJMR1aKakRjnrKJozC6NbapNh8FvQEAsaqErsrW
-HGTV HD,tvbus://8AY2LX6zuWCyva2YuzbiLPbB9AwjvxTBhDFcgd8pE8zCeweSM9
-HGTV HD,tvbus://7XUj1pwW3gdmV5Cff7sqU5CF6JV71tuk1bk9jtvLiAKDEscThf
-HGTV居家樂活頻道,tvbus://6vvN6RrorhTpuPW7YA3izZ7aDNMc8DJZbADvgX7jp1shncgDZu
-HGTV居家樂活頻道,tvbus://74ZMvpcTsGKerWKtMmmSSex26TZD1rE5W8CAAvck93nnu3tJ45
-HGTV居家樂活頻道,tvbus://8kLh1NHhZEMVBB4Z1BAcnuKwWRDbRnxXM7w3nh5M7tHhA8zb4p
-HGTV居家樂活頻道,tvbus://6z97ELPiLuyrtBgjNHG55YeV7zv4BZPSmN7D4x7rVuUaXPZb3r
-HGTV居家樂活頻道,tvbus://675537N1BTTYaotWM94AauuQRPTLy1T5HeQLAikofHxoj8Rck6VRSQWDkRi5G
-HGTV居家樂活頻道,tvbus://89RcXaSLN9E6nz9W22tfDroNB2r5FzLdER3eBE5LT7wMRF5JWg
-HGTV居家樂活頻道,tvbus://8gJFe83YSdvUMQoUHkejAX35skYD7PZUEg6NUSc69smxc6N8ri
+HGTV,tvbus://6ykJgxFWYP5jWcfxnDZsoKUCdeNPniYgHhbeEu8PLy6HkUTxQL
+HGTV,tvbus://73VSTQUE3vTXjrg2kAbFMRXB1exzUeiXRYqcCFUu5Rr8R9pDv2
+HGTV,tvbus://85gBhQUkKdV3vQUVmYAs29gLj3CjcMrzkoDgZQy5tngR1bAcuf
+HGTV,tvbus://7dZ8gG52tgLVpXFs6VzjdrLLgCTmtoHMHZhtHuLg3D74rLmTcz
+HGTV,tvbus://7YYQSVPocVXUp1DsewBGiMR4rDksqFAmTEbzZugScvyG3VvsZP
+HGTV,tvbus://7cHSQz1XgGiMM3VAtCwUyRFaixBXQN6C2zzvyMzrUAJLzhNox5
+HGTV,tvbus://6PBeunF9nNzsy9eTZtaT9LMhpUD68kNbQS1E25dEcfXAFxZPsxWoE8DuFBvKF
+HGTV,tvbus://8A2uGCGQ9QsqLKEVWLN5G1LJaWQzGWuF5AYnmJPiFRzLqkAjDx
+HGTV,tvbus://885oYjFxd1NepRDaQyuPY6qJuTn4fSprLTBeFvVg7eUNpnHAnm
+HGTV,tvbus://6yvhnF64t8K3kGPB1hPF9x37QJ33aAXg1amEVeqmc5MJkNvbUp
+HGTV,tvbus://76NkfHvTLf8ZQcUxzJHAsBtnXfVePjYmfCKJDg4tc7kzcNCPW9
+HGTV,tvbus://5Lo78a6EtZqQkPZfeu1QtqrJMR1aKakRjnrKJozC6NbapNh8FvQEAsaqErsrW
+HGTV,tvbus://8AY2LX6zuWCyva2YuzbiLPbB9AwjvxTBhDFcgd8pE8zCeweSM9
+HGTV,tvbus://7XUj1pwW3gdmV5Cff7sqU5CF6JV71tuk1bk9jtvLiAKDEscThf
+HGTV居家乐活,tvbus://6vvN6RrorhTpuPW7YA3izZ7aDNMc8DJZbADvgX7jp1shncgDZu
+HGTV居家乐活,tvbus://74ZMvpcTsGKerWKtMmmSSex26TZD1rE5W8CAAvck93nnu3tJ45
+HGTV居家乐活,tvbus://8kLh1NHhZEMVBB4Z1BAcnuKwWRDbRnxXM7w3nh5M7tHhA8zb4p
+HGTV居家乐活,tvbus://6z97ELPiLuyrtBgjNHG55YeV7zv4BZPSmN7D4x7rVuUaXPZb3r
+HGTV居家乐活,tvbus://675537N1BTTYaotWM94AauuQRPTLy1T5HeQLAikofHxoj8Rck6VRSQWDkRi5G
+HGTV居家乐活,tvbus://89RcXaSLN9E6nz9W22tfDroNB2r5FzLdER3eBE5LT7wMRF5JWg
+HGTV居家乐活,tvbus://8gJFe83YSdvUMQoUHkejAX35skYD7PZUEg6NUSc69smxc6N8ri
 History,tvbus://5ped1ZA7btJpq5NyM2sfWfSmTusX3avybi65ehBWLiDCcDbqbYcFMuG158f8Q
 History,tvbus://79hH1ctrFGhpCmhpKx5f5Xz7Sj8wEZDyXQ5xqL4RPgFCUHF3Hv
 History,tvbus://88XzGGaejvFeE4vFvaAgUWyZTtitsgstierE8N5EfXfE9GgpjR
@@ -2696,12 +2687,12 @@ History HD,tvbus://8iZ4EZaHsPGVB7nFEre4VHVpiGRp27FedZ3bcmnrAosuxjXWpT
 History HD,tvbus://88M1xzu77n67fZAZNfpLBDKzo3G1qhVj81R28QXfwnxxd6AMBv
 History HD,tvbus://6uZUQnZ559nW1tPtgWmto1c1jhtFgp3DAh1KxHKw3Bh6mWwcmy
 History HD,tvbus://5a5zpx1HnpJYWX7SgpeTR6Ms1E4LZcP4CtrHNZX3TMsPeNNKzBxm67fde6Dm2
-HISTORY HD,tvbus://781ZUdyBNuXTgdBi9gCi1R3SewCMbUGquVP2zRnF7Qf3sKn6nB
-HISTORY HD,tvbus://7Sqh79RDbpaxXVEWUiekZGjLEeAjQm4nLfAazabv3fwrCz5mvH
-HISTORY HD,tvbus://6rQoGhhrRpDZJELZxsvmUq659gbdAroqhmLfuDDiwyy75PfwDf
-HISTORY HD,tvbus://8AF3oUgdbhGPRtQ3ArayttRDe8CvEChjgvLBgyYLsvfCDPM43s
+History HD,tvbus://781ZUdyBNuXTgdBi9gCi1R3SewCMbUGquVP2zRnF7Qf3sKn6nB
+History HD,tvbus://7Sqh79RDbpaxXVEWUiekZGjLEeAjQm4nLfAazabv3fwrCz5mvH
+History HD,tvbus://6rQoGhhrRpDZJELZxsvmUq659gbdAroqhmLfuDDiwyy75PfwDf
+History HD,tvbus://8AF3oUgdbhGPRtQ3ArayttRDe8CvEChjgvLBgyYLsvfCDPM43s
 History HD,tvbus://8bavxryAWExzPnsNadnztF6yxUkP5qBKdbjrE5eSGdaLaxytGo
-HISTORY HD,tvbus://7A68dnrJW5Zfg7tzacA7FZNEUHoQf2sHaySSUL6k6Q9QP9khdM
+History HD,tvbus://7A68dnrJW5Zfg7tzacA7FZNEUHoQf2sHaySSUL6k6Q9QP9khdM
 History台湾,p3p://167.114.175.6:55331/6233e1a30007e08d7da4ab21717b3e79
 HITS,tvbus://7NqdWMBVaqB8H121JA2Yexb95c5YjhyrZS8W52CjzhtwG4xjTe
 HITS,tvbus://7aB6H4DgJwtQqJj13mP4XDJSqEQueDGrTdA8cXgxa3zv6ThF9m
@@ -2956,13 +2947,13 @@ Jaya TV,tvbus://6PHe3TUgvZHJgcFLBkS8quJUM5J9PZExKZSGd7RrUuFM1awtfLsxGPogc9jkt
 Jaya TV,tvbus://7ctAus4EEPQB9vCQ4dkgJSBuwjc6TxBokEhwNCG5vc6WUpxZnH
 JET综合,p3p://167.114.175.6:55331/621e14f2000381b7287dfb1557135ff8
 JET综合,p3p://173.208.176.178:31809/621e14f2000381b7287dfb1557135ff8
-JET綜合,tvbus://8MGM6NXtANHb8p5ArX9hqwTjMpHyGvV85MxAXWFDzYcMBoh2Mj
-JET綜合,tvbus://75AL9tcYpz1HHKFMMbbyuFZA6k5vLeCBqx7xB7qbSh1mgUX92w
-JET綜合,tvbus://75HBHLB8Tokc6ZyGC2c7ZaprEQYZZdL56fPpgASMRAsk61uXbT
-JET綜合,tvbus://84LcnHU7taAZFvv8mYZm39nEuuuXw8D9TDA6yMVUko4bYeg9on
-JET綜合,tvbus://82Pzu6Gnx246D4EahPsPAUk5woqsUuwVznY9ATCzpes3VqF7qw
-JET綜合,tvbus://6FH5MFPfCqc5DExoDHUfDN5hVwGWJth6wHpqpMFnSsZMTu8mnvSkJR5Bu1sdk
-JET綜合,tvbus://7EBx64Y6Cd7RxcsbKag5tTmLVz7iJeTatBY8HvXUHsx7hN12sA
+JET综合,tvbus://8MGM6NXtANHb8p5ArX9hqwTjMpHyGvV85MxAXWFDzYcMBoh2Mj
+JET综合,tvbus://75AL9tcYpz1HHKFMMbbyuFZA6k5vLeCBqx7xB7qbSh1mgUX92w
+JET综合,tvbus://75HBHLB8Tokc6ZyGC2c7ZaprEQYZZdL56fPpgASMRAsk61uXbT
+JET综合,tvbus://84LcnHU7taAZFvv8mYZm39nEuuuXw8D9TDA6yMVUko4bYeg9on
+JET综合,tvbus://82Pzu6Gnx246D4EahPsPAUk5woqsUuwVznY9ATCzpes3VqF7qw
+JET综合,tvbus://6FH5MFPfCqc5DExoDHUfDN5hVwGWJth6wHpqpMFnSsZMTu8mnvSkJR5Bu1sdk
+JET综合,tvbus://7EBx64Y6Cd7RxcsbKag5tTmLVz7iJeTatBY8HvXUHsx7hN12sA
 Jowo Channel,tvbus://8VTT3xZnZoAYDUZvsmwvNK6aHVzEjZiiYjiPp3GD83pcwgwTxG
 Jowo Channel,tvbus://8QhUEWG4e85J685fPSgdD6gdVN8ZDiZAD9S4FNr3PZ8zH4RNvR
 Jowo Channel,tvbus://7kyrb9XvqWKC2wcw7MNDCn9T9ccr3fPuXszpSsrosrBvYPcWYi
@@ -2977,13 +2968,13 @@ JTBC,tvbus://7h7UEuPZvZSAZcB11YBxuLxxtNnWt9difvektN4vjc5iuFpEBj
 JTBC,tvbus://8hbNQqFVBH6pWKN2VFvbpsTqPiQR9jXeWcyQyFay2QsBGeoett
 JTBC,tvbus://8AvxmWj2NCEX84fNSD7DBP8KKta8nfCSAQD4UhahqwZecyy5q3
 JTBC,tvbus://5YgoVbbVMptybvEzvdDMcmnfCkkUSY4eZaLr6Yeanq1fpZnFTkWa7YgqYAniE
-JTBC골프,tvbus://7eSAsUo3oyw96jvamCs1GSzzrVXNmC4b1JfFwAEWr55MTFMLhm
-JTBC골프,tvbus://7qTK8zZBSWQ3a5iGm9VB4bUeNRxPJzBwnktBQbxPycKHK27cvr
-JTBC골프,tvbus://7DXLXa8X8YmAgF7tMJzcVAS6s1ujr6M5sPqct84Moe2t2gET7v
-JTBC골프,tvbus://6XC25pNJaxrXATQ15tnDJGsJuF6BDriWr6SzA4nhBySAVx7Lsv3r5jjGhSRH7
-JTBC골프,tvbus://7z2u4abonNkoSakksDHMmzV67kxqpDvQcU8S9sbrAMyZnmCdnj
-JTBC골프,tvbus://8ZZN5ex5DYPxkh2K9xpDQgJezC6tn255KmCo7KBSbi1RkAF8wV
-JTBC골프,tvbus://6wFNCLQRMeRktMs55dDRoxdiE8EukYsyeBAuvmEV3Ajs9oBfct
+JTBC,tvbus://7eSAsUo3oyw96jvamCs1GSzzrVXNmC4b1JfFwAEWr55MTFMLhm
+JTBC,tvbus://7qTK8zZBSWQ3a5iGm9VB4bUeNRxPJzBwnktBQbxPycKHK27cvr
+JTBC,tvbus://7DXLXa8X8YmAgF7tMJzcVAS6s1ujr6M5sPqct84Moe2t2gET7v
+JTBC,tvbus://6XC25pNJaxrXATQ15tnDJGsJuF6BDriWr6SzA4nhBySAVx7Lsv3r5jjGhSRH7
+JTBC,tvbus://7z2u4abonNkoSakksDHMmzV67kxqpDvQcU8S9sbrAMyZnmCdnj
+JTBC,tvbus://8ZZN5ex5DYPxkh2K9xpDQgJezC6tn255KmCo7KBSbi1RkAF8wV
+JTBC,tvbus://6wFNCLQRMeRktMs55dDRoxdiE8EukYsyeBAuvmEV3Ajs9oBfct
 Juice TV,tvbus://8HqT6DecR2Tnmrm44AQUSQf7ejmQnTvQDJZodRcYxwbE3YBf7m
 Juice TV,tvbus://8FCghUXwx1FC29qRkowJHCN27d1rk6zZzT3k6BcJ7vZncFqmkk
 Juice TV,tvbus://8b5PDGxo91FZv3civcvsSRGgSP7PjqW2yRPeXSR3441M3qKhTF
@@ -3056,13 +3047,13 @@ KIX,tvbus://84Z2H6CxbydWp7WMYRw9vUkkatGaY3SK6rTBGBD7kZtbJWiqC6
 KIX,tvbus://6JS39pej1DdA1Z7bpvzJBeAphKh3rXPzvXNEfwFqyhKRa4eXCDhjLnnXeuNu5
 KIX,tvbus://7ovRJ2yP3RsHF9pCSYGz4WoFYhhKBncaPbisA327FC6kMNqeCy
 KIX ,p3p://167.114.175.6:55331/6444e9940006c03f3e688dba67767ffd
-KMTV韓國娛樂,tvbus://6yJbkjRYpGwnTYGmA2nx7skYoiyuqEH6zsVGMbParrEgzKRNMN
-KMTV韓國娛樂,tvbus://7xFysCVfKKiGoye3MTyRa6xSow2FyNacPUevLWR5ecKk3Z9AVz
-KMTV韓國娛樂,tvbus://8WdH32tqwJbaks45NBmj1qWV3sSK4gmoLY24m4PboVSojyqFvZ
-KMTV韓國娛樂,tvbus://8Nqo7Eigpg7v21di6XGQ3hthCRbTZSy53KWPBYL4UGnxYGr71A
-KMTV韓國娛樂,tvbus://6PpM4xxAmTzJN6bQSHbBkbvJxKQZnxJzfNjyDK4SXYkrWUeKfG8zHxtK8idwN
-KMTV韓國娛樂,tvbus://7UfnZbbsXSNkXEzvkmZcR5bHCwX8adcbh44mstVgfx3wy76vTA
-KMTV韓國娛樂,tvbus://6qkiPsxz8gJ3WmyP5M32gRZahJS7Su9MaN1jRWT6NRRDD1aFxT
+KMTV,tvbus://6yJbkjRYpGwnTYGmA2nx7skYoiyuqEH6zsVGMbParrEgzKRNMN
+KMTV,tvbus://7xFysCVfKKiGoye3MTyRa6xSow2FyNacPUevLWR5ecKk3Z9AVz
+KMTV,tvbus://8WdH32tqwJbaks45NBmj1qWV3sSK4gmoLY24m4PboVSojyqFvZ
+KMTV,tvbus://8Nqo7Eigpg7v21di6XGQ3hthCRbTZSy53KWPBYL4UGnxYGr71A
+KMTV,tvbus://6PpM4xxAmTzJN6bQSHbBkbvJxKQZnxJzfNjyDK4SXYkrWUeKfG8zHxtK8idwN
+KMTV,tvbus://7UfnZbbsXSNkXEzvkmZcR5bHCwX8adcbh44mstVgfx3wy76vTA
+KMTV,tvbus://6qkiPsxz8gJ3WmyP5M32gRZahJS7Su9MaN1jRWT6NRRDD1aFxT
 Kompas TV,tvbus://61GEW4tBDKwRYzyHW3JAghz71ucw4GtjskS9tRtFSHtH1vpFS7L9YCU5Y4oGn
 Kompas TV,tvbus://6rh6ZjUsMYpfjwoKRHM92tUNrLKyZnjLAE5KwpZN9chQLF99du
 Kompas TV,tvbus://8WsELr5k74weLAxmviLtwsnLs8uu3yRnHL8CDYr77TWkDRW5Mq
@@ -3102,28 +3093,28 @@ LFC TV,tvbus://7Muxqh1GsZ13WZ8f6PbW19cL2CgAkxUwHkEq1SQBeqmRoVxrdR
 LFC TV,tvbus://8edcwrRYu7oReVbvmJkkrWnV356nDnekZNDDegMYVW2uDEMmNn
 Life Time,p3p://167.114.175.6:55331/623a91f0000d3ab297c4e6e2101d46b4
 Life Time,p3p://167.114.175.6:55331/6233e3870008739f7dac0de912e2311a
-Life Time韩,p3p://173.208.176.178:31809/623a91f0000d3ab297c4e6e2101d46b4
-Lifetime,tvbus://6vQZFv57TH4CooHk6SUx3jzbrbgT8wyBLFKpi7zwhN9zSJF5sJ
-Lifetime,tvbus://8FbwpqdiHKKmXre3Am1WtEsS8U3UFsrEWWWg1hhNNQfE2hX56m
-Lifetime,tvbus://7THHKEh4y2ux14tMQ2Kc1YFzgJM8sPQW4GjddLdvfPeegh6ToQ
-Lifetime,tvbus://8NApNhLpU6oPbeZpBGUDwXARGLub8gKdfqYyKHjz5t6yCk9mNs
-Lifetime,tvbus://7q5TmR8HETc1HwcQgbvUVANvbuVo7rQKvnFGSiPXAxHQ1SgcXc
-Lifetime,tvbus://84pzSWkyo3MCi7rAWYFj9y1t2GBGRrQLJjg2eYhPnpQJ5ZMYEi
-Lifetime,tvbus://5T71pacEoyeGq4FpF4iSBb27PZYRiTbB4cW1gKppxGCDtG2NfovFNzHZQbuD8
-Lifetime(TW),tvbus://63U6ZdJZH6Dq1Qs62mK417TmUXCs1p6fBa8sPg8zw65bSowivauUAyyF55P6u
-Lifetime(TW),tvbus://7qc5YU7x8tcg4iS6DDjURg6CtPLRLPxgWdDcvFDJ5Py59JLc16
-Lifetime(TW),tvbus://886tTCgc86vdUYMLcmB2qM4ZZqtBRdHE7nSV9eoW6qxcpuSr5r
-Lifetime(TW),tvbus://7AszPAhUFgRXhudXnpfDHDmXq2RgMLWjwPEYEn8YvnEutMrKxV
-Lifetime(TW),tvbus://71DNrzhWb6ExAi3Jyo7KDjWeJ9cFGVxBm67TqepCqMaGEQiF97
-Lifetime(TW),tvbus://8UY1oPEC7aRyMmaSsyhY76tcefq5MJTuq4SBRHTXuq1XQWEApY
-Lifetime(TW),tvbus://6qWfeUr3pXUiEei4BwJeju5WS6Di8CMvMDYTQgBKYJTR14JaJr
-Lifetime-US,tvbus://8bEFodaFLafeGiFAT4veeyLDzPCVsY6cMpZCtsFgb2z79jf9aa
-Lifetime-US,tvbus://8gsDDwzesDrRRrEk9AFqXFQF8r91aivbmHdJUGxuqpm4Ejxe83
-Lifetime-US,tvbus://8EwTH2cmBipyb8xmtaNZ55E8KXrfmBfW9dSU2j1MspdfWukrbA
-Lifetime-US,tvbus://6wRADHtuTbusnp19PtKZ1wFP2WEkpqC2RPeXkaoj5TvvJEYFF2
-Lifetime-US,tvbus://86CPXnB2hGuuaAp5u8UU1Lzo4GK6dpS2KyKUUibXL915WNzHSo
-Lifetime-US,tvbus://5eyUWv9dxmuYrxd9v5qzpbLsGxW3uuPSF21hQx8prtnYPkjMTVvCN9tPm2FHt
-Lifetime-US,tvbus://7oJUVef9iYoJXEjK88LBLnmBMo2n8MzaZKHngUWa7dDGKpKNkG
+Life Time,p3p://173.208.176.178:31809/623a91f0000d3ab297c4e6e2101d46b4
+Life time,tvbus://6vQZFv57TH4CooHk6SUx3jzbrbgT8wyBLFKpi7zwhN9zSJF5sJ
+Life time,tvbus://8FbwpqdiHKKmXre3Am1WtEsS8U3UFsrEWWWg1hhNNQfE2hX56m
+Life time,tvbus://7THHKEh4y2ux14tMQ2Kc1YFzgJM8sPQW4GjddLdvfPeegh6ToQ
+Life time,tvbus://8NApNhLpU6oPbeZpBGUDwXARGLub8gKdfqYyKHjz5t6yCk9mNs
+Life time,tvbus://7q5TmR8HETc1HwcQgbvUVANvbuVo7rQKvnFGSiPXAxHQ1SgcXc
+Life time,tvbus://84pzSWkyo3MCi7rAWYFj9y1t2GBGRrQLJjg2eYhPnpQJ5ZMYEi
+Life time,tvbus://5T71pacEoyeGq4FpF4iSBb27PZYRiTbB4cW1gKppxGCDtG2NfovFNzHZQbuD8
+Life time(TW),tvbus://63U6ZdJZH6Dq1Qs62mK417TmUXCs1p6fBa8sPg8zw65bSowivauUAyyF55P6u
+Life time(TW),tvbus://7qc5YU7x8tcg4iS6DDjURg6CtPLRLPxgWdDcvFDJ5Py59JLc16
+Life time(TW),tvbus://886tTCgc86vdUYMLcmB2qM4ZZqtBRdHE7nSV9eoW6qxcpuSr5r
+Life time(TW),tvbus://7AszPAhUFgRXhudXnpfDHDmXq2RgMLWjwPEYEn8YvnEutMrKxV
+Life time(TW),tvbus://71DNrzhWb6ExAi3Jyo7KDjWeJ9cFGVxBm67TqepCqMaGEQiF97
+Life time(TW),tvbus://8UY1oPEC7aRyMmaSsyhY76tcefq5MJTuq4SBRHTXuq1XQWEApY
+Life time(TW),tvbus://6qWfeUr3pXUiEei4BwJeju5WS6Di8CMvMDYTQgBKYJTR14JaJr
+Life time-US,tvbus://8bEFodaFLafeGiFAT4veeyLDzPCVsY6cMpZCtsFgb2z79jf9aa
+Life time-US,tvbus://8gsDDwzesDrRRrEk9AFqXFQF8r91aivbmHdJUGxuqpm4Ejxe83
+Life time-US,tvbus://8EwTH2cmBipyb8xmtaNZ55E8KXrfmBfW9dSU2j1MspdfWukrbA
+Life time-US,tvbus://6wRADHtuTbusnp19PtKZ1wFP2WEkpqC2RPeXkaoj5TvvJEYFF2
+Life time-US,tvbus://86CPXnB2hGuuaAp5u8UU1Lzo4GK6dpS2KyKUUibXL915WNzHSo
+Life time-US,tvbus://5eyUWv9dxmuYrxd9v5qzpbLsGxW3uuPSF21hQx8prtnYPkjMTVvCN9tPm2FHt
+Life time-US,tvbus://7oJUVef9iYoJXEjK88LBLnmBMo2n8MzaZKHngUWa7dDGKpKNkG
 Lingua,tvbus://8UnN1sjnmN4SfQDQGfgqVPYzmE6xdfg9KfNS8vrW1Wh5oU1LFu
 Lingua,tvbus://89jFD42bQzMBeJcZehQBD5L57EJvTbeDRu6wTexJ59GTAcqSu8
 Lingua,tvbus://8CrBj7FePs7uSV9ngHJ8mLQamzhrFsL6jLRCYJXvmVThfm3FKN
@@ -3131,17 +3122,18 @@ Lingua,tvbus://74FKNG4VH7VeJSwe8pzk5bWuizSvdmsKvJqgXbEx5mxTg9KW5t
 Lingua,tvbus://7UAoRkZNSSfn5DuFb1fTHQxbBYPKi7maEHGdzaJKvZNTWumddn
 Lingua,tvbus://7TMWnaZJrWPyJ93BUdKMGSb1FEPg8Xvgtv7sFNsfFbp9yM7SgV
 Lingua,tvbus://5eXGHWpfhndEYLu8VZ4EnETQWPhgAujKHcEYYcFZ1eUbawL6QdTzAzQ5sNGsm
-LiveABC互動英語頻道,tvbus://8BhbaKexkbgbuqH2nJ8C5CmFDpSVTHUiBh1s6D3wKHSWC2BWKj
-LiveABC互動英語頻道,tvbus://7LbZhqfaPGaEMFwcomiS6cEjuz2AnuDAZNXciSQhdvBZMtKbKR
-LiveABC互動英語頻道,tvbus://86EA5B9MVd2tuP7pXke1yJZtFoHepQ24nMWve3XynSeVwU7knU
-LiveABC互動英語頻道,tvbus://726ohGLuUZyHQFfizQs2SttZjPdhgeQUP5o3Zvpr1c8HrfYYJB
-LiveABC互動英語頻道,tvbus://6KoSEZeGLYTk3ePbnypr1mXxvHWYGfKv5dejsicyNF7YdVuXBpY21aqQNaQxu
-LiveABC互動英語頻道,tvbus://77CQ9nMUon9NKRPnKTSqbekVTF619YNVoYw7aAzTV4ehQfisR6
-LiveABC互動英語頻道,tvbus://893enf1FtGXZjXVe6Zfo4BrqvsKm7UngdWNPkyzK6PRNtTubEM
+LiveABC互动英语,tvbus://8BhbaKexkbgbuqH2nJ8C5CmFDpSVTHUiBh1s6D3wKHSWC2BWKj
+LiveABC互动英语,tvbus://7LbZhqfaPGaEMFwcomiS6cEjuz2AnuDAZNXciSQhdvBZMtKbKR
+LiveABC互动英语,tvbus://86EA5B9MVd2tuP7pXke1yJZtFoHepQ24nMWve3XynSeVwU7knU
+LiveABC互动英语,tvbus://726ohGLuUZyHQFfizQs2SttZjPdhgeQUP5o3Zvpr1c8HrfYYJB
+LiveABC互动英语,tvbus://6KoSEZeGLYTk3ePbnypr1mXxvHWYGfKv5dejsicyNF7YdVuXBpY21aqQNaQxu
+LiveABC互动英语,tvbus://77CQ9nMUon9NKRPnKTSqbekVTF619YNVoYw7aAzTV4ehQfisR6
+LiveABC互动英语,tvbus://893enf1FtGXZjXVe6Zfo4BrqvsKm7UngdWNPkyzK6PRNtTubEM
 Love Nature,tvbus://8aK9mXwbovAsrR8v73JBhrkpDNcHsDNeJz1kstp9Z25hy42coL
 Love Nature,tvbus://78SiCss86kpScVsNihaFWgQ9Cft65wkk2JVpLCscC7APWQActy
-Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$4K
-Love Nature,http://aktv-stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+Love Nature,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+Love Nature,https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
 Love Nature,p3p://173.208.176.178:31809/655fa9280009c6278edfc1176731425f
 Love Nature,p3p://173.208.176.178:31809/6233fcfa000be8f27e0f78035e656379
 Love Nature,p3p://167.114.175.6:55331/6233fcfa000be8f27e0f78035e656379
@@ -3179,7 +3171,6 @@ MBS,tvbus://75op6eWdJoM4PvAExxsJKtcuei19VvKJ6u7w95cDnYN5NGRuqx
 MBS,tvbus://7bvEAxxpCw8E3finDfBaqZrFSrQYMaaUenhGTD1RN6rm5wL2yP
 MBS,tvbus://5beLpFe4NcpoUnQb5EDxXbHpXiLYFq9HRAxw9KwMUTqounadR4WtawThNqgDx
 MBS,tvbus://7wL1yKpWgrKNz3oW9aeqD7iyMNQKR8EHpPwUq8z8fQtNicg46q
-Mediacorp Entertainment Chinese,http://aktv-stream.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
 Mentari TV,tvbus://8RcqwgptESLfQJz9CnxiHWBeeaz9C4ALJY9yzJhYUG24YpyqE2
 Mentari TV,tvbus://8ZtRbqSjmD9KQC8rYA429bmZWrYapddTRd1JUBCrpzP7iBjMsP
 Mentari TV,tvbus://6FnpAnUZ7z7r3ypN8SueXCsDhjeBeXvdHZ9UYrM8SYN66f9vQDzVVYvmcHGVZ
@@ -3217,49 +3208,49 @@ MNC Sport 1,tvbus://8ECdHjdPfL859DDrAQwiJRe8FZu3Fgw5nju1atLc9WF1dyWDsr
 MNC Sport 1,tvbus://6vzxY9D4HW1EYGHDrfBqLUdDRc96wwvH1gy5JPSjfAujauma4y
 MNC Sport 1,tvbus://7MMZ51LeT9RBAZvgpbt4r8zWgsT4Hg91YJGVfqNwed27QkUgMm
 MNC Sport 1,tvbus://7qewcJX5bhQQqiMUoLvig8cFHeUdpefj17Q8dzWHqRonkkEEuu
-MoMo购物二台,tvbus://775WCF3boEdNDTvSG1Wa9vEPEXii1YxY7bqrH1PNMcQxUi2dcD
-MoMo购物二台,tvbus://7AWRbt4DP4rF1zR8W7HsyReR9ZxL4XuAGvXazw8wSbv386cdz9
-MoMo购物二台,tvbus://7i8Uc4Dnj48nH7r9Vgp1E4h4j5jidjc5UrtekHZrTnGD9MKRUF
-MoMo购物二台,tvbus://8DRTsuhWg6YTibC8kacNLTzfB9US8XPgsaQa8AA8QWVgoeKNfC
-MoMo购物二台,tvbus://6v5yt2Wh5buVdZYrWeN3egMDnjFqnQxXgCVpKPRTXTExqYfdca
-MoMo购物二台,tvbus://6LB1r3rDgxEzcr5HtTXAUZKcaBxxQkgYqUzoxBMbXMWfxRjhzUH8rDJUsGzkh
-MoMo购物二台,tvbus://82qUiYT7dDjPRi1AszbGCqTZtXfpxMAyaNZfYQR5qoeYy2UUbk
-MoMo购物一台,tvbus://8RUEbf8kPKW4hp2nrmVk5hLodj7fjGdaaJ2cmYPF5MFSdhCAJ2
-MoMo购物一台,tvbus://8Cv5FFaYZzNdepwvLfrDENHSJjBQu59Jcgv79iQC3AyaSxnV3F
-MoMo购物一台,tvbus://6vni8bPnbJCjqvW282YfCRkXaV4tLawEDF7kUPCRdAP9bAqhd4
-MoMo购物一台,tvbus://7nukpuvm1NfUMdha8HVaiBhs17Adp1Di1L23p8x83VVaKJbpbp
-MoMo购物一台,tvbus://7siEjLP366M2q26LwhxMzykYU1NY7CFGrKK4YtczbxScPP9T6T
-MoMo购物一台,tvbus://6HxVVFXBkoceiWEJVGJkK562zYnYqB7UeZHvXn8nfY8CXUXwwb1fLfB92KvwC
-MoMo购物一台,tvbus://7u3MKXGbtf433ccQoYgnTmdgf7xtWo4jyQvCEZtSgBt8jjUB4L
+MoMo购物二,tvbus://775WCF3boEdNDTvSG1Wa9vEPEXii1YxY7bqrH1PNMcQxUi2dcD
+MoMo购物二,tvbus://7AWRbt4DP4rF1zR8W7HsyReR9ZxL4XuAGvXazw8wSbv386cdz9
+MoMo购物二,tvbus://7i8Uc4Dnj48nH7r9Vgp1E4h4j5jidjc5UrtekHZrTnGD9MKRUF
+MoMo购物二,tvbus://8DRTsuhWg6YTibC8kacNLTzfB9US8XPgsaQa8AA8QWVgoeKNfC
+MoMo购物二,tvbus://6v5yt2Wh5buVdZYrWeN3egMDnjFqnQxXgCVpKPRTXTExqYfdca
+MoMo购物二,tvbus://6LB1r3rDgxEzcr5HtTXAUZKcaBxxQkgYqUzoxBMbXMWfxRjhzUH8rDJUsGzkh
+MoMo购物二,tvbus://82qUiYT7dDjPRi1AszbGCqTZtXfpxMAyaNZfYQR5qoeYy2UUbk
+MoMo购物一,tvbus://8RUEbf8kPKW4hp2nrmVk5hLodj7fjGdaaJ2cmYPF5MFSdhCAJ2
+MoMo购物一,tvbus://8Cv5FFaYZzNdepwvLfrDENHSJjBQu59Jcgv79iQC3AyaSxnV3F
+MoMo购物一,tvbus://6vni8bPnbJCjqvW282YfCRkXaV4tLawEDF7kUPCRdAP9bAqhd4
+MoMo购物一,tvbus://7nukpuvm1NfUMdha8HVaiBhs17Adp1Di1L23p8x83VVaKJbpbp
+MoMo购物一,tvbus://7siEjLP366M2q26LwhxMzykYU1NY7CFGrKK4YtczbxScPP9T6T
+MoMo购物一,tvbus://6HxVVFXBkoceiWEJVGJkK562zYnYqB7UeZHvXn8nfY8CXUXwwb1fLfB92KvwC
+MoMo购物一,tvbus://7u3MKXGbtf433ccQoYgnTmdgf7xtWo4jyQvCEZtSgBt8jjUB4L
 MoMo亲子,http://122.117.71.103:8522/http/61.67.128.137:8081/hls/90/80/momo4max.m3u8
 MoMo亲子,http://122.117.71.103:8502/http/61.67.128.137:8081/hls/76/818/momo_4max.m3u8
 MoMo亲子,p3p://173.208.176.178:31809/61e0ffbf000c4e3545c098666cb76c2d
 MoMo亲子,p3p://167.114.175.6:55331/61e0ffbf000c4e3545c098666cb76c2d
-MoMo亲子台,tvbus://8PYS3rcV7jVbHP87w7ruep2ksmeTUy11cNwdzpJKC6Me8XEBKS
-MoMo亲子台,tvbus://8mFRqT1vUHJ9PVK3GVVfR82QGQYth42vJjmJUxzCiQAAhhNCHL
-MoMo亲子台,tvbus://7J8PHnfQsmNrBYszxL9aGbGAiHYNWYahB9hfQK9B6vacFKRSAj
-MoMo亲子台,tvbus://7npCmEEiXPoe2po28r7WmFrevidq3ZQkSAQt3d8dHi9D2StGqi
-MoMo亲子台,tvbus://8Y9zes3PoTk95sfLzbWE8WZTPkTrFnirWBNGtvbSiLUM8Csaxn
-MoMo亲子台,tvbus://7gW7TTGH7xAayrvW7tjk8Frh7gP2Bk1jCBctXx1DwV7Xn1zCEn
-MoMo亲子台,tvbus://6W9HuT5Mm7zwXqNevAnkxdmA2RHjTijYnCt3cTsa1CFbmkBYKfgcUebxkCMhd
-MoMo亲子台 MOD,tvbus://7uHCrj3vW5MKSumoZS7pXw9L5rtK3eKJjboMHWwanZTNmrb6YK
-MoMo亲子台 MOD,tvbus://7r6kGLm1g9rZQrm27mvA9FdLh4aaQx6E7wJKPxH3Nayhk4CJf2
-MoMo亲子台 MOD,tvbus://8XLJqHpjF5W7Qsa3SH1Brp4NCGmm1hiyyJbX5HDmQ4CuqJaNgB
-MoMo亲子台 MOD,tvbus://7ecpNgRp9rp3zT7SPBrECkXehNJEo4itRwMA388RXYaRdHmcTd
-MoMo亲子台 MOD,tvbus://6SgddPFUudutQEyzfZmE5pr3XXeyneZjveZaCGnzmv7xeCj1iCKd9hDrJkpi8
-MoMo亲子台 MOD,tvbus://74cWUrAZWVJqn9VbEFu6d4zq3JPnYHQb7wVTxhEZL6DZJV2Ss6
-MoMo亲子台 MOD,tvbus://7jn9HdAfBFNyXDGoB7uyh4niusYQcRjxkhpeU836wQdLjuz5LW
+MoMo亲子,tvbus://8PYS3rcV7jVbHP87w7ruep2ksmeTUy11cNwdzpJKC6Me8XEBKS
+MoMo亲子,tvbus://8mFRqT1vUHJ9PVK3GVVfR82QGQYth42vJjmJUxzCiQAAhhNCHL
+MoMo亲子,tvbus://7J8PHnfQsmNrBYszxL9aGbGAiHYNWYahB9hfQK9B6vacFKRSAj
+MoMo亲子,tvbus://7npCmEEiXPoe2po28r7WmFrevidq3ZQkSAQt3d8dHi9D2StGqi
+MoMo亲子,tvbus://8Y9zes3PoTk95sfLzbWE8WZTPkTrFnirWBNGtvbSiLUM8Csaxn
+MoMo亲子,tvbus://7gW7TTGH7xAayrvW7tjk8Frh7gP2Bk1jCBctXx1DwV7Xn1zCEn
+MoMo亲子,tvbus://6W9HuT5Mm7zwXqNevAnkxdmA2RHjTijYnCt3cTsa1CFbmkBYKfgcUebxkCMhd
+MoMo亲子,tvbus://7uHCrj3vW5MKSumoZS7pXw9L5rtK3eKJjboMHWwanZTNmrb6YK
+MoMo亲子,tvbus://7r6kGLm1g9rZQrm27mvA9FdLh4aaQx6E7wJKPxH3Nayhk4CJf2
+MoMo亲子,tvbus://8XLJqHpjF5W7Qsa3SH1Brp4NCGmm1hiyyJbX5HDmQ4CuqJaNgB
+MoMo亲子,tvbus://7ecpNgRp9rp3zT7SPBrECkXehNJEo4itRwMA388RXYaRdHmcTd
+MoMo亲子,tvbus://6SgddPFUudutQEyzfZmE5pr3XXeyneZjveZaCGnzmv7xeCj1iCKd9hDrJkpi8
+MoMo亲子,tvbus://74cWUrAZWVJqn9VbEFu6d4zq3JPnYHQb7wVTxhEZL6DZJV2Ss6
+MoMo亲子,tvbus://7jn9HdAfBFNyXDGoB7uyh4niusYQcRjxkhpeU836wQdLjuz5LW
 MoMo综合,p3p://167.114.175.6:55331/621e17750005eaa02887cb6e61ea2a58
 MoMo综合,rtmp://60.248.77.68/sat/tv761
 MoMo综合,rtmp://60.248.77.66/sat/tv761
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-MoMo综合台,tvbus://7WCkD4K3JajgRhhtPRsneo9RSNVfQpoH3m7EeaqFwU8UiDraxY
-MoMo综合台,tvbus://7aYrqxKF5X1ZeMKYhETZVygrzr5UJETvoZkSiJmyAX96sxZjFd
-MoMo综合台,tvbus://6iZMUYni15aXxNZSGA2otrrkqLr8s4zi5Tbkz9fkN72wBPrewjEPymess51AF
-MoMo综合台,tvbus://7it2RQcMmHS4vDjeGuo4v1ywHoLpSapHXEe52vng15YNSxZ6jR
-MoMo综合台,tvbus://8UUfVsayyqMJsHTzR4rJJCsRBdvskXpALbNM8rUMVwoBSa9sui
-MoMo综合台,tvbus://8SYCcE5W51sSeFshtmxbFWwtVHEHR6qKpJS7pyjJMUN6yw8hpH
-MoMo综合台,tvbus://7PFDWpKLzmroiCSdzYyaPkBtj1xD8bxRZyP7dyuuKmXhvZgSUz
+MoMo综合,tvbus://7WCkD4K3JajgRhhtPRsneo9RSNVfQpoH3m7EeaqFwU8UiDraxY
+MoMo综合,tvbus://7aYrqxKF5X1ZeMKYhETZVygrzr5UJETvoZkSiJmyAX96sxZjFd
+MoMo综合,tvbus://6iZMUYni15aXxNZSGA2otrrkqLr8s4zi5Tbkz9fkN72wBPrewjEPymess51AF
+MoMo综合,tvbus://7it2RQcMmHS4vDjeGuo4v1ywHoLpSapHXEe52vng15YNSxZ6jR
+MoMo综合,tvbus://8UUfVsayyqMJsHTzR4rJJCsRBdvskXpALbNM8rUMVwoBSa9sui
+MoMo综合,tvbus://8SYCcE5W51sSeFshtmxbFWwtVHEHR6qKpJS7pyjJMUN6yw8hpH
+MoMo综合,tvbus://7PFDWpKLzmroiCSdzYyaPkBtj1xD8bxRZyP7dyuuKmXhvZgSUz
 MTATV,tvbus://8dKbhrPgMAbHLnVbw2gkTz5yfEZH9v63Y4NZdoEg5vR9YudZxZ
 MTATV,tvbus://8b4C6CrXiWGs5JnSf92vd47Ds6sbq2jLmMiyhjciMPVH3kMouQ
 MTATV,tvbus://7HzeN2kknnq6yVYKiVQRjjx2i8nUy1Uj2xYhaYP61Auu3YnSDT
@@ -3305,13 +3296,13 @@ MTV Live HD,tvbus://89QJYQPwVzC2P45GkYewjfsgEwFjaEMxPobfg94AaCEPR5khBD
 MTV Live HD,tvbus://8KJfRGtQ6eEaSMbjCJkBSBisE1cfgZrKiAGTu8zriQg4cPMY1d
 MTV Live HD,tvbus://8cUtnshqayyMNzjBcHx3atYD8uMdjnXtStsNSEhQvPQAnDGCdL
 MTV Live HD,tvbus://7YBUNAseJDBVD3bGTDpmPhRE9gpayz2gaWQK9kCx5o74b8QGxD
-MTV Live 臺灣,tvbus://7YVFsTESJZnbeP2yEEt1g7iv3Vrwjor59eEbUqPBvhVXgbDrur
-MTV Live 臺灣,tvbus://79cgE5LE6CMPCQXiczkmcHoxQDyX3FGhXjCy5xMDsRLk1kqU4c
-MTV Live 臺灣,tvbus://6sTPvux3MzUkG7WYvi5H7AwR2GWrPMSYFbHADiDxsjYzY87K53
-MTV Live 臺灣,tvbus://5sbFnnmivE8UwgxDJd5F4PfvR5cHPDmp1pWQaJbnZnkj8CYehFRDQfN4wY2eJ
-MTV Live 臺灣,tvbus://7adAmRecmLT2WefTEQ2pmByCaUqTKwua1G31XNFaAc5yrV9dZN
-MTV Live 臺灣,tvbus://8m9KpLs5ktzirgXyQ6nLCh8AhhcYZtNys6kDgaKChAdVzwmtaX
-MTV Live 臺灣,tvbus://8jXxvXQwb3erBReWjUMhhmTGoB5BTq8us1WBdoLLom7fJhhwXG
+MTV Live,tvbus://7YVFsTESJZnbeP2yEEt1g7iv3Vrwjor59eEbUqPBvhVXgbDrur
+MTV Live,tvbus://79cgE5LE6CMPCQXiczkmcHoxQDyX3FGhXjCy5xMDsRLk1kqU4c
+MTV Live,tvbus://6sTPvux3MzUkG7WYvi5H7AwR2GWrPMSYFbHADiDxsjYzY87K53
+MTV Live,tvbus://5sbFnnmivE8UwgxDJd5F4PfvR5cHPDmp1pWQaJbnZnkj8CYehFRDQfN4wY2eJ
+MTV Live,tvbus://7adAmRecmLT2WefTEQ2pmByCaUqTKwua1G31XNFaAc5yrV9dZN
+MTV Live,tvbus://8m9KpLs5ktzirgXyQ6nLCh8AhhcYZtNys6kDgaKChAdVzwmtaX
+MTV Live,tvbus://8jXxvXQwb3erBReWjUMhhmTGoB5BTq8us1WBdoLLom7fJhhwXG
 MTV Music-GB,tvbus://8eqFhxCU5FKBkiB8rdzLq217vUMd2mL3QTNYmnMBqRLx2bTRLK
 MTV Music-GB,tvbus://889xiXXVwBd6DnHztZhcXkr5udyXwpMy5yo37pikN5b48bw3rp
 MTV Music-GB,tvbus://7EcGohAjb4CucNGQJr7KNzoeKnUTB4g7qXNTB5cZ5LTL2cgRMj
@@ -3444,13 +3435,13 @@ NBC-US,tvbus://71Hg4vdiQVrxoXR1ubX4UWq2cXMPbR5jZhA4ERoJ6298Gzwc7L
 NBC-US,tvbus://7n4bRmaYsxQKRL9pgCZW3Yo7dJDtGRJJPeazpt8ZJqJ3uZmX8z
 NBC-US,tvbus://7B5q3EuEYJuwxiStmPvV1Ua9U1Wh8A2m39kYYo7hwSvjJ47Nz6
 NBC-US,tvbus://7GqF6k49BNKojvLHQNLKMPUnKyeh3XP8Rbff3tHNrkZYepKnR2
-NBS골프,tvbus://6VKvvVp1X4Tg2H4jCN8PGg5nxpdFHn8hoLfYgdhTqheVi7Q5CMj6vWv5omg79
-NBS골프,tvbus://86Cb5AY7imWxTSBAgDSddq9aAyT8qtVd9m2wk2GhmELy63GQ83
-NBS골프,tvbus://8P4WqdAdVj47WRMrDJU8k4sG9STcFD6pjNMvCrnLbzS8KvDQdZ
-NBS골프,tvbus://7PEYeMBcSZbYo8XJhfzCH7PAh87hfFWxBVRGJH71rbUTSfQmj4
-NBS골프,tvbus://8Z9q6cDuAiHhMGyRFdnrNF51bYWcPqdBbTeNiNenuKHK89MkNj
-NBS골프,tvbus://7iDVG7ckCfuC5a2d85YoT399mJJJaniUi2fTiLGCPZdcWmd3od
-NBS골프,tvbus://7AVW3kBtYA6JzJerMokNPeusKhkMQnFbsKk6VNZMncyNRrjTHW
+NBS,tvbus://6VKvvVp1X4Tg2H4jCN8PGg5nxpdFHn8hoLfYgdhTqheVi7Q5CMj6vWv5omg79
+NBS,tvbus://86Cb5AY7imWxTSBAgDSddq9aAyT8qtVd9m2wk2GhmELy63GQ83
+NBS,tvbus://8P4WqdAdVj47WRMrDJU8k4sG9STcFD6pjNMvCrnLbzS8KvDQdZ
+NBS,tvbus://7PEYeMBcSZbYo8XJhfzCH7PAh87hfFWxBVRGJH71rbUTSfQmj4
+NBS,tvbus://8Z9q6cDuAiHhMGyRFdnrNF51bYWcPqdBbTeNiNenuKHK89MkNj
+NBS,tvbus://7iDVG7ckCfuC5a2d85YoT399mJJJaniUi2fTiLGCPZdcWmd3od
+NBS,tvbus://7AVW3kBtYA6JzJerMokNPeusKhkMQnFbsKk6VNZMncyNRrjTHW
 NET TV,tvbus://7rBWoggijDdbcPaMYvxdJxSCSYNcpq6ubjy1St414xaLvLcU5F
 NET TV,tvbus://8ay93Ri5V8uux7GjTHHHUXwM8QNfjF6kDghukjYDGF1iPHE5ic
 NET TV,tvbus://7F2M8gQvELKAB6h7n8nS7vWRVGJYSvpbcax1rkKfJGzEVSwU4a
@@ -3500,13 +3491,13 @@ NHK BS,tvbus://7hiEbEo1Ef9fxhd84g8XDXfJUce547RsLzzgZCTJjecyeZjJma
 NHK BS,tvbus://8bUMPLtRes3b6cW5p4K5VSUQXQYGWVdUkqz2YoenTxWuDMFoiU
 NHK BS,tvbus://75L6J4FtepW9sNwJ86rhsDV2f4U1HDvPyRgaKQtpJhjXsDrjQk
 NHK BS,tvbus://8k8ahqfrabJmiCX3N8tzcZk5v2EJsuuebymNvsfz7oqM4eHVdr
-NHK E电视,tvbus://7ng6Gt4qEEnnjXrnLBp6UKZKRdrjLgmQwscjjzTPpyJ9KirT9s
-NHK E电视,tvbus://791L9x91eyjsADqJsSs6qZJANM5kVXFhNiVsrQcUeP7jmDca37
-NHK E电视,tvbus://7vFss5ZLBCCThkg2iFwpfaPWDP3exp3GaX2inFAf8aRq1YwE1Y
-NHK E电视,tvbus://7WqGGtu4m5mkYXjTEhDR2nNhbmKhyLAXNv2Crx6J6PAsZt2cwT
-NHK E电视,tvbus://7U91UHT5VLh8wsFrDtaPPLGt4A9jShsnFGptgnBNg1xyJTUMV9
-NHK E电视,tvbus://5KmwuSttup8WSUrbXHgF8o6dsEx5rWCDaS6yU1LvHFo3vBhHVUm4dP57xfZUE
-NHK E电视,tvbus://72bV8aapZJRJ4reHhwTmNjajd7zET7MstHNjrmPsM5jvjxyr5F
+NHK E,tvbus://7ng6Gt4qEEnnjXrnLBp6UKZKRdrjLgmQwscjjzTPpyJ9KirT9s
+NHK E,tvbus://791L9x91eyjsADqJsSs6qZJANM5kVXFhNiVsrQcUeP7jmDca37
+NHK E,tvbus://7vFss5ZLBCCThkg2iFwpfaPWDP3exp3GaX2inFAf8aRq1YwE1Y
+NHK E,tvbus://7WqGGtu4m5mkYXjTEhDR2nNhbmKhyLAXNv2Crx6J6PAsZt2cwT
+NHK E,tvbus://7U91UHT5VLh8wsFrDtaPPLGt4A9jShsnFGptgnBNg1xyJTUMV9
+NHK E,tvbus://5KmwuSttup8WSUrbXHgF8o6dsEx5rWCDaS6yU1LvHFo3vBhHVUm4dP57xfZUE
+NHK E,tvbus://72bV8aapZJRJ4reHhwTmNjajd7zET7MstHNjrmPsM5jvjxyr5F
 NHK World,http://aktv-stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
 NHK World,http://61.221.215.25:8800/hls/51/index.m3u8
 NHK World Japan,tvbus://7tZrbR81TFuT8747SxoWZqYTcZ1NKiZPrPMGVtomrM1u2xjJDB
@@ -3561,13 +3552,13 @@ Nick Jr (IDN),tvbus://7dpRwx6HY7S74MqvDaAxLAYSui7o1sVzzJHvHvZjnaQkpTQi68
 Nick Jr (IDN),tvbus://8VzwoAkUksmS2E2kmeL72WdaR4PX3xdwMj8EUY52DNA1KiSLE7
 Nick Jr (IDN),tvbus://85vnMf11yeRBx4ohkJFQDLKo7tFYEiLZBVozctrW6Eitv5xKE8
 Nick Jr (IDN),tvbus://6GefAseCSvd9eg48nSB9UzgKwVeiBNfjoYQYx4RmAbcZeiChe5E7kGNt7PV2H
-Nick Jr. 兒童頻道（无字幕）,tvbus://8TAX93PG2E8YVPx116314pFVFcJNdUG82EkCt6nR7t15tS9tp1
-Nick Jr. 兒童頻道（无字幕）,tvbus://7hCiav8Gdfvd766x7ejn8WaC1KtMgytaFvipJxGtJUiMd9C6k5
-Nick Jr. 兒童頻道（无字幕）,tvbus://8Bs93pPE96iHZxMGE2fRLMsKni5CY95o7jD6jBNzmNd232fYTZ
-Nick Jr. 兒童頻道（无字幕）,tvbus://7sBHvtCuNvSG8ToTuhsSVqBrB1LX7m7nS9Wb86hjLditTtTgM6
-Nick Jr. 兒童頻道（无字幕）,tvbus://7mMYZhpURmJxRokMWPr3Y5szN11b6miyZ9NMfei8VdUVriTDXR
-Nick Jr. 兒童頻道（无字幕）,tvbus://6fB21SKASsZUmXWGG7sFRJVcnaNiCEKYmsoRgh4yHBtgbWE7y2xH9m24SeAuS
-Nick Jr. 兒童頻道（无字幕）,tvbus://7PrQ6dbbMW1FAHV4m5iRFitvrevpBoTvnpRBSwgx248ZpCCkd9
+Nick Jr. 儿童频道（无字幕）,tvbus://8TAX93PG2E8YVPx116314pFVFcJNdUG82EkCt6nR7t15tS9tp1
+Nick Jr. 儿童频道（无字幕）,tvbus://7hCiav8Gdfvd766x7ejn8WaC1KtMgytaFvipJxGtJUiMd9C6k5
+Nick Jr. 儿童频道（无字幕）,tvbus://8Bs93pPE96iHZxMGE2fRLMsKni5CY95o7jD6jBNzmNd232fYTZ
+Nick Jr. 儿童频道（无字幕）,tvbus://7sBHvtCuNvSG8ToTuhsSVqBrB1LX7m7nS9Wb86hjLditTtTgM6
+Nick Jr. 儿童频道（无字幕）,tvbus://7mMYZhpURmJxRokMWPr3Y5szN11b6miyZ9NMfei8VdUVriTDXR
+Nick Jr. 儿童频道（无字幕）,tvbus://6fB21SKASsZUmXWGG7sFRJVcnaNiCEKYmsoRgh4yHBtgbWE7y2xH9m24SeAuS
+Nick Jr. 儿童频道（无字幕）,tvbus://7PrQ6dbbMW1FAHV4m5iRFitvrevpBoTvnpRBSwgx248ZpCCkd9
 nick.JR ENG,tvbus://6hnp3yarSe2VJfknGyVYZXhsy2kbigbb6zhNFKJhsTnLQWiuLDp4PwyTNNgwT
 nick.JR ENG,tvbus://6yrJecX9eEs6buLY58eayms8ReQJ3mQDUy4KhDa3dYC1nmDGrT
 nick.JR ENG,tvbus://7i4fHw7VCNAsFndMbeYpYxFUU5ijdYPeH53dCJQyZ72M9izBBN
@@ -4364,7 +4355,6 @@ Thrill,tvbus://7WBk9naW8YXruCYrotiuEw2jZJWUeKA1GSx8Bu2Wy1EsGfYZcY
 Thrill,tvbus://8UxWZGTThL3r6QFcSWXupqzXudzdN7zKeEkVuHdD92cBSoV1Cb
 Thrill,tvbus://6G9v9F2yYGkPjCLgbthg38F9uvJHXk2y87qkXFuKZzRsYgju1HhwyvRQmdcHT
 Thrill,tvbus://7mdmkXt6mr6ZjaXCFvhHvEHQXyrDmGLRK5r83Q5mZe9Ru2UVbP
-Thrill,http://aktv-stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
 THrill,p3p://173.208.176.178:31809/630c2b9400044df5ca7abd7159677c41
 Tien Giang,tvbus://6NMS9aszmBxCoj27pL9ebBpVAejaP2jUQ4XMbLE4zTE7P3b4vFVFCX8tHubLy
 Tien Giang,tvbus://6qbqXdARss41BFrUpvXh39RoKxZm4FRrDfoJ8TAZuTtXTLXQH9
@@ -4650,7 +4640,6 @@ TVB Plus,tvbus://77CSkMtRqhzqesCXQ8XXdy4kaiKPhLCyxfMsgKH36Pt2necXX3
 TVB Plus,tvbus://8jCU4JsfqXoWBGiUr8Vgpd4XvRMGzF63iC6KMYxDYpbH8i4EnX
 TVB Plus,tvbus://7uacZkQyz1wVzsS4avA6UBzpkh71Z1NF9RYpbTiKFkQpeCK2PJ
 TVB Plus,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
-TVB Plus,http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 TVB Plus,p3p://167.114.175.6:55331/653e4d3e000b344f0c91357e73163f82
@@ -4661,7 +4650,6 @@ TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 TVB Plus,http:/vdm6-hw.nbgdsygs.com/live/h6-2.flv
 TVB Plus,http://cdn5.1678520.xyz/live/?id=tvbp
 TVB plus,http:/vdm6-ali.wujiekeji1.com/live/h6-2.flv
-TVB Plus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://cdn.163189.xyz/live/tvbp/stream.m3u8
 TVB Plus,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
@@ -4725,7 +4713,6 @@ TVBS欢乐,rtmp://60.248.77.68/sat/tv421
 TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
 TVBS欢乐,p3p://173.208.176.178:31809/61e831a60008c7d761db13151abe16ae
 TVBS欢乐,rtmp://9hv9.mine.nu/sat/tv421
-TVBS欢乐,http://125.227.210.55:8187/VideoInput/play.ts
 TVBS欢乐,rtmp://60.248.77.83/sat/tv421
 TVBS欢乐,tvbus://7jaunhze4qwL9k2XvvgePJq85hqUYf8o265n8gLpAVmSRDeZdx
 TVBS欢乐,tvbus://8kWgLc8ETwCnZzRhhbiof7zhCxXsyMUQAQqyYJpwsBtWdbvoQS
@@ -4753,23 +4740,13 @@ TVBS精彩,p3p://167.114.175.6:55331/61efd0a100047e1a7f9fa38d29f5746d
 TVBS精彩,http://108.181.20.197/livehttpplay?channel_id=20136
 TVBS精彩,http://live4play.uk/livehttpplay?channel_id=20136
 TVBS精彩,p3p://173.208.176.178:31809/61efd0a100047e1a7f9fa38d29f5746d
-TVBS新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=E9ymAxKoVJ
-TVBS新闻,http://122.117.71.103:8543/http/220.130.87.218:8081/hls/75/817/ch059.m3u8
 TVBS新闻,p3p://173.208.176.178:31809/621858e3000e70ad1217c0700d576ad0
-TVBS新闻,http://122.117.71.103:8543/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 TVBS新闻,http://211.72.65.236:8574/.m3u8
-TVBS新闻,http://aktv-stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
-TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts
-TVBS新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbs-1/AKTV.m3u8
-TVBS新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 TVBS新闻,rtmp://60.248.77.66/sat/tv551
 TVBS新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs_n/playlist.m3u8
 TVBS新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbs_n
 TVBS新闻,rtmp://f13h.mine.nu/sat/tv551
-TVBS新闻,http://122.117.71.103:8574/http/61.67.128.137:8081/hls/75/817/ch059.m3u8
 TVBS新闻,rtmp://60.248.77.68/sat/tv551
-TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-TVBS新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
 TVBS新闻,tvbus://8Z9MTYyke1Kk45QjA6qM9Kitb8RkVEPu49u32URbLccNX61LA7
 TVBS新闻,tvbus://7PsuKYbyx1HmfcbzgCHr8gDS8edpLSpnBTJRRRYNYr3EuU4nc8
 TVBS新闻,tvbus://6wPNdHpeznDEBdPnJND5CbrRWaWomS5UZkJWaNZ73Rjzy7QkD2
@@ -4785,17 +4762,13 @@ TVBS新闻,tvbus://6tAMX8a4NyD4Cs2L2kY9yTL69AdV5PYb8nfFvBeEpW4iYRgkpz
 TVBS新闻,tvbus://892JJ6hKkhvm6UXfsQLPRoV8FtdMie1CoGAcaWGxb8gqzNfZ5L
 TVBS新闻,tvbus://85njkbCGfqcvW2YRVxSm12HN1gk7sFSsqMXpa3thsQ3KU8CY2p
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA
-TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?
-TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571185&extension=ts&play_token=wD7CZpooiF
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS综合,http://122.117.71.103:8575/http/61.67.128.137:8081/hls/75/817/ch058.m3u8
 TVB财经体育,rtmp://60.248.77.66/sat/hk011
 TVB财经体育,rtmp://60.248.77.68/sat/hk011
 TVB财体资讯,p3p://167.114.175.6:55331/5ffbee4900066c0ddf0b8b84423c06f3
@@ -4803,7 +4776,6 @@ TVB财体资讯,p3p://167.114.175.6:55331/611d989d0005244a4a7f24d111282ffb
 TVB翡翠,p3p://108.181.32.169:19673/6533f6560002787f2d01338b57197695
 TVB翡翠,http://z.b.bkpcp.top/m.php?id=tvbfct
 TVB翡翠,p3p://167.114.175.6:55331/653e4c02000ea0440c8c63fd3e5d709d
-TVB翡翠剧集,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9478&tk=97475bb89d45
 TVB功夫,p3p://167.114.175.6:55331/653e4a3f000b1abb0c85815c35fa0803
 TVB功夫,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB华语剧,p3p://167.114.175.6:55331/653e4acf0006e0e80c87b2c8194d5791
@@ -4822,25 +4794,19 @@ TVB经典,tvbus://75WvYBKGABmAgyXmPAs84Yj9qU4w2dboMvGg6sTcz67Jn55zHN
 TVB经典,tvbus://7zRMB3NLaMTsxRdJcUAgTf1prmDEqaAWZnbr7YW2LZS25R4qQD
 TVB经典,tvbus://6toYp6QmrNdqrqXvZszoHi3NAHYAyBDfqcabNxwJMgwNgv5VTd
 TVB经典,tvbus://8MJ6wxEosRTxTVfTAHKZ9wdQnvTYcaTkjXKq7cYVmCgAeuLv4q
-TVB明珠,https://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 TVB明珠,http://php.jdshipin.com/smt.php?id=pearl_twn
 TVB明珠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 TVB明珠,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
 TVB明珠,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
-TVB明珠,http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
 TVB明珠,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 TVB明珠,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 TVB明珠,http://bziyunshao.synology.me:8890/bysid/2
 TVB明珠,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
 TVB明珠,http://beishan008.asuscomm.com:8890/bysid/2.m3u8
-TVB明珠,http://qjrhc.jydjd.top:2911/udp/224.1.100.123:11111
 TVB明珠,http://php.jdshipin.com:8880/iptv.php?id=mzt
-TVB明珠,http://qjrhc.jydjd.top:2911/udp/224.1.100.2:11111
 TVB明珠,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476927.m3u8
 TVB明珠,p3p://167.114.175.6:55331/602f1ba9000814efa6f2970333d309d9
 TVB明珠,p3p://167.114.175.6:55331/611d99f3000116024a845bb9627404c9
-TVB明珠,http://r.jdshipin.com/GeWKr?id=mzt720
-TVB明珠,http://qjrhc.jydjd.top:2911/udp/224.1.100.124:11111
 TVB明珠,tvbus://8CbQ2RmqAJ9rLLk7Jd7TeadcqnpUTTZQJGLoUryBgCErMUQQMz
 TVB明珠,tvbus://81MSp7pYKU7H1d5sBq7tYT5GSsNh6ekDQHLxBQhFeZ2CXmaoUV
 TVB明珠,tvbus://85KZ6SEGcCbo8D6v4NMLLRX5xsAdUuAKf4VAk1FHCUFwNwoDMG
@@ -4848,7 +4814,6 @@ TVB明珠,tvbus://8HtJACsqUBh4xqCoSXEzgedqt2qEPWe6kSH7X86FbH7AmtYyAd
 TVB明珠,tvbus://8NLd2KqJ344hKdRuGDAYc83JBWr6yihTGB8GhoswrKDXE3KGA6
 TVB明珠,tvbus://8RwMErGGtXizXGwj6n85mYW7MpB4byZJ8KhQ6ZLW79S3CPAC3e
 TVB明珠,tvbus://6AJxiB9eBSy5EeqY31mwEVgzrv7ezxoHqk86xrkbuhFJgThzL24xNwsAD31aa
-TVB千禧经典,http://aktv_stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 TVB千禧经典,p3p://167.114.175.6:55331/5fdee1a2000b5fba6d93e51308cb7ddf
 TVB千禧经典,http://php.jdshipin.com/smt.php?id=Tvbclassic
 TVB生活,p3p://167.114.175.6:55331/6649aff000061a1753bc59f97f596d07
@@ -4859,13 +4824,11 @@ TVB无线功夫,https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_act
 TVB无线华丽,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
 TVB无线华丽,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 TVB无线新闻,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
-TVB无线新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-20/AKTV.m3u8
 TVB无线新闻,p3p://167.114.175.6:55331/66c9c0df00016a4852abc2d358ee0ccb
 TVB无线新闻,p3p://167.114.175.6:55331/653e4818000b73240c7d19181340415e
 TVB无线新闻,p3p://108.181.32.169:38254/6533fd5600043bdb2d1c8c0729c35d0c
 TVB无线新闻,p3p://108.181.32.169:38254/66c414110003f1f047eb7cb30cd84a38
 TVB无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-TVB无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$LR•IPV4『线路1』
 TVB无线新闻,http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
 TVB无线新闻,p3p://108.181.32.169:38254/6533f9fb00006d352d0f6f9235041f8d
 TVB无线新闻,https://edge2a.v2h-cdn.com/news/news.stream/chunklist.m3u8
@@ -4878,15 +4841,10 @@ TVB无线新闻,p3p://108.181.32.169:19673/66c414110003f1f047eb7cb30cd84a38
 TVB无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
 TVB无线新闻,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 TVB无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
-TVB无线新闻,http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 TVB无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-TVB无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40
 TVB无线新闻,p3p://167.114.175.6:55331/653e4703000daead0c78dfb07723484e
 TVB无线新闻,http://cdn.iptv8k.top/dl/jspd.php?id=2
-TVB无线新闻,http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
-TVB无线新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 TVB无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-TVB无线新闻,http://z.b.bkpcp.top/m.php?id=tvbwxxwt
 TVB无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 TVB无线新闻,tvbus://8bZLJtARxHVJW3aAU6pa7kSiMLS48xGpf3mKqHCAMcENRbgk5z
 TVB无线新闻,tvbus://5i136X2EMWpeRPdGXUkZV7oxGquN1vbCNk6RShawp6xeFGUCoeAjyET1M2M1T
@@ -4906,21 +4864,15 @@ TVB星河,p3p://167.114.175.6:55331/6563174f0002ffaf9c45dd927c7d6df1
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 TVB星河,p3p://108.181.32.169:38254/641021c50003c5af985dddf037af353c
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153506&extension=ts&play_token=miEIuxsBcN7
-TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571186&extension=ts&play_token=HnxccIWiNo
 TVB星河,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB星河,p3p://108.181.32.169:38254/641021e900026b0f985e6a374d7d56bb
 TVB星河,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
-TVB星河,http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
 TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
-TVB星河,http://aktv_stream1.m16tv.cfd/stream/aktv2/tvb/AKTV.m3u8
 TVB星河,http://65.108.74.147:49366/iptv.php?key=gat2&id=13
-TVB星河,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB星河,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
-TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941620&extension=ts&play_token=TBgeJuh42H
 TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 TVB星河,p3p://167.114.175.6:55331/5fdee23d000b670a6d96428e4c334643
 TVB星河,tvbus://6tRf2Zi5HVhEkoMgxYaQQPfyioZnquhHxiLxnmG5tQgUA9rvQY
@@ -4948,10 +4900,7 @@ TVB亚洲剧,tvbus://7zcKqWi5VG7b2TnFx17Vj6puJ2QkboWpda8Qx1uJqiAvpaAH9f
 TVB亚洲剧,tvbus://742TeM3c7MEJbiMUPaj9XQjRq1K7kKqk2GWchdBX8MQdKW8ceg
 TVB娱乐新闻,http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 TVB娱乐新闻,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
-TVB娱乐新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153398&extension=ts&play_token=TPIp3m3TjC
 TVB娱乐新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-TVB娱乐新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153504&extension=ts&play_token=9urlq5p625
-TVB娱乐新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571188&extension=ts&play_token=p582OSpABb
 TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVB娱乐新闻,tvbus://7N1Qwx8AiWwdSodx2hiYRimHXgGVTyFC4k8jaQNHnESAQbLV99
 TVB娱乐新闻,tvbus://6sc6NYAP94ZyVDaWsD71FCXWXFSqN5Vv74wrGJoseQYgBB7usH
@@ -4961,7 +4910,6 @@ TVB娱乐新闻,tvbus://6EhLyVNgFSLZZHn2zzkPdzV7TDTtQA4GJ6K4BFU2rd2jBZPdQAs3VTcK
 TVB娱乐新闻,tvbus://7TchecoPdoZoySrDzZiGXQ94VwokzuzeE6MU5cjHpuvPAf6s15
 TVB娱乐新闻,tvbus://7sjvyzrxUGc9qY5TmJny1BevGV3yhwNXkKN5u6uznwwDzVNFrM
 TVB粤语片,p3p://167.114.175.6:55331/653e4b8d00001a450c8a973c06325101
-TVB综合,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476199.m3u8
 tvMU,tvbus://6zBJ44anZc5YVVmjBEmLJYRMGyidojnn5NXwAXFRn4euNs2bxc
 tvMU,tvbus://7Z4Kdq1anQfhu87L8k9CJtao67Cg7woXf8crQvjVwLDcv9Jm1V
 tvMU,tvbus://6tWxegtNzY8xfWmjpbr6MxwCi8KphsCdUV97h4RnUx1x2YFJKT
@@ -4969,7 +4917,6 @@ tvMU,tvbus://5ZyeKXyMDr5u94KjuTmST9hv7yJLFnbEqRyvPAwGroufXRU7NxvHPwLgHpZn7
 tvMU,tvbus://8Ny7fkAJAkwGkS1JNBxPXJC6BBc9uv98RQQpCvzCKKwCs7SBxu
 tvMU,tvbus://7XvEhVj7oaCWkn4Kd59zhLZrYmGxHfwQEMR7xQ4Huw3jyTThaW
 tvMU,tvbus://8JknFqJeveSAeaTfpm4CkpSseJB9TxbypsSPWBR2fPDRYFt12Q
-tvN,http://aktv_stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
 tvN,tvbus://6Kh2JGzQLaPZkDs8JVvHkBfDuzgg4rxmErqwwHmRKyMbFPZW5eXoQfknMVP6Q
 tvN,p3p://167.114.175.6:55331/6506c6930009ab3233ac2cd3018a6125
 tvN,p3p://167.114.175.6:55331/644f9623000a4051681a72d66bfc0191
@@ -4978,7 +4925,6 @@ tvN,tvbus://8BKiJeiHyH3XJ11NJWiP4eqvNQsHrmzZamUxVG85orSVfnFd4d
 tvN,tvbus://6zutqjxS9wruG78kkz21KSjeidYSCLnPqj587BrXfKyYFC6XzS
 tvN,tvbus://75AhScrggLyh3W3GC3vVQ7hA3RvVnW3CKwCxxZivFrnxS8iYE6
 tvN,tvbus://6tbPoU7a3sxanFoC86H72VfniRnE2pRag8RZh1bdFWNAtwisTc
-tvN,http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
 tvN,tvbus://8aNXXwufZqy61BduDKG2yjSxRk9KZmVeXf9pRxk8qpxtRGowiE
 TVN Astro,tvbus://7xjmEnWUj8zKKJosSTw5FBaYqQPEWT9C7bDZ3PB1oHL3g3KguB
 TVN Astro,tvbus://7YQtMC6YvHCB5qdnASokZk9kHLniyQTrQvptNCcPWQewwo8kMa
@@ -5113,7 +5059,6 @@ VH1,tvbus://7LS5XrmuJbjNUzyLjNPuuhgZF8SPjFoW4oWPekAz1fRKa3sMpR
 Viu,p3p://173.208.176.178:31809/5fed31e7000736e2a57c8f4c14d55d36
 Viu,p3p://167.114.175.6:55331/611d99820007a67c4a82a3fe3cc749de
 Viu,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
-Viu,http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 Viu,p3p://108.181.32.169:38254/641021400008eb86985bd7b90b510a5b
 Viu,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 Viu,p3p://173.208.176.178:31809/611d99820007a67c4a82a3fe3cc749de
@@ -5295,9 +5240,6 @@ WWE Superslam-GB,tvbus://87kHaBmd9g1LfL1AJ4V3LngNNAu3aWmGM2wXvn37zZnEh19PU4
 WWE Superslam-GB,tvbus://8P3QuFh4PBHuGWhCkaHZ2rKjEzrYZsYUxApcuBcSHgBJq9265b
 WWE Superslam-GB,tvbus://7gUBjccjW3ji2GHF6eSx2pr5tbAEgvNP8i1ruJRxSpiebYoKb6
 WWE Superslam-GB,tvbus://63pDsWN8sKcYSQvES7eSozyb4d124Z3EDAnQjBtZUhKdSpLmueFnihD6BYiqv
-Xite Hits,http://aktv-stream.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
-Xite Rock,http://aktv-stream.m16tv.cfd/stream/aktv3/xiterock/AKTV.m3u8
-YES network,http://aktv-stream.m16tv.cfd/stream/tuntun/foxsports1us/AKTV.m3u8
 YTN,tvbus://8Cx3qUm17xHE1BG98iEDnJe2VXACSz27D1jDQqp94HzvF3z8E9
 YTN,tvbus://6zxC3YcBc2M329Kq4Nnn1em2d4fGdxQuxbdSGFu2y1xxagVq5A
 YTN,tvbus://7dAiFmbHH8aHwn959nRAe4mmHxiUvaUefk2DruuVF2NQrMMu5J
@@ -5335,13 +5277,13 @@ ZEE Thirai,tvbus://76uskBmMkWLYYooSNuPiSe2CoTt69yo3QcvNWyKBKwpUdRguym
 ZEE Thirai,tvbus://7suDdoAMJg1kZdWBoyvQSmu7ViJjo27QYSo2NQcxfnB2s9HwSw
 ZEE Thirai,tvbus://7YHu9MpW4qH4igc6mdzWTtScjucd8VAxco1aWygSe6nPtobPbx
 ZooMoo,http://aktv-stream.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
-Z頻道,tvbus://6zQe9Z4woBD6Jp2sNAWqpKGERzZveu16U9eoBuAi8MmuH6TKcM
-Z頻道,tvbus://8MyyFobYQTqYwmT6UmDr9URH9J2S7CikPqsKzQUnkX5kRJ63xe
-Z頻道,tvbus://8CALWPWVftPTQjbR36KYLp9rgQEdVUWUkCJdJPJNQAqPnzDBXE
-Z頻道,tvbus://6VXrywKLXqBEpiTUBhcbcpSXWztjguKXhJ3X7A7EUKYiWyuwaYo6A85JMXwub
-Z頻道,tvbus://8ijEiZ1mZBb6VA7g1s68pMmwJ477UuJ3j9CPWAbt6qypyLYhdk
-Z頻道,tvbus://75nkZK3N6iTDTdctmqyfda2mBAD3WYFP1YitcFg6B7hC7BMTCe
-Z頻道,tvbus://8Grc8nMNzDPUSdUiyVyB3aGzCJKf8LDrFUa5aR66GPy7WYuqSC
+Z频道,tvbus://6zQe9Z4woBD6Jp2sNAWqpKGERzZveu16U9eoBuAi8MmuH6TKcM
+Z频道,tvbus://8MyyFobYQTqYwmT6UmDr9URH9J2S7CikPqsKzQUnkX5kRJ63xe
+Z频道,tvbus://8CALWPWVftPTQjbR36KYLp9rgQEdVUWUkCJdJPJNQAqPnzDBXE
+Z频道,tvbus://6VXrywKLXqBEpiTUBhcbcpSXWztjguKXhJ3X7A7EUKYiWyuwaYo6A85JMXwub
+Z频道,tvbus://8ijEiZ1mZBb6VA7g1s68pMmwJ477UuJ3j9CPWAbt6qypyLYhdk
+Z频道,tvbus://75nkZK3N6iTDTdctmqyfda2mBAD3WYFP1YitcFg6B7hC7BMTCe
+Z频道,tvbus://8Grc8nMNzDPUSdUiyVyB3aGzCJKf8LDrFUa5aR66GPy7WYuqSC
 卡通ーX,tvbus://7nL15uEnGeMPkvBTwzzy3DNwE7xb5zJzZ2hvmdG1FLh5MkPqjD
 卡通ーX,tvbus://7H2FbPQCdjsnrVHSnU4cy4UmYtBPNgZ4AjV9S4SBVoRFNe7XyV
 卡通ーX,tvbus://7yxKtq5mTMaTARnS3MZVH7KtTRjoNqaFRDimVNCaHPWjQdPGVY
@@ -5433,13 +5375,13 @@ Z頻道,tvbus://8Grc8nMNzDPUSdUiyVyB3aGzCJKf8LDrFUa5aR66GPy7WYuqSC
 映画,tvbus://73JYXsPN8X5Hw1XUWUVBTvWENBWLnSyzLNTds2B9d8qkoh9b7w
 映画,tvbus://8Bw9gjBLfUcLpercAD1kaomh2gFLgzRttUWuzuzNqQZFLyAt71
 映画,tvbus://6wUvXhcaWGvHQo9mBTkWDTmkfUycDU3y9GzHNyvQ5jUU9xRc7C
-เนชั่น ทีวี,tvbus://7cLcmfN254gNTGCML4BpP6ZyurjYjmj3ss242THGxHN7za8gwt
-เนชั่น ทีวี,tvbus://7ULHEf8jT1U6wBzSZAePffnHTG4nuDuAW7Vv9993CuY6VQjmHW
-เนชั่น ทีวี,tvbus://7DbogRUkH6C3W5BP6hpaVenLTCjKQHYNqmUJVy2ATL8DEgLQiW
-เนชั่น ทีวี,tvbus://8ToDEhnhBKMQVUPtwNPMUwQEr1cJVmLAzFihc8sumDFREoU6wr
-เนชั่น ทีวี,tvbus://8bPCWL3CBjzh6DvhnvPzd7uU1r1QroMw1FHxViCSev9t8euv4e
-เนชั่น ทีวี,tvbus://7FhPqsQV4JbGEEACTFcv2SVxp7VAWCAcVE4kwQYynUwwu9jujg
-เนชั่น ทีวี,tvbus://5MpGkXBFqHz9XzgVEwfgo7uCTxzgsRPUXfAEqSHPHwxYp9jnUUVGo1uCtzSVw
+新闻,tvbus://7cLcmfN254gNTGCML4BpP6ZyurjYjmj3ss242THGxHN7za8gwt
+新闻,tvbus://7ULHEf8jT1U6wBzSZAePffnHTG4nuDuAW7Vv9993CuY6VQjmHW
+新闻,tvbus://7DbogRUkH6C3W5BP6hpaVenLTCjKQHYNqmUJVy2ATL8DEgLQiW
+新闻,tvbus://8ToDEhnhBKMQVUPtwNPMUwQEr1cJVmLAzFihc8sumDFREoU6wr
+新闻,tvbus://8bPCWL3CBjzh6DvhnvPzd7uU1r1QroMw1FHxViCSev9t8euv4e
+新闻,tvbus://7FhPqsQV4JbGEEACTFcv2SVxp7VAWCAcVE4kwQYynUwwu9jujg
+新闻,tvbus://5MpGkXBFqHz9XzgVEwfgo7uCTxzgsRPUXfAEqSHPHwxYp9jnUUVGo1uCtzSVw
 工作,tvbus://8jYMJrWJch6gT8TCfXNzPftC1MwZukAPHdwmZSbbZijKcwqnQw
 工作,tvbus://852ztYpaDNGgre13z5aogM4TuJjXC4z1xeCA2149McagA3XutV
 工作,tvbus://8DG2fjMkfcuD92T1Dk26eb8Yc62k6NMXMuzTgohVYaK2vJqMbc
@@ -5447,27 +5389,27 @@ Z頻道,tvbus://8Grc8nMNzDPUSdUiyVyB3aGzCJKf8LDrFUa5aR66GPy7WYuqSC
 工作,tvbus://6XxKz1BWUu6Pd9xgoACn84joa2sjHFtWL1pAHXPdTp2JWpjmT7z3c4a9gqfbN
 工作,tvbus://8KPRmtpq42kTbQXNV1JMrnPLu2bu5yqHYiNjTpg5zyPjqQfNVE
 工作,tvbus://7F4FaBh2TdAKWgndWfK1T5wKbvde5xqSowF5fupXts1kPGgj6a
-โมโน 29,tvbus://8a8MSgudif65fwZXkSdt1xii6uaupe4SgQZ2hbr7AHSePkqC7u
-โมโน 29,tvbus://5qa5E9WJoYWdeYArnf1Jc9HeuyCfu66QGisdSA8krkcMH4DcbLofdArZp2tdM
-โมโน 29,tvbus://7bCSCWLYgWLEaxsGTCE9nhC2JvoKMczuPE1EmurUVi5txQJVw4
-โมโน 29,tvbus://8goRz8jbJwwHXcHySuCTgLaPbEGBa3ov7MLabnrFDHCfxuQzAE
-โมโน 29,tvbus://7pKr9cq5fmfTv6z1kSpd7z2bEG4CvsKa9QqGscej1TKXzRzEsF
-โมโน 29,tvbus://7ifbLgavG32wu141fN8KMHuD8x6AAdoxxWfTv4s9dh1WiGXVkQ
-โมโน 29,tvbus://7bqrPQu9LrUzazbGkJkPQ1NrjFbctNmM5W8dsuBaP9R6FSYPKp
-ไทยพีบีเอส,tvbus://6uxSWXveUjr6xSXgPXQ6Ccv1KWhquUj8TEP3sobtEaujeUTvCy
-ไทยพีบีเอส,tvbus://7rzkiaG4QTstjtX5ahmBkAeoqf2RgbfZ97X6hprnrC5LmnFAbW
-ไทยพีบีเอส,tvbus://7y1bjaqYF2GpGpAqnzNd3oy4TXKxPub54e6dBNWzYXTCQYz9MZ
-ไทยพีบีเอส,tvbus://8g7DbUtetWxFDafNyQW16Ynpgzqgx35YkNsFZDHpPp9WSrQt2g
-ไทยพีบีเอส,tvbus://5aCpUrsQ6e8y9Z9eTQ4hHQ7JjRCBUzpueiZ42sJfk41T5gkE7EjhWqDoJg3HK
-ไทยพีบีเอส,tvbus://7o2YroSWu5VQufR4SHzQQ7ZryiDte7BGVNN95Bpnxb8VX3h5Yg
-ไทยพีบีเอส,tvbus://8gZouMKHTdtPWQoN93WoDxwTkA2xsTUevVQyqL7QKP3aAK2bDJ
-ไทยรัฐ ทีวี HD,tvbus://8L5guWrarqZRp5LutsJmeNLRcGTe5RGPspDtEF1rmiUWNmHGym
-ไทยรัฐ ทีวี HD,tvbus://7BUeHT4BYEPDwaCrbzXtDrfRBSyzykWq67rYvkQCPZwFQT3cUL
-ไทยรัฐ ทีวี HD,tvbus://7FWe2XcPSXYCddRuY7EjHThvgpJbkFi7a4LmKgjevJWPME4duf
-ไทยรัฐ ทีวี HD,tvbus://6Fw81jDquQcX4MGbpf3npxyAvtF1sEoeERrwRHxf8btucgdT6NJEYewzeUspn
-ไทยรัฐ ทีวี HD,tvbus://8MwPYapVPxTgmXHyJKUSK2VDQ1ScVUJGhaA7kTvTzUPZYfBdqJ
-ไทยรัฐ ทีวี HD,tvbus://83uNDoDAgxxZXJRnr9tNiFdPDEmgu9sRNWN3nqeiJeuCCdxPrT
-ไทยรัฐ ทีวี HD,tvbus://7Wckw13X5n45LCQHnKN1QvrP1ZuoaMX4B5jg6DFpr2LZ2N4reY
+莫诺 29,tvbus://8a8MSgudif65fwZXkSdt1xii6uaupe4SgQZ2hbr7AHSePkqC7u
+莫诺 29,tvbus://5qa5E9WJoYWdeYArnf1Jc9HeuyCfu66QGisdSA8krkcMH4DcbLofdArZp2tdM
+莫诺 29,tvbus://7bCSCWLYgWLEaxsGTCE9nhC2JvoKMczuPE1EmurUVi5txQJVw4
+莫诺 29,tvbus://8goRz8jbJwwHXcHySuCTgLaPbEGBa3ov7MLabnrFDHCfxuQzAE
+莫诺 29,tvbus://7pKr9cq5fmfTv6z1kSpd7z2bEG4CvsKa9QqGscej1TKXzRzEsF
+莫诺 29,tvbus://7ifbLgavG32wu141fN8KMHuD8x6AAdoxxWfTv4s9dh1WiGXVkQ
+莫诺 29,tvbus://7bqrPQu9LrUzazbGkJkPQ1NrjFbctNmM5W8dsuBaP9R6FSYPKp
+Thai PBS,tvbus://6uxSWXveUjr6xSXgPXQ6Ccv1KWhquUj8TEP3sobtEaujeUTvCy
+Thai PBS,tvbus://7rzkiaG4QTstjtX5ahmBkAeoqf2RgbfZ97X6hprnrC5LmnFAbW
+Thai PBS,tvbus://7y1bjaqYF2GpGpAqnzNd3oy4TXKxPub54e6dBNWzYXTCQYz9MZ
+Thai PBS,tvbus://8g7DbUtetWxFDafNyQW16Ynpgzqgx35YkNsFZDHpPp9WSrQt2g
+Thai PBS,tvbus://5aCpUrsQ6e8y9Z9eTQ4hHQ7JjRCBUzpueiZ42sJfk41T5gkE7EjhWqDoJg3HK
+Thai PBS,tvbus://7o2YroSWu5VQufR4SHzQQ7ZryiDte7BGVNN95Bpnxb8VX3h5Yg
+Thai PBS,tvbus://8gZouMKHTdtPWQoN93WoDxwTkA2xsTUevVQyqL7QKP3aAK2bDJ
+Thai Rath HD,tvbus://8L5guWrarqZRp5LutsJmeNLRcGTe5RGPspDtEF1rmiUWNmHGym
+Thai Rath HD,tvbus://7BUeHT4BYEPDwaCrbzXtDrfRBSyzykWq67rYvkQCPZwFQT3cUL
+Thai Rath HD,tvbus://7FWe2XcPSXYCddRuY7EjHThvgpJbkFi7a4LmKgjevJWPME4duf
+Thai Rath HD,tvbus://6Fw81jDquQcX4MGbpf3npxyAvtF1sEoeERrwRHxf8btucgdT6NJEYewzeUspn
+Thai Rath HD,tvbus://8MwPYapVPxTgmXHyJKUSK2VDQ1ScVUJGhaA7kTvTzUPZYfBdqJ
+Thai Rath HD,tvbus://83uNDoDAgxxZXJRnr9tNiFdPDEmgu9sRNWN3nqeiJeuCCdxPrT
+Thai Rath HD,tvbus://7Wckw13X5n45LCQHnKN1QvrP1ZuoaMX4B5jg6DFpr2LZ2N4reY
 CHIMEM 25,tvbus://75w9CNqKzDsy8yZLPH6xBeyVrWFoaCe8GkTvo58Kjfmd4DipZr
 CHIMEM 25,tvbus://8cTSBLMpgpj6qvDkrWx75vhY5xhEoofZe2bokbMWB7B8uDiscg
 CHIMEM 25,tvbus://8jhg6yaSFTFjQfeWhbxp8hFq71XkxAnYCbdRhY7Z5WPGYLNto6
@@ -5475,55 +5417,55 @@ CHIMEM 25,tvbus://6LCStF7TUAMPJp2RLQ3bYppP4rXhoGGJvKExbYXpctFKvy6Jd8kaGHKBeyUJo
 CHIMEM 25,tvbus://8a5SWrksdpKYgWyUL2j4m7hEYBB1Rwf3xadV19VWDtvze68Qad
 CHIMEM 25,tvbus://7fNpnCC2yg7g4Cf4ZFaKqQUppzeXUyM4BvaXgyz42h1oMWGZSH
 CHIMEM 25,tvbus://8a4GaqPqYwe2t2RVRH48fLPw2F8UsPRqyghupvjrCkdTq4TYBg
-ช่อง 8,tvbus://7TtWsrZQ2ySe5uhJHL6R6tHriNAY7uEfs4b3xx15AyFD7w249Z
-ช่อง 8,tvbus://7msaTpjcsq7rSjZisram7wMrmG2hfCMLrNoHusvpMhJ3ZaX275
-ช่อง 8,tvbus://8ZiWbrAWLZkqe8X9PNb8pFDNoh8KbXcH2zKVAE62H65GJk4A3q
-ช่อง 8,tvbus://7VKGnZzf5PLyWKbabAjgMxhdjjn2HZec2ThdMzMniXRzCbYGFU
-ช่อง 8,tvbus://7wKzS9CRQuweYRdANcuJT91EXtaGat4BxxnMdMHArBjdLjQASq
-ช่อง 8,tvbus://6H2Pw6uox13e8FiukQbrh72DAfqrcmY9QQ6KnMqTdeG6i5Tf9pgpRGy4iyPti
-ช่อง 8,tvbus://7vBXAd3KCWnmNi1TezcYsyWYL1b6YyyXHzrAaD2eJcWB8GiaWr
-ลิโด้ Channel,tvbus://78C6VCdPmYtS267zGXPowwZhyDf55Ub97scLY2LEPpbhfEtGi3
-ลิโด้ Channel,tvbus://7GJoBgm2XDAS9LNhGLkYnPYKkpjpYwyDRbpEwGMGcBAmXXG7A9
-ลิโด้ Channel,tvbus://728BVLG4zqcADeKJh4HoCfsr3GgMt2wQztK8z6kpGPThXKLd4k
-ลิโด้ Channel,tvbus://89o6bgj8D67Lsoxge8gLRjJMkT27XAoiKLPMA8VL3h4FKp5B8b
-ลิโด้ Channel,tvbus://7m2iWhmCme1YUtZ6CHESaGrqBfM4C2fZ5e5k2jkcXNmnhd8Lbq
-ลิโด้ Channel,tvbus://6Vo6wA4ceoArqZXC7KRwXt9dE9erQfTfUGQrm6tK9XAePvYktULgP9UF4kPbi
-ลิโด้ Channel,tvbus://7Q21yJFKGvG4RUWWrkvwiGyfKDkbTABgPicDkdpd9E1WAkbyM3
-สกาล่า Channel,tvbus://7euKDrsxb2PNLdU2pLqgdxcFUrF3JxbdoqxNnxtaTdX7HbC4N3
-สกาล่า Channel,tvbus://8UQTDkTVhWQndVVZ85aaCHmRBjib6sRGecdPP7zjuVLbn8F7V2
-สกาล่า Channel,tvbus://7iVW299KwGuSp3oevXYh8LEi6aZXoTBGs2srMoUBSAzuAYBVHe
-สกาล่า Channel,tvbus://6zJFQUtVQjthoASZrDN4TW1pzJRoQ8ehmnikHZe3Sqf6ibBUJZ
-สกาล่า Channel,tvbus://6wTW9m39kfy7pQWnCHuawXqGvwgmpp37N2BHF5ZVNC1mKZ28AZ
-สกาล่า Channel,tvbus://6W8saGG8vh6Qx3w6sQQCxjXK5qtPc5BUGbXzvt2hUKKeMoN86zTgbU8KFWMJr
-สกาล่า Channel,tvbus://8PZHXSrwHpdw4wmDAPrmg9CkkKwj5229e1fgmMBb1ziXoxo7Ua
-สยาม Channel,tvbus://7kuneRhubpg6twWbVga83TNcoof6PjwW1vsNTXMNwn2hZYNSi3
-สยาม Channel,tvbus://6MqJAfpddqYijd2htFEujvusKoAt2jCvtaqJzjqvSMuQWHEjeRb6Ewous4WYC
-สยาม Channel,tvbus://7xV1QSgoRuwL96w58mQ5BkMtCyUuCuoR1d5WMRBvri4iGMHdsK
-สยาม Channel,tvbus://8gWWByKLUR9cbCjn9UcPPzAekniHxJmNRnuQ7N1x5ciHxoyvE3
-สยาม Channel,tvbus://7c91ubuA31HVQGH18aSCukFyZnDk1CGVbMKQjoy7LEdf8HKp2n
-สยาม Channel,tvbus://8eNQavGxBroRgjE92ti3VLkEbY2QhmeavW696DGF6sW9zcD8BY
-สยาม Channel,tvbus://7dUXqKxkJYLo1jau56dPH6i7uWmJhWHDi7tpdiw58uRJRVR5wW
-สามเณรปลูกปัญญาธรรม,tvbus://7ymPUomSDZpBay77m4bzdRj98Gwb936aPWahzY8D3EbdPiDU4e
-สามเณรปลูกปัญญาธรรม,tvbus://8RevzbNzabMNpook8NDfhGfeQ1Gx3py9XrQZt4yvRNL1c2PuDW
-สามเณรปลูกปัญญาธรรม,tvbus://7WTeSejY9B36PB5BUfvtR4eCgqW6dZjRP3xx8uaUvoJMNN5YLz
-สามเณรปลูกปัญญาธรรม,tvbus://8Riizyp9Aovs1TMoDhauQMz4Pdrpo2pZwz4XF9FxUyjQg53s8B
-สามเณรปลูกปัญญาธรรม,tvbus://6sxUa9ssFtufPbnMbhYuDJEK5r8r39ioP6ohb2jaoxYzuqGHXj
-สามเณรปลูกปัญญาธรรม,tvbus://6U2AZv8xgQKc7sk6V2MeY7CUYUonMyzAJbjz3PvA6jXrQ5ogbHam5jwjnwTZo
-สามเณรปลูกปัญญาธรรม,tvbus://7AriEpgWTPSmiwW3qjzSAkZKt1Mr3jcmDcdT1s1QhjwuGyDarT
-อมรินทร์ทีวี HD,tvbus://82qbjVqWMGV2Xcxt6PMKn6emWCA4RA2MAMiMbxp768qxTXzNAZ
-อมรินทร์ทีวี HD,tvbus://8G5XWSxvFzstJMpWhPm4WufCEayxfJ5WYnjPMgcvxrh4MH41Zh
-อมรินทร์ทีวี HD,tvbus://5NCZ1kezpesuT1hNzcmctTRbZzyFnA13dgjzsrkfTwsLH9t6xyq44cLEff9L3
-อมรินทร์ทีวี HD,tvbus://7RCLB2b6fWFoGXuYSZcgF6d47C8R3edNKD6fAHUzZvHof4suLJ
-อมรินทร์ทีวี HD,tvbus://7qA5wHcnFVm5nhNtFSc3akvwHcaiBcuBhsRCrjySnbJpU3M3bX
-อมรินทร์ทีวี HD,tvbus://6s9cvMxZuaJpjDEiJYwRuHUCN5e5eDX3Lg2F4swbb9ZJwn2chk
-อมรินทร์ทีวี HD,tvbus://8eYCYsjAM1mdjWJGkf9FwJCPAXwqvXnQH7e1z3RFfNScXt9XVn
-อีสานทีวี,tvbus://6ysMCT2qGdciWRe4w9vZdJG7Dq3GiPQx9FJdmGUUtAPjaSL9Ry
-อีสานทีวี,tvbus://848HyZEyA6cZj1azcGNuwMGFKjaDBbKTPDiZaAveSruX9QxWxx
-อีสานทีวี,tvbus://6CYnHhKM2WhHvFgFawXzgo1KQY9ApCtGzb9o2jyyLDejenk683EHswYP2JxNG
-อีสานทีวี,tvbus://7Zy1iAf2H3Z8PPo2fzXx1tzPS78RHBzWViVP8zzNuQaaJkdYvx
-อีสานทีวี,tvbus://7SvZPvKrs6qw627kySsSXCzTYygA3jAWREhLZv4GCcxLrxcBYg
-อีสานทีวี,tvbus://89LnQS2gGnEEWTY2N8k1J4pxts5eW1AZnfkBqeGxx5RW7LryrN
-อีสานทีวี,tvbus://7WZgcQwGkk42ztVsy24fY4LCSEHKUNGLov9isc73xMFMj4anty
+频道 8,tvbus://7TtWsrZQ2ySe5uhJHL6R6tHriNAY7uEfs4b3xx15AyFD7w249Z
+频道 8,tvbus://7msaTpjcsq7rSjZisram7wMrmG2hfCMLrNoHusvpMhJ3ZaX275
+频道 8,tvbus://8ZiWbrAWLZkqe8X9PNb8pFDNoh8KbXcH2zKVAE62H65GJk4A3q
+频道 8,tvbus://7VKGnZzf5PLyWKbabAjgMxhdjjn2HZec2ThdMzMniXRzCbYGFU
+频道 8,tvbus://7wKzS9CRQuweYRdANcuJT91EXtaGat4BxxnMdMHArBjdLjQASq
+频道 8,tvbus://6H2Pw6uox13e8FiukQbrh72DAfqrcmY9QQ6KnMqTdeG6i5Tf9pgpRGy4iyPti
+频道 8,tvbus://7vBXAd3KCWnmNi1TezcYsyWYL1b6YyyXHzrAaD2eJcWB8GiaWr
+丽都 Channel,tvbus://78C6VCdPmYtS267zGXPowwZhyDf55Ub97scLY2LEPpbhfEtGi3
+丽都 Channel,tvbus://7GJoBgm2XDAS9LNhGLkYnPYKkpjpYwyDRbpEwGMGcBAmXXG7A9
+丽都 Channel,tvbus://728BVLG4zqcADeKJh4HoCfsr3GgMt2wQztK8z6kpGPThXKLd4k
+丽都 Channel,tvbus://89o6bgj8D67Lsoxge8gLRjJMkT27XAoiKLPMA8VL3h4FKp5B8b
+丽都 Channel,tvbus://7m2iWhmCme1YUtZ6CHESaGrqBfM4C2fZ5e5k2jkcXNmnhd8Lbq
+丽都 Channel,tvbus://6Vo6wA4ceoArqZXC7KRwXt9dE9erQfTfUGQrm6tK9XAePvYktULgP9UF4kPbi
+丽都 Channel,tvbus://7Q21yJFKGvG4RUWWrkvwiGyfKDkbTABgPicDkdpd9E1WAkbyM3
+斯卡拉 Channel,tvbus://7euKDrsxb2PNLdU2pLqgdxcFUrF3JxbdoqxNnxtaTdX7HbC4N3
+斯卡拉 Channel,tvbus://8UQTDkTVhWQndVVZ85aaCHmRBjib6sRGecdPP7zjuVLbn8F7V2
+斯卡拉 Channel,tvbus://7iVW299KwGuSp3oevXYh8LEi6aZXoTBGs2srMoUBSAzuAYBVHe
+斯卡拉 Channel,tvbus://6zJFQUtVQjthoASZrDN4TW1pzJRoQ8ehmnikHZe3Sqf6ibBUJZ
+斯卡拉 Channel,tvbus://6wTW9m39kfy7pQWnCHuawXqGvwgmpp37N2BHF5ZVNC1mKZ28AZ
+斯卡拉 Channel,tvbus://6W8saGG8vh6Qx3w6sQQCxjXK5qtPc5BUGbXzvt2hUKKeMoN86zTgbU8KFWMJr
+斯卡拉 Channel,tvbus://8PZHXSrwHpdw4wmDAPrmg9CkkKwj5229e1fgmMBb1ziXoxo7Ua
+斯卡拉 Channel,tvbus://7kuneRhubpg6twWbVga83TNcoof6PjwW1vsNTXMNwn2hZYNSi3
+斯卡拉 Channel,tvbus://6MqJAfpddqYijd2htFEujvusKoAt2jCvtaqJzjqvSMuQWHEjeRb6Ewous4WYC
+斯卡拉 Channel,tvbus://7xV1QSgoRuwL96w58mQ5BkMtCyUuCuoR1d5WMRBvri4iGMHdsK
+斯卡拉 Channel,tvbus://8gWWByKLUR9cbCjn9UcPPzAekniHxJmNRnuQ7N1x5ciHxoyvE3
+斯卡拉 Channel,tvbus://7c91ubuA31HVQGH18aSCukFyZnDk1CGVbMKQjoy7LEdf8HKp2n
+斯卡拉 Channel,tvbus://8eNQavGxBroRgjE92ti3VLkEbY2QhmeavW696DGF6sW9zcD8BY
+斯卡拉 Channel,tvbus://7dUXqKxkJYLo1jau56dPH6i7uWmJhWHDi7tpdiw58uRJRVR5wW
+沙弥培育佛法智慧,tvbus://7ymPUomSDZpBay77m4bzdRj98Gwb936aPWahzY8D3EbdPiDU4e
+沙弥培育佛法智慧,tvbus://8RevzbNzabMNpook8NDfhGfeQ1Gx3py9XrQZt4yvRNL1c2PuDW
+沙弥培育佛法智慧,tvbus://7WTeSejY9B36PB5BUfvtR4eCgqW6dZjRP3xx8uaUvoJMNN5YLz
+沙弥培育佛法智慧,tvbus://8Riizyp9Aovs1TMoDhauQMz4Pdrpo2pZwz4XF9FxUyjQg53s8B
+沙弥培育佛法智慧,tvbus://6sxUa9ssFtufPbnMbhYuDJEK5r8r39ioP6ohb2jaoxYzuqGHXj
+沙弥培育佛法智慧,tvbus://6U2AZv8xgQKc7sk6V2MeY7CUYUonMyzAJbjz3PvA6jXrQ5ogbHam5jwjnwTZo
+沙弥培育佛法智慧,tvbus://7AriEpgWTPSmiwW3qjzSAkZKt1Mr3jcmDcdT1s1QhjwuGyDarT
+Amarin HD,tvbus://82qbjVqWMGV2Xcxt6PMKn6emWCA4RA2MAMiMbxp768qxTXzNAZ
+Amarin HD,tvbus://8G5XWSxvFzstJMpWhPm4WufCEayxfJ5WYnjPMgcvxrh4MH41Zh
+Amarin HD,tvbus://5NCZ1kezpesuT1hNzcmctTRbZzyFnA13dgjzsrkfTwsLH9t6xyq44cLEff9L3
+Amarin HD,tvbus://7RCLB2b6fWFoGXuYSZcgF6d47C8R3edNKD6fAHUzZvHof4suLJ
+Amarin HD,tvbus://7qA5wHcnFVm5nhNtFSc3akvwHcaiBcuBhsRCrjySnbJpU3M3bX
+Amarin HD,tvbus://6s9cvMxZuaJpjDEiJYwRuHUCN5e5eDX3Lg2F4swbb9ZJwn2chk
+Amarin HD,tvbus://8eYCYsjAM1mdjWJGkf9FwJCPAXwqvXnQH7e1z3RFfNScXt9XVn
+Amarin,tvbus://6ysMCT2qGdciWRe4w9vZdJG7Dq3GiPQx9FJdmGUUtAPjaSL9Ry
+Amarin,tvbus://848HyZEyA6cZj1azcGNuwMGFKjaDBbKTPDiZaAveSruX9QxWxx
+Amarin,tvbus://6CYnHhKM2WhHvFgFawXzgo1KQY9ApCtGzb9o2jyyLDejenk683EHswYP2JxNG
+Amarin,tvbus://7Zy1iAf2H3Z8PPo2fzXx1tzPS78RHBzWViVP8zzNuQaaJkdYvx
+Amarin,tvbus://7SvZPvKrs6qw627kySsSXCzTYygA3jAWREhLZv4GCcxLrxcBYg
+Amarin,tvbus://89LnQS2gGnEEWTY2N8k1J4pxts5eW1AZnfkBqeGxx5RW7LryrN
+Amarin,tvbus://7WZgcQwGkk42ztVsy24fY4LCSEHKUNGLov9isc73xMFMj4anty
 阿联酋,https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 爱尔达体育1,p3p://167.114.175.6:55331/623a8d50000c965397b2d5b26c7b25bd
 爱尔达体育1,rtmp://60.248.77.66/sat/md011
@@ -5572,7 +5514,6 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳门莲花,http://php.jdshipin.com/amlh.php
-澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
 澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳门资讯,http://61.244.22.4/ch5/info_ch5.live/master.m3u8
 澳门资讯,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
@@ -5598,18 +5539,13 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
 澳视澳门,http://cdn.163189.xyz/live/asam/stream.m3u8
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
-澳视澳门,http://113.105.29.43:60901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 澳视澳门,http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 澳视葡语,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
 澳视葡语,p3p://167.114.175.6:55331/644ece91000b801a650ee0e442bd0b87
 澳视卫星,http://cdn.163189.xyz/live/as/stream.m3u8
 澳亚卫视,http://live.mastvnet.com:800/4rlff1m/a/live.m3u8
-澳亚卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.12:11111
 澳亚卫视,http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8
-澳亚卫视,http://119.32.12.32:2901/udp/224.1.100.12:11111
-澳亚卫视,http://119.32.12.17:2901/udp/224.1.100.12:11111
-澳亚卫视,https://stream1.freetv.fun/ao-ya-wei-shi-1.ctv
 澳亚卫视,http://1b6467f415.iok.la:9931/tsfile/live/1120_1.m3u8
 澳亚卫视,http://live.mastvnet.com:800/4rlff1m/live.m3u8
 澳亚卫视,tvbus://6tuEe8qoC33nittD2P22g4DqdUHjR96thyZEsEYejGX2yFKLVi
@@ -5632,9 +5568,9 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 八大第1,http://61.221.215.25:8800/hls/55/index.m3u8
 八大第1,http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
 八大第1,http://211.72.65.236:8519/.m3u8
-八大第1,http://61.221.215.25:8800/hls/55/index.m3u8#http://108.181.20.197/livehttpplay?channel_id=20073
+八大第1,http://61.221.215.25:8800/hls/55/index.m3u8
+八大第1,http://108.181.20.197/livehttpplay?channel_id=20073
 八大第1,https://haoyunlai.serv00.net/Smartv-1.php?id=badafirst
-八大第1,http://122.117.71.103:8597/http/61.67.128.137:8088/hls/66/808/ch022.m3u8
 八大第1,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/badafirst/playlist.m3u8
 八大第1,http://eu.huohuoaa.tech:1025/Smart.php?id=badafirst
 八大第1,http://live4play.uk/livehttpplay?channel_id=20073
@@ -5653,21 +5589,16 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 八大精彩,p3p://108.181.32.169:38254/65435f63000ba94069331ccd6399041b
 八大精彩,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv034
 八大精彩,http://live4play.uk/livehttpplay?channel_id=20052
-八大精彩,https://4gtv.pendy.us.kg/4gtv.php?id=4gtv-4gtv034
 八大戏剧,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
 八大戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=badadrama
-八大戏剧,https://stream1.freetv.fun/ba-da-xi-ju-1.m3u8
 八大戏剧,https://pixman.mytvsuper.com.mp/Smart.php?id=badadrama
 八大戏剧,http://eu.huohuoaa.tech:1025/Smart.php?id=badadrama
 八大戏剧,http://211.72.65.236:8531/.m3u8
-八大戏剧,http://122.117.71.103:8513/http/61.67.128.137:8081/hls/66/808/ch023.m3u8
 八大戏剧,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
 八大戏剧,http://122.117.71.103:8530/八大戏剧.m3u8
 八大戏剧,p3p://108.181.32.169:38254/642520c1000929efea61760938521b57
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-八大戏剧,http://122.117.71.103:8530/http/61.222.53.250:8081/hls/66/808/ch23.m3u8
 八大戏剧,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-八大戏剧,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2887&tk=e640d0a1bf70
 八大戏剧,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/badadrama/playlist.m3u8
 八大戲劇HD,tvbus://7aG4t5DgUNAxUnaWdeiV1y9zhBgMEiq9MMnPeAizmsbbL3sS21
 八大戲劇HD,tvbus://6VC7mA75wBzGhSSpNU5meLG1RDzFRiKcbCqW7RPXJW6Y3HKkV3txNTBwEgQBY
@@ -5697,13 +5628,11 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 八大综合,http://211.72.65.236:8520/.m3u8
 八大综合,http://122.117.71.103:8519/八大综合.m3u8
 八大综合,http://108.181.20.197/livehttpplay?channel_id=20068
-八大综合,http://122.117.71.103:8598/http/61.67.128.137:8088/hls/66/808/ch021.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 八大综合,http://live4play.uk/livehttpplay?channel_id=20068
 八大综合,http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
 八大综合,https://haoyunlai.serv00.net/Smartv-1.php?id=badazhonghe
 八大综合,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/badazhonghe/playlist.m3u8
-八大综合,https://stream1.freetv.fun/ba-da-zong-he-1.m3u8
 八大综合HD,tvbus://72rcNwKsMASTuttKsEKS8TrFNhZsdLxykRwxCZqM8nXeSBhPXu
 八大综合HD,tvbus://82pJEqPFFrKtg6D1FnC1mxxryx2VriEeeG85pbRtmanKpZVNZK
 八大综合HD,tvbus://84NSBSJkn1KAHV3i7Xp6Srwrd3im9BdxVRMjGTYR8cHnWTvS6P
@@ -5845,18 +5774,17 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 诚心,tvbus://6VJepvoh51eHq2MLws5YDTwuduGuAJa3bGERPvUaYj7LFXKCHsM4K9R1VB3Uj
 诚心,tvbus://87TaxDH4uXa7Vc6WgCAPZfWTW3DXwcPF7QYfNpzawQLbXtkRN2
 诚心,tvbus://6t3ECKKzhX3DdHfrU2ndAqkSUsBvsBDV6hGykc8YM9WY7DXVH1
-宠物俱乐部,http://122.117.71.103:8528/http/61.67.128.137:8078/hls/40/80/pettv.m3u8
 创世,p3p://173.208.176.178:31809/65ac3ff5000d8862ba0b51494dc3254e
 创世,p3p://167.114.175.6:55331/65ac3ff5000d8862ba0b51494dc3254e
 达芬奇,p3p://167.114.175.6:55331/62011f820008c9f3c33ae0231cf86a05
 达芬奇,p3p://173.208.176.178:31809/62011f820008c9f3c33ae0231cf86a05
-达文西频道,tvbus://6udZqxWndVemrVCws21Ro19MtZQ7AkcPLN66Z3eGDGzGMPRNeH
-达文西频道,tvbus://8YR2icVpojzyCN1GwW3dwNiJEG5W6WmD7Qb3fFVcT1oQcRj6NP
-达文西频道,tvbus://8Rt4i3RqY7UjJaBgQVy1qqTyqP7Wv5hmjn6X8JKc5od3yZaw5S
-达文西频道,tvbus://7geGEHNi2tmdZMwrBQqVmeBsjVqVv8voLW8LHb79qSpr2odFKm
-达文西频道,tvbus://6XShGVPNnnvwsuPFCf3G3zKdjzXpJFE8QX16f3rrcSC4ZdTs6h3NT9UMvaWeC
-达文西频道,tvbus://7cdz6PpYYCdcX3GievLaVL6iBH4aZgAJDhew3b4rCpRphyczxS
-达文西频道,tvbus://7zwdX6zGRVHETm1vjCJkt4DtUtz6WExpKVWSv6JCWwQeXUphaT
+达文西,tvbus://6udZqxWndVemrVCws21Ro19MtZQ7AkcPLN66Z3eGDGzGMPRNeH
+达文西,tvbus://8YR2icVpojzyCN1GwW3dwNiJEG5W6WmD7Qb3fFVcT1oQcRj6NP
+达文西,tvbus://8Rt4i3RqY7UjJaBgQVy1qqTyqP7Wv5hmjn6X8JKc5od3yZaw5S
+达文西,tvbus://7geGEHNi2tmdZMwrBQqVmeBsjVqVv8voLW8LHb79qSpr2odFKm
+达文西,tvbus://6XShGVPNnnvwsuPFCf3G3zKdjzXpJFE8QX16f3rrcSC4ZdTs6h3NT9UMvaWeC
+达文西,tvbus://7cdz6PpYYCdcX3GievLaVL6iBH4aZgAJDhew3b4rCpRphyczxS
+达文西,tvbus://7zwdX6zGRVHETm1vjCJkt4DtUtz6WExpKVWSv6JCWwQeXUphaT
 大爱,http://122.117.71.103:8585/http/61.67.128.137:8088/hls/73/815/ch052.m3u8
 大爱,p3p://108.181.32.169:38254/6425225a0002859cea67b1ff6aaf6db6
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -5915,9 +5843,7 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 电影原声CMusic,tvbus://8j9Ys2imuBk146qepfHDENKzcv6NJotvABwjZB8Bm3fcH2AAcd
 电影原声CMusic,tvbus://6PzQEEufG5wzqong59sg4bv5a1U1tUEcrt2ybDTBHV561G5ZLcG9BPTXTfQnn
 电影原声CMusic,tvbus://7sjo1UjhUhdRTrzC2QqA6N9nxFSRAmju5U3oALZCDibBDpKf8g
-东方卫视,http://aktv-stream.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
 东风卫视,p3p://167.114.175.6:55331/65e43760000a035494a8bab255152210
-东风卫视,http://122.117.71.103:8523/http/61.67.128.137:8081/hls/68/810/ch031.m3u8
 东森财经,http://live4play.uk/livehttpplay?channel_id=20078
 东森财经,http://108.181.20.197/livehttpplay?channel_id=20078
 东森财经,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV03.m3u8
@@ -5932,61 +5858,41 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 东森超视,rtmp://116.93.98.236/sat/tv331.flv
 东森超视,http://122.117.71.103:8524/东森超视.m3u8
 东森超视,http://eu.huohuoaa.tech:1025/Smart.php?id=ettvsuper
-东森超视,http://122.117.71.103:8541/http/61.67.128.137:8081/hls/64/806/ch014.m3u8
 东森超视,rtmp://9hv9.mine.nu/sat/tv331
 东森超视,rtmp://60.248.77.83/sat/tv331
 东森超视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvsuper/playlist.m3u8
 东森超视,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvsuper
 东森超视,rtmp://9hv9.mine.nu/sat/tv331.flv
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
-东森超视,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 东森超视,http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
 东森超视,rtmp://220.130.201.73/sat/tv331
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
-东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-8.ctv
 东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
-东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-1.m3u8
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 东森电影,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvmovie/playlist.m3u8
-东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-2.m3u8
 东森电影,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvmovie
-东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-4.m3u8
 东森电影,p3p://108.181.32.169:38254/64253899000a078deabe99ff587050b0
-东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
-东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv
-东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
 东森电影,p3p://173.208.176.178:31809/62c103a5000b5a66a4eacca77822079a
 东森电影,http://eu.huohuoaa.tech:1025/Smart.php?id=ettvmovie
 东森电影,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvmovie
-东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-3.m3u8
-东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-5.m3u8
 东森经财,p3p://173.208.176.178:31809/61468bd70005123dea7373f226636dba
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-东森美洲,https://stream1.freetv.fun/dong-sen-mei-zhou-xin-wen-1.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森戏剧,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvdrama/playlist.m3u8
 东森戏剧,http://live4play.uk/livehttpplay?channel_id=20072
-东森戏剧,http://122.117.71.103:8525/http/61.67.128.137:8081/hls/64/806/ch013.m3u8
 东森戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvdrama
-东森戏剧,http://122.117.71.103:8529/http/61.222.53.250:8081/hls/64/806/ch13.m3u8
 东森新闻,http://108.181.20.197/livehttpplay?channel_id=20082
 东森新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvnews/playlist.m3u8
 东森新闻,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 东森新闻,http://eu.huohuoaa.tech:1025/Smart.php?id=ettvnews
 东森新闻,http://122.117.71.103:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8
 东森新闻,http://live4play.uk/livehttpplay?channel_id=20082
-东森新闻,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 东森新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvnews
 东森新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvnews
-东森新闻,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 东森新闻,p3p://108.181.32.169:38254/64251f9700046520ea5ce8b85b6c11da
-东森新闻,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8
 东森新闻,https://gdfire2.67890123.cn:8088/live/dsxw.m3u8
-东森新闻,http://122.117.71.103:8539/http/220.130.87.218:8081/hls/63/805/ch010.m3u8
-东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv
 东森洋片,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvwestern
 东森洋片,p3p://167.114.175.6:55331/64c62c06000d1cf03751bf246ed813e7
 东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
@@ -5998,25 +5904,17 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 东森幼幼,p3p://173.208.176.178:31809/62c9a6bb000ac34dc6a767036c5f3878
 东森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
-东森幼幼,http://122.117.71.103:8515/http/61.222.53.250:8081/hls/63/805/ch09.m3u8
 东森幼幼,p3p://167.114.175.6:55331/62c9a6bb000ac34dc6a767036c5f3878
-东森幼幼,http://122.117.71.103:8593/http/61.67.128.137:8088/hls/63/805/ch009.m3u8
 东森综合,p3p://108.181.32.169:32739/64253f6e0002d287ead9482831323a6d
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森综合,p3p://173.208.176.178:31809/5fe8c5570001412994347b4506da6ebb
 东森综合,p3p://167.114.175.6:55331/5fe8c5570001412994347b4506da6ebb
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 东森综合,http://live4play.uk/livehttpplay?channel_id=20104
 东森综合,http://211.72.65.236:8524/.m3u8
 东森综合,http://eu.huohuoaa.tech:1025/Smart.php?id=ettvzhonghe
 东森综合,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvzhonghe
 东森综合,http://122.117.71.103:8523/东森综合.m3u8
-东森综合,http://122.117.71.103:8519/http/61.67.128.137:8081/hls/63/805/ch012.m3u8
-东森综合,http://122.117.71.103:8525/http/220.130.87.218:8081/hls/67/809/ch025.m3u8
 东森综合,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvzhonghe/playlist.m3u8
 东森综合,p3p://108.181.32.169:38254/64253f6e0002d287ead9482831323a6d
-东森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8
 东森综合,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvzhonghe
 东方卫视,tvbus://6Ewe3w6LiysdyHPeJXj8Z2HX1yvqBda78ZL3F3xtVhMhNEtfzHR8YWp2Zoz9g
 东方卫视,tvbus://7BDED5WTKdUdCESHH1CfCcazcuNfHV54LLTHJpJVoJi6AA6sdH
@@ -6124,7 +6022,6 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 东森综合,tvbus://6XyGTJ7XzbjA7StbDPTsJjGoeG9BvsabDnixXXCtgU2xTfHoC8ohQzk5Hxd2P
 东森综合,tvbus://8GcJdbgbE887nDcpjmpRRVYKsWmu5W5QDL1FAKYC6JUsZ4J79J
 动画片,http://61.221.215.25:8800/hls/40/index.m3u8
-动物星球,http://122.117.71.103:8590/http/61.67.128.137:8088/hls/70/812/ch037.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 动物星球,tvbus://6wRbVHg6MfevwDo7o6WjpJzrERfyjskzrWmcXiw6ka5HYgFsFb
 动物星球,tvbus://7BxpuJEupucno5bDGFAd44RAiJVXNmPqP6KtBTjVg7hpbHNdrz
@@ -6153,7 +6050,6 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 番薯,tvbus://8X6La2TRFEcRAhRST9VsuFwQUGSV4VcDkS2868g1RWvxzCWGV5
 番薯,tvbus://7cV6KsUXX2rEWWZE2NJYtxKmjLZHBrhE39hdiPkkmFZ5Gwyuvj
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklistw70581102.m3u8
-非凡商业,http://122.117.71.103:8545/http/61.67.128.137:8081/hls/74/816/ch056.m3u8
 非凡商业,p3p://167.114.175.6:55331/621dbc3b00051ea5272370aa6e685347
 非凡商业,tvbus://6MT7WFdqsuPEWYkVvhqtMjFWpNkgiGHikeP8N9LBcLeCWmBqv7vYx7Ha5ynmj
 非凡商业,tvbus://84k7g2MB9Mmzjav9SP3T8eHSNDZFDk1cYm2Azac2SWNDrZaJCe
@@ -6190,19 +6086,15 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 翡翠,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 翡翠,http://cdn5.1678520.xyz/live/?id=fct
 翡翠,https://cdn.163189.xyz/live/fct4k/stream.m3u8
-翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3$LR•IPV4『线路4』
-翡翠,http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
 翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠,http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
-翡翠,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠,https://gdfire2.67890123.cn:8088/live/jade.m3u8
 翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 翡翠,http://222.128.55.152:9080/live/gdfc.m3u8
 翡翠,http://m.osvs.asia:8000/bysid/1
-翡翠,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah005-golive.flv
 翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
@@ -6214,22 +6106,17 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 翡翠,https://haoyunlai.serv00.net/Smartv-1.php?id=jade_twn
 翡翠,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
 翡翠,http://cdn.163189.xyz/live/fct4k/stream.m3u8
-翡翠,http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠,http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8
 翡翠,http://47.76.146.40:2095/stream/bxtv/null/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 翡翠,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
-翡翠,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 翡翠,http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
 翡翠,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jade_twn/playlist.m3u8
-翡翠,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 翡翠,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
 翡翠,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8
 翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 翡翠4K,http://cdn.132.us.kg/live/fct4k/stream.m3u8
-翡翠4K,http://aktv-stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
 翡翠北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
-翡翠剧集,http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 翡翠,tvbus://86eX7AZXgWyCPFEjQr1ZRoUrGdHU2c5HGroAALyhifwoUXusXM
 翡翠,tvbus://7ajwxDWM7jjq3msx73X2zJFFWsZL7GnnoWxqSqPNLZci5wYgnY
 翡翠,tvbus://6TVws8SRzfLoz91XBVsPSVge1W3cpuNj2RWLzupoWYWkN9sb1a2JeM4x3PZyu
@@ -6251,12 +6138,9 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 翡翠,tvbus://6v2JweoovoW685TMKL6eEP6tWEzQxsbb26bAaAtEnSaeZoNRB8
 翡翠,tvbus://5NLF8LLHEsFo4RARReWMwybbd26XRdf7trxWYcQpRzNZwp6U8Ez7PeLYC2vSw
 翡翠,tvbus://7ZAapmDhEuRgPn9PpgeBU54xJEMRyaxGsrhTZ9KsiQqwKPA7fp
-翡翠综合,http://aktv-stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
-凤凰电影,http://quan2018.mycloudnas.com:51888/play/a017/index.m3u8
 凤凰美洲,p3p://167.114.175.6:55331/5fe00fca0004e627722fbe5a480a642f
 凤凰美洲,p3p://173.208.176.178:31809/5fe00fca0004e627722fbe5a480a642f
 凤凰卫视,http://eu.huohuoaa.tech:1025/Smart.php?id=phoenixtv_hd
-凤凰卫视,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a2092354
 凤凰卫视,http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
@@ -6265,7 +6149,6 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
 凤凰卫视,https://pixman.mytvsuper.com.mp/Smart.php?id=phoenixtv_hd
 凤凰卫视,p3p://167.114.175.6:55331/602c73500002f4d29c90fa1270f21160
-凤凰香港,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
 凤凰香港,http://148.135.93.213:81/phenix.php?id=fhhk
 凤凰香港,http://ttkx.cc:1658/公开源454/fh.php?id=fhhk
@@ -6281,21 +6164,16 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 凤凰香港,http://108.181.20.197/livehttpplay?channel_id=30016
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 凤凰香港,http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk TVB
-凤凰香港,http://47.76.146.40:2095/stream/bxtv/null-4/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 凤凰香港,http://live4play.uk/livehttpplay?channel_id=20067
 凤凰香港,http://live4play.uk/livehttpplay?channel_id=30016
 凤凰香港,https://pixman.mytvsuper.com.mp/Smart.php?id=hkphoenix_twn
 凤凰香港,http://dns.yiandrive.com:15907/phenix/fhhk
 凤凰香港,p3p://108.181.32.169:38254/67641d8000038fa1b90c9c78133d0607
 凤凰香港,http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
-凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 凤凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;wsMonitor=0
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
-凤凰香港,http://kxrj.site:1258/69986p/fh.php?id=fhhk
 凤凰香港,https://haoyunlai.serv00.net/Smartv-1.php?id=hkphoenix_twn
 凤凰香港,p3p://108.181.32.169:38254/641022da0005d3069862188000a64525
-凤凰香港,http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
-凤凰影视,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://146.56.153.245:20121/bysid/258
 凤凰中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
@@ -6305,52 +6183,27 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 凤凰中文,http://211.67.191.23/hls/fhzw/index.m3u8
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
-凤凰中文,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-凤凰中文,http://47.76.146.40:2095/stream/bxtv/null-2/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://202.168.187.208:9089/tsfile/live/1009_1.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
-凤凰中文,http://aktv_stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰中文,p3p://108.181.32.169:38254/641fd7b400080236d5bc536f5d82159c
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzw
 凤凰中文,http://183.157.13.62:4022/udp/233.50.200.42:5140
 凤凰中文,http://108.181.20.197/livehttpplay?channel_id=30014
-凤凰中文,http://39.164.174.139:5000/nl.m3u8?id=FHZWHD
-凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8
-凤凰中文,http://120.55.49.231:3095/rtp/233.50.200.191:5140
 凤凰中文,http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰中文,http://cdn5.1678520.xyz/live/?id=fhzw
 凤凰中文,p3p://108.181.32.169:38254/6410229e000655dd98612e41401e3e7d
-凤凰中文,http://kxrj.site:1258/69986p/fh.php?id=fhzw
 凤凰中文,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzw
-凤凰中文,http://aktv_stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 凤凰中文,http://148.135.93.213:81/phenix.php?id=fhzw
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰中文,http://ttkx.cc:1658/公开源454/fh.php?id=fhzw
-凤凰中文,http://122.117.71.103:8577/http/61.67.128.137:8078/hls/21/80/phoenixch.m3u8
-凤凰中文,http://quan2018.mycloudnas.com:51888/play/a012/index.m3u8
-凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000
-凤凰中文,http://148.135.93.213/phenix.php?id=fhzw#http://148.135.93.213:81/phenix.php?id=fhzw
+凤凰中文,http://148.135.93.213/phenix.php?id=fhzw
+凤凰中文,http://148.135.93.213:81/phenix.php?id=fhzw
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
-凤凰中文,http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰中文,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
-凤凰中文,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.184:9092
-凤凰中文,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.48:1025
-凤凰资讯,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
 凤凰资讯,http://148.135.93.213:81/phenix.php?id=fhzx
-凤凰资讯,http://47.76.146.40:2095/stream/bxtv/null-3/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
-凤凰资讯,http://39.164.174.139:5000/nl.m3u8?id=FHZXHD
 凤凰资讯,http://ttkx.cc:1658/公开源454/fh.php?id=fhzx
 凤凰资讯,http://162.62.120.19/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰资讯,http://223.105.252.59/PLTV/3/224/3221228524/index.m3u8
-凤凰资讯,http://122.117.71.103:8576/http/61.67.128.137:8078/hls/20/80/phoenixif.m3u8
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://162.62.120.19/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰资讯,http://quan2018.mycloudnas.com:51888/play/a015/index.m3u8
 凤凰资讯,http://148.135.93.213/phenix.php?id=fhzx
 凤凰资讯,http://148.135.93.213:81/phenix.php?id=fhzx
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
@@ -6367,30 +6220,18 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
 凤凰资讯,https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixinfo_hd
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
-凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 凤凰资讯,http://120.55.49.231:3095/rtp/233.50.200.192:5140
 凤凰资讯,http://122.117.71.103:8573/凤凰资讯.m3u8
-凤凰资讯,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-凤凰资讯,http://kxrj.site:1258/69986p/fh.php?id=fhzx
-凤凰资讯,http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
-凤凰资讯,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 凤凰资讯,http://cdn5.1678520.xyz/live/?id=fhzx
-凤凰资讯,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.47:1025
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰资讯,http://218.202.220.2:5000/nn_live.ts?id=FHZX
 凤凰资讯,p3p://167.114.175.6:55331/5fffbf860003807cedf4e1016c3c3ed2
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://108.181.20.197/livehttpplay?channel_id=30015
-凤凰资讯,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-4
 凤凰资讯,http://162.62.120.19/qctv.fengshows.cn/live/0701pin72.flv
-凤凰资讯,http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
-凤凰资讯,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.183:9086
-凤凰资讯,http://146.56.153.245:20121/bysid/257
 鳳凰香港,tvbus://7n2qfLndGLgLQDhqgiYFqZ5zdbs1HuhsVUZuixxztkkw4u96aM
 鳳凰香港,tvbus://6AW4HEATG9LySpaF6w1PEJwnGMDS7DasGvh1QZbbCQwaHYr2sQTXvSWt1w4zA
 鳳凰香港,tvbus://7trNUetjhaUdrZvqThsm3QwWJUxoRWEwaeAqT91KwU3s3ssqPd
@@ -6442,7 +6283,6 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 高点综合,tvbus://8ACuVKp87RicFRYLw7yPJ23PX6vjwxrQTbqobgR3hvkKfz6j3Q
 高点综合,tvbus://7eDKFYUsQ8u8BC2bgoDggYMJJuQgQb2tEN5ZGjnZ7heFMi6hdA
 公视,http://108.181.20.197/livehttpplay?channel_id=20087
-公视,http://122.117.71.103:8583/http/61.67.128.137:8081/hls/87/80/Pts4max.m3u8
 公视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctv_taiwan/playlist.m3u8
 公视,p3p://167.114.175.6:55331/63ebf0b7000e7d27e2de13a9113e7096
 公视,p3p://173.208.176.178:31809/63ebf0b7000e7d27e2de13a9113e7096
@@ -6569,13 +6409,13 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 海南卫视,tvbus://6VqaYq37TJFDapJRBqkGZVU8oiZMuYMUSvzBv8Ue5w1xZtYRN6nwCfH5Z3tfr
 海南卫视,tvbus://7np1fMKjbbtous76STQR2jqsmeU5ZNd7APLYaibshANtqZmaSe
 海南卫视,tvbus://7p5nzEMVzvopL3GuBQvv6PwGxo4ubYaQ4GLnJspHXtgtf2H1Et
-海豚綜合台,tvbus://61kxZg1QuGBQ9DXkkXbpk3xLeQf3BYQM3BD2Ma7jCS8G3T7pY54jWXUmXkrQS
-海豚綜合台,tvbus://7QJ6VecJyo397DBFgVfPEZLMoUwdHUNVCLLeLHf51ej3Vpubgy
-海豚綜合台,tvbus://8UQNEGxT82hG5ziUDtKUG9iqdAa85sVsuPai4iuVy2x928eiFL
-海豚綜合台,tvbus://75UjF33dXkrLEAZm8fBQXx5NMYg5E9Qme9wc9T91QYaAJDb8ky
-海豚綜合台,tvbus://8Q49RDMQoZp18eSANjGMCUkZAjBemwGYaj6vgyF5bQeJcWBFpd
-海豚綜合台,tvbus://8aVY2hNL1ChC1tzAMJXHdCKmd3aRXREnCYwpvF187JQpo6Ev46
-海豚綜合台,tvbus://8HLtBjStvEEmN2fHKnGPDdb5yw1LdKJvYXZJkBgLLSVSfzhFKc
+海豚綜合,tvbus://61kxZg1QuGBQ9DXkkXbpk3xLeQf3BYQM3BD2Ma7jCS8G3T7pY54jWXUmXkrQS
+海豚綜合,tvbus://7QJ6VecJyo397DBFgVfPEZLMoUwdHUNVCLLeLHf51ej3Vpubgy
+海豚綜合,tvbus://8UQNEGxT82hG5ziUDtKUG9iqdAa85sVsuPai4iuVy2x928eiFL
+海豚綜合,tvbus://75UjF33dXkrLEAZm8fBQXx5NMYg5E9Qme9wc9T91QYaAJDb8ky
+海豚綜合,tvbus://8Q49RDMQoZp18eSANjGMCUkZAjBemwGYaj6vgyF5bQeJcWBFpd
+海豚綜合,tvbus://8aVY2hNL1ChC1tzAMJXHdCKmd3aRXREnCYwpvF187JQpo6Ev46
+海豚綜合,tvbus://8HLtBjStvEEmN2fHKnGPDdb5yw1LdKJvYXZJkBgLLSVSfzhFKc
 海峡两岸,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/93dafada4e35457788319f02f5063529/1200.m3u8
 海峡卫视,p3p://167.114.175.6:55331/63ec47390001586de42ffc1a7e1856a6
 韩国娱乐,http://122.117.71.103:8518/http/61.67.128.137:8092/upload/116/KMTV_TS-1111_1.m3u8
@@ -6612,7 +6452,6 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 好消息2,tvbus://8hevWnSZLDJrE5uMAyy8RTDCudtcrfc1RDx7dxWeL72Yi61M5z
 好消息2,tvbus://86XrEKyh2w1t2SznBDFh37YabxDMvS5tVMMxunktmsaABYNpB7
 好消息2,tvbus://7R6vjaNUe6hH3AHVno4Pcrirc9HXhdoABbnRoRk9VPPy5kcDxH
-好消息综,http://122.117.71.103:8586/http/61.67.128.137:8088/hls/74/816/ch053.m3u8
 河北卫视,http://8.138.7.223/tv/hebtv.m3u8
 河北卫视,tvbus://6FShtT641TJGc24KfNRgSgQ7kCrCQykjoNhho3UXp88L9bvCWXdv7EWHdr3AX
 河北卫视,tvbus://7vqvgyaA7rigMMd8YGdnFBJHyzCtPNArjuVthavi33FC9ZcLPe
@@ -6652,16 +6491,12 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 华丽,https://haoyunlai.serv00.net/Smartv-1.php?id=Tvbjade
 华丽,https://haoyunlai.serv00.net/Smartv-1.php?id=Wlt
 华丽翡翠,http://cdn9.163189.xyz/smt1.1.php?id=Wlt
-华视,http://aktv-stream.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
 华视,p3p://167.114.175.6:55331/61eff95c000bcf35803ebfe7426e2914
 华视,rtmp://60.248.77.68/sat/tv111
 华视,rtmp://f13h.mine.nu/sat/tv111
 华视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctshd_twn/playlist.m3u8
 华视,rtmp://60.248.77.66/sat/tv111
-华视,http://122.117.71.103:8503/http/220.130.87.218:8081/hls/89/80/Cts4max.m3u8
-华视电视,http://122.117.71.103:8536/http/61.67.128.137:8081/hls/89/80/Cts4max.m3u8
 华视闽南,p3p://173.208.176.178:31809/61eff95c000bcf35803ebfe7426e2914
-华视戏剧,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 华视新闻,http://211.72.65.236:8503/.m3u8
 华视新闻,http://108.181.20.197/livehttpplay?channel_id=20086
 华视新闻,http://37.27.111.214:8080/live/8/hls.m3u8
@@ -6708,55 +6543,55 @@ Astro爱奇艺,tvbus://8Jnzro64t4vFWFHKZDbCAetWbqBteiWwucjpLNFMfQWhVzZyD7
 华丽台WAH LAI TOI,tvbus://7za2sABAbapxF4qaXxjdP973ut6EHmM5hV5FvdTAAr28YWJ7UR
 华丽台WAH LAI TOI,tvbus://8iaT5jR1FB8u2hJH2MpcGjY1AFeFhaTKkLB1y84Bvb5sW8tU5F
 华丽台WAH LAI TOI,tvbus://74ikQySZGmtHKukLKbAPpxGkWnBD7KchaJKroqwpyQfJARVLef
-华视CTS HD,tvbus://7DhV7SRgo1agfW5u94jg1d7Zp3a9jqmzV6ZGLizuhyL1P6Cc1h
-华视CTS HD,tvbus://7bLnimgQ9yApVQKnJZ7V6Gw3HRmARrQxtQFJXbNAvEgeKe6NoH
-华视CTS HD,tvbus://8HmBKdM93wufLG2cPZ1Bzczuz64MNX6mKEEM4jZnJAEkaD3SyH
-华视CTS HD,tvbus://7XBkQnf637ezhJGmtgdr8XegcyJKEZwzjwnRfamgeRvREA9tft
-华视CTS HD,tvbus://88EPTNMBS3w4Feas3rLxzfVN87Q4Cbm8gxGAoEiCBjG7p9D6QA
-华视CTS HD,tvbus://6JtgLse93i5Fa5dkfDwm4SgEerKVhWg3z5HzQoVJagmvHnMgGuEUTjzx6hWnu
-华视CTS HD,tvbus://7XwNWe2uBjqepYDARomHJUiHDx9aqPPVNjdhHjMYUpw2Nr3iq7
-华视CTS HD,tvbus://73yXqYq4KBo5CisaaRXZofLT26R4QCJmM4SrSWz8F6jCAaRA1L
-华视CTS HD,tvbus://7RnKfQTZ2kj4D2hGcqvw9fgb56EQpAhee8c52KFwvNGiXVof6r
-华视CTS HD,tvbus://71nP9Duo9YDDuhn32rF2FWKwQMZEkNF6NqTKC56GoTCg6AjSk9
-华视CTS HD,tvbus://7i5zGBrZDcAcrVH6gC5ZZF2S4YTVZp2AjBjdHDXLMN2jZAgkM1
-华视CTS HD,tvbus://7RMSuUu659bZW9WEzTPtDimZ8WwNhH7KwmaXdhX9VPrLmBgGKM
-华视CTS HD,tvbus://8DjnYYYeTpnEXeTJSmUiWxudAsQkGtLu6FYf17uinJpsT1pi7c
-华视CTS HD,tvbus://5v1ZDYU8fGfFszS5wXQBt8gtsZpf6UpR9VxCVKrwxnN6n4SFUtY8wjY5rD9ai
-华视新闻信息,tvbus://8kGbYiT7oMHrGCEykxi1BGpV9xPeNgixqsW1XMkSAKmedST5kJ
-华视新闻信息,tvbus://6ypF1tzyqNBHE1uxkF8sg5xiF7Yh3wz73MPTC9DZ5CU8Djv1yh
-华视新闻信息,tvbus://74F2F1qAQYEN57ttr2Ye5ASsmPqrxhx3FMPBzeQSmTSjrhieUt
-华视新闻信息,tvbus://7dQZwxhJiHGkQBMwp8sWkNSDj62gTkeB7Hp1VX1nVsLqb931HZ
-华视新闻信息,tvbus://7R4Mf2eLckEfLJMrGnHCohawFdHLzipBw7JiX18PWnK7UbEucv
-华视新闻信息,tvbus://7PA2dsEujFfmXAztzZpgrnZvxBfUnvFFH6TYKve2cQKKhtajpt
-华视新闻信息,tvbus://67NCo7isCEwd2gCn1otAQGp5p9mrCFBLpsyTxXuJc9LdDJ8JnMemmwiH7kn7L
-Asreo欢喜,tvbus://7FRvYX3VB4QFToqnfpRoKZtHAkRd19V5iZDNzhvs3qq9rAJrvS
-Asreo欢喜,tvbus://7BkmLeAewDNZC6SYVPRKPZjRLpXrbAb7Rz45i3Zv8neU3pCtn6
-Asreo欢喜,tvbus://7pdhgpvJmUtiWPNhEuZoKRenvWCzjsvtVG5mZfCdnRHnKjAtGx
-Asreo欢喜,tvbus://7gVdbgoeSSrVEXoMVgPnPAoCGwgtWrGZhkYGxUUZnroEsJxMFb
-Asreo欢喜,tvbus://7MzhxxJUcW9LNQLvN9Y63RPJHqsoVNGsGwqAVSiGeb4ZvVyYrE
-Asreo欢喜,tvbus://71NGAU2oDY2tXxaunfxdtC4LZmwF8xgXamM454m7G9aExSj89y
-Asreo欢喜,tvbus://5MaMtCDPvywiJ9EnCHfhqXTCEXKVPYNowwz5KckJL4pGRjBg3UyJx7S3bhJar
-Asreo欢喜,tvbus://5rPFKdTqqHMHXT4tw2HkzB3hdXCJKMJdQKYhBfzvPVngpjYcwLMEinHR19o66
-Asreo欢喜,tvbus://7wtgeWZ8saeephN1HqQKzckxHE8RuT7h1M31vCV8itgNSPAL9P
-Asreo欢喜,tvbus://8MRigBEV6CzWTU619stgTCWXvRGaNTBgJ7iuBv681Qmj2uCUwN
-Asreo欢喜,tvbus://829ip2nnDwQXsZdq89fSsmURNkPc5VmbBbvdbnv9EpugmMKnV6
-Asreo欢喜,tvbus://8J8McBo4mheWiXPSu1K5cbd57UtpvGP5a62pT7aRMk8jfuLoFg
-Asreo欢喜,tvbus://8V8sHm8JcWeLjoCKJubBYSXAHhv3MErn4jmvPDrQbYmyc85E8u
-Asreo欢喜,tvbus://8LNVYg4qML6Y7HS4y18BstkB7jg6Bkt3uGikCNoPQXfWBNrzvr
-Asreo欢喜,tvbus://8hxaxcEJWkSeqoBNnjwao7wnvfUHepxD1Hp71YcnRzyz6AoSUy
-Asreo欢喜,tvbus://7G6geTHWv6jiZsz2Hdxfb6zqwghATb7s9gS33jzrc853BKXaBP
-Asreo欢喜,tvbus://8P8ewCT3DVRuTYMzvkxEWxq6eF2MF7zpFo3vjW83sxrs8g4xd3
-Asreo欢喜,tvbus://84Ljb7hFuMdARDxioyguQowPJMJK37A6i4ZW1q5CVgPGrkihdF
-Asreo欢喜,tvbus://5XuJLiG6Uteyt3jAvvm389kwXQ7p3HCHRkC9gxHJvpp8nqiosbTX1PaGdZk4w
-Asreo欢喜,tvbus://8KFpC9ig9VDTcVfv9tiT51avpKzwzv86Jnpi1xkJR6K16VZGdq
-Asreo欢喜,tvbus://8DDEpHaYDVLfDsJDy5hoQ2rmjxKV3ZY1MxaWRUqSjsJdg8Aar1
-Asreo欢喜,tvbus://5gXranhRhSwY8x9bsBMK4QwDXE2Fpxji8jpsUWfoLgFqWLJWgrJTtwYKKciMC
-Asreo欢喜,tvbus://8inb9uuid3x9BZ9gWuM5Sw6fkeXfC4qsHhTF9cQz6m6EbQZHNt
-Asreo欢喜,tvbus://8TQL3GBPNwutvzCTQHQcRZpJ58jiB2QG38xKR8kVimkqXGxXpD
-Asreo欢喜,tvbus://8agmwNF8DAdxw6MAR6uJyRhRcB1AsnPuoqvoU8JRk93NYMB7gz
-Asreo欢喜,tvbus://8RC9p8tU1fGMG8nfURV9y29CuJqciSsvMNUkBy9hzGGaFWhmoH
-Asreo欢喜,tvbus://7d8uj4Pe2jxcsDv8wJTw4BqHFFxQjRWRo8HeCT6Kctw7QZFS4F
-Asreo欢喜,tvbus://71cHD3cSe1NfLFqeuxgHeNRsYiMzx5XsNs1NpXWuhXnbnBsxdZ
+华视,tvbus://7DhV7SRgo1agfW5u94jg1d7Zp3a9jqmzV6ZGLizuhyL1P6Cc1h
+华视,tvbus://7bLnimgQ9yApVQKnJZ7V6Gw3HRmARrQxtQFJXbNAvEgeKe6NoH
+华视,tvbus://8HmBKdM93wufLG2cPZ1Bzczuz64MNX6mKEEM4jZnJAEkaD3SyH
+华视,tvbus://7XBkQnf637ezhJGmtgdr8XegcyJKEZwzjwnRfamgeRvREA9tft
+华视,tvbus://88EPTNMBS3w4Feas3rLxzfVN87Q4Cbm8gxGAoEiCBjG7p9D6QA
+华视,tvbus://6JtgLse93i5Fa5dkfDwm4SgEerKVhWg3z5HzQoVJagmvHnMgGuEUTjzx6hWnu
+华视,tvbus://7XwNWe2uBjqepYDARomHJUiHDx9aqPPVNjdhHjMYUpw2Nr3iq7
+华视,tvbus://73yXqYq4KBo5CisaaRXZofLT26R4QCJmM4SrSWz8F6jCAaRA1L
+华视,tvbus://7RnKfQTZ2kj4D2hGcqvw9fgb56EQpAhee8c52KFwvNGiXVof6r
+华视,tvbus://71nP9Duo9YDDuhn32rF2FWKwQMZEkNF6NqTKC56GoTCg6AjSk9
+华视,tvbus://7i5zGBrZDcAcrVH6gC5ZZF2S4YTVZp2AjBjdHDXLMN2jZAgkM1
+华视,tvbus://7RMSuUu659bZW9WEzTPtDimZ8WwNhH7KwmaXdhX9VPrLmBgGKM
+华视,tvbus://8DjnYYYeTpnEXeTJSmUiWxudAsQkGtLu6FYf17uinJpsT1pi7c
+华视,tvbus://5v1ZDYU8fGfFszS5wXQBt8gtsZpf6UpR9VxCVKrwxnN6n4SFUtY8wjY5rD9ai
+华视新闻,tvbus://8kGbYiT7oMHrGCEykxi1BGpV9xPeNgixqsW1XMkSAKmedST5kJ
+华视新闻,tvbus://6ypF1tzyqNBHE1uxkF8sg5xiF7Yh3wz73MPTC9DZ5CU8Djv1yh
+华视新闻,tvbus://74F2F1qAQYEN57ttr2Ye5ASsmPqrxhx3FMPBzeQSmTSjrhieUt
+华视新闻,tvbus://7dQZwxhJiHGkQBMwp8sWkNSDj62gTkeB7Hp1VX1nVsLqb931HZ
+华视新闻,tvbus://7R4Mf2eLckEfLJMrGnHCohawFdHLzipBw7JiX18PWnK7UbEucv
+华视新闻,tvbus://7PA2dsEujFfmXAztzZpgrnZvxBfUnvFFH6TYKve2cQKKhtajpt
+华视新闻,tvbus://67NCo7isCEwd2gCn1otAQGp5p9mrCFBLpsyTxXuJc9LdDJ8JnMemmwiH7kn7L
+Astro欢喜,tvbus://7FRvYX3VB4QFToqnfpRoKZtHAkRd19V5iZDNzhvs3qq9rAJrvS
+Astro欢喜,tvbus://7BkmLeAewDNZC6SYVPRKPZjRLpXrbAb7Rz45i3Zv8neU3pCtn6
+Astro欢喜,tvbus://7pdhgpvJmUtiWPNhEuZoKRenvWCzjsvtVG5mZfCdnRHnKjAtGx
+Astro欢喜,tvbus://7gVdbgoeSSrVEXoMVgPnPAoCGwgtWrGZhkYGxUUZnroEsJxMFb
+Astro欢喜,tvbus://7MzhxxJUcW9LNQLvN9Y63RPJHqsoVNGsGwqAVSiGeb4ZvVyYrE
+Astro欢喜,tvbus://71NGAU2oDY2tXxaunfxdtC4LZmwF8xgXamM454m7G9aExSj89y
+Astro欢喜,tvbus://5MaMtCDPvywiJ9EnCHfhqXTCEXKVPYNowwz5KckJL4pGRjBg3UyJx7S3bhJar
+Astro欢喜,tvbus://5rPFKdTqqHMHXT4tw2HkzB3hdXCJKMJdQKYhBfzvPVngpjYcwLMEinHR19o66
+Astro欢喜,tvbus://7wtgeWZ8saeephN1HqQKzckxHE8RuT7h1M31vCV8itgNSPAL9P
+Astro欢喜,tvbus://8MRigBEV6CzWTU619stgTCWXvRGaNTBgJ7iuBv681Qmj2uCUwN
+Astro欢喜,tvbus://829ip2nnDwQXsZdq89fSsmURNkPc5VmbBbvdbnv9EpugmMKnV6
+Astro欢喜,tvbus://8J8McBo4mheWiXPSu1K5cbd57UtpvGP5a62pT7aRMk8jfuLoFg
+Astro欢喜,tvbus://8V8sHm8JcWeLjoCKJubBYSXAHhv3MErn4jmvPDrQbYmyc85E8u
+Astro欢喜,tvbus://8LNVYg4qML6Y7HS4y18BstkB7jg6Bkt3uGikCNoPQXfWBNrzvr
+Astro欢喜,tvbus://8hxaxcEJWkSeqoBNnjwao7wnvfUHepxD1Hp71YcnRzyz6AoSUy
+Astro欢喜,tvbus://7G6geTHWv6jiZsz2Hdxfb6zqwghATb7s9gS33jzrc853BKXaBP
+Astro欢喜,tvbus://8P8ewCT3DVRuTYMzvkxEWxq6eF2MF7zpFo3vjW83sxrs8g4xd3
+Astro欢喜,tvbus://84Ljb7hFuMdARDxioyguQowPJMJK37A6i4ZW1q5CVgPGrkihdF
+Astro欢喜,tvbus://5XuJLiG6Uteyt3jAvvm389kwXQ7p3HCHRkC9gxHJvpp8nqiosbTX1PaGdZk4w
+Astro欢喜,tvbus://8KFpC9ig9VDTcVfv9tiT51avpKzwzv86Jnpi1xkJR6K16VZGdq
+Astro欢喜,tvbus://8DDEpHaYDVLfDsJDy5hoQ2rmjxKV3ZY1MxaWRUqSjsJdg8Aar1
+Astro欢喜,tvbus://5gXranhRhSwY8x9bsBMK4QwDXE2Fpxji8jpsUWfoLgFqWLJWgrJTtwYKKciMC
+Astro欢喜,tvbus://8inb9uuid3x9BZ9gWuM5Sw6fkeXfC4qsHhTF9cQz6m6EbQZHNt
+Astro欢喜,tvbus://8TQL3GBPNwutvzCTQHQcRZpJ58jiB2QG38xKR8kVimkqXGxXpD
+Astro欢喜,tvbus://8agmwNF8DAdxw6MAR6uJyRhRcB1AsnPuoqvoU8JRk93NYMB7gz
+Astro欢喜,tvbus://8RC9p8tU1fGMG8nfURV9y29CuJqciSsvMNUkBy9hzGGaFWhmoH
+Astro欢喜,tvbus://7d8uj4Pe2jxcsDv8wJTw4BqHFFxQjRWRo8HeCT6Kctw7QZFS4F
+Astro欢喜,tvbus://71cHD3cSe1NfLFqeuxgHeNRsYiMzx5XsNs1NpXWuhXnbnBsxdZ
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 寰宇财经,p3p://167.114.175.6:55331/64e36edf00052681a99e432a601547f5
 寰宇财经,p3p://173.208.176.178:31809/64e36edf00052681a99e432a601547f5
@@ -7011,12 +6846,9 @@ Asreo欢喜,tvbus://71cHD3cSe1NfLFqeuxgHeNRsYiMzx5XsNs1NpXWuhXnbnBsxdZ
 龙华日韩,p3p://173.208.176.178:31809/621e1d0e00085766289da9bb1d7120af
 龙华日韩,http://122.117.71.103:8507/http/61.67.128.137:8068/hls/12/80/cstv12.m3u8
 龙华日韩,p3p://167.114.175.6:55331/621e1d0e00085766289da9bb1d7120af
-龙华日韩,http://aktv-stream.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
 龙华戏剧,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuaxiju_twn/playlist.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-龙华戏剧,http://122.117.71.103:8533/http/61.222.53.250:8068/hls/13/80/cstv13.m3u8
 龙华戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuaxiju_twn
-龙华戏剧,http://122.117.71.103:8506/http/61.67.128.137:8068/hls/13/80/cstv13.m3u8
 龙华洋片,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuawestern_twn/playlist.m3u8
 龙华洋片,p3p://167.114.175.6:55331/64c0e1af000875f522a785c0570b06ae
 龙华洋片,http://50.7.234.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MF7F3761146937611469&ct=19234&tsum=e8b375d0c73fff5a34a7e3b4de2f53bb
@@ -7134,35 +6966,23 @@ Asreo欢喜,tvbus://71cHD3cSe1NfLFqeuxgHeNRsYiMzx5XsNs1NpXWuhXnbnBsxdZ
 民视,rtmp://220.130.201.73/sat/tv051
 民视,rtmp://f13h.mine.nu/sat/tv051
 民视,rtmp://60.248.77.66/sat/tv051
-民视,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
 民视,rtmp://60.248.77.68/sat/tv051
-民视,http://122.117.71.103:8504/http/220.130.87.218:8081/hls/85/80/Ftv4max.m3u8
 民视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvhd_taiwan/playlist.m3u8
 民视,http://108.181.20.197/livehttpplay?channel_id=20074
 民视,https://haoyunlai.serv00.net/Smartv-1.php?id=ftvhd_taiwan
-民视,http://aktv-stream.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
 民视第一,http://eu.huohuoaa.tech:1025/Smart.php?id=lunghuajingdian_twn
 民视第一,p3p://108.181.32.169:38254/642520e900023cc4ea621083588c7092
-民视第一,http://aktv-stream.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
-民视第一,http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
 民视第一,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuajingdian_twn
-民视,http://122.117.71.103:8567/http/61.67.128.137:8081/hls/85/80/Ftv4max.m3u8
 民视,p3p://173.208.176.178:31809/6001ba8400051d89f5b151a63fa96419
 民视台湾,http://eu.huohuoaa.tech:1025/Smart.php?id=ftvtaiwan_twn
 民视台湾,http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 民视台湾,https://pixman.mytvsuper.com.mp/Smart.php?id=ftvtaiwan_twn
-民视台湾,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
-民视台湾,https://stream1.freetv.fun/min-shi-tai-wan-6.ctv
-民视台湾,https://stream1.freetv.fun/min-shi-tai-wan-6.m3u8
 民视台湾,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvtaiwan_twn/playlist.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-民视新闻,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
 民视新闻,p3p://108.181.32.169:38254/64c859e10007934267f487ac0fa618e0
-民视新闻,http://122.117.71.103:8535/http/61.67.128.137:8081/hls/85/80/FtvNews4max.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=ftvnew_taiwan
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
-民视新闻,http://aktv-stream.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvnew_taiwan/playlist.m3u8
@@ -7174,7 +6994,6 @@ Asreo欢喜,tvbus://71cHD3cSe1NfLFqeuxgHeNRsYiMzx5XsNs1NpXWuhXnbnBsxdZ
 民视新闻,http://live4play.uk/livehttpplay?channel_id=20097
 民视影剧,p3p://108.181.32.169:38254/6425257c000bd861ea73f1315c0e6e14
 民视综艺,p3p://108.181.32.169:38254/642d012300040bf70925bb06321b0b87
-民视综艺,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-16/AKTV.m3u8
 民视,tvbus://8ArqFxRamqNppteeAq3EGzbMv6WrMyU8h65S4FUzKftswSgaof
 民视,tvbus://7mdqYJYbrXQBQy7iEwzA7LhEazcLH3qPUvLLHfUDvahsdUL1j4
 民视,tvbus://6f2wtzyeh1DVX2VJpmuYDM7Gdd3uySMJvECUUAbR9svdJN2qyJPtaT1mDwgWd
@@ -7255,15 +7074,12 @@ Asreo欢喜,tvbus://71cHD3cSe1NfLFqeuxgHeNRsYiMzx5XsNs1NpXWuhXnbnBsxdZ
 镜新闻,p3p://173.208.176.178:31809/63ebd33c0003c437e26ae87279d061f1
 壹新闻,http://live4play.uk/livehttpplay?channel_id=20028
 壹新闻,p3p://173.208.176.178:31809/621dbb640001cb2b272027f74da62753
-明珠,http://aktv_stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
 明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-明珠剧集,http://aktv-stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
 尼克儿童,p3p://167.114.175.6:55331/6233e0ca0000ca8f7da159a76b755519
 尼克儿童,p3p://167.114.175.6:55331/6233e05300064fcf7d9f8a39563b6c75
 尼克儿童,p3p://173.208.176.178:31809/6233e05300064fcf7d9f8a39563b6c75
 尼克儿童,http://108.181.20.197/livehttpplay?channel_id=20089
-倪珍英语新闻,http://aktv-stream.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
 年代MUCH,tvbus://5ZArKpyLCtj9NMfrZA37yZM7JJfntwnWhXBBdAee1UZvYdZTeRM1EWJTqV6iy
 年代MUCH,tvbus://8i3cYqfTStSW1wL8TdrjRmGVAJY8L9s9VxFVzkfBFwX8fXXNaX
 年代MUCH,tvbus://761zjHxnY3cTM2bM3tkPSzbcyKjV1WbCzQei2VLorBmiM5Mo8q
@@ -7316,14 +7132,12 @@ Asreo欢喜,tvbus://71cHD3cSe1NfLFqeuxgHeNRsYiMzx5XsNs1NpXWuhXnbnBsxdZ
 千禧经典,http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 千禧经典,https://pixman.mytvsuper.com.mp/Smart.php?id=Tvbclassic
-千禧经典,http://aktv-stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 千禧经典,https://haoyunlai.serv00.net/Smartv-1.php?id=Tvbclassic
 千禧经典,http://eu.huohuoaa.tech:1025/Smart.php?id=Tvbclassic
 千禧经典,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 千禧经典,https://tv.mytvsuper.xyz/astro/qianxi/qianxi.m3u8
 千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 千禧经典,http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
-千禧经典,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571197&extension=ts&play_token=S0w0stULcO
 千禧经典,http://205.185.123.236:8899/astro/qianxi/qianxi.m3u8
 千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 青海卫视,tvbus://87YuD1zMBJovVW6H3UCNjxZ7rFZ2Vwfu5QWAtMRWUQNoUt2nFt
@@ -7348,7 +7162,6 @@ Astro全佳,tvbus://7qM1BuGu8v72ymb8exB1VwGtgb8rd59GFBQ56UrzfMVGAqumLX
 Astro全佳,tvbus://7VqAuRcHEPRrbVcLy3VsUxnaxsUUM7H2ZL5RgKYjapLZPJ21d8
 Astro全佳,tvbus://82cnsNdPFGminCmMNv7FZZEWyqP3e7pAyUGShjPnELJBYhmi4H
 Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQWr
-人间卫视,http://122.117.71.103:8514/http/61.67.128.137:8088/hls/69/811/ch036.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人间卫视,tvbus://7PRyaW6JPLHgmdKBQuKfyu7taN1j2kQYzSd1WZAUdwRddBpdP9
@@ -7393,13 +7206,11 @@ Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQW
 三立都会,http://50.7.238.114:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
 三立都会,http://122.117.71.103:8521/三立闽南.m3u8
 三立都会,https://pixman.mytvsuper.com.mp/Smart.php?id=sanlidouhui
-三立都会,http://122.117.71.103:8517/http/61.67.128.137:8081/hls/65/807/ch019.m3u8
 三立都会,http://eu.huohuoaa.tech:1025/Smart.php?id=sanlidouhui
 三立都会,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlidouhui/playlist.m3u8
 三立都会,http://live4play.uk/livehttpplay?channel_id=20100
 三立都会,http://108.181.20.197/livehttpplay?channel_id=20100
 三立都会,http://50.7.234.10:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
-三立都会,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 三立都会,tvbus://7nzVQAyMaoBJZsPn9GK2rAnRR4Nq4pLzzRYngyPE2zU6PUvCui
 三立都会,tvbus://8TH5xY7G3KmPAJurcBY75bHeUXLBw8avis1eDPKgB12he1ygaL
 三立都会,tvbus://77sKngWiGGpk96gyNwTvTpvFmLkcvLMPfwkMNSVy3n4LbJjpu7
@@ -7411,12 +7222,8 @@ Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQW
 三立国际,p3p://173.208.176.178:31809/5fe95e150003dbe09689221a68d3215e
 三立台湾,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlitaiwan/playlist.m3u8
 三立台湾,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlitaiwan
-三立台湾,http://122.117.71.103:8516/http/61.67.128.137:8081/hls/65/807/ch020.m3u8
-三立台湾,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8
 三立台湾,p3p://108.181.32.169:38254/64251e5e0003388bea5821c268061bfb
 三立台湾,http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4
-三立台湾,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
-三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 三立台湾,tvbus://8h868GUZApC9iR4ug3FVQSS2Z1ixH3H6CnXx3vidT4T3KmkV5Q
 三立台湾,tvbus://7anR9FWKShheRxy3kYSUqMcX5Lk3ntycY8JyHLxwhniEoue4ct
 三立台湾,tvbus://8ePWdp43aA31EDmTXexoy1p9s5KdxthFG62hxgcmPjQ78Va7Uv
@@ -7443,11 +7250,7 @@ Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQW
 三立戏剧,tvbus://8jJBToxEnDe8SRag7Vx9N1h7T77BVsABthaDn9CEuMog5qbcWc
 三立戏剧,tvbus://8dVfWJ17we51obkrmii39h7Qj3EMV6f5KGv7ec1fQ7ik9uRAfv
 三立戏剧,tvbus://6Lh4Kwj3AX3WdWZpz8JB7sYGFoSV3WxfcsTthiqDnhWcnnWNn3NawifhCJvkp
-三立新闻,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-14
-三立新闻,http://125.227.210.55:8162/VideoInput/play.ts
 三立新闻,http://live4play.uk/livehttpplay?channel_id=10126
-三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
-三立新闻,http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
 三立新闻,p3p://108.181.32.169:38254/64251e23000bcd04ea573d7c0f0a002e
 三立新闻,http://122.117.71.103:8542/http/61.222.53.250:8081/hls/65/807/ch18.m3u8
 三立新闻,http://108.181.20.197/livehttpplay?channel_id=10126
@@ -7469,10 +7272,7 @@ Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQW
 三立新闻,tvbus://76zFjX53rGCK1a9wJizjVs6zbvjg8kCpwe1LbKRjLqrhRTPzMa
 三立新闻,tvbus://6ChkpPaigRFC87vDuKbWuDk5LRRPMpoPJHLe17HhhBLZ1ur3erhWkvRyGRepb
 三立新闻,tvbus://7CrTkgyk1qVk2mW2YPsZwTf3YFgfpEAZHmLQjan7JZaVEckgtW
-三立综合,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
-三立综合,http://aktv-stream.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
 三立综合,http://eu.huohuoaa.tech:1025/Smart.php?id=sanlizhonghe
-三立综合,http://aktv_stream1.m16tv.cfd/stream/aktv/null-13/AKTV.m3u8
 三立综合,https://pixman.mytvsuper.com.mp/Smart.php?id=sanlizhonghe
 三立综合,http://live4play.uk/livehttpplay?channel_id=12038
 三立综合,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlizhonghe
@@ -7553,7 +7353,6 @@ Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQW
 台视,rtmp://60.248.77.68/sat/tv071
 台视,http://108.181.20.197/livehttpplay?channel_id=20076
 台视,p3p://167.114.175.6:55331/612ee2240008f3db8e0578dc59406f9e
-台视,http://aktv-stream.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
 台视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ttv_taiwan/playlist.m3u8
 台视财经,p3p://167.114.175.6:55331/6223b571000a13023e78ece5030b5b05
 台视财经,p3p://173.208.176.178:31809/6223b571000a13023e78ece5030b5b05
@@ -7561,17 +7360,13 @@ Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQW
 台视闽南,http://live4play.uk/livehttpplay?channel_id=20076
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
-台视新闻,http://aktv-stream.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
 台视新闻,http://eu.huohuoaa.tech:1025/Smart.php?id=ttvnews_twn
-台视新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476268.m3u8
-台视新闻,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ttvnews_twn/playlist.m3u8
 台视新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=ttvnews_twn
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-台视新闻,http://222.128.55.152:9080/live/ts.m3u8
 台视综合,https://haoyunlai.serv00.net/Smartv-1.php?id=ttvzhonghe
 台视综合,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ttvzhonghe_twn/playlist.m3u8
 台视,tvbus://6YsAYC5WsoZ3FsrnMjc8htWS89ppLEfLSReLyCZXixx8f9hpVNhMcBaHGuw77
@@ -7617,7 +7412,6 @@ Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQW
 台湾戏剧,tvbus://7KvfcmfWxRm7CvuiFFRzs4TKzs1qVt2s3AH2CN9c9CKtsgsgB4
 台湾戏剧,tvbus://889gVG1t4dp1Wsw9jkN1eGrF3vRyv3yeTvApiJXJ3FuhiLBCRY
 台湾戏剧,tvbus://6LiqAJyb497zKvNnFZhzDHcu3QvEvD9imnDyKRWT49oNrkPmfHgdeZMo1oNN5
-探索发现,http://122.117.71.103:8515/http/61.67.128.137:8088/hls/71/813/ch044.m3u8
 探索频道,http://61.221.215.25:8800/hls/1/index.m3u8
 探索台湾,p3p://167.114.175.6:55331/62c759f2000bc06bbdab761176c927da
 探索亚洲,p3p://173.208.176.178:31809/623bc4f4000da3919c742e942bdb3571
@@ -7648,7 +7442,6 @@ Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQW
 天映经典,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestialindo
 天映经典,http://live4play.uk/livehttpplay?channel_id=20063
 天映经典,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial2
-天映经典,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvvcnyjsqfqsetqqfcvbcjtsqqfvxcvsqnmbnlqqhqqnmyhsqqftyjq.flv
 天映经典,tvbus://7SukDN6rpyvthZocG9JeY3MZhP5QsChVEZqFrRPmCEWTCoiBNp
 天映经典,tvbus://7xtZavAtDEgVL6iBcMn2L14SGxRgJ8JviM9YtpD3EgQmdPds1h
 天映经典,tvbus://6zkBsHYDPe8QvcUySTQ353QFcZxKhVzhRfW1A7ehDpfMJfNynt
@@ -7675,8 +7468,6 @@ Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQW
 纬来电影,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandmovie_twn/playlist.m3u8
 纬来电影,https://haoyunlai.serv00.net/Smartv-1.php?id=videolandmovie
 纬来电影,p3p://167.114.175.6:55331/62c860e50008ea96c1ae9a96599c6947
-纬来电影,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
-纬来电影,http://122.117.71.103:8581/http/61.67.128.137:8081/hls/69/811/ch035.m3u8
 纬来电影,http://108.181.20.197/livehttpplay?channel_id=20199
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 纬来精彩,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandspecial_twn/playlist.m3u8
@@ -7687,18 +7478,12 @@ Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQW
 纬来日本,p3p://167.114.175.6:55331/5fe1add80007bbbd788125c43bf36060
 纬来日本,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandjapan/playlist.m3u8
 纬来日本,http://108.181.20.197/livehttpplay?channel_id=20303
-纬来日本,http://122.117.71.103:8536/http/220.130.87.218:8081/hls/69/811/ch034.m3u8
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来体育,http://108.181.20.197/livehttpplay?channel_id=20120
 纬来体育,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandsport/playlist.m3u8
 纬来体育,rtmp://60.248.77.66/sat/tv721
-纬来体育,http://122.117.71.103:8564/http/61.67.128.137:8081/hls/67/809/ch028.m3u8
-纬来体育,http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
-纬来体育,http://122.117.71.103:8562/http/61.222.53.250:8081/hls/67/809/ch28.m3u8
 纬来体育,rtmp://60.248.77.68/sat/tv721
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来戏剧,http://122.117.71.103:8529/http/61.67.128.137:8081/hls/69/811/ch033.m3u8
-纬来戏剧,http://122.117.71.103:8532/http/61.222.53.250:8081/hls/69/811/ch33.m3u8
 纬来戏剧,p3p://167.114.175.6:55331/5fe29426000330687c04c55011370c91
 纬来戏剧,p3p://173.208.176.178:31809/5fe29426000330687c04c55011370c91
 纬来戏剧,http://108.181.20.197/livehttpplay?channel_id=20200
@@ -7707,15 +7492,11 @@ Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQW
 纬来育乐,p3p://173.208.176.178:31809/6214bdc7000061300401d77e20cc43d8
 纬来育乐,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandyule/playlist.m3u8
 纬来育乐,rtmp://60.248.77.66/sat/tv701
-纬来育乐,http://122.117.71.103:8561/http/220.130.87.218:8081/hls/68/810/ch030.m3u8
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来育乐,http://122.117.71.103:8563/http/61.67.128.137:8081/hls/68/810/ch030.m3u8
 纬来育乐,p3p://167.114.175.6:55331/6214bdc7000061300401d77e20cc43d8
 纬来综合,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandzonghe/playlist.m3u8
-纬来综合,http://122.117.71.103:8596/http/61.67.128.137:8088/hls/68/810/ch032.m3u8
 纬来综合,http://211.72.65.236:8518/.m3u8
 纬来综合,p3p://167.114.175.6:55331/5fe16e690002b73877895ae33a8a2a16
-纬来综合,http://122.117.71.103:8517/http/220.130.87.218:8081/hls/68/810/ch032.m3u8
 纬来电影,tvbus://82jXPiTsNaet6nTC41L4HhNb6596aEUr5VjaHi1VfRdnV8ebtk
 纬来电影,tvbus://8NGhU19eCyaPac3umtknw1T5ZFE9h9esfwtPrndyPZ7hY2fhGv
 纬来电影,tvbus://7DacC3KmhWRm2MHYfRnF9nnPYG92wPn7anVqfzN35TenKxwbc4
@@ -7788,7 +7569,6 @@ Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQW
 无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 无线华丽,https://pixman.mytvsuper.com.mp/Smart.php?id=Wlt
 无线华丽,https://pixman.mytvsuper.com.mp/Smart.php?id=Tvbjade
-无线经典,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476210.m3u8
 无线经典,http://hkenlive.uk/livehttpplay?channel_id=13024
 无线明珠,p3p://173.208.176.178:31809/611d99f3000116024a845bb9627404c9
 无线明珠,p3p://173.208.176.178:31809/602f1ba9000814efa6f2970333d309d9
@@ -7798,20 +7578,16 @@ Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQW
 无线戏曲,http://hkenlive.uk/livehttpplay?channel_id=13026
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
-无线新闻,http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 无线新闻,http://vallest.uk/livehttpplay?channel_id=20123
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 无线新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=inews_twn
-无线新闻,http://aktv-stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 无线星河,p3p://173.208.176.178:31809/6563174f0002ffaf9c45dd927c7d6df1
 无线星河,p3p://173.208.176.178:31809/5fdee23d000b670a6d96428e4c334643
-无线星河,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476200.m3u8
 无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 无线亚剧,p3p://173.208.176.178:31809/6284685e00039b52b82eeeca7a785fda
 无线亚剧,http://hkenlive.uk/livehttpplay?channel_id=13022
-无线亚剧,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477549.m3u8
 无线亚综,http://hkenlive.uk/livehttpplay?channel_id=13020
 无线娱乐,p3p://173.208.176.178:31809/5fe7f68d000e73d9910d2a86341258f7
 无线娱乐,http://hkenlive.uk/livehttpplay?channel_id=13006
@@ -7838,7 +7614,6 @@ Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQW
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 香港国际财经,p3p://167.114.175.6:55331/64838620000cd8ed32fb0d6a414411f7
-香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://stream.qhbtv.com/adws/sd/live.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
@@ -7904,28 +7679,7 @@ Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQW
 星光综合,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 星河,http://108.181.20.197/livehttpplay?channel_id=20070
 星空卫视,http://65.108.74.147:49366/iptv.php?key=gat10&id=3
-星空卫视,http://113.117.74.24:8081/hls/87/index.m3u8
-星空卫视,http://119.32.12.17:2901/udp/224.1.100.13:11111
 星空卫视,http://211.67.191.23/hls/startv/index.m3u8
-星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
-星空卫视,http://ali.hlspull.yximgs.com/live/facf94ac3441dc4e5f8e48d1eeb18045.flv
-星空卫视,http://113.117.74.21:8081/hls/87/index.m3u8
-星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-7.ctv
-星空卫视,http://171.213.197.238:9977/udp/239.93.0.156:2193
-星空卫视,http://wouu.net:9977/udp/239.93.1.10:2193
-星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193
-星空卫视,http://quan2018.mycloudnas.com:51888/play/a016/index.m3u8
-星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
-星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
-星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8
-星空卫视,http://119.32.12.32:2901/udp/224.1.100.13:11111
-星空卫视,http://113.117.74.22:8081/hls/87/index.m3u8
-星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8
-星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8
-星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
-星空卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.13:11111
-星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-14.m3u8
 星卫电影,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/xingwei_movie/playlist.m3u8
 幸福空间居家,tvbus://6dgYoiMCCTrfi1FNDrC9guh3HfH6BGao7iwxeNMLnbZuPUggkRsi9pdwrXDUP
 幸福空间居家,tvbus://7BWhZPLdGd5cXpvePusWQW6crXeA3DkFqQNJqrAW8UWMi642af
@@ -8095,16 +7849,13 @@ Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQW
 智林体育,tvbus://7ekjk7HVoML6nAmx5xHHbwcA9PAgK5N8mapqfQP7m28a2r7QRJ
 中国电影,p3p://167.114.175.6:55331/63fe69a800089af82b062bc65bb57f67
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
-中视,http://122.117.71.103:8539/http/61.67.128.137:8081/hls/88/80/Ctv4max.m3u8
 中视,rtmp://f13h.mine.nu/sat/tv091
-中视,http://122.117.71.103:8502/http/220.130.87.218:8081/hls/88/80/Ctv4max.m3u8
 中视,http://108.181.20.197/livehttpplay?channel_id=20088
 中视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/zhongshihd_twn/playlist.m3u8
 中视,rtmp://60.248.77.66/sat/tv091
 中视,http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 中视,rtmp://60.248.77.68/sat/tv091
 中视,p3p://167.114.175.6:55331/621dab720008820a26e1e06b75653395
-中视,http://aktv-stream.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
 中视经典,https://pixman.mytvsuper.com.mp/Smart.php?id=zhongshi_twn
 中视经典,http://eu.huohuoaa.tech:1025/Smart.php?id=zhongshi_twn
 中视闽南,p3p://173.208.176.178:31809/621dab720008820a26e1e06b75653395
@@ -8113,8 +7864,6 @@ Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQW
 中视新闻,http://eu.huohuoaa.tech:1025/Smart.php?id=zhongshinews_twn
 中视新闻,p3p://108.181.32.169:38254/642d016e000643ab0926e0907da252ca
 中视新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=zhongshinews_twn
-中视新闻,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
-中视新闻,http://aktv-stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
 中视新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/zhongshinews_twn/playlist.m3u8
 中视,tvbus://7LNn2Ya1acucB14dVXSAYNvBnq5Lfy4vUx3vV3cNdNsEu4NUYr
 中视,tvbus://75LKgxGCPMDP3aWRpTocsLBuzfqzLF8tbUnpJoApzYMnRKpho7
@@ -8155,17 +7904,13 @@ Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQW
 中天新闻,http://122.117.71.103:8540/中天新闻.m3u8
 中天新闻,p3p://108.181.32.169:38254/675ec8cf000def51a43a021f0e7931f9
 中天新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctinews/playlist.m3u8
-中天新闻,http://122.117.71.103:8534/http/61.67.128.137:8081/hls/78/80/ch063max.m3u8
 中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw2.m3u8
 中天新闻,http://eu.huohuoaa.tech:1025/Smart.php?id=ctinews
 中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1
 中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163
 中天新闻,http://222.128.55.152:9080/live/fc.m3u8
 中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw.m3u8
-中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 中天新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
-中天新闻,http://122.117.109.23:8595/http/61.67.128.137:8081/hls/78/80/ch63max.m3u8
-中天新闻,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 中天新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews
 中天新闻,tvbus://8VKmFVcxk7MUb4mGFQDs7RP9ZJb24Cwy4e1ePqSSZn31zKPNGe
 中天新闻,tvbus://85bYaV43eWKJ8v1tLStAcmBMMZguJS9jQdmgWp9zo1U89nX6U6
@@ -8181,11 +7926,8 @@ Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQW
 中天新闻,tvbus://8NhWupny671pAxtzHHy4cQsBnWzCVxkmEbSZ27ZKt3X2rM1URX
 中天新闻,tvbus://79iCkP2AKVVDrdBX2qVAjZd53t5ATVH6HK18KaGvNqnSgTVfjo
 中天新闻,tvbus://8fYQjUw3E1h7TBBxoMmELj3omSZ7fUMfqEsHAWEqjRJ3ypPhiy
-中天亚洲,http://aktv_stream1.m16tv.cfd/stream/aktv/null-12/AKTV.m3u8
-中天亚洲,https://aktv.top/AKTV/live/aktv/null12/AKTV.m3u8
 中天亚洲,https://pixman.mytvsuper.com.mp/Smart.php?id=ctiasia_twn
 中天亚洲,http://eu.huohuoaa.tech:1025/Smart.php?id=ctiasia_twn
-中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天亚洲,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctiasia_twn/playlist.m3u8
 中天亚洲,http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=MBDB2043146120431461&ct=19234&tsum=ba6deb1dd785ef48ec39eda87a905fb6
 中天亚洲,p3p://108.181.32.169:38254/64254f7e000dfed1eb1809855c5735ce
@@ -8198,10 +7940,8 @@ Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQW
 中天亚洲,tvbus://7vUXiTMVXbor6ejyzxBct92NJSDkfEyQSGVqJKisu4nk9firCj
 中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 中天娱乐,http://108.181.20.197/livehttpplay?channel_id=20079
-中天娱乐,http://122.117.71.103:8526/http/220.130.87.218:8081/hls/67/809/ch026.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 中天娱乐,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctient/playlist.m3u8
-中天娱乐,http://122.117.71.103:8551/http/61.67.128.137:8081/hls/67/809/ch026.m3u8
 中天娱乐,p3p://108.181.32.169:38254/642525670005ee2bea739da573c134b4
 中天娱乐,http://122.117.71.103:8526/中天娱乐.m3u8
 中天娱乐,http://live4play.uk/livehttpplay?channel_id=20079
@@ -8220,7 +7960,6 @@ Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQW
 中天综合,http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
 中天综合,http://122.117.71.103:8525/中天综合.m3u8
 中天综合,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctizhonghe/playlist.m3u8
-中天综合,http://122.117.71.103:8521/http/61.67.128.137:8081/hls/67/809/ch025.m3u8
 中天综合,tvbus://6ujmqQ7yVKCFxmUKX6HkHprLzD4TFT66VERA3EX3FZKDToPByf
 中天综合,tvbus://8WAWK95cNZR71NGyxBGGDahUxbPL25va8GWX1uihbkxTezWiAg
 中天综合,tvbus://7y5YWYKYHqPH3VwBRyBZe4yWrZWdaEP4mkavtusrRf22rYhq6j
@@ -8228,8 +7967,8 @@ Astro全佳,tvbus://66gXHQJSUaSaFcVMupjuuP1JVuVTR5mEdtaYwN3qFYzybkUX2tCvSnuRxUQW
 中天综合,tvbus://6RfKoejw7f87EeMPDSuPHZCqKntYGgAxRVHwbmvT7zVVudJyB5426wSQgKqsi
 中天综合,tvbus://8dyEmN7pSCYusKRXD6w8x6hCMxmehMm9hr7j6m5LUPkwsihwAa
 中天综合,tvbus://8DihLqtTCFyWeYoo6kiEdHBgL1pUAK3HKVKvs3Dfw3VJsmYMa8
-中旺视,p3p://173.208.176.178:31809/5fe09c570001addf7454c44e021f76be
-中旺视,p3p://167.114.175.6:55331/5fe09c570001addf7454c44e021f76be
+中旺,p3p://173.208.176.178:31809/5fe09c570001addf7454c44e021f76be
+中旺,p3p://167.114.175.6:55331/5fe09c570001addf7454c44e021f76be
 重庆卫视,tvbus://8QSREW4xUBzqhnHMurv6NuDrcj9MzyCGg8gqWTmzEJiYHcbJfg
 重庆卫视,tvbus://7pGwiTguqEZ235K3MgnQUt1zC5J4uHByUAN12nP53fPE8K5FUN
 重庆卫视,tvbus://6aCrcpzenPP7xLwy384c4qXgDgSLdtSNGv111rkqd5Jur1cWnN8nMGdjUwgHv
