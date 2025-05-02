@@ -1349,6 +1349,8 @@ CCTV央视文化精品,http://sh.lnott.top:880/dx104.m3u8
 Celestial Classic,http://50.7.234.10:8278/Celestial2/playlist.m3u8?tid=MC8C8240146082401460&ct=19254&tsum=bd09d5cb5e6039e14bd93ca49b968ba8
 Celestial Classic,http://198.16.100.186:8278/Celestial2/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=e7821cacd536b4694810705a8be96ebf
 Celestial Movies,http://198.16.100.186:8278/Celestialindo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=6b606cecf8c8f952cd6a9f5d9774f394
+CETV1,http://117.114.153.18:8182/hls/TV00000000000000000149@HHZT.m3u8
+CETV1,http://42.236.255.235:8180/TV00000000000000000074@HHZT
 CETV1,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007220/1.m3u8
 CETV1,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007220/1.m3u8
 CETV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?
@@ -1392,7 +1394,13 @@ CHC动作电影,http://tvgslb.hn.chinamobile.com:8089/180000001001/0000000100000
 CHC动作电影,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448842/index.m3u8
 CHC动作电影,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://sh.lnott.top:880/dx100.m3u8
-CHC高清电影,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
+CHC家庭电影,http://117.114.153.18:8182/hls/TV00000000000000000092@HHZT.m3u8
+CHC动作电影,http://117.114.153.18:8182/hls/TV00000000000000000093@HHZT.m3u8
+CHC影迷电影,http://117.114.153.18:8182/hls/TV00000000000000000094@HHZT.m3u8
+CHC家庭电影,http://42.236.255.235:8180/TV00000000000000000094@HHZT
+CHC动作电影,http://42.236.255.235:8180/TV00000000000000000093@HHZT
+CHC影迷电影,http://42.236.255.235:8180/TV00000000000000000092@HHZT
+CHC影迷电影,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448840/index.m3u8
 CHC家庭影院,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448840/main.m3u8
@@ -1482,6 +1490,7 @@ GOODTV展翅上腾,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst
 GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 GTV,http://198.16.100.186:8278/Gtv/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=1f13be44de9e4f9d35d71e4ca9d46e40
 GugakTV 国乐放送,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+HBO,http://117.114.153.18:8182/hls/TV00000000000000000074@HHZT.m3u8
 HBO Family,http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
 HBO Family,http://198.16.100.186:8278/Hbofamily/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=331322dc3b8b769b97f72fb58165833f
 HBO Hits,http://198.16.100.186:8278/Hbohits/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=310e67481fde8bb83fbb5faf5f58d898
@@ -2097,6 +2106,7 @@ NewTV中国功夫,http://39.134.65.106/wh7f454c46tw2070901039_123359714/ottrrs.h
 NewTV中国功夫,http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 NewTV中国功夫,http://39.134.65.196/PLTV/88888888/224/3221225604/1.m3u8
 NewTV中国功夫,http://39.134.67.148/PLTV/88888888/224/3221225604/1.m3u8
+NHK,http://117.114.153.18:8182/hls/TV00000000000000000161@HHZT.m3u8
 Nick Jr,http://50.7.234.10:8278/Nickjr/playlist.m3u8?tid=MFCF1347936613479366&ct=19249&tsum=547e162f9338962a46e76507dbf7d1e4
 Nick Jr,http://198.16.100.186:8278/Nickjr/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=f107dfb5ab2c6eebb329204844d2cec6
 Nickelodeon,http://50.7.234.10:8278/Nickelodeon/playlist.m3u8?tid=MBBB9174743591747435&ct=19249&tsum=9901089db6361b9cafc0ab9de5612bee
@@ -2248,6 +2258,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVB功夫,https://ali.hlspull.yximgs.com/live/12344.flv
+TVB星河,http://117.114.153.18:8182/hls/TV00000000000000000073@HHZT.m3u8
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 TVB星河,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
@@ -3362,6 +3373,7 @@ ZOO MOO,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 冯泳-梦醒,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c6jsnkbc77u71r5rs1ig&ratio=720p&line=0
 凤凰传奇-策马奔腾,https://vd4.bdstatic.com/mda-kianueek7hu6bgvs/sc/mda-kianueek7hu6bgvs.mp4
 凤凰传奇-全是爱,https://vd3.bdstatic.com/mda-kgt9q8iy9qvjxb6n/v1-cae/1080p/mda-kgt9q8iy9qvjxb6n.mp4
+凤凰电影,http://117.114.153.18:8182/hls/TV00000000000000000072@HHZT.m3u8
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰飞.,https://txmov2.a.kwimgs.com/upic/2022/08/10/07/BMjAyMjA4MTAwNzIwNTVfOTU2MzA3MDg4XzgxNDM3MDI4MDIyXzJfMw==_b_Bdf440f3ac06360bf07f335476f5f3506.mp4?clientCacheKey=3x5ygijyhtgefmi_b.mp4&tt=b&di=24710b75&bp=10000
 凤凰花开,https://txmov2.a.kwimgs.com/upic/2022/06/18/07/BMjAyMjA2MTgwNzIyNTdfOTU2MzA3MDg4Xzc3MDEzMzE0MjU5XzJfMw==_b_B2a29bdcf567e9966a530df3a4ca17b32.mp4?clientCacheKey=3xngqgm33b67e2i_b.mp4&tt=b&di=24710b6c&bp=10000
@@ -4067,6 +4079,7 @@ ZOO MOO,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 寒战2,https://vip.lz-cdn3.com/20220907/12892_5eb849b0/index.m3u8
 航班-宋小宝贾冰,http://uptt.gcwduoduo.com/v/220621/104253a1c26665b46e7b976e2dacf708.mp4
 好剧看不停,http://zzy789.xyz/douyu1.php?id=9388938
+好莱坞,http://117.114.153.18:8182/hls/TV00000000000000000075@HHZT.m3u8
 好莱坞,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MFDF3993740539937405&ct=19234&tsum=9c77fd229b7086f14748debe0f6b4ae6
 好莱坞,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
 好你个陈世美,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960742650458807_hlsb.m3u8
@@ -7637,6 +7650,7 @@ ZOO MOO,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 新昌新闻,https://epg.pw/stream/7f856c798f5a5167cf5966b25d0ab5d352c40c5975d4a78d25e6a92c0251cb89.m3u8
 新昌新闻,https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 新动漫,http://sh.lnott.top:880/dx87.m3u8
+新动漫,http://42.236.255.235:8180/TV00000000000000000097@HHZT
 新动漫,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448837/main.m3u8
 新动漫,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448837/index.m3u8
 新动漫,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448837/index.m3u8
@@ -8407,6 +8421,12 @@ ZOO MOO,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 郑智化-游戏人间,https://vd2.bdstatic.com/mda-njih92hcmfk9j8ep/sc/cae_h264/1666182196357507665/mda-njih92hcmfk9j8ep.mp4
 郑中基-无赖,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cmaj7d7og65vg4bdm0h0&ratio=720p&line=0
 郑中基-英雄寞,https://vd4.bdstatic.com/mda-kd7h9es4tiygx19z/sc/mda-kd7h9es4tiygx19z.mp4
+郑州新闻,http://42.236.255.235:8180/TV00000000000000000067@HHZT
+郑州商都,http://42.236.255.235:8180/TV00000000000000000068@HHZT
+郑州文旅,http://42.236.255.235:8180/TV00000000000000000070@HHZT
+郑州豫剧,http://42.236.255.235:8180/TV00000000000000000069@HHZT
+郑州儿童,http://42.236.255.235:8180/TV00000000000000000071@HHZT
+郑州都市,http://42.236.255.235:8180/TV00000000000000000072@HHZT
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
@@ -8584,3 +8604,5 @@ ZOO MOO,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 昨夜的我又梦到了你 心上的人儿你在哪,https://vdse.bdstatic.com//09b76fc9762763350288fb96047ec820.mp4
 左手指月,http://mobi.kuwo.cn/tmevideo/tme1253595.mp4
 作酒,http://mobi.kuwo.cn/tmevideo/tme16186338.mp4
+POPC,http://tl.061833.xyz/tl/popc
+中国电影,http://tl.061833.xyz/tl/null-6
